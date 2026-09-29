@@ -61,6 +61,14 @@ Ray is 68. Denise died four years ago, at 60, after 38 years of marriage (Ray wa
   The others (an old colleague, a neighbor's daughter with a bakery, a former
   engineer of his) are texture: a landline that rings, a name on a Post-it, a
   car in the drive when Nate arrives.
+- **Ray's late-book project (DECIDED 2026-09-29):** after most of the book not
+  working, Ray commits to a project **that honors Denise: something meant to improve
+  what happened around her passing.** He alludes to Nate's original "Healthcare,
+  something?" ("I've been thinking I might have a something"). The point is what it
+  shows: **he is mostly through his grief.** He's no longer only living around the loss;
+  he's building from it. He never announces this as recovery. The reader sees it in
+  his hands (he's finally digging the pond), his questions, and a folder on the
+  kitchen table. The exact project is open (see open items in `beat-sheets.md`).
 - Hobbies: restoring old radios, morning walks, reading the same three
   paperbacks. Gives free advice; accepts pie (see Work, below).
 - Sold company stock and gave a serious amount to hospital scholarships in

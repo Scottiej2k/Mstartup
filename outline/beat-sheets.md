@@ -49,7 +49,7 @@ character's trouble read as the same trouble.
 
 | Character | Ch 1-4 | 5-8 | 9-12 | 13-16 | 17-20 | 21-24 |
 |---|---|---|---|---|---|---|
-| **Ray** | 4 | 8 | 10, 12 | 15, 16 | 18, 20 | 22, 23, 24 |
+| **Ray** | 4 | 8 | 10, 12 | 15, 16 | 18, 20 | 21 (call), 22, 23, 24 |
 | **Kyle** | 1, 2, 3 | 5, 8 | 11 (fight, repair) | 13, 14 | 17, 20 | 21, 23 |
 | **Priya** | 1, 3 | 5, 6 | 9, 10, 12 | 13, 14 | 17, 18 | 21, 22 |
 | **Cole** | 1, 2 | 8 | 10 | 14 | 17 | 21, 23 |
@@ -352,15 +352,15 @@ character's trouble read as the same trouble.
   2. Whiteboard: the pivot; Priya draws the "named person."
   3. Theo at the door, hoodie, "Is the pager still a thing?"
   4. Suresh in the pharmacy, the fax machine, "Ask me."
-  5. The dishes; the kitchen table post-mortem.
-  6. Cole on the phone, late.
+  5. The dishes; the kitchen table post-mortem.  6. Cole on the phone, late.
+  7. A short Ray call (**seed of his project**): he asks unusually specific questions about how follow-up works when someone leaves a hospital. Nate assumes he's curious.
 - **Note:** *Repair without blame.* (Memo, quiet.) "That's a very Nate way to put it."
 
 ### Ch 22. Ray's Questions
 **~4,000 words · Jun-Sep, Y4**
 - **Purpose:** Nate decides to propose; Ray's four questions.
 - **Startup beat:** Series A closes. A large customer (Halvorsen) wobbles; Nate tells Maya the same night; she makes tea and doesn't fix it.
-- **Relationship beat:** Nate buys the ring; asks Suresh and Lakshmi for their blessing ("Saapteengala?"); visits Ray. Sample F (Ray's questions). "She'd have liked her."
+- **Relationship beat:** Nate buys the ring; asks Suresh and Lakshmi for their blessing ("Saapteengala?"); visits Ray. Sample F (Ray's questions). "She'd have liked her." Then, almost to himself: "Your healthcare, something. I've been thinking I might have a something." He doesn't explain. A folder is on the kitchen table, face down.
 - **Note:** *The questions you'd rather not answer honestly.* (Question, quiet.) Maya's exact words, no joke.
 
 ### Ch 23. The Wedding
@@ -370,7 +370,7 @@ character's trouble read as the same trouble.
 - **Beats:**
   1. **The proposal at 6 a.m. on the trail** ("I don't have a backup." Maya: "Okay." then yes).
   2. **The civil ceremony** (a small, plain room; immediate family only: Suresh, Lakshmi, Arjun, Dan, Carol, Annie, Ray, plus Priya and Jules as witnesses). Lakshmi presses something into Maya's hand before they go in; Dan hands Nate a toolbox with a note: "Text me when you get there."
-  3. **The party** that evening (**Ray's backyard** in the Santa Cruz mountains: the big, landscaped yard, the pond finally dug, string lights, catered by Lakshmi's cousins). Kyle's badly timed toast. Theo, Margo, Cole alone, Hannah's text. Maya's Tamil word slips out to Nate, and he doesn't fake understanding.
+  3. **The party** that evening (**Ray's backyard** in the Santa Cruz mountains: the big, landscaped yard, the pond finally dug, string lights, catered by Lakshmi's cousins). Kyle's badly timed toast. Theo, Margo, Cole alone, Hannah's text. Maya's Tamil word slips out to Nate, and he doesn't fake understanding. Ray, near the pond he has finally dug, tells Nate quietly what his something is (a project that honors Denise, addressing something about her passing). It is the first time he speaks about that year without stopping early.
   4. **Sunday morning:** Nate sees Ray at the mailbox, dropping the Walt letter in. Neither says a word.
 - **Note:** *Culture is what you keep doing.* (Slide, warm.)
 
@@ -382,7 +382,7 @@ character's trouble read as the same trouble.
   2. **He has noticed.** For weeks: she turned down wine, she stopped mid-sentence at the smell of coffee. He said nothing and didn't fix it. He waited to be told. (This is the *return* of "nobody's job is to notice": the job is now his, and he does it without taking over.)
   3. 6 a.m., their honest hour: Maya tells him she's pregnant. Small, domestic.
   4. A glass of water he doesn't need to hold.
-  5. A last look at the two open threads: Walt's reply hasn't come, and the napkin is still blank.
+  5. A last look at the open threads: Walt's reply hasn't come, the napkin is still blank, and **Ray has a project now** (a folder, a calendar, a first meeting). He says yes on the phone to someone.
 - **Note:** **Reserved.** Written last, with Scott.
 
 ---
@@ -402,3 +402,4 @@ character's trouble read as the same trouble.
 6. **Meridian's reason:** "You listened. Nothing changed." Right?
 7. **The proposal:** trail at 6 a.m. (proposed).
 8. **In Ch 24, does Nate notice before Maya tells him** (proposed), or is it a surprise?
+9. **Ray's project (what is it?):** honors Denise and improves something about her passing. Options: (a) a program in her name at her hospital for **early-symptom follow-up** (the months before diagnosis, when nobody noticed), which rhymes with Loopback but is his own; (b) support for **families through a long illness** (the 11 months); (c) a **nursing fellowship** in her name, extending the scholarships he already funds. Open: which, and does the Walt letter invite Walt in?
