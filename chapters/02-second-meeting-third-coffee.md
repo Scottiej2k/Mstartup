@@ -377,7 +377,33 @@ I looked at her cup, the label turned away, the coat unbuttoned. I tried the thi
 
 She didn't answer right away. Her eyes went to my hands, then to the table, then back to my face.
 
-"Okay," said Maya. "It has a name now." She did not say what the name was.
+"Just to see me," she said.
+
+"Just to see you."
+
+"Not to interview me. Not to run the pharmacy past me one more time."
+
+"If the pharmacy comes up, fine. It's not the reason." I heard myself and kept going. "I practiced this in the shower. It was shorter in the shower."
+
+That got a laugh out of her, brief, like it had slipped past a guard. Then it was gone, and she was careful again. "And if I need to think about it?"
+
+"Then think. I'm good at waiting. I waited five months to write back to a woman in Petaluma."
+
+"Ruth," said Maya.
+
+"Ruth."
+
+"So you'd wait."
+
+"For a while. You said there's a cliff after two. I'm already past it. I'd like to stay past it."
+
+She looked at me for a long moment, the way she'd looked at the sign, as if I were something someone had written on tape. Then she nodded, once.
+
+"Okay," said Maya. "It has a name now."
+
+"What is it?"
+
+"Later," she said, in the voice of someone who had already decided when.
 
 I took it for yes. It was a yes, but it was also a door held open six inches by someone who hadn't decided whether to hold it wider. I'd learn the difference later, at some cost.
 
