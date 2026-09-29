@@ -20,6 +20,14 @@
 - Ray: brief, patient, homespun but not folksy.
 - Narrator: over-explains when nervous.
 
+## Locked choices
+- Tone: wry and warm.
+- Heat: mild / sensual.
+- Reflections: set-apart "Founder's Note" at the end of each chapter.
+- Companies and programs are fictional; real places are fine.
+- Contemporary, lightly dated (few specific tech references).
+- Chapters ~3,500-4,500 words; ~24 chapters.
+
 ## Guardrails
 - Silicon Valley satire should be affectionate.
 - Maya must have agency; avoid manic-pixie or long-suffering-wife patterns.

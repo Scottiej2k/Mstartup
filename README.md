@@ -34,4 +34,6 @@ company and building a marriage.
 
 ## Status
 
-Phase 1: Story bible. **All content is PROPOSED pending Scott's review.**
+Phase 1: Story bible. Major decisions are locked in `decisions.md` (16 as of
+2026-09-29). Character names remain placeholders; remaining questions are in
+`open-questions.md`.

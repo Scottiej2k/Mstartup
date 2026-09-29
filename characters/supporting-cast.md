@@ -10,6 +10,7 @@
 | Maya's mother | Mrs. Raman (Lakshmi) | Warm, observant, quietly evaluates the narrator as if he's a vendor. |
 | Maya's father | Mr. Raman (Suresh) | Quiet; small-business wisdom; the narrator's first real business conversation with anyone in her family. |
 | Narrator's parents | Dan & Carol Calloway | Emotionally reserved Midwesterners; support through logistics. |
+| Nate's roommate | Kyle | Works at a tech startup, is an underperformer and not ambitious, complains rather than problem-solves. Gives Nate bad advice about relationships and commitment. Not a villain: a cautionary mirror of stuckness. |
 | Early customer | Dr. Okafor (or similar) | Provides a real-world stake and a moral compass for the product. |
 
 Note: keep the cast tight. Every character should pressure-test either the

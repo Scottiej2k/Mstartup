@@ -28,8 +28,9 @@ The narrator goes to his retired-founder uncle for advice. He always frames it
 as a business question ("How do you handle a co-founder who's pulling away?").
 The uncle sees it is really about Maya, lets him keep the pretense, and answers
 the question he needs answered. Running gag that deepens into real tenderness.
-Late in the book the pretense drops, ideally at a moment that costs the
-narrator something.
+**The pretense is never spoken aloud.** Both men always know and neither says
+it. The payoff comes when Nate decides to propose: Ray asks a few gentle
+questions and ends in warm validation, clearly approving and happy for him.
 
 ## Ending
 The couple marries. In the final scene, Maya tells him she's pregnant. It

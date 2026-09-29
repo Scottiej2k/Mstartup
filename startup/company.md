@@ -1,8 +1,17 @@
-# The Company  `PROPOSED`
+# The Company
 
-Scott hasn't specified what the startup does. Below are three options. The
-choice shapes the whole book, because the product should quietly rhyme with the
-relationship theme.
+**DECISION (APPROVED): Option A, clinic/pharmacy care-coordination software.**
+Options B and C below are kept for reference only.
+
+Additional consequences of this choice:
+- The mixer meet-cute works because Maya's mother sent her to scout technology
+  for the family pharmacy.
+- Maya knows the customer better than Nate does. Her instincts are product
+  feedback he keeps resisting.
+- Risk to manage: Nate must not treat her family as a sales lead. That friction
+  feeds the "you treat me like a project" conflict (see open question 4).
+
+## Original options (for reference)
 
 ## Option A: Clinical scheduling / care-coordination software
 - **Pitch:** Software that helps small clinics and pharmacies coordinate patient

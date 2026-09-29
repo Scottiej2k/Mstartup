@@ -38,11 +38,21 @@ Curious, perceptive, funny, principled, an excellent question-asker. Her
 instincts about people are almost always right, and that's a plot
 problem for a narrator who likes evidence.
 
-## Her own arc (must exist independently of him)
-She has a career trajectory and a decision of her own: a real opportunity that
-complicates the couple's plans in the middle of the book. She is not the
-"support system" for his startup; at times she is the one making the harder
-sacrifice, and the book must acknowledge that.
+## Meet-cute (APPROVED)
+Her mother told her to get out more, and sent her to the founder/investor mixer
+to scout new technology that might help the family pharmacy. She agreed
+begrudgingly.
+
+## Her own arc (APPROVED)
+Her parents decide to expand the pharmacy, which doubles her work. They refuse
+to hire anyone to help her, which creates tension with them, and with Nate when he
+tries to solve it. She is not the "support system" for his startup; at times she
+is the one making the harder sacrifice, and the book must acknowledge that.
+
+## The turning point (APPROVED)
+In Part 5 she tells Nate she's tired of being treated like his startup: a
+project, a grind, boxes to check. He's a good partner with flaws, and hadn't
+realized it until she said it.
 
 ## Dynamic
 He plans. She notices. He talks. She asks. He solves. She waits to see if he
