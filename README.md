@@ -33,6 +33,8 @@ company and building a marriage.
 | `style-guide.md` | Voice, tone, rules for the narrator and the reflections |
 | `open-questions.md` | What we need Scott to decide |
 | `decisions.md` | Running log of locked decisions |
+| `reader/` | Built reading page (published as an Artifact). Rebuild with `python3 tools/build_reader.py` after any chapter change, then republish |
+| `tools/` | `build_reader.py` and its template |
 | `chapters/` | Drafted chapters (Ch 1 approved; Ch 2-4 drafted, awaiting review) |
 
 ## Review agents
@@ -40,6 +42,12 @@ company and building a marriage.
 | Agent | Where | What it does |
 |---|---|---|
 | `reference-checker` | `.claude/agents/reference-checker.md` | Reads the chapters as a first-time reader and flags references, callbacks, running jokes and jargon that the text never established. Read-only; run it after every chapter draft or revision. |
+
+## Reading and commenting
+
+The manuscript is published as an Artifact: https://claude.ai/artifact/1ro4H4yHP486qFYgePcT2Z
+Select any passage, tap **Comment**, and choose **Send to Claude** to have that line revised. After
+editing any chapter, run `python3 tools/build_reader.py` and republish `reader/the-marriage-startup.html`.
 
 ## Status
 

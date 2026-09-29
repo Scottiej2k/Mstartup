@@ -1,0 +1,411 @@
+<title>The Marriage Startup</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=JetBrains+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400..600&display=swap">
+<style>
+/* Concept: a working manuscript read like a good document tool. Fog-gray ground, ink text,
+   the book's pitch-deck joke made literal (each Founder's Note is a dark "slide"),
+   highlighter yellow reserved for marks the reader makes. */
+:root {
+  --bg: #edf0f1;
+  --paper: #fafbfb;
+  --ink: #161b20;
+  --muted: #5a6670;
+  --rule: #d3dadf;
+  --accent: #1b5b72;
+  --accent-ink: #ffffff;
+  --hl: #ffe666;
+  --slide: #15222c;
+  --slide-ink: #e8eef1;
+  --slide-mute: #9db0bb;
+  --msg-in: #e2e8eb;
+  --msg-out: #d6e7ec;
+  --approved: #2c6e49;
+  --draft: #8a5a00;
+  --f-display: 'Bricolage Grotesque', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --f-body: 'Newsreader', Georgia, 'Times New Roman', serif;
+  --f-mono: 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace;
+  --fs: 19px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1316; --paper: #141b20; --ink: #e3e8eb; --muted: #93a0a9; --rule: #27323a;
+    --accent: #74b9d3; --accent-ink: #0b1216; --hl: #6e5e12; --slide: #1c2b36; --slide-ink: #eaf0f3;
+    --slide-mute: #9fb2bd; --msg-in: #1e282f; --msg-out: #1b3440; --approved: #6fc593; --draft: #e0a93a;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e1316; --paper: #141b20; --ink: #e3e8eb; --muted: #93a0a9; --rule: #27323a;
+  --accent: #74b9d3; --accent-ink: #0b1216; --hl: #6e5e12; --slide: #1c2b36; --slide-ink: #eaf0f3;
+  --slide-mute: #9fb2bd; --msg-in: #1e282f; --msg-out: #1b3440; --approved: #6fc593; --draft: #e0a93a;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); }
+a { color: var(--accent); }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+::selection { background: color-mix(in srgb, var(--accent) 32%, transparent); }
+
+/* top bar */
+.top {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20;
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--rule);
+}
+.top-in {
+  display: flex; align-items: center; gap: 12px; padding: 10px 16px; max-width: 1180px; margin-inline: auto;
+}
+.brand { font-family: var(--f-display); font-weight: 700; letter-spacing: -0.01em; font-size: 1.05rem; margin-right: auto; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.brand small { font-family: var(--f-mono); font-weight: 400; font-size: 0.68rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); margin-left: 8px; }
+.tools { display: flex; align-items: center; gap: 6px; }
+.tbtn {
+  background: transparent; border: 1px solid var(--rule); border-radius: 6px; min-width: 36px; height: 34px;
+  padding: 0 10px; cursor: pointer; font-family: var(--f-mono); font-size: 0.78rem;
+}
+.tbtn:hover { border-color: var(--accent); }
+.only-narrow { display: none; }
+.progress { position: absolute; left: 0; bottom: -1px; height: 2px; width: 0; background: var(--accent); }
+
+/* layout */
+.layout { display: grid; grid-template-columns: 270px minmax(0, 1fr); max-width: 1180px; margin-inline: auto; }
+.toc {
+  position: sticky; top: calc(env(safe-area-inset-top, 0px) + 56px); align-self: start;
+  max-height: calc(100vh - 70px); overflow-y: auto; padding: 24px 16px 24px 16px;
+}
+.toc h3 { font-family: var(--f-mono); font-weight: 500; font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); margin: 0 0 12px; }
+.toc a {
+  display: grid; grid-template-columns: 26px minmax(0, 1fr); column-gap: 8px; text-decoration: none; color: var(--ink);
+  padding: 9px 10px; border-radius: 8px; border: 1px solid transparent;
+}
+.toc a .n { grid-row: 1 / span 2; font-family: var(--f-mono); font-size: 0.8rem; color: var(--muted); padding-top: 2px; }
+.toc a .t { font-family: var(--f-display); font-weight: 600; font-size: 0.93rem; line-height: 1.25; text-wrap: balance; }
+.toc a .m { font-family: var(--f-mono); font-size: 0.66rem; color: var(--muted); margin-top: 2px; }
+.toc a:hover { background: color-mix(in srgb, var(--accent) 8%, transparent); }
+.toc a.on { border-color: var(--rule); background: var(--paper); }
+.toc a.on .n { color: var(--accent); }
+.toc-note { margin-top: 18px; padding-top: 14px; border-top: 1px solid var(--rule); font-size: 0.82rem; color: var(--muted); line-height: 1.5; font-family: var(--f-body); }
+
+.page { min-width: 0; padding: 28px clamp(0px, 2vw, 24px) 140px; }
+.sheet {
+  background: var(--paper); border: 1px solid var(--rule); border-radius: 4px;
+  padding: clamp(24px, 5vw, 64px) clamp(16px, 5vw, 64px);
+  box-shadow: 0 1px 0 rgba(0,0,0,.03), 0 12px 32px rgba(20,30,40,.06);
+}
+.intro { border-bottom: 1px solid var(--rule); padding-bottom: 26px; margin-bottom: 8px; max-width: 40rem; margin-inline: auto; }
+.intro h1 { font-family: var(--f-display); font-weight: 700; font-size: clamp(1.9rem, 5vw, 2.7rem); letter-spacing: -0.02em; line-height: 1.05; margin: 0 0 6px; text-wrap: balance; }
+.intro .sub { font-family: var(--f-mono); font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); margin: 0 0 18px; }
+.how { font-family: var(--f-body); font-size: 1rem; line-height: 1.55; color: var(--ink); margin: 0; }
+.how b { font-weight: 600; }
+.how ol { margin: 10px 0 0; padding-left: 1.2em; }
+.how li { margin: 4px 0; }
+
+/* chapters */
+.chapter { max-width: 40rem; margin-inline: auto; padding-top: 44px; scroll-margin-top: 70px; }
+.chap-head { margin-bottom: 28px; }
+.eyebrow { font-family: var(--f-mono); font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent); }
+.chap-head h2 { font-family: var(--f-display); font-weight: 700; letter-spacing: -0.02em; font-size: clamp(1.7rem, 4.6vw, 2.35rem); line-height: 1.08; margin: 6px 0 10px; text-wrap: balance; }
+.chap-meta { display: flex; gap: 10px; align-items: center; font-family: var(--f-mono); font-size: 0.72rem; color: var(--muted); }
+.pill { border: 1px solid currentColor; border-radius: 999px; padding: 1px 9px; font-size: 0.68rem; letter-spacing: 0.04em; }
+.pill.approved { color: var(--approved); }
+.pill.draft { color: var(--draft); }
+
+.prose { font-size: var(--fs); line-height: 1.68; font-variant-ligatures: common-ligatures; hyphens: manual; }
+.prose p { margin: 0 0 1.05em; max-width: 66ch; }
+.prose p[data-p] { text-wrap: pretty; }
+.prose em { font-style: italic; }
+hr.scene { border: 0; height: 28px; margin: 1.4em 0; position: relative; }
+hr.scene::after { content: ""; position: absolute; left: 50%; top: 50%; width: 7px; height: 7px; border-radius: 50%; background: var(--rule); transform: translate(-50%, -50%); box-shadow: -18px 0 0 var(--rule), 18px 0 0 var(--rule); }
+
+.msg { font-family: var(--f-mono); font-size: 0.8em; line-height: 1.5; padding: 8px 12px; border-radius: 12px; max-width: min(24rem, 86%); width: fit-content; margin-bottom: 0.5em !important; }
+.msg strong { font-weight: 500; }
+.msg.in { background: var(--msg-in); border-bottom-left-radius: 4px; }
+.msg.out { background: var(--msg-out); margin-left: auto; border-bottom-right-radius: 4px; }
+.msg.in strong, .msg.out em { font-style: normal; font-weight: 400; }
+.msg + p:not(.msg) { margin-top: 1.1em; }
+.sign { font-family: var(--f-mono); font-size: 0.78em; letter-spacing: 0.02em; text-transform: none; border: 1.5px dashed var(--muted); border-radius: 4px; padding: 10px 14px; width: fit-content; max-width: 100%; margin-inline: auto; text-align: center; }
+.sign strong { font-weight: 500; }
+
+mark.hl { background: var(--hl); color: inherit; border-radius: 2px; padding: 0 1px; cursor: pointer; }
+
+/* Founder's Note: the slide */
+.note {
+  margin: 44px 0 8px; background: var(--slide); color: var(--slide-ink); border-radius: 6px;
+  padding: clamp(20px, 4vw, 34px); border: 1px solid color-mix(in srgb, var(--slide-ink) 12%, transparent);
+  box-shadow: 0 10px 28px rgba(10, 20, 30, .22);
+}
+.note-label { font-family: var(--f-mono); font-size: 0.68rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--slide-mute); margin-bottom: 14px; display: flex; align-items: center; gap: 10px; }
+.note-label::after { content: ""; flex: 1; height: 1px; background: color-mix(in srgb, var(--slide-ink) 18%, transparent); }
+.note .principle { font-family: var(--f-display); font-weight: 700; font-size: clamp(1.25rem, 3.2vw, 1.6rem); line-height: 1.15; letter-spacing: -0.015em; margin: 0 0 16px; max-width: 30ch; text-wrap: balance; }
+.note p { font-size: calc(var(--fs) * 0.94); line-height: 1.62; margin: 0 0 0.95em; max-width: 60ch; }
+.note p:last-child { margin-bottom: 0; }
+.note ::selection { background: color-mix(in srgb, #74b9d3 45%, transparent); }
+mark.hl.on-slide { color: #14181c; background: #ffe666; }
+
+/* selection bar */
+#selbar {
+  position: fixed; left: 50%; transform: translateX(-50%); z-index: 40;
+  bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+  display: flex; gap: 6px; padding: 6px; border-radius: 12px; background: var(--slide); color: var(--slide-ink);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, .35); max-width: calc(100vw - 32px);
+}
+#selbar button {
+  border: 0; background: transparent; color: inherit; padding: 9px 13px; border-radius: 8px; cursor: pointer;
+  font-family: var(--f-display); font-weight: 600; font-size: 0.86rem; white-space: nowrap; min-height: 40px;
+  -webkit-user-select: none; user-select: none;
+}
+#selbar button:hover { background: color-mix(in srgb, var(--slide-ink) 14%, transparent); }
+#selbar button.primary { background: #74b9d3; color: #0b1216; }
+#selbar button.primary:hover { background: #8cc7de; }
+#selbar .sep { width: 1px; background: color-mix(in srgb, var(--slide-ink) 20%, transparent); margin: 6px 2px; }
+#selbar[hidden], .toc [hidden] { display: none !important; }
+#toast {
+  position: fixed; left: 50%; transform: translateX(-50%); z-index: 50;
+  bottom: calc(76px + env(safe-area-inset-bottom, 0px)); background: var(--ink); color: var(--bg);
+  padding: 9px 14px; border-radius: 8px; font-family: var(--f-display); font-size: 0.86rem; max-width: calc(100vw - 32px);
+  opacity: 0; pointer-events: none; transition: opacity .18s;
+}
+#toast.show { opacity: 1; }
+
+/* narrow: chapters become a drawer */
+@media (max-width: 900px) {
+  .layout { grid-template-columns: minmax(0, 1fr); }
+  .toc {
+    position: fixed; top: calc(env(safe-area-inset-top, 0px) + 56px); left: 0; bottom: 0; width: min(320px, 88vw); z-index: 30;
+    background: var(--paper); border-right: 1px solid var(--rule); max-height: none; transform: translateX(-102%);
+    transition: transform .2s; padding-bottom: calc(24px + env(safe-area-inset-bottom, 0px));
+  }
+  body.drawer .toc { transform: none; box-shadow: 0 0 40px rgba(0,0,0,.3); }
+  .only-narrow { display: inline-block; }
+  .brand small { display: none; }
+  .page { padding-inline: 0; padding-top: 12px; }
+  .sheet { border-radius: 0; border-inline: 0; }
+}
+@media (prefers-reduced-motion: reduce) { .toc, #toast { transition: none; } }
+@media (max-width: 420px) { #selbar button { padding: 9px 10px; font-size: 0.8rem; } }
+</style>
+
+<header class="top">
+  <div class="top-in">
+    <button class="tbtn only-narrow" id="menuBtn" aria-label="Chapters" aria-expanded="false">Chapters</button>
+    <div class="brand">The Marriage Startup <small>Draft manuscript</small></div>
+    <div class="tools">
+      <button class="tbtn" id="fsDown" aria-label="Smaller text">A&minus;</button>
+      <button class="tbtn" id="fsUp" aria-label="Larger text">A+</button>
+    </div>
+  </div>
+  <div class="progress" id="progress"></div>
+</header>
+
+<div class="layout">
+  <nav class="toc" id="toc" aria-label="Chapters">
+    <h3>Chapters</h3>
+    __NAV__
+    <div class="toc-note">__COUNT__ chapters drafted, __TOTAL__ words. Chapters not yet written are not listed.</div>
+  </nav>
+
+  <main class="page">
+    <div class="sheet" id="manuscript">
+      <div class="intro">
+        <h1>The Marriage Startup</h1>
+        <p class="sub">Draft manuscript &middot; Chapters 1&ndash;__COUNT__</p>
+        <div class="how">
+          <b>To change a line, select it.</b>
+          <ol>
+            <li>Select any words. A bar appears at the bottom of the screen.</li>
+            <li><b>Comment</b> opens the comment box with your selection quoted. Say what you want changed, then choose <b>Send to Claude</b> so it is picked up and revised in place.</li>
+            <li><b>Highlight</b> marks a passage for yourself. Highlights stay in this browser only and are not sent to anyone.</li>
+            <li><b>Copy</b> puts the passage and its chapter on your clipboard, to paste into a chat.</li>
+          </ol>
+        </div>
+      </div>
+      __CHAPTERS__
+    </div>
+  </main>
+</div>
+
+<div id="selbar" hidden role="toolbar" aria-label="Selection actions">
+  <button id="bComment" class="primary">Comment</button>
+  <button id="bHighlight">Highlight</button>
+  <button id="bCopy">Copy</button>
+  <button id="bRemove" hidden>Remove highlight</button>
+</div>
+<div id="toast" role="status" aria-live="polite"></div>
+
+<script>
+(function () {
+  var prose = document.getElementById('manuscript');
+  var bar = document.getElementById('selbar');
+  var bComment = document.getElementById('bComment');
+  var bHighlight = document.getElementById('bHighlight');
+  var bCopy = document.getElementById('bCopy');
+  var bRemove = document.getElementById('bRemove');
+  var toastEl = document.getElementById('toast');
+  var comments = null, lastRange = null, activeMark = null, barBusy = false, toastTimer = null;
+
+  /* ---------- small helpers ---------- */
+  function store(key, val) { try { if (val === undefined) { return localStorage.getItem(key); } localStorage.setItem(key, val); } catch (e) { return null; } }
+  function toast(msg) {
+    toastEl.textContent = msg; toastEl.classList.add('show');
+    clearTimeout(toastTimer); toastTimer = setTimeout(function () { toastEl.classList.remove('show'); }, 2600);
+  }
+  function elOf(node) { return node && node.nodeType === 1 ? node : (node ? node.parentElement : null); }
+  function inProse(node) { var e = elOf(node); return !!(e && prose.contains(e) && e.closest('[data-p]')); }
+  function selRange() {
+    var sel = window.getSelection();
+    if (!sel || sel.rangeCount === 0 || sel.isCollapsed) return null;
+    var r = sel.getRangeAt(0);
+    if (!inProse(r.startContainer) || !inProse(r.endContainer)) return null;
+    if (!r.toString().trim()) return null;
+    return r;
+  }
+  function chapterOf(node) {
+    var e = elOf(node); var s = e && e.closest('.chapter');
+    return s ? { n: s.dataset.n, title: s.dataset.title } : null;
+  }
+
+  /* ---------- selection bar ---------- */
+  function showBar(mode) {
+    bComment.hidden = mode === 'mark' || !comments;
+    bHighlight.hidden = mode === 'mark';
+    bCopy.hidden = mode === 'mark';
+    bRemove.hidden = mode !== 'mark';
+    bar.hidden = false;
+  }
+  function hideBar() { if (barBusy) return; bar.hidden = true; activeMark = null; }
+  document.addEventListener('selectionchange', function () {
+    var r = selRange();
+    if (r) { lastRange = r.cloneRange(); activeMark = null; showBar('sel'); }
+    else if (!activeMark) { setTimeout(function () { if (!selRange() && !activeMark) hideBar(); }, 180); }
+  });
+  ['pointerdown', 'touchstart', 'mousedown'].forEach(function (ev) {
+    bar.addEventListener(ev, function (e) { barBusy = true; if (ev !== 'touchstart') e.preventDefault(); }, { passive: false });
+  });
+  function done() { barBusy = false; var s = window.getSelection(); if (s) s.removeAllRanges(); bar.hidden = true; activeMark = null; }
+
+  /* ---------- comment ---------- */
+  bComment.addEventListener('click', function () {
+    var r = lastRange; barBusy = false;
+    if (!comments || !r) { done(); return; }
+    comments.openComposer({ range: r }).then(function (res) {
+      if (res && res.opened === false) toast('Click into the page once, then select the text again.');
+      done();
+    }).catch(function (e) {
+      var code = e && e.code;
+      if (code === 'unavailable' || code === 'not_granted' || code === 'forbidden') {
+        comments = null; toast('Comments are not available in this view. Use Copy instead.');
+      } else { toast('Could not open the comment box. Try again.'); }
+      done();
+    });
+  });
+
+  /* ---------- copy ---------- */
+  bCopy.addEventListener('click', function () {
+    var r = lastRange; barBusy = false; if (!r) { done(); return; }
+    var c = chapterOf(r.startContainer);
+    var text = (c ? 'Chapter ' + c.n + ' (' + c.title + '): ' : '') + '"' + r.toString().trim().replace(/\s+/g, ' ') + '"';
+    var fallback = function () { toast('Copy was blocked. Select the text and copy it yourself.'); };
+    try {
+      navigator.clipboard.writeText(text).then(function () { toast('Copied with chapter reference.'); }, fallback);
+    } catch (e) { fallback(); }
+    done();
+  });
+
+  /* ---------- highlights (per browser) ---------- */
+  var HKEY = 'tms-highlights-v1';
+  function loadH() { try { return JSON.parse(store(HKEY) || '[]') || []; } catch (e) { return []; } }
+  function saveH(list) { store(HKEY, JSON.stringify(list)); }
+  function offsetIn(p, node, off) { var r = document.createRange(); r.selectNodeContents(p); r.setEnd(node, off); return r.toString().length; }
+  function rangeFor(p, s, e) {
+    var w = document.createTreeWalker(p, NodeFilter.SHOW_TEXT), pos = 0, sn = null, so = 0, en = null, eo = 0, n;
+    while ((n = w.nextNode())) {
+      var len = n.nodeValue.length;
+      if (sn === null && s >= pos && s < pos + len) { sn = n; so = s - pos; }
+      if (en === null && e > pos && e <= pos + len) { en = n; eo = e - pos; }
+      pos += len;
+    }
+    if (!sn || !en) return null;
+    var r = document.createRange(); r.setStart(sn, so); r.setEnd(en, eo); return r;
+  }
+  function applyH(h) {
+    try {
+      var p = prose.querySelector('[data-p="' + h.p + '"]'); if (!p) return false;
+      if (p.textContent.slice(h.s, h.e) !== h.t) return false;
+      var r = rangeFor(p, h.s, h.e); if (!r) return false;
+      var m = document.createElement('mark'); m.className = 'hl' + (p.closest('.note') ? ' on-slide' : ''); m.dataset.hid = h.id;
+      m.appendChild(r.extractContents()); r.insertNode(m); return true;
+    } catch (e) { return false; }
+  }
+  bHighlight.addEventListener('click', function () {
+    var r = lastRange; barBusy = false; if (!r) { done(); return; }
+    var list = loadH(), added = [];
+    var paras = prose.querySelectorAll('[data-p]');
+    for (var i = 0; i < paras.length; i++) {
+      var p = paras[i];
+      if (!r.intersectsNode(p)) continue;
+      var s = p.contains(r.startContainer) ? offsetIn(p, r.startContainer, r.startOffset) : 0;
+      var e = p.contains(r.endContainer) ? offsetIn(p, r.endContainer, r.endOffset) : p.textContent.length;
+      if (e <= s) continue;
+      var t = p.textContent.slice(s, e);
+      if (!t.trim()) continue;
+      added.push({ id: 'h' + Date.now().toString(36) + i, p: p.dataset.p, s: s, e: e, t: t });
+    }
+    var sel = window.getSelection(); if (sel) sel.removeAllRanges();
+    added.forEach(function (h) { if (applyH(h)) list.push(h); });
+    saveH(list); toast(added.length ? 'Highlighted. Tap it to remove.' : 'Nothing to highlight there.'); done();
+  });
+  prose.addEventListener('click', function (e) {
+    var m = e.target.closest && e.target.closest('mark.hl');
+    var sel = window.getSelection();
+    if (m && (!sel || sel.isCollapsed)) { activeMark = m; showBar('mark'); }
+  });
+  bRemove.addEventListener('click', function () {
+    barBusy = false; var m = activeMark; if (!m) { done(); return; }
+    var id = m.dataset.hid, parent = m.parentNode;
+    while (m.firstChild) parent.insertBefore(m.firstChild, m);
+    parent.removeChild(m); parent.normalize();
+    saveH(loadH().filter(function (h) { return h.id !== id; }));
+    toast('Highlight removed.'); done();
+  });
+  loadH().forEach(function (h) { applyH(h); });
+
+  /* ---------- text size ---------- */
+  var fs = parseInt(store('tms-fs') || '19', 10); if (!(fs >= 15 && fs <= 26)) fs = 19;
+  function setFs(v) { fs = Math.max(15, Math.min(26, v)); document.documentElement.style.setProperty('--fs', fs + 'px'); store('tms-fs', String(fs)); }
+  setFs(fs);
+  document.getElementById('fsDown').addEventListener('click', function () { setFs(fs - 1); });
+  document.getElementById('fsUp').addEventListener('click', function () { setFs(fs + 1); });
+
+  /* ---------- chapters drawer, scroll spy, progress ---------- */
+  var menuBtn = document.getElementById('menuBtn');
+  menuBtn.addEventListener('click', function () {
+    var on = document.body.classList.toggle('drawer'); menuBtn.setAttribute('aria-expanded', String(on));
+  });
+  document.getElementById('toc').addEventListener('click', function (e) {
+    if (e.target.closest('a')) { document.body.classList.remove('drawer'); menuBtn.setAttribute('aria-expanded', 'false'); }
+  });
+  var chapters = Array.prototype.slice.call(document.querySelectorAll('.chapter'));
+  var links = {}; Array.prototype.forEach.call(document.querySelectorAll('#toc a'), function (a) { links[a.dataset.n] = a; });
+  var prog = document.getElementById('progress'), ticking = false;
+  function onScroll() {
+    ticking = false;
+    var y = window.scrollY + 120, cur = chapters[0];
+    chapters.forEach(function (c) { if (c.offsetTop <= y) cur = c; });
+    Object.keys(links).forEach(function (k) { links[k].classList.toggle('on', cur && k === cur.dataset.n); });
+    var h = document.documentElement.scrollHeight - window.innerHeight;
+    prog.style.width = (h > 0 ? Math.min(100, window.scrollY / h * 100) : 0) + '%';
+  }
+  window.addEventListener('scroll', function () { if (!ticking) { ticking = true; requestAnimationFrame(onScroll); } }, { passive: true });
+  onScroll();
+
+  /* ---------- capability (arrives later; page works without it) ---------- */
+  if (window.claude && window.claude.use) {
+    window.claude.use('comments').then(function (c) {
+      comments = c || null;
+      if (!comments) bComment.hidden = true;
+    }, function () { comments = null; });
+  }
+})();
+</script>
