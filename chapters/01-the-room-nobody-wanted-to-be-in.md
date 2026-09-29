@@ -13,7 +13,7 @@ We should start with the room, though, because the room did most of the work.
 
 ---
 
-It was the ballroom of a hotel in SoMa that had been designed by someone who had heard of ballrooms. The carpet was a pattern I'd call *aggressively neutral.* There was a table of sliders that had been sliders since at least Thursday, and a bar serving a pinot noir in the sense that it was red and had once been introduced to a pinot noir at a party. On a little stage at the front, under a banner that said **BUILD SOMETHING THAT MATTERS** in a font that did not, a technician was adjusting a microphone for a man who was about to tell us about conviction.
+It was the last week of July, in the ballroom of a hotel in SoMa that had been designed by someone who had heard of ballrooms. The carpet was a pattern I'd call *aggressively neutral.* There was a table of sliders that had been sliders since at least Thursday, and a bar serving a pinot noir in the sense that it was red and had once been introduced to a pinot noir at a party. On a little stage at the front, under a banner that said **BUILD SOMETHING THAT MATTERS** in a font that did not, a technician was adjusting a microphone for a man who was about to tell us about conviction.
 
 Around me, two hundred people were asking each other the only question anyone in the Valley asks, which is *So what are you working on?* It isn't really a question. It's a handshake with a subtitle. You say the name of your company. They say the name of theirs. Both of you say "Oh, nice," in the tone of someone being handed a stranger's baby.
 
@@ -46,6 +46,8 @@ Cole had raised eighteen million dollars at twenty-six and wore it lightly, the 
 "How's that going?"
 
 "Amazing," said Cole, and checked over my shoulder for someone better, and found them. "I'm on at quarter past. Catch you after!"
+
+(A term sheet is an investor's offer letter. Cole collected them the way other people collect airline miles: for the feeling, not the trip.)
 
 He did not catch me after. I don't think he'd meant to. I stood there with my green sticker and my water and the distinct feeling of having been complimented in a language I didn't speak.
 
@@ -246,7 +248,7 @@ She took the index card and tore a strip from the bottom edge, neatly, along a f
 
 "I'm sure," said Maya, with an expression I couldn't read yet: not sarcasm, exactly, but its kinder cousin, the look of someone who's decided to see what happens. She turned. She put her hand on the door.
 
-"It was nice meeting you, Nate. Ask your questions properly."
+She held up what was left of the index card. "It was nice meeting you, Nate. Ask your questions properly."
 
 She was gone. The door swung behind her.
 

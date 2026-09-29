@@ -69,3 +69,4 @@
 | 2026-09-29 | **Setup-before-payoff rule** added to `style-guide.md`: every callback, running joke, rule or piece of shared history must be established on the page before a character relies on it; Nate may gloss jargon in a wry parenthetical | APPROVED (Scott's direction) |
 | 2026-09-29 | **`reference-checker` agent** added (`.claude/agents/reference-checker.md`): a read-only cold-reader that flags unestablished references. Run after every chapter draft | APPROVED (Scott's request) |
 | 2026-09-29 | **Fixed:** Ch 1 "That's a slide" (now sets up pitch decks and glosses "slide"); Ch 2 "Bring the answers" (now explains it means answers to Lakshmi's two index-card questions) | DONE |
+| 2026-09-29 | **Reference-check of Ch 1-2 run; 11 of 12 flags fixed** (one left deliberately: the uncle 'Only business?' mystery). Log in `reviews/ch01-02-reference-check.md` | DONE |

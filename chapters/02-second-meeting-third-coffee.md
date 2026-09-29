@@ -15,7 +15,7 @@ The industry standard was Kyle's.
 
 Kyle considered this with the dignity of a man being asked about a war. "Theoretically," he said.
 
-The strip of index card sat on my desk beside a cold brew I wasn't drinking. **Maya R.** and ten digits, in handwriting that looked like it had already been proofread. She'd told me to ask my questions properly. I'd spent most of the night working out what that meant, and had landed on a theory: that the two questions on her mother's index card, *Ask if they know what a refill is* and *Ask what happens when it breaks,* had been sitting unanswered in her hand for an hour, and that nobody at that mixer had answered either one. Asking properly, I decided, meant answering hers first.
+The strip of index card sat on my desk beside a cold brew I wasn't drinking. **Maya R.** and ten digits, in handwriting that looked like it had already been proofread. She'd told me to ask my questions properly. I'd spent most of the night working out what that meant, and had landed on a theory: that the two questions on her mother's index card, *Ask if they know what a refill is* and *Ask what happens when it breaks,* had been sitting in her hand for an hour because nobody at that mixer had let her ask either one. Asking properly, I decided, meant answering hers first.
 
 I wrote the first draft at 7:31.
 
@@ -59,7 +59,7 @@ And, a second later:
 
 ---
 
-At ten, Priya and I had our weekly call, which is where we look at my Notion page and she lets me down gently about it. She has a way of saying "Okay!" that means the opposite. It has a rising inflection, like a lift going up to a floor she's already decided not to get out on.
+At ten, Priya and I had our weekly call, which is where we look at my Notion page and she lets me down gently about it. (The page in question was "Healthcare, something?" It lived inside a larger workspace I call Life OS, where I run my life as five sections: Company, Health, Learning, Money, and Relationships. I'm aware of how that sounds.) She has a way of saying "Okay!" that means the opposite. It has a rising inflection, like a lift going up to a floor she's already decided not to get out on.
 
 I shared my screen. I'd forgotten I had another tab open.
 
@@ -75,7 +75,7 @@ There was a silence on the call, and it had a shape.
 
 "It's a person."
 
-"So it's a CRM for a person."
+"So it's a CRM for a person." (A CRM is the software salespeople use to keep track of customers, one touch at a time.)
 
 "Please close that tab."
 
@@ -105,7 +105,7 @@ Then she stopped joking, which she does about once a quarter, and it always feel
 
 "The other thing."
 
-"I have a rent check and a husband who teaches middle school." Her voice had the level, careful tone she uses on deploy days. "We have until December to find something worth being at half salary for. I'm not asking for a plan. I'm asking for a person with a problem. Any person."
+"I have a rent check and a husband who teaches middle school." Her voice had the level, careful tone she uses on days when something might break. "We have until December to find something worth being at half salary for. I'm not asking for a plan. I'm asking for a person with a problem. Any person."
 
 "I have a person with a problem."
 
@@ -148,6 +148,8 @@ I had decided to lead with the easy one. "Question one," I said. "Do I know what
 "It's a recurring prescription authorization in which—" She looked at the table, and I stopped. "A refill is when a person who's supposed to come back, comes back," I said. "It's the only thing a pharmacy has that's like a relationship. Everything else is a transaction. A refill is a promise—"
 
 "Don't say promise."
+
+She said it fast, like a woman removing a splinter. I filed it.
 
 "—a habit. A refill is a habit somebody else keeps for you."
 
@@ -209,9 +211,9 @@ She left. I sat there with an empty cup and the feeling of having been graded by
 
 ---
 
-I wasn't there for what happened next. Jules was, and Jules tells it with sound effects.
+I wasn't there for what happened next. Maya's oldest friend, Jules, was, and Jules tells it with sound effects.
 
-According to Jules, Maya walked into the taqueria on Mission at 7:24 and ordered a carnitas burrito without looking at the menu, which is her tell for a mood. She sat down across from Jules and said, "So."
+According to Jules, Maya walked into the taqueria on Mission at 7:24 and ordered a carnitas burrito without looking at the menu, which, according to Jules, is her tell for a good mood. She sat down across from Jules and said, "So."
 
 "So?" said Jules, a public defender with the demeanor of someone who has heard every version of *so* and been lied to by most of them.
 
@@ -236,6 +238,8 @@ According to Jules, there was then a very long pause, filled by a very large amo
 "To who?"
 
 "Him. You. Whichever." She stole a chip. "You did this with Adrian. You made yourself such a good listener he never had to be one. I just want you to make him do the reps."
+
+(Adrian, it turned out, was the ex. He used the word *promise* the way other people use punctuation.)
 
 "He asked a follow-up," said Maya.
 
@@ -373,7 +377,7 @@ I typed a line under it: *Follow up.*
 
 I looked at it for a long time. Then I deleted it, because Maya would notice, and I could not have told you how I knew that.
 
-On Sunday morning, without a reminder or a plan, I texted her a photograph of a sandwich I'd bought from a place near the office. It was a bad sandwich. It had been built by someone who had heard of sandwiches. She wrote back in nine minutes: **That's a crime.**
+On Sunday morning, without a reminder or a plan, I texted her a photograph of a sandwich I'd bought from a place near the coworking space where Priya and I rent two desks. It was a bad sandwich. It had been built by someone who had heard of sandwiches. She wrote back in nine minutes: **That's a crime.**
 
 It was the best follow-up of my life, and it wasn't on a list.
 
