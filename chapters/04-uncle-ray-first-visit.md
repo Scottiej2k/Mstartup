@@ -1,0 +1,203 @@
+# Chapter 4
+## Uncle Ray, First Visit
+
+My phone died on Highway 17, somewhere above Scotts Valley, in a stretch of redwoods where the road does something like a dropped ribbon. I said a word to it that I won't repeat, largely because my mother reads things.
+
+This meant I arrived at my uncle's house without a map, a playlist, or a plan, which is the way I now believe you're supposed to arrive at most things. At the time it felt like arriving without pants.
+
+I should explain the system. I had a system for visiting Ray, which I'd built over four years and defended the way an engineer defends anything he built when he was tired. Once a month, on a Saturday, I drove up the mountain with a hypothetical.
+
+A hypothetical, if you haven't used one, is a question you've told to wait in the car. You can say anything in one. *Hypothetically, if a co-founder...* *Hypothetically, if a customer...* It lets you ask the thing you actually want to ask while dressed, as I imagined it, in the clothes of a business seminar. I believed this was subtle.
+
+Ray is my father's older brother. Seven years older. He left Dayton at twenty-two, and my father, Dan, stayed to look after their parents, and the two of them have never once discussed whether that was fair. They talk at Christmas and on the anniversary of my grandfather's death, briefly, about the weather. That is also how they say they love each other. We are a family that fixes things and does not discuss them.
+
+Dan runs maintenance for a hospital system. Ray spent thirty years building software for hospitals. This has never come up.
+
+His company was called Steadyline Systems, and it did inventory for hospital supply closets: gauze, syringes, the dull, life-critical arithmetic of whether there's enough of something. He started it at thirty-one with a friend. He sold it at fifty-five to a bigger company, thirteen years ago, and has not, in the sense the Valley uses the word, worked since. What he does is take phone calls and drink coffee with people. He doesn't charge. He accepts pie.
+
+Yes, inventory. When I told him my first company had been an inventory tool, he was quiet for a moment and said, "Well. That's a hard way to learn it," and poured me a coffee, and I have never been sure whether I was being consoled or diagnosed.
+
+He'd been married to Denise for thirty-eight years. She was a pediatric nurse and the most present person I have ever met, and she died four years ago, in the spring. I flew out for the funeral. I was twenty-four, with a job I disliked in Columbus, and my return flight was three days late and then, in a way I never quite decided, permanent. Ray never said he was glad I'd stayed. He kept the guest room made.
+
+The first time he ever asked me a real question, I was seventeen. He'd flown in for my grandfather's funeral and spent an evening on our porch in Dayton asking me what I wanted to build. Nobody had asked me that. I said I didn't know. He said, "Wanting to build something isn't the same as wanting to leave. But you might have to leave to find out." I didn't speak to anyone for the rest of the night. I've been trying to answer it ever since.
+
+---
+
+The house is a low brown ranch at the end of a gravel road, with a deck, and a mailbox at the bottom of the drive on a post that leans two degrees to the left. Ray has been meaning to fix it since before I knew him.
+
+There was a second car in the driveway, a Buick the color of oatmeal, and a man in his sixties coming down the front steps with an empty thermos.
+
+"You're the nephew," he said, and shook my hand as if he'd been briefed. "Vern. I ran support at Steadyline for twenty-two years. Ray tells me you ask good questions."
+
+"He said that?"
+
+"He said you ask a *lot* of questions." Vern winked. "It's the same thing, with the right coffee."
+
+From the side of the house, out of sight, Ray's voice said, "Just coffee, Vern."
+
+"That's what I said," said Vern, to no one, and got into the Buick.
+
+I went around the side. I want you to see the yard, because everything in the book that happens up there happens in it.
+
+It's a big yard. It's bigger than most people's houses, a broad tilted acre of lawn and bay laurel and a single old oak, bordered at the back by redwoods that keep the light in a permanent state of *almost.* It looks like the site of a very slow construction project, which it is. There was a stack of flagstones by the shed. There was a wheelbarrow with a plant in it that had clearly been waiting for a decision. There was a shovel leaning against a tree at the far end, beside a curved outline of white string on the grass, and a scrap of cardboard staked in the middle with a single word in marker: **POND.**
+
+The pond, at that time, consisted of string, opinions, and a shovel.
+
+Ray was in the middle of the lawn with a wooden mallet, driving stakes into the ground along a curve marked with more string. He's a tall man, a little stooped from years of leaning over workbenches, with big, careful hands and a right ring finger that doesn't bend anymore, from a machine-shop accident when he was twenty-four. His glasses were pushed up into gray hair he cuts himself, and he was wearing flannel, in September, in the sun, because I have never seen him wear anything else. A pair of work gloves stuck out of his back pocket like a tail.
+
+He didn't look up. He never did.
+
+"Coffee's in the thermos," he said. "Don't tell me about the traffic."
+
+"My phone died on 17."
+
+"That's about the traffic."
+
+"It's about the phone."
+
+"It's about the traffic," Ray agreed, and swung the mallet.
+
+---
+
+I'd prepared a hypothetical in the car, before the phone died. It was a good one. It was about pricing tiers, and it was carefully made, and it was in a note on a device that was now a small black brick.
+
+I poured coffee from the thermos on the fence post. It was burnt. It is always burnt, on principle. I looked at the yard, and the string, and the man with the mallet, and I heard myself say something completely different.
+
+"Hypothetically," I said, and Ray stopped moving for exactly one second, "say there's a person who keeps showing up to a customer discovery interview. Not a buyer. Not the budget owner. But she, they, keep asking the best questions I've ever had."
+
+"Your hypothetical person."
+
+"Yes."
+
+"Asks good questions." He drove a stake into the lawn with the heel of his hand. "About what?"
+
+"About whether the thing I'm building would help the people I say it helps."
+
+"And would it?"
+
+"I don't know. That's the point. I couldn't answer."
+
+"Well." He turned the mug on the fence post a quarter turn. "You've had a lot of customers who were buyers. From the inventory days. Most of them said yes."
+
+"Almost all of them."
+
+"How's that been?"
+
+I thought about it. It took longer than I liked. Loopback, at that point, had a name, fourteen interviews, and nine people who'd said "love it" and zero who'd said "here's a check." "Nice," I said. "It's been nice."
+
+"Nice." He said it the way you'd say the name of a town you'd driven through. "You've got a lot of people who love it and not one who's written a check. That's not a market. That's a damn fan club."
+
+It was exactly right. I hadn't said a word about it. I looked at him, and he was examining a stake.
+
+"I'd take the one who can't be sold," said Ray. "Not forever, mind you. You need buyers. I'm not saying throw out the buyers. But a person who isn't buying has no reason to be nice. She'll tell you where the water actually goes." He pulled the glove out of his back pocket, considered it, and put it back. "The first person who asks you a question you can't answer is worth ten who say 'looks good.' You don't need someone to agree with you. You need someone whose questions you can't stop thinking about."
+
+He wiped his hands on his flannel.
+
+"Keep showing up to her interviews."
+
+"His."
+
+"Whichever."
+
+He poured me a second coffee from the thermos, which I hadn't finished the first of, and looked out at the string. "Want to see where the pond's going?"
+
+---
+
+I've told you I noticed things about Ray. I want to be honest about how few of them I noticed that day.
+
+Here is what I noticed: that he'd stopped for a second when I said the word. That he'd turned the mug a quarter turn. That his shoulders had come down maybe half an inch, and stayed down.
+
+Here is what I concluded: that he was tired.
+
+I remember thinking it very clearly. *Ray seems tired.* I decided to keep my questions short out of consideration, the way you'd lower your voice near a sleeping dog. I didn't ask him anything else for almost twenty minutes.
+
+I've since learned that a man who is tired does not turn a coffee mug a quarter turn before he speaks. A man who is tired sits down. Ray never sat down when I said that word. He stayed on his feet, with his back a little straighter than before, the way you stand for something you've decided to hear all of.
+
+---
+
+He walked me around the yard the way another man might walk you through a museum of things he'd meant to do.
+
+"Retaining wall here," said Ray, and waved a hand at a slope of dirt. "Not because it needs one. Because in the spring the water comes down here and gets ideas." He pointed at a spot by the oak. "Flowerbed, eventually. Something low. Ferns want to be there." He looked at the ferns, which were there already, in a small, sullen cluster. "The ferns are making a point."
+
+"What point?"
+
+"That I haven't decided."
+
+At the far end of the yard, away from the string and the stakes and the flagstones, was a corner that didn't fit.
+
+It was maybe twelve feet square. A low wooden fence, and inside it, four raised beds of plain vegetables: green beans on a trellis, a row of chard, some lettuce going to seed, something with yellow flowers. They were neat. They were watered. They had been weeded that morning, by someone who was careful about the roots.
+
+The rest of the yard was a construction site with opinions. This was a still photograph.
+
+"Denise put those in," said Ray. He said it the way you'd read a label. Then he said, "Don't touch the chard," and walked on.
+
+I didn't touch the chard. I looked at the corner a moment longer, at how nothing in it had been moved or improved, at the way the whole yard turned around it like a river around a stone, and I understood that this was a thing I wasn't supposed to ask about. I filed it. I'm good at filing.
+
+We went into the kitchen to refill the thermos. There's a photograph on the wall by the refrigerator. It's Denise, in the top of a set of scrubs printed with cartoon whales, mid-laugh, looking at somebody just outside the frame. It's been in the same place since before I could remember. Ray doesn't look at it. I've watched him not look at it for four years, and I have never seen anyone better at it.
+
+The phone on the kitchen wall rang.
+
+It's an old one, the color of a manila folder, with a cord. He has it because, he says, cell phones are for people who expect to be found. It rang, and Ray looked at it, and didn't move.
+
+"Aren't you going to—"
+
+"Whoever it is knows how to leave a message," said Ray. It rang four times. Then it stopped, and the machine below it clicked, and a woman's voice began to say something warm and hurried about a lease. He switched the thermos to his other hand. "That'll be Marcia's daughter. She'll want to know whether to sign. She should. I'll call her back."
+
+"She's a friend?"
+
+"She's a neighbor's daughter." He said it as if that were the whole category. "Her mother made me a pie in April. I'm still finishing it."
+
+---
+
+I stayed until two. We didn't talk about the hypothetical again. I helped him drive stakes for an hour, and got my share of blisters, and heard him say four things on the subject of drainage, each of which I've thought about since. At one point he told me the secret of landscaping was that you don't fight the slope. "You find out where the water wants to go, and then you build something that agrees with it." He said this with the flat calm of a man who had never in his life said anything he didn't mean.
+
+On the way out he walked me to the car, which he doesn't usually do. He stood by the driver's door with his hands in his back pockets, next to the work gloves.
+
+"Drive carefully," said Ray. "And don't tell me about the traffic."
+
+"You haven't asked."
+
+"That's because I know."
+
+The mailbox on its two-degree lean said goodbye as I passed.
+
+---
+
+I got my phone back on the way down the mountain, when the charger had been going for twenty minutes and the little battery icon had turned from red to something like hope. I pulled over at a turnout above Boulder Creek and opened my Notes app and typed, in the dry, bloodless shorthand I use for things I'm about to misunderstand:
+
+*Ray: distracted?*
+
+I thought about it, and added: *Check in next time.*
+
+Then the phone began to vibrate, and kept vibrating, like something that had been waiting in a dark room. Priya, twice. Kyle, once, with a photograph of a cereal-box toy. And below them, from a number I'd have recognized by now in any state of consciousness, a photograph of a sign taped inside a shop window, in the same slanting marker as the one in the Mission.
+
+**CLOSED. BACK WHEN WE'RE BACK.**
+
+And beneath it:
+
+**Found your competition.**
+
+I laughed. I laughed out loud, alone, in a turnout, above a creek. A truck went by and the driver looked at me, and I raised a hand, as if to say: *yes. I know.*
+
+I typed: *That's the best product I've seen all week.*
+
+**It has zero customer complaints,** wrote Maya.
+
+**Because no one can find them.**
+
+I looked at that for a minute. Then I put the car in gear, and drove down the mountain with the window open, thinking about nothing I could have told you.
+
+---
+
+**FOUNDER'S NOTE**
+*The best feedback comes from someone who isn't buying.*
+
+Buyers are generous. They say "looks good," because they want the meeting to be over, or because they like you, or because saying no takes a kind of energy they'd prefer to spend on lunch. I had a spreadsheet full of buyers who liked me. It was the most dangerous document I owned.
+
+The person who isn't buying has no reason to be nice. She'll tell you the label is unreadable. She'll ask what happens after the demo. If you can stand it, she is the only real product manager you'll ever have.
+
+I've thought since about how carefully I'd arranged my life so that the people around me said "looks good." Kyle was the exception. He said it with a mixing bowl of cereal.
+
+The relationship version isn't hard to guess. I'll spare you.
+
+Ray poured me a second coffee before I'd finished the first. I took it as a compliment to the coffee.

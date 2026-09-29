@@ -73,3 +73,4 @@
 | 2026-09-29 | **Chapter 3 drafted (v1, ~2,780 words)** in `chapters/03-the-idea-that-wouldnt-leave.md`; reference-check in progress | DRAFT |
 | 2026-09-29 | **Maya's Ch 1 exit line rewritten:** "Nobody answered these tonight. If you're serious, answer them. Properly. No slides." (replaces "Ask your questions properly," which was unclear). Ch 2 echoes it | APPROVED (Scott's note) |
 | 2026-09-29 | **Ch 3 reference-check run; 8 of 8 findings fixed.** Log in `reviews/ch03-reference-check.md` | DONE |
+| 2026-09-29 | **Chapter 4 drafted (v1)** in `chapters/04-uncle-ray-first-visit.md`; reference-check in progress. Plants: the leaning mailbox (pays off in Ch 23), Denise's untouched vegetable corner, the landline and Vern, the quarter-turned mug | DRAFT |
