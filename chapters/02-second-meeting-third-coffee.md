@@ -59,7 +59,7 @@ And, a second later:
 
 **Bring whatever you'd bring to a meeting.**
 
-I looked at that for a long time. It could mean *bring a laptop.* It could mean *bring yourself.* I decided that a person who writes *whatever you'd bring to a meeting* has either a sense of humor or a checklist, and that I could not rule out both.
+I looked at that for a long time. It could mean *bring a laptop.* It could mean *bring a notebook.* I decided that a person who writes *whatever you'd bring to a meeting* has either a sense of humor or a checklist, and that I could not rule out both.
 
 ---
 
