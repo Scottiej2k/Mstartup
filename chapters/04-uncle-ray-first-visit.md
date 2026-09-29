@@ -89,9 +89,9 @@ I would like it noted that I changed pronouns mid-sentence, like a man swapping 
 
 "...Yes."
 
-"How's it been so far, this time?"
+"How's the new thing been, so far?"
 
-I thought about it. It took longer than I liked. Loopback, at that point, had a name, fourteen interviews, and a growing number of people who'd said "love it" when I described the idea to them afterward. Nobody had been asked to pay for anything. "Nice," I said. "It's been nice."
+I thought about it. It took longer than I liked. Loopback, at that point, had a name, fourteen interviews, and a growing number of people who'd said "love it" when I described the idea to them afterward. Nobody had been asked to pay for anything. "People say they love it," I said. "It's been nice."
 
 "Nice." He said it the way you'd say the name of a town you'd driven through. "Has anyone paid you yet?"
 
@@ -105,7 +105,7 @@ It wasn't a guess, exactly. It was arithmetic, done out loud, by a man who'd don
 
 He wiped his hands on his flannel.
 
-"Keep showing up to her interviews."
+"Keep inviting her to your interviews."
 
 "His."
 

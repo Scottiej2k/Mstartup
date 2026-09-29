@@ -31,9 +31,9 @@ I stopped typing.
 
 "I do the calling myself," she said. "Sunday nights, badly. My husband calls it my second shift." She took the glasses off. "If you build something, don't send me a deck. Send me something that works in a waiting room. Not a laptop. A waiting room."
 
-We walked back to the car in silence. "That's the fourth person," said Priya, "who's told us about the ones who just stop. Four different sentences."
+We walked back to the car in silence. "That's four people," said Priya, "and four different sentences."
 
-"The pharmacist with the notebook said it without a sentence," I said.
+"The one with the notebook didn't use a sentence," I said.
 
 She looked at me. She had a small smile that I'd learned meant she'd decided not to say something and I should take it as praise.
 
@@ -131,9 +131,9 @@ Coffees four through eight had been coffee, a movie Maya rated "competent," and 
 
 I'd brought my laptop, and she watched it appear on the table the way you'd watch a large animal enter a small room.
 
-"I said I wasn't going to be your research," said Maya.
+"I said my family wasn't going to be your case study," said Maya.
 
-"You did. I'm not asking for research. I just have a sentence I'm embarrassed about."
+"You did. I'm not asking about your family. I just have a sentence I'm embarrassed about."
 
 "A sentence."
 

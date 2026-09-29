@@ -17,7 +17,7 @@ Kyle considered this with the dignity of a man being asked about a war. "Theoret
 
 The strip of index card sat on my desk beside a cold brew I wasn't drinking. **Maya R.** and ten digits, in handwriting that looked like it had already been proofread.
 
-I want to be precise about the problem, which was not the wording. The problem was the number. She'd given it to me for a stated reason (her mother would ask whether she'd followed up) and possibly for an unstated one, and I could not tell which of them I'd be texting. It was a business number. It was also just a number. I had no confidence at all about which, and a total, unreasonable certainty that I wanted there to be a second coffee.
+I want to be precise about the problem, which was not the wording. The problem was the number. She'd given it to me for a stated reason (her mother would ask whether anyone had followed up) and possibly for an unstated one, and I could not tell which of them I'd be texting. It was a business number. It was also just a number. I had no confidence at all about which, and a total, unreasonable certainty that I wanted there to be a second coffee.
 
 I wrote the first draft at 7:31.
 
@@ -37,7 +37,7 @@ Kyle read this over my shoulder. "You're circling back."
 
 The third draft was four hundred and twelve words long, contained a summary of my qualifications, and had a footnote. I'm not going to talk about the third draft.
 
-The fourth draft I wrote at 9:01, after Priya sent a message to our team channel, which currently had a population of two.
+The fourth draft I wrote at 9:04, after Priya sent a message to our team channel, which currently had a population of two.
 
 **Did you follow up?**
 
@@ -155,9 +155,9 @@ There was a laptop in the bag under my chair. I had not taken it out, and I want
 
 "The practical one is nice."
 
-"It's practical," said Maya, and I understood that this was the end of the subject and also, somehow, not.
+"It's practical," said Maya, and I understood that this was the end of the subject and also, somehow, not. Her mother, I gathered, had reached a conclusion that neither of us had.
 
-She took the index card out of her coat pocket. It was creased from a week of being carried around. "My mother gave me two questions to ask anyone who works in technology. I never got to ask anyone at the mixer. They all wanted to tell me how lucky I was." She read the first line in a voice that wasn't hers. "*Ask if they know what a refill is.*"
+She took the index card out of her coat pocket. It was creased from a week of being carried around. "My mother gave me two questions to ask anyone who works in technology. I never got to ask anyone at the mixer. They all wanted to tell me how lucky I was. I was going to ask you, and then you started asking me things and I forgot I had it." She read the first line in a voice that wasn't hers. "*Ask if they know what a refill is.*"
 
 "Was that your mother's voice?"
 
@@ -178,6 +178,10 @@ She said it fast, like a woman removing a splinter. I filed it.
 "—a habit. A refill is a habit somebody else keeps for you."
 
 She was quiet for a moment. "That's closer," said Maya. "My mother would say the habit part is right. She'd say the somebody-else part is her." She turned the card over. "Second one. *Ask what happens when it breaks.*"
+
+"When what breaks?"
+
+"Whatever you sell her. My mother doesn't specify. She assumes everything does."
 
 "I go quiet."
 
@@ -201,7 +205,7 @@ She looked up. It was a strange feeling to be looked at with that much accuracy.
 
 "You're a person."
 
-"Good." She said it firmly, as if she'd been waiting to. "I'll be honest with you, since you were. I'm allowed to interview you for my mother. You're not allowed to interview my mother for you. It's a one-way street. My family's store isn't your case study. If you build something, do it without her."
+"Good." She said it firmly, as if she'd been waiting to. "I'll be honest with you, since you were. I'm allowed to interview you for my mother. You're not allowed to interview my mother for yourself. It's a one-way street. My family's store isn't your case study. If you build something, do it without her."
 
 "I wasn't—"
 

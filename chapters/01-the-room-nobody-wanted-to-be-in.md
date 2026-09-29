@@ -17,7 +17,7 @@ It was the last week of July, in the ballroom of a hotel in SoMa that had been d
 
 Around me, two hundred people were asking each other the only question anyone in the Valley asks, which is *So what are you working on?* It isn't really a question. It's a handshake with a subtitle. You say the name of your company. They say the name of theirs. Both of you say "Oh, nice," in the tone of someone being handed a stranger's baby.
 
-By eight o'clock I'd had three of these conversations. A man raising a seed round for a compliance startup that helped other compliance startups. A woman who described herself as "pre-idea, post-pitch," which stayed with me longer than most of my college classes. And a guy who told me his company was "Stripe for pets" and then asked whether I knew anyone at Stripe.
+By eight o'clock I'd had three of these conversations. A man raising a seed round (the first real money a startup raises, so called because it's supposed to grow) for a compliance startup that helped other compliance startups. A woman who described herself as "pre-idea, post-pitch," which stayed with me longer than most of my college classes. And a guy who told me his company was "Stripe for pets" and then asked whether I knew anyone at Stripe.
 
 "What are *you* working on?" he asked.
 
@@ -238,7 +238,7 @@ He drifted off. Maya was watching me with her head slightly to one side.
 
 She took the index card and tore a strip from the bottom edge, neatly, along a fold, the way someone tears things who's been taught not to waste paper. She took a pen from her coat pocket and wrote something. Then she handed me the strip.
 
-"I have to come home with a name," Maya said. "My mother will ask if I followed up. She keeps a list."
+"I have to come home with a name," Maya said. "Yours, now. My mother will ask whether anyone followed up, and it isn't going to be me. She keeps a list."
 
 "Everyone in your family keeps a list?"
 
@@ -276,7 +276,7 @@ My phone buzzed.
 
 **Great**, Priya wrote. **Follow up.**
 
-On the Caltrain home, somewhere around Millbrae, I took the strip of index card out of my pocket. It said **Maya R.** and a phone number, in small, exact handwriting, the way you'd fill in a form you intended to be held to.
+I walked most of SoMa before the train, the long way, and missed one on purpose. On the Caltrain home, somewhere around Millbrae, I took the strip of index card out of my pocket. It said **Maya R.** and a phone number, in small, exact handwriting, the way you'd fill in a form you intended to be held to.
 
 Our apartment was dark except for the light over the stove. Kyle was at the counter at twenty to midnight, eating cereal out of a mixing bowl.
 
