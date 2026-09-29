@@ -30,3 +30,5 @@
 | 2026-09-29 | **The ring:** Nate buys the ring himself; Ray only asks questions at the proposal (no heirloom ring) | APPROVED |
 | 2026-09-29 | **Siblings:** Maya has an older brother, Arjun (31, ER resident, Seattle). Nate has a younger sister, Annie (24, vet tech, Dayton area; placeholder name), a small but memorable role | APPROVED |
 | 2026-09-29 | **Backstories** drafted in `characters/backstories/`; age math verified in `timeline.md` | Drafted, PROPOSED |
+| 2026-09-29 | **Ray's voice:** dry humor at the Sample E level; mild, occasional profanity; a few plain Denise moments | APPROVED |
+| 2026-09-29 | **Ray is not an oracle:** his advice is well intentioned but Nate decides whether to follow it (and lives with the outcome). No recurring "Ray retracts his advice" device | APPROVED (Scott's direction) |

@@ -27,8 +27,12 @@ wise, he says it plainly, then asks if anyone wants more coffee.
    says "your hypothetical co-founder," with a completely straight face.
 4. **Leaves gaps.** He pauses before answering. Nate narrates the pause; Ray
    doesn't explain it.
-5. **Is sometimes wrong, and says so.** "That was bad advice. Let me try again."
-   This is essential; it's what makes him trustworthy, not an oracle.
+5. **Is not an oracle.** Ray's advice is always well intentioned, never a verdict.
+   He offers it, sometimes flags its limits ("That's what I'd do. I'm not you."),
+   and lets it go. **Nate decides** whether to follow it. Sometimes he does and it
+   works; sometimes he does and it's incomplete; sometimes he ignores it and
+   learns something Ray couldn't have told him. Ray never chases him for
+   results and never says "I told you so."
 6. **Talks with his hands busy.** Pruning, pouring, cleaning a radio dial, checking
    the vines. Hard conversations happen while he's doing a task.
 7. **Repeats a few plain phrases** (see the bank below) so readers learn them.
@@ -36,13 +40,14 @@ wise, he says it plainly, then asks if anyone wants more coffee.
 ### What Ray never does
 - Says "I know what this is really about," or anything equivalent. (Pretense stays
   unspoken to the end.)
-- Gives a speech longer than four sentences. Exception: a story about Denise, and
-  even then he stops early.
+- Gives a speech longer than four sentences. Exception: a plain moment about
+  Denise, and even then he stops early.
 - Uses fortune-cookie wisdom ("A tomato doesn't rush to ripen"). He says a
   true, small, specific thing instead.
 - Uses startup terms un-ironically ("disrupt," "leverage," "synergy").
 - Comforts Nate with flattery. His warmth shows as attention.
-- Swears more than once or twice in the whole book. (See Q3.)
+- Overdoes the profanity. **DECIDED:** mild and occasional ("damn," "hell,"
+  the odd "crap"), never aimed at Nate, never for shock value.
 
 ## 3. Tells: how Ray shows he knows without saying it
 Nate learns to read these, and so does the reader:
@@ -176,8 +181,8 @@ He handed me the pruners. "Take the suckers off the left row. Not the flowers."
 
 ---
 
-### Sample C: Chapter 16, Ray is wrong
-*Setting: Ray's porch, evening. Nate has just built a "fix" for something that
+### Sample C: Chapter 16, advice Nate has to decide about
+*Setting: Ray's porch, evening. Nate has built a "fix" for something that
 wasn't broken.*
 
 "Say a customer has a scheduling problem," I said. "Bad one. I built a workaround
@@ -186,59 +191,47 @@ voice do the thing. "They said thanks. And then they looked at their hands."
 
 "Hm."
 
-"So do I charge for the workaround? Is it worth more if I put it in a premium
-tier?"
+"So do I charge for the workaround? Put it in a premium tier?"
 
-"Charge for it," Ray said immediately. "If it works, it's worth money. People
-take you seriously when you charge."
+Ray sat with it for about a minute and a half. A truck went by.
 
-I nodded. It was a good answer. It was a *fast* answer.
+"If it works, it's worth money," he said. "Charge for it. People take you
+seriously when you do." He turned his cup a quarter turn on the rail. "That's
+what I'd do. Damn near always. I'm not sure it's what you should do this time."
 
-Ray sat with it for about a minute and a half. A truck went by. Then he said,
-"That was bad advice."
+"Why not?"
 
-"It sounded right."
-
-"It was a founder's answer. It answered what you asked and not what happened."
-He put his cup down. "You said they looked at their hands."
+"You said they looked at their hands."
 
 "Yes."
 
-"Why'd they do that?"
-
-"I don't know."
-
-"What did they say before you showed them the fix?"
+"What did they say before you showed them?"
 
 I thought about the call. About the forty minutes before I opened my laptop.
 "That they were tired. That it wasn't the software. They said it was the whole
 week."
 
-Ray waited.
+Ray waited. He didn't fill it.
 
-"And I built them a feature," I said.
+"I'm not going to tell you what that means," he said finally. "I only know I
+wouldn't put a price on it yet."
 
-"You built them a feature." He didn't say it unkindly. He said it the way he
-said the tomatoes were fine. "Nate, I'm going to ask you something. Not as
-advice."
+"So don't charge?"
 
-"Okay."
+"I said what I'd do. It's your customer." He picked up his cup. "Want to see
+how the Cherokees are doing?"
 
-"Did they ask for it?"
+I drove home with two pieces of advice that didn't agree with each other. On the
+freeway I decided not to follow either. I called the customer from the parking
+lot of my building, and I didn't mention the workaround, and I asked how the
+week had been. It was the longest call of the quarter and it made us no money.
 
-I had the answer, and it was going to stay in the car with me for the entire
-drive home.
+I told Ray on Saturday. He said, "Huh." Then, after a while, "I'd have charged
+for it."
 
-"No," I said.
+"I know."
 
-"Then you gave them a solution to a problem they hadn't handed you." He picked
-his cup back up. "Sometimes the customer wants a fix. Sometimes they want a
-person who's there while they're tired. The trick is finding out which
-before you open the laptop."
-
-"How do you find out?"
-
-"You ask." He smiled a little. "Wild idea."
+"Doesn't mean I'd have been right."
 
 ---
 
@@ -357,16 +350,19 @@ Why it's wrong: it names the parallel (the reflections do that job), gives a
 speech, uses greeting-card language, and admits he knows. Ray would say
 maybe eight of those words, and none of the last five.
 
-## 8. Questions for Scott
-1. **Humor:** More or less funny? Sample E is the funniest Ray gets. Is that the
-   right ceiling?
-2. **Ray being wrong:** Sample C shows it. Should it happen more often, or once or
-   twice a book?
-3. **Swearing:** Should Ray ever curse? (My default: once, at a key moment, and it's
-   a shock.)
-4. **Regional voice:** Any Ohio residue ("pop," "you guys"), or fully neutral
+## 8. Decisions (2026-09-29)
+- **Humor:** Sample E is the ceiling. Dry, occasional, mostly at his own expense or
+  at Valley jargon.
+- **Advice:** Ray is not an oracle. His advice is well intentioned; Nate decides
+  whether to follow it, and lives with the result. (Sample C rewritten.)
+- **Profanity:** mild and occasional.
+- **Denise:** a few plain moments spread through the book, like Sample D. She
+  builds presence without dominating; "She'd have liked her" in Ch 22 still lands.
+
+## 9. Still open
+1. **Regional voice:** any Ohio residue ("pop," "you guys"), or fully neutral
    California?
-5. **Denise mentions:** Sample D gives her a story. Should Ray talk about her
-   more, or keep her almost entirely offstage until the end?
-6. **Poetry/quotes:** Should Ray ever quote something (a poem, an old radio
-   manual, a Denise line), or stay purely plain?
+2. **Quoting:** should Ray ever quote something (a radio manual, a Denise line), or
+   stay purely plain?
+3. **Nate's narration of Ray:** should Nate describe Ray's physical presence more
+   (hands, posture) or keep it minimal and let the dialogue carry him?
