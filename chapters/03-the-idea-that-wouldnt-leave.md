@@ -211,7 +211,7 @@ She thought about it, chewing, and pointed at me with her chopstick.
 
 I went home on the train that night, and I opened the page that had been called *Healthcare, something?* for two months.
 
-I looked at the question mark for a while. I have said, to more than one person, that I don't remove a question mark without evidence.
+I looked at the question mark for a while. I have said, to more than one person, that I don't remove a question mark without evidence. Maya had told me, at the door of a ballroom, to get some.
 
 I had fourteen interviews. I had a notebook with a rubber band around it and a doctor's second shift and a man on a kitchen floor. I had a sentence, written by a woman who had refused to consult, that said *we just wanted to hear you were fine.* I had a word on a whiteboard that we'd written twice.
 

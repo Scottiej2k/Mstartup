@@ -70,7 +70,7 @@ character's trouble read as the same trouble.
 | "Nobody's job is to notice" | Ch 1 | Ch 3, a light echo in Ch 9, then quiet | Ch 21 (pivot), Ch 24 (Nate takes the job) |
 | The question mark | Ch 1 | Ch 3 (he removes it) | Ch 22 |
 | Lakshmi's receipt-roll call list | Ch 1 | Ch 3, 7 | Ch 21 (Loopback makes the call) |
-| "Answer them properly. No slides." (Maya's exit line) | Ch 1 | Ch 2, Ch 5 | Ch 20 (he answers, plainly, with no slide) |
+| "Good luck with the question mark. Get some evidence." (Maya's exit line) | Ch 1 | Ch 3 (he removes it, with evidence) | (paid off in Ch 3) |
 | "Optionality" (Cole) | Ch 1 | Ch 2, 8 | Ch 23 (Cole alone) |
 | Ray's quarter-turn cup | Ch 4 | Ch 8, 16 | Ch 22 |
 | Denise's rules | Ch 4 (a photo) | Ch 15 (dishes) | Ch 22, 24 |
@@ -120,7 +120,7 @@ character's trouble read as the same trouble.
 - **Plant (vision):** one interview isn't healthcare: a property manager describes an elderly tenant nobody checked on. Nate writes it down and tells Priya, "Healthcare first." The general idea is *a pulse check*; healthcare is the wedge.
 - **Note:** *The best ideas come from someone else's pain.* (Slide, confident.) Twin left implicit.
 
-### Ch 4. Uncle Ray, First Visit
+### Ch 4. Uncle Ray
 **~3,800 words · Sep, Y1**
 - **Purpose:** Introduce Ray and the "hypothetically" device.
 - **Startup beat:** Nate needs a sounding board about prioritizing buyers vs. non-buyers.

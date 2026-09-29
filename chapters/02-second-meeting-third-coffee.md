@@ -17,7 +17,7 @@ Kyle considered this with the dignity of a man being asked about a war. "Theoret
 
 The strip of index card sat on my desk beside a cold brew I wasn't drinking. **Maya R.** and ten digits, in handwriting that looked like it had already been proofread.
 
-She'd told me to answer her mother's two questions properly, with no slides. I'd spent most of the night working out what that meant. The questions, *Ask if they know what a refill is* and *Ask what happens when it breaks,* had been sitting in her hand for an hour because nobody at that mixer had let her ask either one. Properly, I decided, meant honestly, and without a single slide.
+I want to be precise about the problem, which was not the wording. The problem was the number. She'd given it to me for a stated reason (her mother would ask whether she'd followed up) and possibly for an unstated one, and I could not tell which of them I'd be texting. It was a business number. It was also just a number. I had no confidence at all about which, and a total, unreasonable certainty that I wanted there to be a second coffee.
 
 I wrote the first draft at 7:31.
 
@@ -25,7 +25,7 @@ I wrote the first draft at 7:31.
 
 I looked at the two exclamation points the way you look at a dent in a rental car, and deleted the message.
 
-*Maya, Nate Calloway. Following up as promised. Would love to circle back on your mother's questions.*
+*Maya, Nate Calloway. Following up as discussed. Would love to circle back on the pharmacy's challenges.*
 
 Kyle read this over my shoulder. "You're circling back."
 
@@ -35,7 +35,7 @@ Kyle read this over my shoulder. "You're circling back."
 
 "Crap," I said, to the phone.
 
-The third draft was four hundred and twelve words long and contained a definition of "refill" with a footnote. I'm not going to talk about the third draft.
+The third draft was four hundred and twelve words long, contained a summary of my qualifications, and had a footnote. I'm not going to talk about the third draft.
 
 The fourth draft I wrote at 9:01, after Priya sent a message to our team channel, which currently had a population of two.
 
@@ -49,7 +49,7 @@ The fourth draft I wrote at 9:01, after Priya sent a message to our team channel
 
 **Send it.**
 
-So I did. It said: *It's Nate, from the cup. I'd like to answer your mother's two questions, properly. No slides. Coffee? I'll bring the answers.*
+So I did. It said: *It's Nate, from the cup. Coffee sometime? I'd like to hear more about the pharmacy. (Also coffee.)*
 
 She wrote back in four minutes. I know because I timed it, and I do not recommend timing it.
 
@@ -57,7 +57,9 @@ She wrote back in four minutes. I know because I timed it, and I do not recommen
 
 And, a second later:
 
-**Bring the answers.**
+**Bring whatever you'd bring to a meeting.**
+
+I looked at that for a long time. It could mean *bring a laptop.* It could mean *bring yourself.* I decided that a person who writes *whatever you'd bring to a meeting* has either a sense of humor or a checklist, and that I could not rule out both.
 
 ---
 
@@ -79,7 +81,13 @@ There was a silence on the call, and it had a shape.
 
 "So it's a CRM for a person." (A CRM is the software salespeople use to keep track of customers, one touch at a time.)
 
-"Please close that tab."
+"Is the coffee a business thing," said Priya, "or a date?"
+
+"Yes."
+
+"That's not an answer."
+
+"It's the only accurate one. Please close that tab."
 
 "I'm not going to say anything," Priya said. She has known me for five years and has an exceptional poker face for someone who is apparently made of tenderness. "I'd like to be clear that I'm not saying anything."
 
@@ -133,21 +141,35 @@ The barista called out a name and handed her a cup. On the side, in black marker
 
 "Which ones are?"
 
-"I'll let you know." She put a hand flat next to her cup, and I understood there was a clock and that it was her. "You have answers."
+"I'll let you know." She put a hand flat next to her cup, and I understood that there was a clock and that it was her. "You have forty-five minutes."
 
-"I have answers."
+There was a laptop in the bag under my chair. I had not taken it out, and I wanted that noted. I'd spent twenty minutes that afternoon deciding what to wear and had ended up in the shirt I wear to pitch, which is a shirt that says *I have read about this.* It was not a date shirt. It was also not not a date shirt. Maya was in a gray sweater under the buttoned coat, with her hair down, and I noticed these things and filed them in a drawer marked *inconclusive.*
 
-"You have forty-five minutes."
+"Is this—" I began.
 
-I had decided to lead with the easy one. "Question one," I said. "Do I know what a refill is."
+"It's a coffee," said Maya.
 
-"Do you?"
+"Right."
 
-"I did some reading."
+"I told my mother this was research. She asked what I was wearing." She took a sip. "I wore the practical one."
 
-"That's not the same thing."
+"The practical one is nice."
 
-"It's a recurring prescription authorization in which—" She looked at the table, and I stopped. "A refill is when a person who's supposed to come back, comes back," I said. "It's the only thing a pharmacy has that's like a relationship. Everything else is a transaction. A refill is a promise—"
+"It's practical," said Maya, and I understood that this was the end of the subject and also, somehow, not.
+
+She took the index card out of her coat pocket. It was creased from a week of being carried around. "My mother gave me two questions to ask anyone who works in technology. I never got to ask anyone at the mixer. They all wanted to tell me how lucky I was." She read the first line in a voice that wasn't hers. "*Ask if they know what a refill is.*"
+
+"Was that your mother's voice?"
+
+"That was my mother's voice."
+
+"So I'm your mother's research."
+
+"You're my mother's research," said Maya. "I'd like it noted that I'm aware how convenient that is." She looked at the card, not at me. "It's easier if it's homework."
+
+I found I had nothing to say to that, so I answered the question.
+
+"I did some reading," I said. "It's a recurring prescription authorization in which—" She looked at the table, and I stopped. "A refill is when a person who's supposed to come back, comes back. It's the only thing a pharmacy has that's like a relationship. Everything else is a transaction. A refill is a promise—"
 
 "Don't say promise."
 
@@ -155,11 +177,7 @@ She said it fast, like a woman removing a splinter. I filed it.
 
 "—a habit. A refill is a habit somebody else keeps for you."
 
-She was quiet for a moment. "That's closer," said Maya. "My mother would say the habit part is right. She'd say the somebody-else part is her."
-
-"And question two."
-
-"What happens when it breaks."
+She was quiet for a moment. "That's closer," said Maya. "My mother would say the habit part is right. She'd say the somebody-else part is her." She turned the card over. "Second one. *Ask what happens when it breaks.*"
 
 "I go quiet."
 
@@ -183,7 +201,7 @@ She looked up. It was a strange feeling to be looked at with that much accuracy.
 
 "You're a person."
 
-"Good." She said it firmly, as if she'd been waiting to. "I'll be honest with you, since you were. I'm not going to be your research. My family's store isn't your case study. If you build something, do it without my mother."
+"Good." She said it firmly, as if she'd been waiting to. "I'll be honest with you, since you were. I'm allowed to interview you for my mother. You're not allowed to interview my mother for you. It's a one-way street. My family's store isn't your case study. If you build something, do it without her."
 
 "I wasn't—"
 
@@ -203,11 +221,15 @@ I could have lied. The lie was lying right there, in easy reach, like a slider. 
 
 "One what?"
 
-"Coffee." She said it the way you'd read a meter. "There's a cliff after two. People are lovely for two coffees and then they vanish. I count so I know how far out on it we are."
+"Coffee." She said it the way you'd read a meter. "There's a cliff after two. People are lovely for two coffees and then they vanish. So I count."
 
 "And after three?"
 
-"I'll let you know."
+"I don't name things until coffee three," said Maya. "Whatever this is, it doesn't have a name yet."
+
+"Is that a good sign?"
+
+"It's a sign."
 
 She left. I sat there with an empty cup and the feeling of having been graded by someone who hadn't shown me the rubric. I'd like to say I was anxious. What I was, I think, was awake.
 
@@ -351,7 +373,7 @@ I looked at her cup, the label turned away, the coat unbuttoned. I tried the thi
 
 She didn't answer right away. Her eyes went to my hands, then to the table, then back to my face.
 
-"Okay," said Maya.
+"Okay," said Maya. "It has a name now." She did not say what the name was.
 
 I took it for yes. It was a yes, but it was also a door held open six inches by someone who hadn't decided whether to hold it wider. I'd learn the difference later, at some cost.
 

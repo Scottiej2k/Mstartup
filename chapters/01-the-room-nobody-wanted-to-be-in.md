@@ -248,11 +248,7 @@ She took the index card and tore a strip from the bottom edge, neatly, along a f
 
 "I'm sure," said Maya, with an expression I couldn't read yet: not sarcasm, exactly, but its kinder cousin, the look of someone who's decided to see what happens. She turned. She put her hand on the door.
 
-Then she held up what was left of the index card, the two questions in her mother's blue ballpoint.
-
-"Nobody answered these tonight," said Maya. "If you're serious, answer them. Properly. No slides."
-
-"It was nice meeting you, Nate."
+"It was nice meeting you, Nate," she said. "Good luck with the question mark. Get some evidence."
 
 She was gone. The door swung behind her.
 

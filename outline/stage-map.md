@@ -27,7 +27,7 @@
 1. The Room Nobody Wanted To Be In (mixer; Maya sent by her mother)
 2. Second Meeting, Third Coffee (dating-app culture and optionality)
 3. The Idea That Wouldn't Leave (the company idea sharpens; Maya's pharmacy insight)
-4. Uncle Ray, First Visit ("hypothetically...")
+4. Uncle Ray ("hypothetically...")
 
 ### Part 2: Discovery
 5. Asking Better Questions (customer interviews vs. dates)
