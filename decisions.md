@@ -52,4 +52,7 @@
 | 2026-09-29 | **Motif:** the misspelled "MAYA RAMEN" lanyard (her mother filled out the form) can recur lightly. Cole's "Optionality, man" plants the Ch 2 and Ch 8 theme. Lakshmi's receipt-roll call list is the human seed of Loopback | APPROVED |
 | 2026-09-29 | **Chapter length:** shorter is fine when the chapter is tight; target range 3,000-4,500 words | APPROVED |
 | 2026-09-29 | **Beat sheets** for all 24 chapters drafted in `outline/beat-sheets.md`; Ch 2 Founder's Note principle changed to "Follow up" (optionality moves to Ch 8) | Drafted, PROPOSED |
-| 2026-09-29 | **Structural idea (proposed):** "nobody's job is to notice" as the second-half spine. Meridian's staff, Theo, Maya, Lakshmi and Nate are all overloaded; the Ch 21 pivot makes noticing someone's job, with room to do it | PROPOSED |
+| 2026-09-29 | **Growth, not one theme:** Nate learns a different lesson in each part (ask, stay, answer, scale costs, presence, noticing). "Nobody's job is to notice" is set up early, goes quiet in the middle, and returns near the end: he builds a company to do the noticing and takes the job in his marriage. Rejected: making overload the second-half spine | APPROVED (Scott's direction) |
+| 2026-09-29 | **Wedding:** a simple civil ceremony, then a party | APPROVED |
+| 2026-09-29 | **Theo returns** on better terms (part-time, after the on-call problem is fixed) | APPROVED |
+| 2026-09-29 | **Sequel hook:** the pregnancy plus a new Loopback product forming | APPROVED |

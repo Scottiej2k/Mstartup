@@ -26,21 +26,24 @@ Consistency notes: Ch 19 falls about 2 years 3 months after the mixer, so Maya's
 sample now says "in two years and change." The Sunday reminder was set in March
 (after Ch 16) and Maya sees it in October (Ch 19).
 
-### 0.2 The unifying idea: *nobody's job is to notice*
-The mixer's key line becomes the book's spine. In the second half, every
-character is overloaded, and the overload is the same failure:
+### 0.2 Nate's growth ladder (a different lesson each part)
+**DECIDED (Scott):** the book must not hammer one theme. Nate learns something
+*different* in each part, in ways that surprise him. "Nobody's job is to notice" is
+set up in Ch 1 and Ch 3, echoes lightly (Ch 9), goes quiet through the middle, and
+**returns near the end**: Nate has built a company to take on the job of
+noticing, and he also takes on the job of noticing in his marriage.
 
-| Who | The overload | Who notices? |
+| Part | What Nate learns | How it shows |
 |---|---|---|
-| Meridian's staff | Loopback's automated alerts swamp them | Nobody (they leave) |
-| Theo | On-call for the alert engine, burnout | Nobody, until he quits |
-| Maya | Pharmacy expansion doubles her work | Nate solves; nobody asks |
-| Lakshmi | Calls patients every evening | Only Maya |
-| Nate | Runs everything, feels nothing | Ray, Priya, eventually Maya |
+| 1 The Spark | To ask, and to want the real answer | He follows up; he lets Maya's answer change his idea |
+| 2 Discovery | To stay when it's uncomfortable, and to commit without hedging | The ugly demo; the fight and the trail |
+| 3 Commitment | To be answerable: to answer when it breaks | The midnight outage; the lease; repairing with Kyle |
+| 4 Growth | What scale and speed cost, and that helping isn't listening | The green arrow; the staffing spreadsheet |
+| 5 The Crisis | To be present without a plan | The car; the couch; not opening the spreadsheet |
+| 6 Maturity | To take responsibility for noticing | The pivot; the proposal; Ch 24 |
 
-The pivot (Ch 21) makes noticing *someone's job, with room to do it*. The marriage
-version is the same: someone has to notice, and it can't be the same person every
-time.
+The middle chapters should each have their own concern. Don't let every
+character's trouble read as the same trouble.
 
 ### 0.3 Who is where (character tracker)
 
@@ -55,7 +58,7 @@ time.
 | **Lakshmi / Suresh** | (mentioned) | 7 | 9 | 15, 16 | 20 | 22, 23 |
 | **Jules** | 2 | 8 | 11 | | 19, 20 | 23 |
 | **Annie / Dan / Carol** | | | 12 | | | 23 |
-| **Theo** | | | | 13, 14 | 17 (exits) | 21 (mention) |
+| **Theo** | | | | 13, 14 | 17 (exits) | 21 (returns, part-time), 23 (at the party) |
 | **Arjun** | | | | 15 | 20 | 23 |
 
 ### 0.4 Motif tracker (planted and paid off)
@@ -64,7 +67,7 @@ time.
 |---|---|---|---|
 | The cup of water | Ch 1 | Ch 2 (he doesn't hold one), Ch 6 | Ch 24 (a glass he doesn't need to hold) |
 | Maya's coat / the door | Ch 1 | Ch 7, 8 | Ch 19 (she sits on the couch, coat off) |
-| "Nobody's job is to notice" | Ch 1 | Ch 3, 9 | Ch 21 (pivot), Ch 24 |
+| "Nobody's job is to notice" | Ch 1 | Ch 3, a light echo in Ch 9, then quiet | Ch 21 (pivot), Ch 24 (Nate takes the job) |
 | The question mark | Ch 1 | Ch 3 (he removes it) | Ch 22 |
 | Lakshmi's receipt-roll call list | Ch 1 | Ch 3, 7 | Ch 21 (Loopback makes the call) |
 | "Ask your questions properly" | Ch 1 | Ch 5 | Ch 20 (he asks) |
@@ -339,9 +342,16 @@ time.
 
 ### Ch 21. Rebuild
 **~4,200 words · Jan-Apr, Y4**
-- **Purpose:** The company finds its answer; the relationship finds its ritual.
-- **Startup beat:** Carla finally tells Nate why Meridian left: "You listened. Nothing changed." Loopback pivots: instead of automated alerts, it routes cases to a named person with time set aside to call. Lakshmi's receipt-roll list becomes a product. Suresh asks to try it, on his terms.
-- **Relationship beat:** Dishes with Maya (Sample G, Nate's): the unfinished metaphor. The blameless post-mortem on the kitchen table. Cole's late call: he's lonely, and asks for advice.
+- **Purpose:** The company finds its answer; the relationship finds its ritual. This is where "nobody's job is to notice" comes back, lightly, once.
+- **Startup beat:** Carla finally tells Nate why Meridian left: "You listened. Nothing changed." Loopback pivots: instead of automated alerts, it routes each missed follow-up to a *named person with protected time to make the call*. Lakshmi's receipt-roll list is, in effect, the product. **Theo returns part-time** now that on-call is fixed. Suresh asks to try it, on his own terms ("I think I'd like to be asked").
+- **Relationship beat:** Dishes with Maya (Nate's Sample G): the unfinished metaphor. The blameless post-mortem at the kitchen table. Cole's late call: lonely, asking for advice.
+- **Scenes:**
+  1. Carla's debrief at a coffee shop (short; hard).
+  2. Whiteboard: the pivot; Priya draws the "named person."
+  3. Theo at the door, hoodie, "Is the pager still a thing?"
+  4. Suresh in the pharmacy, the fax machine, "Ask me."
+  5. The dishes; the kitchen table post-mortem.
+  6. Cole on the phone, late.
 - **Note:** *Repair without blame.* (Memo, quiet.) "That's a very Nate way to put it."
 
 ### Ch 22. Ray's Questions
@@ -353,23 +363,43 @@ time.
 
 ### Ch 23. The Wedding
 **~4,500 words · Sep Y4-May Y5**
-- **Purpose:** Two families, one day; ritual outlasts feeling.
-- **Beats:** The proposal at 6 a.m. on the trail ("I don't have a backup." "Okay." then yes). The wedding at Ray's garden. Dan's toolbox with the note. Kyle's badly timed toast. Priya and Sam, Margo, Cole alone, Jules, Arjun, Annie, Hannah's text. Maya's Tamil slip to Nate. Ray mails the Walt letter on Sunday morning; Nate sees.
+- **Purpose:** Two families, one small day, then a party; ritual outlasts feeling.
+- **DECIDED (Scott):** a **simple civil ceremony, then a party.**
+- **Beats:**
+  1. **The proposal at 6 a.m. on the trail** ("I don't have a backup." Maya: "Okay." then yes).
+  2. **The civil ceremony** (a small, plain room; immediate family only: Suresh, Lakshmi, Arjun, Dan, Carol, Annie, Ray, plus Priya and Jules as witnesses). Lakshmi presses something into Maya's hand before they go in; Dan hands Nate a toolbox with a note: "Text me when you get there."
+  3. **The party** that evening (proposed: **Ray's garden**, tomatoes and string lights, catered by Lakshmi's cousins; open to change). Kyle's badly timed toast. Theo, Margo, Cole alone, Hannah's text. Maya's Tamil word slips out to Nate, and he doesn't fake understanding.
+  4. **Sunday morning:** Nate sees Ray at the mailbox, dropping the Walt letter in. Neither says a word.
 - **Note:** *Culture is what you keep doing.* (Slide, warm.)
 
 ### Ch 24. Runway, Revisited
 **~3,500 words · Oct, Y5**
-- **Purpose:** The sequel hook.
-- **Beats:** Series A company stable; a second product idea forming; Nate and Maya at 6 a.m., their honest hour. Maya tells him she's pregnant. Small, domestic. A glass of water he doesn't need to hold. Ray's coffee, Walt's reply pending.
+- **Purpose:** The sequel hook: **the pregnancy plus a new product** (Scott).
+- **Beats:**
+  1. Loopback is stable. A second product is forming; Nate sketches it on a napkin and doesn't finish. (See open items for candidate ideas.)
+  2. **He has noticed.** For weeks: she turned down wine, she stopped mid-sentence at the smell of coffee. He said nothing and didn't fix it. He waited to be told. (This is the *return* of "nobody's job is to notice": the job is now his, and he does it without taking over.)
+  3. 6 a.m., their honest hour: Maya tells him she's pregnant. Small, domestic.
+  4. A glass of water he doesn't need to hold.
+  5. A last look at the two open threads: Walt's reply hasn't come, and the napkin is still blank.
 - **Note:** **Reserved.** Written last, with Scott.
 
 ---
 
+## Decisions from this pass (2026-09-29)
+- Growth ladder replaces the "overload spine"; the noticing idea returns near the end.
+- Wedding: simple civil ceremony, then a party.
+- Theo returns part-time in Ch 21.
+- Sequel hook: pregnancy plus a new product.
+
 ## Open items for Scott
-1. **The wedding:** religion, traditions, and setting. Ray's garden (proposed) or elsewhere? Which ceremony elements?
-2. **Where they live:** Sunnyvale (proposed).
-3. **The pharmacy expansion:** an adjacent consultation room and vaccination corner (proposed).
-4. **Meridian's reason and the pivot:** "You listened. Nothing changed." Right?
-5. **Theo:** does he come back at the end?
-6. **The proposal:** trail at 6 a.m. (proposed) or somewhere else.
-7. **The sequel hook:** Walt's reply, a second product, Maya's next chapter, the baby. Which is loudest?
+1. **Party location:** Ray's garden (proposed) or the pharmacy or somewhere else?
+2. **Wedding details:** any ritual from either family? Lakshmi's item pressed into Maya's hand: what is it?
+3. **The new product** (Ch 24), candidates:
+   - **(a) Loopback for caregivers:** noticing on behalf of the person who does all the noticing (recommended: echoes Lakshmi, Maya, Nate).
+   - **(b) Home-health follow-up** (a bigger market, less personal).
+   - **(c) Maternal/postpartum follow-up** (too neat next to the pregnancy?).
+4. **Where they live:** Sunnyvale (proposed).
+5. **The pharmacy expansion:** an adjacent consultation room and vaccination corner (proposed).
+6. **Meridian's reason:** "You listened. Nothing changed." Right?
+7. **The proposal:** trail at 6 a.m. (proposed).
+8. **In Ch 24, does Nate notice before Maya tells him** (proposed), or is it a surprise?
