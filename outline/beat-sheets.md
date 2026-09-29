@@ -117,6 +117,7 @@ character's trouble read as the same trouble.
   3. Nate shows Maya the sketch. She rewrites the wording. Then: "I'll tell you what's wrong with it. I won't build it."
   4. Nate removes the question mark from the Notion page (payoff to Ch 1).
 - **Plants:** Loopback's human-in-the-loop instinct (Lakshmi's calls) and the danger of automating it; Maya's line: "It's a good idea if it makes someone's Tuesday easier."
+- **Plant (vision):** one interview isn't healthcare: a property manager describes an elderly tenant nobody checked on. Nate writes it down and tells Priya, "Healthcare first." The general idea is *a pulse check*; healthcare is the wedge.
 - **Note:** *The best ideas come from someone else's pain.* (Slide, confident.) Twin left implicit.
 
 ### Ch 4. Uncle Ray, First Visit
@@ -368,7 +369,7 @@ character's trouble read as the same trouble.
 - **Beats:**
   1. **The proposal at 6 a.m. on the trail** ("I don't have a backup." Maya: "Okay." then yes).
   2. **The civil ceremony** (a small, plain room; immediate family only: Suresh, Lakshmi, Arjun, Dan, Carol, Annie, Ray, plus Priya and Jules as witnesses). Lakshmi presses something into Maya's hand before they go in; Dan hands Nate a toolbox with a note: "Text me when you get there."
-  3. **The party** that evening (proposed: **Ray's garden**, tomatoes and string lights, catered by Lakshmi's cousins; open to change). Kyle's badly timed toast. Theo, Margo, Cole alone, Hannah's text. Maya's Tamil word slips out to Nate, and he doesn't fake understanding.
+  3. **The party** that evening (**Ray's backyard**: a nice, ordinary yard at his suburban house, string lights, catered by Lakshmi's cousins; not a tomato garden). Kyle's badly timed toast. Theo, Margo, Cole alone, Hannah's text. Maya's Tamil word slips out to Nate, and he doesn't fake understanding.
   4. **Sunday morning:** Nate sees Ray at the mailbox, dropping the Walt letter in. Neither says a word.
 - **Note:** *Culture is what you keep doing.* (Slide, warm.)
 
@@ -376,7 +377,7 @@ character's trouble read as the same trouble.
 **~3,500 words · Oct, Y5**
 - **Purpose:** The sequel hook: **the pregnancy plus a new product** (Scott).
 - **Beats:**
-  1. Loopback is stable. A second product is forming; Nate sketches it on a napkin and doesn't finish. (See open items for candidate ideas.)
+  1. Loopback is stable in healthcare. Nate sketches the next step on a napkin: the same **pulse check** for people who live alone, for new parents, for anyone whose silence would go unnoticed. He doesn't finish the sketch. (Loopback was always more general than pharmacies; healthcare was the first vertical, not the last.)
   2. **He has noticed.** For weeks: she turned down wine, she stopped mid-sentence at the smell of coffee. He said nothing and didn't fix it. He waited to be told. (This is the *return* of "nobody's job is to notice": the job is now his, and he does it without taking over.)
   3. 6 a.m., their honest hour: Maya tells him she's pregnant. Small, domestic.
   4. A glass of water he doesn't need to hold.
@@ -392,12 +393,9 @@ character's trouble read as the same trouble.
 - Sequel hook: pregnancy plus a new product.
 
 ## Open items for Scott
-1. **Party location:** Ray's garden (proposed) or the pharmacy or somewhere else?
+1. **Party location:** Ray's backyard. **DECIDED** it is a plain, pleasant suburban yard, *not* a tomato garden. (Ray's home and hobbies are being revisited; see `decisions.md`.)
 2. **Wedding details:** any ritual from either family? Lakshmi's item pressed into Maya's hand: what is it?
-3. **The new product** (Ch 24), candidates:
-   - **(a) Loopback for caregivers:** noticing on behalf of the person who does all the noticing (recommended: echoes Lakshmi, Maya, Nate).
-   - **(b) Home-health follow-up** (a bigger market, less personal).
-   - **(c) Maternal/postpartum follow-up** (too neat next to the pregnancy?).
+3. **The new product** (Ch 24): **DECIDED:** the general pulse check widening to other verticals (people who live alone, new parents, and so on). Open: which vertical is the first one Nate sketches? (New parents lands next to the pregnancy; living alone echoes Mr. Peralta. Recommend living alone, with new parents left for the sequel.)
 4. **Where they live:** Sunnyvale (proposed).
 5. **The pharmacy expansion:** an adjacent consultation room and vaccination corner (proposed).
 6. **Meridian's reason:** "You listened. Nothing changed." Right?

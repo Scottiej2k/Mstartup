@@ -56,3 +56,5 @@
 | 2026-09-29 | **Wedding:** a simple civil ceremony, then a party | APPROVED |
 | 2026-09-29 | **Theo returns** on better terms (part-time, after the on-call problem is fixed) | APPROVED |
 | 2026-09-29 | **Sequel hook:** the pregnancy plus a new Loopback product forming | APPROVED |
+| 2026-09-29 | **Loopback is a general "pulse check":** healthcare is the first vertical (deliberately) but the idea is broader (people who live alone, new parents, etc.) and Nate has ambition to expand into more verticals. Replaces the "caregivers" / "maternal follow-up" candidates. Ch 24 hook = the pulse check widening to a second vertical | APPROVED (Scott's direction) |
+| 2026-09-29 | **Wedding party:** at Ray's backyard, a nice ordinary suburban-yard, not a tomato garden | APPROVED (Scott's direction). Implications for Ray's home and hobbies are pending |
