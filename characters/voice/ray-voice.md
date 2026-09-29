@@ -73,6 +73,7 @@ Nate learns to read these, and so does the reader:
 - **Not** a tomato garden. Tomatoes are gone from Ray's voice, jokes and
   metaphors.
 - The yard is the wedding-party setting (Ch 23).
+- **He isn't working.** Ray sold his company years ago and only works on projects he's passionate about; for most of the book he has none. He gives free advice to friends, family and old friends from the startup scene. Nate is one of several. Small signs of this life show up in scenes: a landline that rings, a name on a Post-it, a second car in the drive, an old colleague leaving as Nate arrives. Ray never talks about "my other mentees."
 
 ## 4. Phrase bank (use sparingly; each earns its place)
 - "Well." (a full sentence)

@@ -129,7 +129,8 @@ character's trouble read as the same trouble.
   1. Drive to Santa Cruz mountains; Nate's phone dies; he arrives without a plan.
   2. Ray's backyard (Sample A): staking out a flowerbed, the quarter-turned mug, second coffee. Nate misreads the tell ("Ray seemed tired").
   3. The yard tour: the pond that isn't dug yet, Denise's small vegetable corner he never touches; the framed photo of Denise in the kitchen; Ray mentions her plainly, once.
-  4. The drive home; Nate notes "Ray: distracted?" in his phone.
+  4. As Nate arrives, an old colleague of Ray's is leaving (a thermos handed over; Ray: "Just coffee."). The landline rings once during the visit. Ray doesn't answer it.
+  5. The drive home; Nate notes "Ray: distracted?" in his phone.
 - **Plants:** The quarter-turn; Denise photo; Dan and Ray's distance; Ray's "second cup."
 - **Note:** *The best feedback comes from someone who isn't buying.* (Slide, playful; "I'll spare you.")
 

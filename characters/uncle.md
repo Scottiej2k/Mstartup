@@ -4,7 +4,7 @@
 narrator: his father's older brother (or mother's, TBD).
 
 ## Snapshot
-Retired founder. Built and sold a company (placeholder: industrial/enterprise
+Retired founder (sold years ago; not working for most of the book; free advice to friends, family and old friends from the startup scene; only takes on projects he's passionate about). Built and sold a company (placeholder: industrial/enterprise
 software or a hardware firm, sold in the early 2000s or 2010s), then walked away
 quietly. Lives in a modest house in the Santa Cruz mountains, away from the tech spotlight, on a larger-than-most backyard he is forever landscaping (new flowerbeds, water features), with one small vegetable garden that was Denise's.
 

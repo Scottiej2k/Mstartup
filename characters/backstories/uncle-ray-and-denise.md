@@ -52,8 +52,17 @@ Ray is 68. Denise died four years ago, at 60, after 38 years of marriage (Ray wa
   point."
 - **Denise's vegetable garden:** a small corner of ordinary vegetable beds she
   planted. Ray redesigns everything but that corner and never says why.
+- **Work (DECIDED 2026-09-29):** Ray sold Steadyline years ago (13 years before
+  the book opens) and doesn't work. He only takes on projects he's passionate
+  about, and **for most of the book he isn't working at all.** What he does is
+  **free, informal advisory** for friends, family, and old friends from the
+  startup scene: a coffee, a phone call, a porch visit. No fees, no equity, no
+  board seats. Nate is one of several people who show up with a "hypothetical."
+  The others (an old colleague, a neighbor's daughter with a bakery, a former
+  engineer of his) are texture: a landline that rings, a name on a Post-it, a
+  car in the drive when Nate arrives.
 - Hobbies: restoring old radios, morning walks, reading the same three
-  paperbacks. Advises three startups on the side; charges nothing; accepts pie.
+  paperbacks. Gives free advice; accepts pie (see Work, below).
 - Sold company stock and gave a serious amount to hospital scholarships in
   Denise's name.
 
