@@ -87,7 +87,7 @@ Kyle pointed his spoon at me. "Regulated," he said. "Healthcare. You know that's
 
 "That's what I say about my career," said Kyle, cheerfully, and returned to his cereal.
 
-I would like to note that this was the best product feedback I received that week, and that it came from a man wearing a T-shirt that said **I'M WITH STUPID** with an arrow pointing at the wall.
+I would like to note that this was the best product feedback I received that week, and that it came from a man wearing a Rick and Morty T-shirt he had, by his own count, worn four days in a row.
 
 ---
 
