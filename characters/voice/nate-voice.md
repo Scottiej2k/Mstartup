@@ -120,8 +120,8 @@ nobody expects me to know what to do with the other.)
 
 I've told this story eleven times now. Maya tells it differently. In her version
 I walked up to her at 8:03 with a plan. In mine, she was standing by the exit
-like a person who had budgeted precisely fifty-seven minutes for this and was
-already forty-one into it, and I did not have a plan. I had a cup.
+like a person who had budgeted precisely one hour for this and was
+already forty-one minutes into it, and I did not have a plan. I had a cup.
 
 ---
 
@@ -142,7 +142,7 @@ Here is how my mornings went:
 
 Life OS is a Notion page. It has five sections: Company, Health, Learning,
 Money, and Relationships. Company was forty screens long. Health had a
-checkbox for "sleep more" that I'd been checking on and off since 2022.
+checkbox for "sleep more" that I'd been checking on and off for years.
 Relationships was empty. I'd told myself this was because it was "a Q3
 problem."
 
@@ -213,7 +213,7 @@ Maya put down her fork.
 catastrophic everywhere else.
 
 She looked at me for a long moment. Then she laughed, not the polite laugh,
-the real one, the one I'd been fishing for for three weeks. "That," Maya said,
+the real one, the one I'd been fishing for since our first coffee. "That," Maya said,
 "is the most engineer thing anyone has ever said to me on a date."
 
 "In my defense—"
@@ -261,7 +261,8 @@ The email was four sentences long. I read it eleven times. I know because I
 counted, which is the kind of thing I do instead of feeling something.
 
 Meridian Community Health was leaving. They were our largest customer. They
-were thirty-one percent of revenue. The email said *thank you for your partnership.*
+were thirty-four percent of
+revenue. The email said *thank you for your partnership.*
 It said *transition.* It did not say *why*, and that, I understood, was the
 kindest thing anyone did for me that week.
 
