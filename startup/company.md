@@ -1,6 +1,9 @@
 # The Company
 
 **DECISION (APPROVED): Option A, clinic/pharmacy care-coordination software.**
+**Company name (APPROVED): Loopback.health.** Motif: closing the loop, with patients,
+with Maya, with himself. Nate says it out loud early; Maya notes he closes every
+loop except the ones with people.
 Options B and C below are kept for reference only.
 
 Additional consequences of this choice:

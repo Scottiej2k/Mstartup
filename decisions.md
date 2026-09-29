@@ -23,3 +23,5 @@
 | 2026-09-29 | **Kyle arc:** Nate and Kyle fall out over Kyle's defeatist attitude and unsolicited advice. The fight prompts a too-early conversation about moving in with Maya; she wants to but isn't sure she's ready. They decide together and sign a lease. Nate and Kyle repair the friendship before move day. Kyle grows, stays a recurring character, still makes badly timed jokes but with less judgment and fewer unsolicited opinions | APPROVED |
 | 2026-09-29 | **Chapter 1** opens straight in the mixer (light retrospective voice, no separate frame) | APPROVED |
 | 2026-09-29 | **Next step:** keep refining the bible before drafting prose | APPROVED |
+| 2026-09-29 | **Names locked:** narrator Nate Calloway; Maya Raman; Uncle Ray (Raymond Calloway), Nate's father's brother | APPROVED |
+| 2026-09-29 | **Company name:** Loopback.health ("closing the loop" with patients; a recurring motif for closing loops with people). Scott's direction: Valley-style names that use the domain in the name | APPROVED |

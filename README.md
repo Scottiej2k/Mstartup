@@ -34,6 +34,6 @@ company and building a marriage.
 
 ## Status
 
-Phase 1: Story bible. Major decisions are locked in `decisions.md` (16 as of
-2026-09-29). Character names remain placeholders; remaining questions are in
-`open-questions.md`.
+Phase 1: Story bible. Major decisions are locked in `decisions.md` (20 as of
+2026-09-29), including the core cast names and the company name, Loopback.health.
+Supporting-cast names remain placeholders.
