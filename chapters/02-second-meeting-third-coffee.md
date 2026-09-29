@@ -297,9 +297,9 @@ Around Twenty-Fourth Street she stopped in front of a small pharmacy with a hand
 
 "Both," I admitted.
 
-"Both is allowed," said Maya, "as long as you tell me."
+"I've walked past signs like that my whole life," said Maya, "and it never once occurred to me that one of them was a product." She shook her head, smiling. "It's a little annoying that it occurred to you."
 
-She walked on. I stood there a second longer, looking at the tape, with the feeling of a man who's been handed a small, important rule and hasn't yet found out how many there are.
+She walked on. I stood there a second longer, looking at the tape, with the feeling that something had just been agreed to, and no clear idea what.
 
 At the top of the park we sat on a bench. She asked me about the first company, the way another person might ask about a former partner: carefully, and with a professional's interest in what went wrong. She wanted details. She asked for the names of the customers who'd emailed and gotten no reply, and I told her, and she said, "Did you ever write back to them?"
 
