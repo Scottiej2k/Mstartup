@@ -39,3 +39,4 @@
 | 2026-09-29 | **The reveal object:** a recurring Sunday phone reminder ("Maya check-in. Ask open questions. Listen. Don't fix."), replacing the Notion checkbox. Nate set it after Ch 16; his attempt to fix his flaw with a system is the flaw | APPROVED |
 | 2026-09-29 | **Maya's humor:** dry, gentle, sharp, warm underneath (Sample B level) | APPROVED |
 | 2026-09-29 | **Family language:** a few Tamil words, lightly, with her parents (not translated for the reader). Authenticity read recommended before publication | APPROVED |
+| 2026-09-29 | **Maya and Tamil with Nate:** she uses a Tamil word only when English fails her for a feeling, then does her best to translate (imperfectly). Rare, at weighty moments. Ch 19 uses "aayasam" (verify with a Tamil speaker) | APPROVED (Scott's direction) |

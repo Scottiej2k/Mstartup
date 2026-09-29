@@ -394,8 +394,26 @@ will hold.
 
 "Don't be sorry."
 
-"I'm not. I'm just—" She pressed her palms down. "The reminder went off and I
-thought, *oh. He's managing me.* Kindly. Very well. And I couldn't find
+"I'm not. I'm just—" She pressed her palms down and said a word I didn't know.
+"Aayasam."
+
+"What's that?"
+
+"There isn't an English one." She shook her head, hunting. "Tired. But not the
+kind sleep fixes. It's the tired after you've explained yourself to someone who's
+listening very hard. 'Weary' is close. 'Weary' sounds like a poem." She almost
+laughed. "My mother says it about people who've carried something for years.
+It's not this week. It's the years of being the one who's fine."
+
+"Aayasam," I said.
+
+"Don't. You'll say it like a brand name." But she wasn't angry. "It's just the
+word. I'm saying it so you know I'm not only tired."
+
+I didn't have a word for what I felt, in any language, so I nodded like a person
+receiving a package.
+
+"The reminder went off and I thought, *oh. He's managing me.* Kindly. Very well. And I couldn't find
 anything to be angry about, because you're doing everything right. You show up.
 You ask the right questions. You remember my father's blood pressure. I've been
 looking for the thing you do wrong for two years, and it isn't there. It's that
@@ -500,8 +518,17 @@ The Ramans are from Chennai, so the family language is Tamil.
 ### Rules
 - A few words only: terms of address and small phrases. Never a paragraph.
 - No italics, no glossary, no "which means." The meaning comes from context.
-- Maya code-switches with her parents and Arjun; she doesn't with Nate, until
-  the wedding week, when one word slips out to him and he notices.
+- Maya code-switches with her parents and Arjun. With Nate she uses a Tamil word
+  only when she genuinely lacks the English one for a feeling, and then does her
+  best to translate: she tries, says where the English falls short ("'weary' is
+  close, 'weary' sounds like a poem"), and Nate never gets the whole meaning.
+  That gap is the point. It is also a sign of trust: she is letting him see
+  something she can't fully hand over.
+- Rare. Two or three times in the book, at moments that carry real weight (Ch 19,
+  possibly the wedding week and the pregnancy scene).
+- Nate's repeating the word back is a small, tender running joke (he says it "like
+  a brand name") that can pay off late, when he says it right, or says the
+  right thing without it.
 - Details of food, routine and manner carry the culture more than vocabulary.
 - **Get an authenticity read** from a Tamil speaker before publication. The words
   below are common but should be checked, including spelling and register.
@@ -513,6 +540,7 @@ The Ramans are from Chennai, so the family language is Tamil.
 | Appa | Father. Maya to Suresh |
 | Kanna | Affectionate address, "dear one." Lakshmi to Maya, sometimes to Nate late in the book |
 | Aiyo | Exclamation of dismay or exasperation. Lakshmi, Maya (quietly) |
+| Aayasam | Deep, spirit-level weariness, the tired after years of being the one who's fine. Maya to Nate, Ch 19. **Verify with a Tamil speaker;** fallback word is *kashtam* (hardship) |
 | Saapteengala? | "Have you eaten?" Lakshmi to Nate, a sign of acceptance. He answers wrongly the first time ("I'm fine!") and Maya translates the real question |
 
 ### Sample H: Lakshmi and Nate (the first "Saapteengala?")
@@ -539,8 +567,8 @@ me at all, in the same way Ray never looks at me when he's saying the true thing
 Lakshmi pushed the tiffin an inch closer and said, "Aiyo, eat, kanna," to no one
 in particular, and I understood that I had passed something.
 
-## 10. Still open
-1. Should Maya ever speak Tamil at Nate in anger or exhaustion (a word that slips
-   out in the Ch 19 fight), or keep the fight fully in English?
-2. Do we want a Tamil-speaking reader to check the words before we publish
-   anything? (Recommended.)
+## 10. Decisions and open items
+- **Decided:** Maya may use a Tamil word with Nate when English fails her, then
+  does her best to translate (see rules above; Ch 19 updated).
+- **Open:** authenticity read by a Tamil speaker (recommended).
+- **Open:** do we want Nate to say the word back correctly late in the book?
