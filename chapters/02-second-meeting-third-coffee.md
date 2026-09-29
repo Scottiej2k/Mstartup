@@ -1,7 +1,7 @@
 # Chapter 2
 ## Second Meeting, Third Coffee
 
-I waited ninety minutes, which I'd like noted is forty-six and a half hours short of the industry standard.
+I waited twelve hours, which I'd like noted is thirty-six hours short of the industry standard.
 
 The industry standard was Kyle's.
 
@@ -159,7 +159,7 @@ There was a laptop in the bag under my chair. I had not taken it out, and I want
 
 "It's practical," said Maya, and I understood that this was the end of the subject and also, somehow, not. Her mother, I gathered, had reached a conclusion that neither of us had.
 
-She took the index card out of her coat pocket. It was creased from a week of being carried around. "My mother gave me two questions to ask anyone who works in technology. I never got to ask anyone at the mixer. They all wanted to tell me how lucky I was. I was going to ask you, and then you started asking me things and I forgot I had it." She read the first line in a voice that wasn't hers. "*Ask if they know what a refill is.*"
+She took the index card out of her coat pocket. It was creased from a week of being carried around. "My mother gave me two questions to ask anyone who works in technology. I never got to ask anyone at the mixer. They all wanted to tell me how lucky I was. I showed you the card, and then you started asking me things, and I forgot to ask." She read the first line in a voice that wasn't hers. "*Ask if they know what a refill is.*"
 
 "Was that your mother's voice?"
 
@@ -245,7 +245,15 @@ I wasn't there for what happened next. Maya's oldest friend, Jules, was, and Jul
 
 According to Jules, Maya walked into the taqueria on Mission at 7:24, which is twenty-four minutes late, which Jules would like it known has happened twice in their friendship, and one of the times there was a fire. She ordered a carnitas burrito without looking at the menu, which, according to Jules, is her tell for a good mood. She sat down across from Jules, who had been waiting since seven and had opinions about it, and said, "So."
 
-"So?" said Jules, a public defender with the demeanor of someone who has heard every version of *so* and been lied to by most of them.
+"So," said Jules, a public defender with the demeanor of someone who has heard every version of *so* and been lied to by most of them. "Our date. You're twenty-four minutes late."
+
+"I walked."
+
+"It's four blocks."
+
+"I walked slowly."
+
+Jules looked at her for a moment. "Okay," she said. "Go on."
 
 "So he asked what the pharmacy's worst problem was."
 
