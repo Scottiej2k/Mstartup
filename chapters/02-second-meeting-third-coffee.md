@@ -15,7 +15,9 @@ The industry standard was Kyle's.
 
 Kyle considered this with the dignity of a man being asked about a war. "Theoretically," he said.
 
-The strip of index card sat on my desk beside a cold brew I wasn't drinking. **Maya R.** and ten digits, in handwriting that looked like it had already been proofread. I wrote the first draft at 7:31.
+The strip of index card sat on my desk beside a cold brew I wasn't drinking. **Maya R.** and ten digits, in handwriting that looked like it had already been proofread. She'd told me to ask my questions properly. I'd spent most of the night working out what that meant, and had landed on a theory: that the two questions on her mother's index card, *Ask if they know what a refill is* and *Ask what happens when it breaks,* had been sitting unanswered in her hand for an hour, and that nobody at that mixer had answered either one. Asking properly, I decided, meant answering hers first.
+
+I wrote the first draft at 7:31.
 
 *Hi Maya!! It's Nate from the ballroom (water cup guy). Great meeting you!*
 
@@ -45,7 +47,7 @@ The fourth draft I wrote at 9:01, after Priya sent a message to our team channel
 
 **Send it.**
 
-So I did. It said: *It's Nate, from the cup. You said to ask properly. Coffee? I'll bring answers.*
+So I did. It said: *It's Nate, from the cup. You said to ask properly, so I'd like to start by answering your mother's two questions. Coffee? I'll bring the answers.*
 
 She wrote back in four minutes. I know because I timed it, and I do not recommend timing it.
 

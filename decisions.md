@@ -66,3 +66,6 @@
 | 2026-09-29 | **Night-nurse detail approved:** Ray's fellowship exists because of the nurses who noticed Denise during her eleven months, especially a night nurse who saw her fear and stayed | APPROVED |
 | 2026-09-29 | **Chapter 2 drafted (v1)** in `chapters/02-second-meeting-third-coffee.md`; awaiting Scott's edits | DRAFT |
 | 2026-09-29 | **Chapter 2 expanded (v2, ~3,300 words):** Maya's coffee count is explained ("there's a cliff after two; people vanish"), paid off at the bus stop ("Not as steep as I remembered"); added Priya's stakes (December), the pharmacy sign scene, Nate writing back to Ruth | DRAFT |
+| 2026-09-29 | **Setup-before-payoff rule** added to `style-guide.md`: every callback, running joke, rule or piece of shared history must be established on the page before a character relies on it; Nate may gloss jargon in a wry parenthetical | APPROVED (Scott's direction) |
+| 2026-09-29 | **`reference-checker` agent** added (`.claude/agents/reference-checker.md`): a read-only cold-reader that flags unestablished references. Run after every chapter draft | APPROVED (Scott's request) |
+| 2026-09-29 | **Fixed:** Ch 1 "That's a slide" (now sets up pitch decks and glosses "slide"); Ch 2 "Bring the answers" (now explains it means answers to Lakshmi's two index-card questions) | DONE |

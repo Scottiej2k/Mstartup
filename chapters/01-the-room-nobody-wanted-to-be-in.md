@@ -25,7 +25,7 @@ By eight o'clock I'd had three of these conversations. A man raising a seed roun
 
 "Love it," he said, and left to find someone with an actual answer.
 
-For the record, four months earlier I'd had a real answer to that question. I'd spent eight months and most of my savings on an inventory tool for small retailers, and it had died in March, quietly and in plain view, the way things die when you've built them without asking anyone if they wanted them. My co-founder Priya, who was the only reason the code had ever worked, had agreed to stay on through "whatever this is" at half salary. I'd sent her a spreadsheet of options for what "this" might be. She'd replied with one word: *Sleep.*
+For the record, four months earlier I'd had a real answer to that question. I'd spent eight months and most of my savings on an inventory tool for small retailers, and it had died in March, quietly and in plain view, the way things die when you've built them without asking anyone if they wanted them. My pitch deck for it had been nine slides long, and on slide three, under the word PROBLEM, was a statistic about small retailers that I'd found on the internet and never once checked against an actual retailer. My co-founder Priya, who was the only reason the code had ever worked, had agreed to stay on through "whatever this is" at half salary. I'd sent her a spreadsheet of options for what "this" might be. She'd replied with one word: *Sleep.*
 
 The man from Stripe for Pets was still in sight, scanning for someone better, when someone clapped me on the shoulder hard enough to spill a small amount of my water.
 
@@ -164,7 +164,11 @@ I didn't say anything. I'd like to be able to tell you it was skill. It was that
 
 "The problem is that nobody's job is to notice." She looked at the napkin, not at me. "It's my mother. She keeps a list on the back of a receipt roll. Every evening after we close, she calls the people who didn't come in. Her own phone. Her own time. Sixty on a bad week. She stops when it gets late." She squared the napkin to the edge of the tray. "There isn't a system for this. There's just my mother."
 
-"That's a slide," I said, and heard how it sounded. "I mean, that's a problem that'd make a good—"
+"That's a slide," I said, and heard how it sounded.
+
+(In the Valley, a slide is the one screen of a pitch deck where you tell investors what's broken. It is also, it turns out, a way of looking at people.)
+
+"I mean, that's a problem that'd make a good—"
 
 "That's not a slide, is it?"
 

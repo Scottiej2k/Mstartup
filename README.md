@@ -35,6 +35,12 @@ company and building a marriage.
 | `decisions.md` | Running log of locked decisions |
 | `chapters/` | Drafted chapters (Ch 1 approved; Ch 2 drafted, awaiting review) |
 
+## Review agents
+
+| Agent | Where | What it does |
+|---|---|---|
+| `reference-checker` | `.claude/agents/reference-checker.md` | Reads the chapters as a first-time reader and flags references, callbacks, running jokes and jargon that the text never established. Read-only; run it after every chapter draft or revision. |
+
 ## Status
 
 Phase 1: Story bible. Major decisions are locked in `decisions.md` (20 as of
