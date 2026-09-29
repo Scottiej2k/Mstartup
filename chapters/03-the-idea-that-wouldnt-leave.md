@@ -141,7 +141,7 @@ I'd brought my laptop, and she watched it appear on the table the way you'd watc
 
 She read it the way she'd read a discharge form. Her lips moved slightly. It said:
 
-*Our records indicate that you have not refilled your prescription. Please contact us to discuss your non-compliance.*
+*Our records indicate that you have not refilled your prescription. Please contact us to discuss your non-compliance. Reply A to acknowledge or U to unsubscribe. Failure to respond will result in notification of your emergency contact.*
 
 She put down her chopsticks.
 
@@ -159,17 +159,17 @@ She put down her chopsticks.
 
 She typed. I watched her hands, the way you watch someone who's better at something than you'll ever be. She wrote for about four minutes, deleted most of it, then wrote three lines, and slid the laptop back.
 
-*Hi, it's [Pharmacy Name]. We noticed you haven't picked up your prescription, and wanted to check you're okay. We just wanted to hear you were fine. Your emergency contact will be notified in an hour if we do not hear back. Reply C to confirm or U to unsubscribe.*
+*Hi, it's [Pharmacy Name]. We noticed you haven't picked up your prescription, and wanted to check you're okay. We just wanted to hear you were fine. Reply A to acknowledge this message or U to unsubscribe. If we do not hear back, we will reach out to your emergency contact tomorrow.*
 
-I read it. I read it again. The first half was exactly what a person would say, if that person were kind and slightly worried and weren't trying to prove anything to a compliance department. The second half was the small print, stapled on.
+I read it. I read it again. It was exactly what a person would say, if that person were kind and slightly worried and weren't trying to prove anything to a compliance department.
 
 "That's it," I said. "That's the whole thing."
 
-"It's three changes," said Maya. "'Our records indicate' becomes 'we noticed.' 'Non-compliance' becomes 'check you're okay.' And the ask at the end is one letter. Nobody has to write anything back." She picked up her chopsticks again. "People don't need to be told they're in trouble. They already know. They need to know someone noticed."
+"It's three changes," said Maya. "'Our records indicate' becomes 'we noticed.' 'Non-compliance' becomes 'check you're okay.' And 'failure to respond will result in' becomes 'if we don't hear back.' It's the same fact. One of them is a threat." She picked up her chopsticks again. "People don't need to be told they're in trouble. They already know. They need to know someone noticed."
 
 I typed the last two sentences into a note, word for word. She watched me do it.
 
-"The part about the emergency contact," I said. "That's the product. Patients pick someone when they sign up, a daughter, a neighbor, whoever. If they don't answer in an hour, we tell that person."
+"The part about the emergency contact," I said. "That's the product. Patients opt in when they sign up. They name one person we're allowed to call, a daughter, a neighbor, whoever. If the patient goes quiet, the pharmacy follows up with that person the next day. Nobody else builds that part."
 
 "Good," said Maya. "It goes last. Kind first, then the backup."
 

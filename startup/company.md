@@ -78,3 +78,7 @@ How it shows up in the book:
 - **Ch 10:** VCs want the "huge market" story; Ray: "Nobody wants a market. Somebody wants a Tuesday to go right."
 - **Ch 21:** the pivot to a named person with protected time works in any vertical.
 - **Ch 24:** the "new product" hook is the pulse-check idea widening into a second vertical (e.g., new parents or people who live alone).
+
+## Killer feature: the opt-in second person (added from Scott's comment)
+
+When a patient signs up, they can opt in to naming one secondary person (a daughter, a neighbor, a friend) the pharmacy is allowed to contact. If the patient goes quiet after the pharmacy's check-in text, the pharmacy follows up with that person the next day to make sure the patient is okay. This is the part of the pulse check that makes sure a person follows up. It is opt-in only. The patient-facing text ends with reply codes: "Reply A to acknowledge this message or U to unsubscribe." Texts never name the medication or condition.
