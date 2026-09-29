@@ -55,13 +55,7 @@ She wrote back in four minutes. I know because I timed it, and I do not recommen
 
 **Thursday. 6:15. The place on Valencia with no sign on the door. I have a date with a friend at 7 so this is going to be a quick meet.**
 
-And, a second later:
-
-**Bring whatever you'd bring to a meeting.**
-
-I looked at that for a long time. It could mean *bring a laptop.* It could mean *bring a notebook.* I decided that a person who writes *whatever you'd bring to a meeting* has either a sense of humor or a checklist, and that I could not rule out both.
-
-The first message was harder. *A date with a friend at seven* could be reassurance, or information, or a warning. And then there was the word *meet.* It wasn't *meeting,* which has an agenda, and it wasn't *coffee,* which has a mood. It sat exactly on the line, and I understood that whoever had chosen it was better at this than I was.
+I looked at that for a long time. *A date with a friend at seven* could be reassurance, or information, or a warning. And *a quick meet* might mean a business meeting, in which case I should bring my laptop. But if I brought it and she turned out to be interested, I'd come across like a chump.
 
 ---
 
