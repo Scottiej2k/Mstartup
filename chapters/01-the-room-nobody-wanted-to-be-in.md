@@ -290,9 +290,9 @@ Our apartment was dark except for the light over the stove. Kyle was at the coun
 
 Kyle put down his spoon with the gravity of a man about to be helpful. "So she's a customer."
 
-"She's a person."
+"I'm not sure yet."
 
-"Which is a customer, in a costume." He picked the spoon back up. "Did you get the number, or did you get the 'circle back'?"
+The spoon stopped halfway to his mouth. "You're not sure. About a lead." He looked at me the way he would if I'd said I was thinking of switching to decaf. Then he shrugged and kept eating. "Okay. Did you get the number, or did you get a 'let's circle back'?"
 
 "The number."
 
