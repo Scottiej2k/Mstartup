@@ -80,7 +80,7 @@ Nate learns to read these, and so does the reader:
 | Words | Some | Almost none |
 | Love shown by | Attention | Logistics |
 | Humor | Dry, self-deprecating | Deadpan, rare |
-| Regional | 46 years in California, faint Ohio ("pop") | Full Dayton |
+| Regional | 46 years in California, neutral California speech | Full Dayton |
 
 ---
 
@@ -359,10 +359,62 @@ maybe eight of those words, and none of the last five.
 - **Denise:** a few plain moments spread through the book, like Sample D. She
   builds presence without dominating; "She'd have liked her" in Ch 22 still lands.
 
-## 9. Still open
-1. **Regional voice:** any Ohio residue ("pop," "you guys"), or fully neutral
-   California?
-2. **Quoting:** should Ray ever quote something (a radio manual, a Denise line), or
-   stay purely plain?
-3. **Nate's narration of Ray:** should Nate describe Ray's physical presence more
-   (hands, posture) or keep it minimal and let the dialogue carry him?
+## 9. More decisions (2026-09-29)
+- **Regional voice:** neutral California. No Ohio dialect. (Dan keeps the full
+  Dayton voice, which makes the brothers sound different.)
+- **Quoting:** none. Ray never quotes poems, manuals or sayings. His wisdom stays
+  plain and his own.
+- **Physical description:** Nate describes Ray's physical presence, including subtle
+  body language he learns to read. See section 10.
+
+## 10. Ray's body language (for Nate's narration)
+Nate is an engineer who slowly learns to read a person. Early in the book he
+misses these tells or misreads them; by Part 4 he catches them; by Part 6 he
+reads them before Ray speaks. That progression is a quiet mirror of his growth with
+Maya.
+
+### Baseline
+- Tall, stooped a little from years at a workbench. Big, careful hands, with a
+  knuckle that no longer bends after a machine-shop accident at 24.
+- Reading glasses pushed up into gray hair he cuts himself.
+- Faded flannel in every season. A canvas apron in the garden.
+- Moves slowly and deliberately, never wasted motion, like a man who has
+  learned that rushing breaks things.
+
+### Tells
+| What Nate sees | What it means (never stated) |
+|---|---|
+| Ray stops mid-motion for one second | He's caught what Nate is really asking |
+| Turns his cup a quarter turn | He's choosing what to say, or what not to |
+| Presses soil, pruning, or wiping his hands instead of looking up | He's giving Nate room; eye contact would be too much |
+| Takes his glasses off and folds them | He's about to say something he means |
+| Looks at the window or garden | The conversation touched Denise, or something too near |
+| Rubs the bent knuckle with his thumb | He's uneasy or remembering |
+| Refills Nate's cup without asking | Nate just said something true |
+| Turns the kettle off before it boils | Rare. He is genuinely moved |
+| Folds the towel in thirds | Habit; grounds him when a moment is heavy |
+| Small, unguarded smile, quickly put away | Pride, always hidden |
+
+### Narration rules
+- Describe the body, not the interpretation. "He turned his cup a quarter turn"
+  not "He was choosing his words carefully." Let the reader infer.
+- Early Nate misreads the tells (Ch 4-8: "Ray seemed distracted"). Later Nate
+  reads them accurately (Ch 16+: "He'd turned the cup again; I knew what that
+  meant").
+- Use one physical beat per exchange at most. It should feel like noticing, not
+  cataloguing.
+- Ray's body should sometimes contradict his calm words (steady voice, hands
+  still working a little too hard). That's how his feeling gets on the page.
+
+### Example
+> "Hypothetically," I said.
+>
+> Ray's thumb stopped in the soil. It was maybe a second. He set the seedling
+> down, turned the little pot a quarter turn, and said, "Go ahead."
+>
+> He didn't look up. His shoulders, I noticed later, had come down half an inch, the
+> way a man's do when he's decided to be patient. At the time I thought he
+> was tired.
+
+## 11. Still open
+None. Voice guide is complete pending Scott's feedback on the drafted samples.

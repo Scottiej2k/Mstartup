@@ -32,3 +32,6 @@
 | 2026-09-29 | **Backstories** drafted in `characters/backstories/`; age math verified in `timeline.md` | Drafted, PROPOSED |
 | 2026-09-29 | **Ray's voice:** dry humor at the Sample E level; mild, occasional profanity; a few plain Denise moments | APPROVED |
 | 2026-09-29 | **Ray is not an oracle:** his advice is well intentioned but Nate decides whether to follow it (and lives with the outcome). No recurring "Ray retracts his advice" device | APPROVED (Scott's direction) |
+| 2026-09-29 | **Ray's regional voice:** neutral California, no Ohio residue | APPROVED |
+| 2026-09-29 | **Ray never quotes** poems, manuals or sayings | APPROVED |
+| 2026-09-29 | **Physical description of Ray:** Nate describes Ray's presence and subtle body language; his reading of it improves as the book goes on | APPROVED |
