@@ -71,3 +71,5 @@
 | 2026-09-29 | **Fixed:** Ch 1 "That's a slide" (now sets up pitch decks and glosses "slide"); Ch 2 "Bring the answers" (now explains it means answers to Lakshmi's two index-card questions) | DONE |
 | 2026-09-29 | **Reference-check of Ch 1-2 run; 11 of 12 flags fixed** (one left deliberately: the uncle 'Only business?' mystery). Log in `reviews/ch01-02-reference-check.md` | DONE |
 | 2026-09-29 | **Chapter 3 drafted (v1, ~2,780 words)** in `chapters/03-the-idea-that-wouldnt-leave.md`; reference-check in progress | DRAFT |
+| 2026-09-29 | **Maya's Ch 1 exit line rewritten:** "Nobody answered these tonight. If you're serious, answer them. Properly. No slides." (replaces "Ask your questions properly," which was unclear). Ch 2 echoes it | APPROVED (Scott's note) |
+| 2026-09-29 | **Ch 3 reference-check run; 8 of 8 findings fixed.** Log in `reviews/ch03-reference-check.md` | DONE |

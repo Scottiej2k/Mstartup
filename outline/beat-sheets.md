@@ -70,7 +70,7 @@ character's trouble read as the same trouble.
 | "Nobody's job is to notice" | Ch 1 | Ch 3, a light echo in Ch 9, then quiet | Ch 21 (pivot), Ch 24 (Nate takes the job) |
 | The question mark | Ch 1 | Ch 3 (he removes it) | Ch 22 |
 | Lakshmi's receipt-roll call list | Ch 1 | Ch 3, 7 | Ch 21 (Loopback makes the call) |
-| "Ask your questions properly" | Ch 1 | Ch 5 | Ch 20 (he asks) |
+| "Answer them properly. No slides." (Maya's exit line) | Ch 1 | Ch 2, Ch 5 | Ch 20 (he answers, plainly, with no slide) |
 | "Optionality" (Cole) | Ch 1 | Ch 2, 8 | Ch 23 (Cole alone) |
 | Ray's quarter-turn cup | Ch 4 | Ch 8, 16 | Ch 22 |
 | Denise's rules | Ch 4 (a photo) | Ch 15 (dishes) | Ch 22, 24 |
@@ -109,7 +109,7 @@ character's trouble read as the same trouble.
 ### Ch 3. The Idea That Wouldn't Leave
 **~3,800 words · Aug-Sep, Y1**
 - **Purpose:** The company idea crystallizes; Nate names it.
-- **Startup beat:** Nate and Priya interview 11 pharmacists and clinic managers. Everyone says the same thing Maya did, in different words. The idea: a system that notices who didn't come back and routes it to a human. Name: **Loopback** ("closing the loop"). Kyle: "So it's a reminder app."
+- **Startup beat:** Nate and Priya interview 14 pharmacists and clinic managers (Priya's condition: talk to ten before building anything). Everyone says the same thing Maya did, in different words. The idea: a system that notices who didn't come back and routes it to a human. Name: **Loopback** ("closing the loop"). Kyle: "So it's a reminder app."
 - **Relationship beat:** Maya, when asked to review the patient-facing wording, refuses to "consult" but rewrites three sentences in ten minutes ("take with food" energy). Nate notices she is better at this than he is.
 - **Scenes:**
   1. The interviews (montage, one detail each). Dr. Okafor's first appearance: skeptical.

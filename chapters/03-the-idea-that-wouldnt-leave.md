@@ -1,7 +1,9 @@
 # Chapter 3
 ## The Idea That Wouldn't Leave
 
-By the end of the second week we had done fourteen interviews, and I had stopped introducing myself as the guy from the inventory tool.
+By the end of the fourth week we had done fourteen interviews, and I had stopped introducing myself as the guy from the inventory tool.
+
+The interviews were Priya's condition. After the screen share with the spreadsheet, she'd said we could talk about building anything once we'd talked to ten people who ran pharmacies or clinics. We overshot, mostly because people kept telling us to talk to their friends.
 
 Priya and I did them from the coworking space in Mountain View, which is a converted furniture showroom that still has the carpet. It has forty desks, one conference room named after a mountain in a country none of us had visited, and a whiteboard wall that runs the length of the back, which is the only reason I signed up. Priya and I rented two desks at the end of a row. Above them somebody had left a sign that said **PLEASE DO NOT MICROWAVE FISH**, and beneath it, in a different marker, **OR ANYTHING ELSE**, and beneath that, in a third marker, **WE SEE YOU, DEREK.**
 
@@ -15,6 +17,8 @@ A clinic manager in San Jose told us they had a dashboard. She was proud of it. 
 
 A home-health scheduler in Hayward began answering the question, stopped in the middle of a sentence, cried for about four seconds, and told us it was allergies. We said of course. Priya passed her a tissue, which is a thing she keeps in the bag she takes to interviews for exactly this reason.
 
+A district manager for a pharmacy chain, in a conference room with a very good chair, showed us a slide deck about their "adherence initiative." It was forty-three slides long. The word *patient* appeared on slide thirty-one, in a footnote.
+
 And a doctor named Ngozi Okafor, who ran a small community clinic in Oakland, spent the whole interview looking at my laptop as if it were something a cat had dragged in.
 
 "Software people come twice a year," said Dr. Okafor. She was about fifty, with reading glasses on a cord and the tired, tremendous patience of a person whose waiting room was full of children who weren't hers. The phones were ringing behind her. Nobody was picking them up. "They promise to save me time. Then I spend two hours training my front desk, and I have less time, and I have a password."
@@ -27,9 +31,9 @@ I stopped typing.
 
 "I do the calling myself," she said. "Sunday nights, badly. My husband calls it my second shift." She took the glasses off. "If you build something, don't send me a deck. Send me something that works in a waiting room. Not a laptop. A waiting room."
 
-We walked back to the car in silence. "That's the fourth person," said Priya, "who's said this in a different sentence."
+We walked back to the car in silence. "That's the fourth person," said Priya, "who's told us about the ones who just stop. Four different sentences."
 
-"Fifth," I said. "The pharmacist in Daly City said it with a notebook."
+"The pharmacist with the notebook said it without a sentence," I said.
 
 She looked at me. She had a small smile that I'd learned meant she'd decided not to say something and I should take it as praise.
 
@@ -39,7 +43,7 @@ She looked at me. She had a small smile that I'd learned meant she'd decided not
 
 "Noticing what people are actually saying."
 
-I didn't answer. I was thinking about a cocktail napkin, being squared to the edge of a tray, in a ballroom. I was thinking, *I got that from somewhere.*
+I didn't answer. I was thinking about a woman squaring a cocktail napkin to the edge of a tray, and how much she'd said to the napkin instead of to me. I was thinking, *I got that from somewhere.*
 
 ---
 
@@ -63,7 +67,7 @@ I thought about it. I thought about the spiral notebook, and Dr. Okafor's Sunday
 
 ---
 
-Kyle heard about it on a Wednesday, at the counter, with the mixing bowl.
+I gave Kyle the one-sentence version on a Wednesday, at the counter, with the mixing bowl: when a patient stops coming in, somebody finds out.
 
 "So it's a reminder app," he said.
 
@@ -71,15 +75,11 @@ Kyle heard about it on a Wednesday, at the counter, with the mixing bowl.
 
 "Every pharmacy has a reminder app. My dentist has three. I get a text when I'm about to have a cleaning, and a text after the cleaning that says how was the cleaning, and a text that says *we miss you* about six months after I stopped going." He took a bite. "Which, honestly, was a low blow."
 
-"That's the point," I said. "Those talk to the patient. This talks to the pharmacy *about* the patient. It says: here's the person who used to come in the fourth of every month, and didn't."
+"Those remind you *before* you're supposed to come in," I said. "This notices *after*. Someone who's come in on the fourth of every month for nine years doesn't, and the system catches it on the fifth. Then it texts them. Something like: *we noticed you're missing.*"
 
-"And then?"
+"So it's a reminder app with a guilt complex."
 
-"And then a human does something."
-
-"What human?"
-
-"Whoever's there."
+"It's a reminder app that pays attention."
 
 Kyle pointed his spoon at me. "Regulated," he said. "Healthcare. You know that's the most regulated thing there is? You'll die in compliance. You'll spend a year writing a document about a document." He chewed. "Also, if it's really just about noticing when people go quiet, why is it only pharmacies? Why not everybody?"
 
@@ -93,11 +93,11 @@ I would like to note that this was the best product feedback I received that wee
 
 The naming happened on a Thursday, at the whiteboard, at a quarter to midnight.
 
-By then Priya and I had a description. It took us a month of interviews to be able to say it in one breath: *a system that notices who didn't come back, and tells a person.* What we lacked was a word for it.
+By then Priya and I had a description. It took us a month of interviews to be able to say it in one breath: *a system that notices who didn't come back, and reaches out.* What we lacked was a word for it.
 
 The whiteboard filled up with rejected names, and it looked like a graveyard designed by a committee. *Nudge* (taken). *Refillr,* without the e (Priya put a line through it without speaking). *Pulse* (six companies). And, in my handwriting, *Notice,* which was the truest name and sounded like something a landlord slides under your door.
 
-"It has to be one word," said Priya. "And it has to work as a website."
+"It has to be one word," said Priya. "And it has to work as a website." She had also pointed out, earlier that week, that our email addresses still ended in the name of the dead inventory company, which was sad in a specific and searchable way.
 
 "It's the Valley. Every name is a website in a costume."
 
@@ -127,7 +127,7 @@ She wiped the word off the whiteboard with the flat of her hand. I said, "What a
 
 Coffee number nine wasn't coffee. It was dumplings, in the Sunset, on a Sunday, at a place with nine tables and a hand-lettered menu, which is the sort of place Maya says you can trust.
 
-By then her count had reached eight. I'd stopped hearing her say the number somewhere around five, which she claimed was because she'd stopped counting and I claimed was because she'd started counting silently. She hung her coat on the back of the chair, which she had not done at any of the coffees. I noticed. I said nothing. It's a thing I've learned to do: notice something and leave it alone.
+Coffees four through eight had been coffee, a movie Maya rated "competent," and a Saturday at a bookstore where we bought nothing and she counted it anyway. By then her count had reached eight. I'd stopped hearing her say the number somewhere around five, which she claimed was because she'd stopped counting and I claimed was because she'd started counting silently. She hung her coat on the back of the chair, which she had not done at any of the coffees. I noticed. I said nothing. It's a thing I've learned to do: notice something and leave it alone.
 
 I'd brought my laptop, and she watched it appear on the table the way you'd watch a large animal enter a small room.
 
@@ -165,7 +165,7 @@ I read it. I read it again. It was exactly what a person would say, if that pers
 
 "That's it," I said. "That's the whole thing."
 
-"It's three changes," said Maya. "'Our records indicate' becomes 'we noticed.' 'Non-compliance' becomes 'check you're okay.' And you don't ask for anything at the end. You let them off the hook." She picked up her chopsticks again. "People don't need to be told they're in trouble. They already know. They need to know someone noticed."
+"It's three changes," said Maya. "'Our records indicate' becomes 'we noticed.' 'Non-compliance' becomes 'check you're okay.' And the ask at the end is optional. You let them off the hook." She picked up her chopsticks again. "People don't need to be told they're in trouble. They already know. They need to know someone noticed."
 
 I typed the last two sentences into a note, word for word. She watched me do it.
 
@@ -183,7 +183,7 @@ I didn't say anything. I had a horrible, exhilarating sense that the product I'd
 
 "So the system tells a person," I said. "It doesn't do the calling."
 
-"Who gets the list?" said Maya.
+"Who gets the names?" said Maya. "Of the ones who didn't come back?"
 
 "The pharmacy."
 
@@ -191,7 +191,7 @@ I didn't say anything. I had a horrible, exhilarating sense that the product I'd
 
 "Whoever's there."
 
-"Whoever," said Maya, "is nobody." She said it mildly, like a woman pointing out a stain. "That's what you told Priya. That's what my mother does with a receipt roll and her own phone. Somebody has to be the somebody."
+"Whoever," said Maya, "is nobody." She said it mildly, like a woman pointing out a stain. "That's the sentence from the ballroom. Nobody's job. It's what my mother does with a receipt roll and her own phone. Somebody has to be the somebody."
 
 I wrote it down. I didn't understand it yet.
 
