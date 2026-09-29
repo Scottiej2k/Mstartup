@@ -321,7 +321,7 @@ So I took out my phone. The first name on the list was a woman named Ruth who ra
 
 "Like I took off a very small, very heavy shoe."
 
-"That's the right size," said Maya.
+"That's how it goes," said Maya. "The little things you've been avoiding are always the heaviest."
 
 Before we left the bench, I mentioned my uncle. "He's a retired founder. He sold his company years ago. I go up to his place in the mountains and ask him questions."
 
