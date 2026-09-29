@@ -159,7 +159,7 @@ She put down her chopsticks.
 
 She typed. I watched her hands, the way you watch someone who's better at something than you'll ever be. She wrote for about four minutes, deleted most of it, then wrote three lines, and slid the laptop back.
 
-*Hi, it's [Pharmacy Name]. We noticed you haven't picked up your blood pressure medicine, and wanted to check you're okay. No rush. Call us back, or don't. We just wanted to hear you were fine.*
+*Hi, it's [Pharmacy Name]. We noticed you haven't picked up your prescription, and wanted to check you're okay. No rush. Call us back, or don't. We just wanted to hear you were fine.*
 
 I read it. I read it again. It was exactly what a person would say, if that person were kind and slightly worried and weren't trying to prove anything to a compliance department.
 
