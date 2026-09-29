@@ -33,6 +33,12 @@ brother, proud of his brother and resentful of the same. At the wedding he does
 one unscripted thing: gives Nate a toolbox with a note that says "Text me when
 you get there."
 
+### Annie Calloway (Nate's younger sister), 24
+Veterinary tech in the Dayton area. Funny, direct, stayed close to the parents
+while Nate left. She's the family translator for Nate's silences. First call
+with Maya: "Nate said you're 'good at questions.' That's the most romantic
+thing he's ever said out loud." Small but memorable role.
+
 ### Carol Calloway (Nate's mother), ~58
 Dental-office scheduler. Runs everyone's calendar. Asks Maya on the first call,
 "What's your favorite color?" and later color-codes her into the family

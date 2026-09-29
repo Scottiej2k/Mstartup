@@ -79,13 +79,11 @@ started visiting on Saturdays and leaving early. He never names it.
 2. "Who does the dishes?"
 3. "When was the last time you told her something bad before it got worse?"
 4. "What do you want to build with her that you couldn't build alone?"
-Then: he goes inside, comes back with a small box (Denise's ring? see
-questions), and says only, "She'd have liked her."
+Nate has already bought the ring; Ray gives him nothing but the questions. When
+Nate is done answering, Ray says only, "She'd have liked her." (Denise, meaning
+Maya. **DECIDED:** no heirloom ring.)
 
 ## Questions for Scott
-- Ray and Denise have no children. Keep, or would you rather they had a
-  child (estranged, or grown and distant)?
-- Should the letter to Walt Pruitt pay off later (mailed, answered, unresolved)?
-  My suggestion: Ray mails it after Nate's wedding, and we leave the response for
-  the sequel.
-- Does Ray give Nate Denise's ring for the proposal, or is that too neat?
+All three original questions are resolved (see `decisions.md`): no children,
+Ray mails the Walt letter after the wedding (reply left for the sequel), and no
+heirloom ring.

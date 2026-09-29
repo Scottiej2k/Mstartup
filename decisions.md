@@ -25,3 +25,8 @@
 | 2026-09-29 | **Next step:** keep refining the bible before drafting prose | APPROVED |
 | 2026-09-29 | **Names locked:** narrator Nate Calloway; Maya Raman; Uncle Ray (Raymond Calloway), Nate's father's brother | APPROVED |
 | 2026-09-29 | **Company name:** Loopback.health ("closing the loop" with patients; a recurring motif for closing loops with people). Scott's direction: Valley-style names that use the domain in the name | APPROVED |
+| 2026-09-29 | **Ray and Denise:** no children | APPROVED |
+| 2026-09-29 | **Walt letter:** Ray mails his unsent letter to ex-partner Walt Pruitt after the wedding; the reply is left for the sequel | APPROVED |
+| 2026-09-29 | **The ring:** Nate buys the ring himself; Ray only asks questions at the proposal (no heirloom ring) | APPROVED |
+| 2026-09-29 | **Siblings:** Maya has an older brother, Arjun (31, ER resident, Seattle). Nate has a younger sister, Annie (24, vet tech, Dayton area; placeholder name), a small but memorable role | APPROVED |
+| 2026-09-29 | **Backstories** drafted in `characters/backstories/`; age math verified in `timeline.md` | Drafted, PROPOSED |

@@ -3,7 +3,7 @@
 Age 28 at open. Founder/CEO of Loopback.health. Narrator.
 
 ## The family he came from
-- **Dayton, Ohio.** Only child (proposed; see questions). Modest brick ranch on a
+- **Dayton, Ohio.** Younger sister Annie (see below). Modest brick ranch on a
   street where everyone mowed on Saturday.
 - **Dan Calloway (father), now 61.** Facilities manager for a regional hospital
   system. He fixes things before anyone knows they're broken. Never late, never
@@ -13,6 +13,12 @@ Age 28 at open. Founder/CEO of Loopback.health. Narrator.
   color-coded wall calendar.
 - Home rule: *feelings are handled privately, problems are handled together.* Nate
   learned that a problem with a solution is a form of affection.
+
+- **Annie Calloway (sister, 24; placeholder name).** Lives in Dayton area, works as a
+  veterinary tech, stayed close to the parents. She sees Nate clearly and teases
+  him for it. She's the one who tells Maya, "He says 'text me when you get there'
+  because he can't say the other thing." Small but memorable role: a few phone
+  calls, a holiday scene, a wedding moment.
 
 ## Formative moments
 1. **Age 8, the list.** Dan's father (Grandpa Walt Calloway, since deceased) had a
@@ -75,7 +81,6 @@ Age 28 at open. Founder/CEO of Loopback.health. Narrator.
 - **Ch 22:** Ray's questions, and Nate finally hears "I want to marry her" out loud.
 
 ## Questions for Scott
-- Only child, or a sibling?
 - Is the pill-organizer science-fair detail too neat? Keep, tweak, or cut?
 - Should Nate have a mild flaw beyond over-efficiency, such as impatience or a
   streak of vanity about being self-made?

@@ -79,7 +79,7 @@ worst problem was, and then listened to the answer.
 - **Ch 24:** The pregnancy: she decides when and how to tell him.
 
 ## Questions for Scott
-- Does Maya have an older brother, or is she an only child like Nate?
+- (Resolved: Maya has an older brother, Arjun. Nate has a younger sister, Annie.)
 - Should the pharmacy expansion be a second location or an adjacent space
   (a clinic, a vaccination room)? The second option ties more closely to
   Loopback.
