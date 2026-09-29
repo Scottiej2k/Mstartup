@@ -5,7 +5,8 @@
 <style>
 /* Concept: a working manuscript read like a good document tool. Fog-gray ground, ink text,
    the book's pitch-deck joke made literal (each Founder's Note is a dark "slide"),
-   highlighter yellow reserved for marks the reader makes. */
+   highlighter yellow reserved for marks the reader makes. The Edits tab is a small
+   work queue: blue = waiting, amber = Claude is on it, green = done, review it. */
 :root {
   --bg: #edf0f1;
   --paper: #fafbfb;
@@ -22,6 +23,10 @@
   --msg-out: #d6e7ec;
   --approved: #2c6e49;
   --draft: #8a5a00;
+  --st-sub: #2a62a8;
+  --st-work: #9a6200;
+  --st-done: #2c7a4b;
+  --card: #ffffff;
   --f-display: 'Bricolage Grotesque', system-ui, -apple-system, 'Segoe UI', sans-serif;
   --f-body: 'Newsreader', Georgia, 'Times New Roman', serif;
   --f-mono: 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace;
@@ -32,6 +37,7 @@
     --bg: #0e1316; --paper: #141b20; --ink: #e3e8eb; --muted: #93a0a9; --rule: #27323a;
     --accent: #74b9d3; --accent-ink: #0b1216; --hl: #6e5e12; --slide: #1c2b36; --slide-ink: #eaf0f3;
     --slide-mute: #9fb2bd; --msg-in: #1e282f; --msg-out: #1b3440; --approved: #6fc593; --draft: #e0a93a;
+    --st-sub: #7db4ea; --st-work: #e0a93a; --st-done: #6fc593; --card: #1a2329;
     color-scheme: dark;
   }
 }
@@ -39,14 +45,16 @@
   --bg: #0e1316; --paper: #141b20; --ink: #e3e8eb; --muted: #93a0a9; --rule: #27323a;
   --accent: #74b9d3; --accent-ink: #0b1216; --hl: #6e5e12; --slide: #1c2b36; --slide-ink: #eaf0f3;
   --slide-mute: #9fb2bd; --msg-in: #1e282f; --msg-out: #1b3440; --approved: #6fc593; --draft: #e0a93a;
+  --st-sub: #7db4ea; --st-work: #e0a93a; --st-done: #6fc593; --card: #1a2329;
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
 body { background: var(--bg); color: var(--ink); font-family: var(--f-body); }
 a { color: var(--accent); }
-button { font: inherit; color: inherit; }
+button, textarea { font: inherit; color: inherit; }
 :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 ::selection { background: color-mix(in srgb, var(--accent) 32%, transparent); }
+[hidden] { display: none !important; }
 
 /* top bar */
 .top {
@@ -55,40 +63,84 @@ button { font: inherit; color: inherit; }
   backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--rule);
 }
-.top-in {
-  display: flex; align-items: center; gap: 12px; padding: 10px 16px; max-width: 1180px; margin-inline: auto;
-}
-.brand { font-family: var(--f-display); font-weight: 700; letter-spacing: -0.01em; font-size: 1.05rem; margin-right: auto; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.top-in { display: flex; align-items: center; gap: 12px; padding: 10px 16px; max-width: 1180px; margin-inline: auto; }
+.brand { font-family: var(--f-display); font-weight: 700; letter-spacing: -0.01em; font-size: 1.05rem; margin-right: auto; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; }
 .brand small { font-family: var(--f-mono); font-weight: 400; font-size: 0.68rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); margin-left: 8px; }
 .tools { display: flex; align-items: center; gap: 6px; }
 .tbtn {
   background: transparent; border: 1px solid var(--rule); border-radius: 6px; min-width: 36px; height: 34px;
-  padding: 0 10px; cursor: pointer; font-family: var(--f-mono); font-size: 0.78rem;
+  padding: 0 10px; cursor: pointer; font-family: var(--f-mono); font-size: 0.78rem; position: relative;
 }
 .tbtn:hover { border-color: var(--accent); }
 .only-narrow { display: none; }
+.dot { position: absolute; top: -6px; right: -6px; min-width: 18px; height: 18px; padding: 0 5px; border-radius: 9px; background: var(--accent); color: var(--accent-ink); font-size: 0.66rem; line-height: 18px; text-align: center; font-family: var(--f-mono); }
 .progress { position: absolute; left: 0; bottom: -1px; height: 2px; width: 0; background: var(--accent); }
 
 /* layout */
-.layout { display: grid; grid-template-columns: 270px minmax(0, 1fr); max-width: 1180px; margin-inline: auto; }
+.layout { display: grid; grid-template-columns: 300px minmax(0, 1fr); max-width: 1220px; margin-inline: auto; }
 .toc {
   position: sticky; top: calc(env(safe-area-inset-top, 0px) + 56px); align-self: start;
-  max-height: calc(100vh - 70px); overflow-y: auto; padding: 24px 16px 24px 16px;
+  max-height: calc(100vh - 70px); overflow-y: auto; padding: 18px 16px 24px 16px;
 }
-.toc h3 { font-family: var(--f-mono); font-weight: 500; font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); margin: 0 0 12px; }
-.toc a {
+.tabs { display: grid; grid-template-columns: 1fr 1fr; gap: 4px; padding: 3px; background: color-mix(in srgb, var(--ink) 6%, transparent); border-radius: 9px; margin-bottom: 16px; }
+.tabs button {
+  border: 0; background: transparent; border-radius: 7px; padding: 8px 10px; cursor: pointer;
+  font-family: var(--f-display); font-weight: 600; font-size: 0.86rem; color: var(--muted);
+  display: flex; align-items: center; justify-content: center; gap: 7px;
+}
+.tabs button[aria-selected="true"] { background: var(--paper); color: var(--ink); box-shadow: 0 1px 2px rgba(0,0,0,.12); }
+.badge { font-family: var(--f-mono); font-size: 0.66rem; min-width: 18px; height: 18px; line-height: 18px; padding: 0 5px; border-radius: 9px; background: var(--accent); color: var(--accent-ink); text-align: center; }
+.toc a.ch {
   display: grid; grid-template-columns: 26px minmax(0, 1fr); column-gap: 8px; text-decoration: none; color: var(--ink);
   padding: 9px 10px; border-radius: 8px; border: 1px solid transparent;
 }
 .toc a .n { grid-row: 1 / span 2; font-family: var(--f-mono); font-size: 0.8rem; color: var(--muted); padding-top: 2px; }
 .toc a .t { font-family: var(--f-display); font-weight: 600; font-size: 0.93rem; line-height: 1.25; text-wrap: balance; }
 .toc a .m { font-family: var(--f-mono); font-size: 0.66rem; color: var(--muted); margin-top: 2px; }
-.toc a:hover { background: color-mix(in srgb, var(--accent) 8%, transparent); }
-.toc a.on { border-color: var(--rule); background: var(--paper); }
-.toc a.on .n { color: var(--accent); }
-.toc-note { margin-top: 18px; padding-top: 14px; border-top: 1px solid var(--rule); font-size: 0.82rem; color: var(--muted); line-height: 1.5; font-family: var(--f-body); }
+.toc a.ch:hover { background: color-mix(in srgb, var(--accent) 8%, transparent); }
+.toc a.ch.on { border-color: var(--rule); background: var(--paper); }
+.toc a.ch.on .n { color: var(--accent); }
+.toc-note { margin-top: 18px; padding-top: 14px; border-top: 1px solid var(--rule); font-size: 0.82rem; color: var(--muted); line-height: 1.5; }
 
-.page { min-width: 0; padding: 28px clamp(0px, 2vw, 24px) 140px; }
+/* edit queue */
+.q-head { display: grid; gap: 10px; margin-bottom: 14px; }
+.q-title { font-family: var(--f-display); font-weight: 700; font-size: 1.05rem; letter-spacing: -0.01em; }
+.q-counts { display: flex; flex-wrap: wrap; gap: 6px; font-family: var(--f-mono); font-size: 0.7rem; }
+.q-counts span { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--rule); border-radius: 999px; padding: 2px 9px; color: var(--muted); }
+.q-counts span::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: var(--c); }
+.q-counts .s-sub { --c: var(--st-sub); } .q-counts .s-work { --c: var(--st-work); } .q-counts .s-done { --c: var(--st-done); }
+.q-actions { display: flex; flex-wrap: wrap; gap: 6px; }
+.qbtn { border: 1px solid var(--rule); background: var(--paper); border-radius: 7px; padding: 7px 11px; cursor: pointer; font-family: var(--f-display); font-weight: 600; font-size: 0.8rem; }
+.qbtn:hover:not(:disabled) { border-color: var(--accent); }
+.qbtn:disabled { opacity: .45; cursor: default; }
+.qbtn.strong { background: var(--st-done); border-color: var(--st-done); color: #fff; }
+.qbtn.confirm { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.q-empty { border: 1px dashed var(--rule); border-radius: 10px; padding: 16px; font-size: 0.92rem; line-height: 1.5; color: var(--muted); }
+.q-empty b { color: var(--ink); font-weight: 600; }
+.q-group { margin-top: 16px; }
+.q-group h4 { margin: 0 0 8px; font-family: var(--f-mono); font-weight: 500; font-size: 0.66rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.q-item { background: var(--card); border: 1px solid var(--rule); border-left: 4px solid var(--c); border-radius: 8px; padding: 10px 12px 11px; margin-bottom: 8px; }
+.q-item.submitted { --c: var(--st-sub); } .q-item.working { --c: var(--st-work); } .q-item.completed { --c: var(--st-done); } .q-item.resolved { --c: var(--rule); opacity: .72; }
+.q-top { display: flex; align-items: center; gap: 8px; margin-bottom: 7px; font-family: var(--f-mono); font-size: 0.68rem; color: var(--muted); }
+.q-top .time { margin-left: auto; }
+.pill-st { border: 1px solid var(--c); color: var(--c); border-radius: 999px; padding: 0 8px; font-size: 0.66rem; letter-spacing: 0.03em; display: inline-flex; align-items: center; gap: 5px; }
+.q-item.resolved .pill-st { color: var(--muted); }
+.pill-st::before { content: ""; width: 6px; height: 6px; border-radius: 50%; background: currentColor; }
+.q-item.working .pill-st::before { animation: pulse 1.4s ease-in-out infinite; }
+@keyframes pulse { 50% { opacity: .25; } }
+.q-quote { margin: 0 0 6px; padding: 0 0 0 9px; border-left: 2px solid var(--rule); font-size: 0.86rem; line-height: 1.4; color: var(--muted); font-style: italic; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.q-note { font-family: var(--f-display); font-size: 0.9rem; line-height: 1.4; font-weight: 500; overflow-wrap: anywhere; }
+.q-claude { margin-top: 8px; padding: 7px 9px; border-radius: 6px; background: color-mix(in srgb, var(--st-done) 12%, transparent); font-size: 0.84rem; line-height: 1.4; overflow-wrap: anywhere; }
+.q-claude b { font-family: var(--f-mono); font-weight: 500; font-size: 0.64rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--st-done); display: block; margin-bottom: 2px; }
+.q-work { margin-top: 7px; font-size: 0.8rem; color: var(--muted); }
+.q-btns { display: flex; gap: 6px; margin-top: 9px; flex-wrap: wrap; }
+.q-btns button { border: 1px solid var(--rule); background: transparent; border-radius: 6px; padding: 4px 10px; cursor: pointer; font-family: var(--f-display); font-weight: 600; font-size: 0.76rem; }
+.q-btns button:hover { border-color: var(--accent); }
+.q-btns .resolve { background: var(--st-done); border-color: var(--st-done); color: #fff; }
+details#qResolved { margin-top: 18px; }
+details#qResolved summary { cursor: pointer; font-family: var(--f-mono); font-size: 0.7rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); margin-bottom: 8px; }
+
+.page { min-width: 0; padding: 28px clamp(0px, 2vw, 24px) 160px; }
 .sheet {
   background: var(--paper); border: 1px solid var(--rule); border-radius: 4px;
   padding: clamp(24px, 5vw, 64px) clamp(16px, 5vw, 64px);
@@ -97,7 +149,7 @@ button { font: inherit; color: inherit; }
 .intro { border-bottom: 1px solid var(--rule); padding-bottom: 26px; margin-bottom: 8px; max-width: 40rem; margin-inline: auto; }
 .intro h1 { font-family: var(--f-display); font-weight: 700; font-size: clamp(1.9rem, 5vw, 2.7rem); letter-spacing: -0.02em; line-height: 1.05; margin: 0 0 6px; text-wrap: balance; }
 .intro .sub { font-family: var(--f-mono); font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); margin: 0 0 18px; }
-.how { font-family: var(--f-body); font-size: 1rem; line-height: 1.55; color: var(--ink); margin: 0; }
+.how { font-size: 1rem; line-height: 1.55; margin: 0; }
 .how b { font-weight: 600; }
 .how ol { margin: 10px 0 0; padding-left: 1.2em; }
 .how li { margin: 4px 0; }
@@ -112,10 +164,11 @@ button { font: inherit; color: inherit; }
 .pill.approved { color: var(--approved); }
 .pill.draft { color: var(--draft); }
 
-.prose { font-size: var(--fs); line-height: 1.68; font-variant-ligatures: common-ligatures; hyphens: manual; }
+.prose { font-size: var(--fs); line-height: 1.68; font-variant-ligatures: common-ligatures; }
 .prose p { margin: 0 0 1.05em; max-width: 66ch; }
 .prose p[data-p] { text-wrap: pretty; }
-.prose em { font-style: italic; }
+.prose p.flash, .note p.flash { animation: flash 1.8s ease-out; }
+@keyframes flash { 0%, 40% { background: color-mix(in srgb, var(--accent) 22%, transparent); } 100% { background: transparent; } }
 hr.scene { border: 0; height: 28px; margin: 1.4em 0; position: relative; }
 hr.scene::after { content: ""; position: absolute; left: 50%; top: 50%; width: 7px; height: 7px; border-radius: 50%; background: var(--rule); transform: translate(-50%, -50%); box-shadow: -18px 0 0 var(--rule), 18px 0 0 var(--rule); }
 
@@ -125,7 +178,7 @@ hr.scene::after { content: ""; position: absolute; left: 50%; top: 50%; width: 7
 .msg.out { background: var(--msg-out); margin-left: auto; border-bottom-right-radius: 4px; }
 .msg.in strong, .msg.out em { font-style: normal; font-weight: 400; }
 .msg + p:not(.msg) { margin-top: 1.1em; }
-.sign { font-family: var(--f-mono); font-size: 0.78em; letter-spacing: 0.02em; text-transform: none; border: 1.5px dashed var(--muted); border-radius: 4px; padding: 10px 14px; width: fit-content; max-width: 100%; margin-inline: auto; text-align: center; }
+.sign { font-family: var(--f-mono); font-size: 0.78em; letter-spacing: 0.02em; border: 1.5px dashed var(--muted); border-radius: 4px; padding: 10px 14px; width: fit-content; max-width: 100%; margin-inline: auto; text-align: center; }
 .sign strong { font-weight: 500; }
 
 mark.hl { background: var(--hl); color: inherit; border-radius: 2px; padding: 0 1px; cursor: pointer; }
@@ -144,11 +197,11 @@ mark.hl { background: var(--hl); color: inherit; border-radius: 2px; padding: 0 
 .note ::selection { background: color-mix(in srgb, #74b9d3 45%, transparent); }
 mark.hl.on-slide { color: #14181c; background: #ffe666; }
 
-/* selection bar */
+/* selection bar and composer */
 #selbar {
   position: fixed; left: 50%; transform: translateX(-50%); z-index: 40;
   bottom: calc(16px + env(safe-area-inset-bottom, 0px));
-  display: flex; gap: 6px; padding: 6px; border-radius: 12px; background: var(--slide); color: var(--slide-ink);
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; padding: 6px; border-radius: 12px; background: var(--slide); color: var(--slide-ink);
   box-shadow: 0 10px 30px rgba(0, 0, 0, .35); max-width: calc(100vw - 32px);
 }
 #selbar button {
@@ -159,21 +212,33 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
 #selbar button:hover { background: color-mix(in srgb, var(--slide-ink) 14%, transparent); }
 #selbar button.primary { background: #74b9d3; color: #0b1216; }
 #selbar button.primary:hover { background: #8cc7de; }
-#selbar .sep { width: 1px; background: color-mix(in srgb, var(--slide-ink) 20%, transparent); margin: 6px 2px; }
-#selbar[hidden], .toc [hidden] { display: none !important; }
+#composer {
+  position: fixed; left: 50%; transform: translateX(-50%); z-index: 45;
+  bottom: calc(16px + env(safe-area-inset-bottom, 0px)); width: min(560px, calc(100vw - 32px));
+  background: var(--slide); color: var(--slide-ink); border-radius: 12px; padding: 14px; box-shadow: 0 14px 40px rgba(0,0,0,.4);
+}
+.c-label { font-family: var(--f-mono); font-size: 0.64rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--slide-mute); margin-bottom: 8px; }
+.c-quote { font-size: 0.9rem; line-height: 1.4; font-style: italic; color: var(--slide-mute); border-left: 2px solid color-mix(in srgb, var(--slide-ink) 30%, transparent); padding-left: 10px; margin-bottom: 10px; max-height: 4.6em; overflow: hidden; overflow-wrap: anywhere; }
+#composer textarea { width: 100%; resize: vertical; min-height: 78px; max-height: 40vh; background: color-mix(in srgb, var(--slide-ink) 10%, transparent); border: 1px solid color-mix(in srgb, var(--slide-ink) 25%, transparent); border-radius: 8px; padding: 10px 12px; color: var(--slide-ink); font-family: var(--f-display); font-size: 0.95rem; line-height: 1.4; }
+#composer textarea::placeholder { color: var(--slide-mute); }
+.c-row { display: flex; align-items: center; gap: 8px; margin-top: 10px; }
+.c-hint { margin-right: auto; font-size: 0.72rem; color: var(--slide-mute); font-family: var(--f-mono); }
+.c-row button { border: 0; border-radius: 8px; padding: 9px 14px; cursor: pointer; font-family: var(--f-display); font-weight: 600; font-size: 0.86rem; background: transparent; color: var(--slide-ink); }
+.c-row button.primary { background: #74b9d3; color: #0b1216; }
+.c-row button:disabled { opacity: .5; cursor: default; }
 #toast {
-  position: fixed; left: 50%; transform: translateX(-50%); z-index: 50;
-  bottom: calc(76px + env(safe-area-inset-bottom, 0px)); background: var(--ink); color: var(--bg);
+  position: fixed; left: 50%; transform: translateX(-50%); z-index: 60;
+  bottom: calc(84px + env(safe-area-inset-bottom, 0px)); background: var(--ink); color: var(--bg);
   padding: 9px 14px; border-radius: 8px; font-family: var(--f-display); font-size: 0.86rem; max-width: calc(100vw - 32px);
   opacity: 0; pointer-events: none; transition: opacity .18s;
 }
 #toast.show { opacity: 1; }
 
-/* narrow: chapters become a drawer */
+/* narrow: sidebar becomes a drawer */
 @media (max-width: 900px) {
   .layout { grid-template-columns: minmax(0, 1fr); }
   .toc {
-    position: fixed; top: calc(env(safe-area-inset-top, 0px) + 56px); left: 0; bottom: 0; width: min(320px, 88vw); z-index: 30;
+    position: fixed; top: calc(env(safe-area-inset-top, 0px) + 56px); left: 0; bottom: 0; width: min(340px, 90vw); z-index: 30;
     background: var(--paper); border-right: 1px solid var(--rule); max-height: none; transform: translateX(-102%);
     transition: transform .2s; padding-bottom: calc(24px + env(safe-area-inset-bottom, 0px));
   }
@@ -183,13 +248,13 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
   .page { padding-inline: 0; padding-top: 12px; }
   .sheet { border-radius: 0; border-inline: 0; }
 }
-@media (prefers-reduced-motion: reduce) { .toc, #toast { transition: none; } }
+@media (prefers-reduced-motion: reduce) { .toc, #toast { transition: none; } .q-item.working .pill-st::before, .prose p.flash, .note p.flash { animation: none; } }
 @media (max-width: 420px) { #selbar button { padding: 9px 10px; font-size: 0.8rem; } }
 </style>
 
 <header class="top">
   <div class="top-in">
-    <button class="tbtn only-narrow" id="menuBtn" aria-label="Chapters" aria-expanded="false">Chapters</button>
+    <button class="tbtn only-narrow" id="menuBtn" aria-label="Chapters and edit queue" aria-expanded="false">Menu<span class="dot" id="menuDot" hidden>0</span></button>
     <div class="brand">The Marriage Startup <small>Draft manuscript</small></div>
     <div class="tools">
       <button class="tbtn" id="fsDown" aria-label="Smaller text">A&minus;</button>
@@ -200,24 +265,44 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
 </header>
 
 <div class="layout">
-  <nav class="toc" id="toc" aria-label="Chapters">
-    <h3>Chapters</h3>
-    __NAV__
-    <div class="toc-note">__COUNT__ chapters drafted, __TOTAL__ words. Chapters not yet written are not listed.</div>
+  <nav class="toc" id="toc" aria-label="Sidebar">
+    <div class="tabs" role="tablist">
+      <button role="tab" id="tabCh" aria-selected="true" aria-controls="panelCh">Chapters</button>
+      <button role="tab" id="tabEd" aria-selected="false" aria-controls="panelEd">Edits<span class="badge" id="edBadge" hidden>0</span></button>
+    </div>
+
+    <div id="panelCh" role="tabpanel" aria-labelledby="tabCh">
+      __NAV__
+      <div class="toc-note">__COUNT__ chapters drafted, __TOTAL__ words. Chapters not yet written are not listed.</div>
+    </div>
+
+    <div id="panelEd" role="tabpanel" aria-labelledby="tabEd" hidden>
+      <div class="q-head">
+        <div class="q-title">Edit queue</div>
+        <div class="q-counts" id="qCounts" aria-live="polite"></div>
+        <div class="q-actions">
+          <button class="qbtn strong" id="qResolveAll" disabled>Resolve all completed</button>
+          <button class="qbtn" id="qNudge" title="Send Claude a note to start on the queue">Nudge Claude</button>
+        </div>
+      </div>
+      <div class="q-empty" id="qEmpty"><b>No edit requests yet.</b> Select any words in the manuscript and choose <b>Request edit</b>. Each request appears here as <b>Submitted</b>, moves to <b>Working</b> while Claude changes the text, and lands as <b>Completed</b> for you to check.</div>
+      <div id="qGroups"></div>
+      <details id="qResolved" hidden><summary>Resolved (<span id="qResolvedN">0</span>)</summary><div id="qResolvedList"></div></details>
+    </div>
   </nav>
 
   <main class="page">
     <div class="sheet" id="manuscript">
-      <div class="intro">
+      <div class="intro" id="intro">
         <h1>The Marriage Startup</h1>
         <p class="sub">Draft manuscript &middot; Chapters 1&ndash;__COUNT__</p>
         <div class="how">
           <b>To change a line, select it.</b>
           <ol>
             <li>Select any words. A bar appears at the bottom of the screen.</li>
-            <li><b>Comment</b> opens the comment box with your selection quoted. Say what you want changed, then choose <b>Send to Claude</b> so it is picked up and revised in place.</li>
-            <li><b>Highlight</b> marks a passage for yourself. Highlights stay in this browser only and are not sent to anyone.</li>
-            <li><b>Copy</b> puts the passage and its chapter on your clipboard, to paste into a chat.</li>
+            <li><b>Request edit</b> opens a box for what should change. It joins the <b>Edits</b> queue as Submitted, and Claude is notified. You will see it move to Working, then Completed. Press <b>Resolve</b> when you are happy with it.</li>
+            <li><b>Comment</b> starts a discussion thread on the passage, for questions rather than changes.</li>
+            <li><b>Highlight</b> marks a passage for yourself, in this browser only. <b>Copy</b> puts the passage and its chapter on your clipboard.</li>
           </ol>
         </div>
       </div>
@@ -227,10 +312,22 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
 </div>
 
 <div id="selbar" hidden role="toolbar" aria-label="Selection actions">
-  <button id="bComment" class="primary">Comment</button>
+  <button id="bEdit" class="primary" hidden>Request edit</button>
+  <button id="bComment" hidden>Comment</button>
   <button id="bHighlight">Highlight</button>
   <button id="bCopy">Copy</button>
   <button id="bRemove" hidden>Remove highlight</button>
+</div>
+
+<div id="composer" hidden role="dialog" aria-label="Request an edit">
+  <div class="c-label" id="cLabel">Request edit</div>
+  <div class="c-quote" id="cQuote"></div>
+  <textarea id="cNote" rows="3" maxlength="1000" aria-label="What should change?" placeholder="What should change? For example: cut this, make it funnier, explain the reference, change the name."></textarea>
+  <div class="c-row">
+    <span class="c-hint">Ctrl or Cmd + Enter to add</span>
+    <button id="cCancel">Cancel</button>
+    <button id="cAdd" class="primary">Add to queue</button>
+  </div>
 </div>
 <div id="toast" role="status" aria-live="polite"></div>
 
@@ -238,18 +335,17 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
 (function () {
   var prose = document.getElementById('manuscript');
   var bar = document.getElementById('selbar');
-  var bComment = document.getElementById('bComment');
-  var bHighlight = document.getElementById('bHighlight');
-  var bCopy = document.getElementById('bCopy');
-  var bRemove = document.getElementById('bRemove');
+  var bEdit = document.getElementById('bEdit'), bComment = document.getElementById('bComment'), bHighlight = document.getElementById('bHighlight');
+  var bCopy = document.getElementById('bCopy'), bRemove = document.getElementById('bRemove');
   var toastEl = document.getElementById('toast');
-  var comments = null, lastRange = null, activeMark = null, barBusy = false, toastTimer = null;
+  var comments = null, db = null, edits = null;
+  var lastRange = null, activeMark = null, barBusy = false, toastTimer = null, items = [], pending = null;
 
-  /* ---------- small helpers ---------- */
+  /* ---------- helpers ---------- */
   function store(key, val) { try { if (val === undefined) { return localStorage.getItem(key); } localStorage.setItem(key, val); } catch (e) { return null; } }
   function toast(msg) {
     toastEl.textContent = msg; toastEl.classList.add('show');
-    clearTimeout(toastTimer); toastTimer = setTimeout(function () { toastEl.classList.remove('show'); }, 2600);
+    clearTimeout(toastTimer); toastTimer = setTimeout(function () { toastEl.classList.remove('show'); }, 3200);
   }
   function elOf(node) { return node && node.nodeType === 1 ? node : (node ? node.parentElement : null); }
   function inProse(node) { var e = elOf(node); return !!(e && prose.contains(e) && e.closest('[data-p]')); }
@@ -261,31 +357,36 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
     if (!r.toString().trim()) return null;
     return r;
   }
-  function chapterOf(node) {
-    var e = elOf(node); var s = e && e.closest('.chapter');
-    return s ? { n: s.dataset.n, title: s.dataset.title } : null;
+  function chapterOf(node) { var e = elOf(node); var s = e && e.closest('.chapter'); return s ? { n: s.dataset.n, title: s.dataset.title } : null; }
+  function mk(tag, cls, text) { var e = document.createElement(tag); if (cls) e.className = cls; if (text !== undefined) e.textContent = text; return e; }
+  function ago(ts) {
+    if (!ts) return '';
+    var s = Math.max(0, Math.round((Date.now() - ts) / 1000));
+    if (s < 60) return 'just now'; if (s < 3600) return Math.floor(s / 60) + ' min ago';
+    if (s < 86400) return Math.floor(s / 3600) + ' h ago'; return Math.floor(s / 86400) + ' d ago';
   }
+  var composerOpen = function () { return !document.getElementById('composer').hidden; };
 
   /* ---------- selection bar ---------- */
   function showBar(mode) {
-    bComment.hidden = mode === 'mark' || !comments;
-    bHighlight.hidden = mode === 'mark';
-    bCopy.hidden = mode === 'mark';
-    bRemove.hidden = mode !== 'mark';
+    var m = mode === 'mark';
+    bEdit.hidden = m || !edits; bComment.hidden = m || !comments;
+    bHighlight.hidden = m; bCopy.hidden = m; bRemove.hidden = !m;
     bar.hidden = false;
   }
   function hideBar() { if (barBusy) return; bar.hidden = true; activeMark = null; }
   document.addEventListener('selectionchange', function () {
+    if (composerOpen()) return;
     var r = selRange();
     if (r) { lastRange = r.cloneRange(); activeMark = null; showBar('sel'); }
-    else if (!activeMark) { setTimeout(function () { if (!selRange() && !activeMark) hideBar(); }, 180); }
+    else if (!activeMark) { setTimeout(function () { if (!selRange() && !activeMark && !composerOpen()) hideBar(); }, 180); }
   });
   ['pointerdown', 'touchstart', 'mousedown'].forEach(function (ev) {
     bar.addEventListener(ev, function (e) { barBusy = true; if (ev !== 'touchstart') e.preventDefault(); }, { passive: false });
   });
   function done() { barBusy = false; var s = window.getSelection(); if (s) s.removeAllRanges(); bar.hidden = true; activeMark = null; }
 
-  /* ---------- comment ---------- */
+  /* ---------- comment (discussion thread in the platform's own composer) ---------- */
   bComment.addEventListener('click', function () {
     var r = lastRange; barBusy = false;
     if (!comments || !r) { done(); return; }
@@ -294,9 +395,8 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
       done();
     }).catch(function (e) {
       var code = e && e.code;
-      if (code === 'unavailable' || code === 'not_granted' || code === 'forbidden') {
-        comments = null; toast('Comments are not available in this view. Use Copy instead.');
-      } else { toast('Could not open the comment box. Try again.'); }
+      if (code === 'unavailable' || code === 'not_granted' || code === 'forbidden') { comments = null; toast('Comments are not available in this view.'); }
+      else { toast('Could not open the comment box. Try again.'); }
       done();
     });
   });
@@ -307,9 +407,7 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
     var c = chapterOf(r.startContainer);
     var text = (c ? 'Chapter ' + c.n + ' (' + c.title + '): ' : '') + '"' + r.toString().trim().replace(/\s+/g, ' ') + '"';
     var fallback = function () { toast('Copy was blocked. Select the text and copy it yourself.'); };
-    try {
-      navigator.clipboard.writeText(text).then(function () { toast('Copied with chapter reference.'); }, fallback);
-    } catch (e) { fallback(); }
+    try { navigator.clipboard.writeText(text).then(function () { toast('Copied with chapter reference.'); }, fallback); } catch (e) { fallback(); }
     done();
   });
 
@@ -340,16 +438,13 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
   }
   bHighlight.addEventListener('click', function () {
     var r = lastRange; barBusy = false; if (!r) { done(); return; }
-    var list = loadH(), added = [];
-    var paras = prose.querySelectorAll('[data-p]');
+    var list = loadH(), added = [], paras = prose.querySelectorAll('[data-p]');
     for (var i = 0; i < paras.length; i++) {
-      var p = paras[i];
-      if (!r.intersectsNode(p)) continue;
+      var p = paras[i]; if (!r.intersectsNode(p)) continue;
       var s = p.contains(r.startContainer) ? offsetIn(p, r.startContainer, r.startOffset) : 0;
       var e = p.contains(r.endContainer) ? offsetIn(p, r.endContainer, r.endOffset) : p.textContent.length;
       if (e <= s) continue;
-      var t = p.textContent.slice(s, e);
-      if (!t.trim()) continue;
+      var t = p.textContent.slice(s, e); if (!t.trim()) continue;
       added.push({ id: 'h' + Date.now().toString(36) + i, p: p.dataset.p, s: s, e: e, t: t });
     }
     var sel = window.getSelection(); if (sel) sel.removeAllRanges();
@@ -357,8 +452,7 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
     saveH(list); toast(added.length ? 'Highlighted. Tap it to remove.' : 'Nothing to highlight there.'); done();
   });
   prose.addEventListener('click', function (e) {
-    var m = e.target.closest && e.target.closest('mark.hl');
-    var sel = window.getSelection();
+    var m = e.target.closest && e.target.closest('mark.hl'); var sel = window.getSelection();
     if (m && (!sel || sel.isCollapsed)) { activeMark = m; showBar('mark'); }
   });
   bRemove.addEventListener('click', function () {
@@ -378,16 +472,22 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
   document.getElementById('fsDown').addEventListener('click', function () { setFs(fs - 1); });
   document.getElementById('fsUp').addEventListener('click', function () { setFs(fs + 1); });
 
-  /* ---------- chapters drawer, scroll spy, progress ---------- */
+  /* ---------- sidebar: tabs, drawer, scroll spy ---------- */
+  var tabCh = document.getElementById('tabCh'), tabEd = document.getElementById('tabEd');
+  var panelCh = document.getElementById('panelCh'), panelEd = document.getElementById('panelEd');
+  function setTab(which) {
+    var ed = which === 'ed';
+    tabCh.setAttribute('aria-selected', String(!ed)); tabEd.setAttribute('aria-selected', String(ed));
+    panelCh.hidden = ed; panelEd.hidden = !ed; store('tms-tab', ed ? 'ed' : 'ch');
+  }
+  tabCh.addEventListener('click', function () { setTab('ch'); });
+  tabEd.addEventListener('click', function () { setTab('ed'); });
+  setTab(store('tms-tab') === 'ed' ? 'ed' : 'ch');
   var menuBtn = document.getElementById('menuBtn');
-  menuBtn.addEventListener('click', function () {
-    var on = document.body.classList.toggle('drawer'); menuBtn.setAttribute('aria-expanded', String(on));
-  });
-  document.getElementById('toc').addEventListener('click', function (e) {
-    if (e.target.closest('a')) { document.body.classList.remove('drawer'); menuBtn.setAttribute('aria-expanded', 'false'); }
-  });
+  menuBtn.addEventListener('click', function () { var on = document.body.classList.toggle('drawer'); menuBtn.setAttribute('aria-expanded', String(on)); });
+  panelCh.addEventListener('click', function (e) { if (e.target.closest('a')) { document.body.classList.remove('drawer'); menuBtn.setAttribute('aria-expanded', 'false'); } });
   var chapters = Array.prototype.slice.call(document.querySelectorAll('.chapter'));
-  var links = {}; Array.prototype.forEach.call(document.querySelectorAll('#toc a'), function (a) { links[a.dataset.n] = a; });
+  var links = {}; Array.prototype.forEach.call(document.querySelectorAll('#panelCh a.ch'), function (a) { links[a.dataset.n] = a; });
   var prog = document.getElementById('progress'), ticking = false;
   function onScroll() {
     ticking = false;
@@ -400,12 +500,186 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
   window.addEventListener('scroll', function () { if (!ticking) { ticking = true; requestAnimationFrame(onScroll); } }, { passive: true });
   onScroll();
 
-  /* ---------- capability (arrives later; page works without it) ---------- */
-  if (window.claude && window.claude.use) {
-    window.claude.use('comments').then(function (c) {
-      comments = c || null;
-      if (!comments) bComment.hidden = true;
-    }, function () { comments = null; });
+  /* ---------- Claude notifications ---------- */
+  function notify(text, el) {
+    if (!comments) return Promise.resolve('nocomments');
+    return comments.canSendToClaude().then(function (can) {
+      if (can !== 'available') return can;
+      return comments.anchorFor(el).then(function (anchor) {
+        return comments.sendToClaude({ anchor: anchor, text: text.slice(0, 1800) });
+      }).then(function (res) { return { ok: true, threadId: res.threadId }; });
+    }).catch(function (e) { return (e && e.code) || 'error'; });
   }
+  function notifyMsg(r) {
+    if (r && r.ok) return 'Sent to Claude.';
+    if (r === 'no_session') return 'Queued. Claude is not listening right now, so use Nudge Claude when you are ready.';
+    if (r === 'writers_only') return 'Queued, but only editors can send to Claude.';
+    if (r === 'consent_required') return 'Queued. Allow comments from this page, then use Nudge Claude.';
+    return 'Queued, but Claude was not notified. Use Nudge Claude.';
+  }
+
+  /* ---------- composer: request an edit ---------- */
+  var composer = document.getElementById('composer'), cNote = document.getElementById('cNote'), cQuote = document.getElementById('cQuote');
+  var cAdd = document.getElementById('cAdd'), cCancel = document.getElementById('cCancel');
+  function openComposer() {
+    var r = lastRange; barBusy = false;
+    if (!r || !edits) { done(); return; }
+    var startEl = elOf(r.startContainer), para = startEl && startEl.closest('[data-p]'), ch = chapterOf(r.startContainer);
+    if (!para || !ch) { done(); return; }
+    pending = { n: Number(ch.n), title: ch.title, para: para.dataset.p, quote: r.toString().trim().replace(/\s+/g, ' ').slice(0, 400) };
+    cQuote.textContent = '“' + pending.quote + '”';
+    cNote.value = store('tms-draft') || '';
+    done(); composer.hidden = false; setTimeout(function () { cNote.focus(); }, 0);
+  }
+  function closeComposer(clear) {
+    composer.hidden = true; pending = null;
+    if (clear) { cNote.value = ''; store('tms-draft', ''); }
+  }
+  bEdit.addEventListener('click', openComposer);
+  cCancel.addEventListener('click', function () { closeComposer(false); });
+  cNote.addEventListener('input', function () { store('tms-draft', cNote.value); });
+  cNote.addEventListener('keydown', function (e) {
+    if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') { e.preventDefault(); submitEdit(); }
+    if (e.key === 'Escape') closeComposer(false);
+  });
+  cAdd.addEventListener('click', submitEdit);
+  function submitEdit() {
+    var note = cNote.value.trim();
+    if (!pending || !edits) return;
+    if (!note) { toast('Say what should change first.'); cNote.focus(); return; }
+    var p = pending, now = Date.now(), id = 'e' + now.toString(36) + Math.random().toString(36).slice(2, 5);
+    var ref = edits.doc(id);
+    cAdd.disabled = true;
+    ref.set({ n: p.n, title: p.title, para: p.para, quote: p.quote, note: note.slice(0, 1000), status: 'submitted', createdAt: now, updatedAt: now, sent: false }).then(function () {
+      closeComposer(true); cAdd.disabled = false; setTab('ed');
+      var paraEl = prose.querySelector('[data-p="' + p.para + '"]') || document.getElementById('intro');
+      var text = '[Edit queue] Ch ' + p.n + ': “' + p.quote.slice(0, 160) + '”. Request: ' + note.slice(0, 700);
+      return notify(text, paraEl).then(function (r) {
+        toast(notifyMsg(r));
+        if (r && r.ok) return ref.update({ sent: true, threadId: r.threadId });
+      });
+    }).catch(function (e) {
+      cAdd.disabled = false;
+      toast(e && e.code === 'quota_exceeded' ? 'The queue is full. Resolve some items first.' : 'Could not save the request. Try again.');
+    });
+  }
+
+  /* ---------- queue ---------- */
+  function write(id, fields, okMsg) {
+    fields.updatedAt = Date.now();
+    return edits.doc(id).update(fields).then(function () { if (okMsg) toast(okMsg); }).catch(function () { toast('Could not update that item. Try again.'); });
+  }
+  function jump(d) {
+    var target = null, q = (d.quote || '').slice(0, 40);
+    var ch = document.getElementById('ch' + d.n);
+    if (ch && q) {
+      var ps = ch.querySelectorAll('[data-p]');
+      for (var i = 0; i < ps.length; i++) { if (ps[i].textContent.indexOf(q) !== -1) { target = ps[i]; break; } }
+    }
+    if (!target && d.para) target = prose.querySelector('[data-p="' + d.para + '"]');
+    if (!target) target = ch;
+    if (!target) return;
+    document.body.classList.remove('drawer'); menuBtn.setAttribute('aria-expanded', 'false');
+    var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    target.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'center' });
+    target.classList.remove('flash'); void target.offsetWidth; target.classList.add('flash');
+  }
+  function card(d) {
+    var el = mk('article', 'q-item ' + d.status); el.dataset.id = d.id;
+    var top = mk('div', 'q-top');
+    top.appendChild(mk('span', '', '#' + d.num + ' · Ch ' + d.n));
+    top.appendChild(mk('span', 'pill-st', d.status === 'submitted' ? 'Submitted' : d.status === 'working' ? 'Working' : d.status === 'completed' ? 'Completed' : 'Resolved'));
+    top.appendChild(mk('span', 'time', ago(d.updatedAt || d.createdAt)));
+    el.appendChild(top);
+    if (d.quote) el.appendChild(mk('blockquote', 'q-quote', '“' + d.quote + '”'));
+    el.appendChild(mk('div', 'q-note', d.note || ''));
+    if ((d.status === 'completed' || d.status === 'resolved') && d.claudeNote) {
+      var c = mk('div', 'q-claude'); c.appendChild(mk('b', '', 'What Claude did')); c.appendChild(document.createTextNode(d.claudeNote)); el.appendChild(c);
+    }
+    if (d.status === 'working') el.appendChild(mk('div', 'q-work', 'Claude is working on this.'));
+    var btns = mk('div', 'q-btns');
+    function btn(label, action, cls) { var b = mk('button', cls || '', label); b.dataset.action = action; b.dataset.id = d.id; btns.appendChild(b); }
+    btn('Jump to text', 'jump');
+    if (d.status === 'completed') btn('Resolve', 'resolve', 'resolve');
+    if (d.status === 'submitted' || d.status === 'working') btn('Resolve', 'resolve');
+    if (d.status === 'completed' || d.status === 'resolved') btn('Reopen', 'reopen');
+    el.appendChild(btns);
+    return el;
+  }
+  function group(title, list) {
+    if (!list.length) return null;
+    var g = mk('div', 'q-group'); g.appendChild(mk('h4', '', title + ' (' + list.length + ')'));
+    list.forEach(function (d) { g.appendChild(card(d)); });
+    return g;
+  }
+  var resolveArmed = false, armTimer = null;
+  function render() {
+    var groups = document.getElementById('qGroups'); groups.textContent = '';
+    var by = { submitted: [], working: [], completed: [], resolved: [] };
+    items.forEach(function (d, i) { d.num = i + 1; (by[d.status] || by.submitted).push(d); });
+    by.completed.reverse();
+    ['Working', 'Submitted', 'Completed'].forEach(function (t) { var g = group(t, by[t.toLowerCase()]); if (g) groups.appendChild(g); });
+    var open = by.submitted.length + by.working.length + by.completed.length;
+    document.getElementById('qEmpty').hidden = items.length > 0;
+    var counts = document.getElementById('qCounts'); counts.textContent = '';
+    [['s-sub', by.submitted.length, 'submitted'], ['s-work', by.working.length, 'working'], ['s-done', by.completed.length, 'completed']].forEach(function (c) {
+      if (c[1] > 0) counts.appendChild(mk('span', c[0], c[1] + ' ' + c[2]));
+    });
+    var resolvedBox = document.getElementById('qResolved'), rl = document.getElementById('qResolvedList'); rl.textContent = '';
+    by.resolved.slice().reverse().forEach(function (d) { rl.appendChild(card(d)); });
+    resolvedBox.hidden = by.resolved.length === 0; document.getElementById('qResolvedN').textContent = String(by.resolved.length);
+    var all = document.getElementById('qResolveAll'); all.disabled = by.completed.length === 0;
+    if (!resolveArmed) all.textContent = by.completed.length ? 'Resolve all completed (' + by.completed.length + ')' : 'Resolve all completed';
+    ['edBadge', 'menuDot'].forEach(function (id) { var b = document.getElementById(id); b.textContent = String(open); b.hidden = open === 0; });
+  }
+  document.getElementById('panelEd').addEventListener('click', function (e) {
+    var b = e.target.closest('button[data-action]'); if (!b) return;
+    var d = items.filter(function (x) { return x.id === b.dataset.id; })[0]; if (!d) return;
+    var act = b.dataset.action;
+    if (act === 'jump') jump(d);
+    else if (act === 'resolve') write(d.id, { status: 'resolved' }, 'Resolved.');
+    else if (act === 'reopen') {
+      write(d.id, { status: 'submitted' }).then(function () {
+        var el = prose.querySelector('[data-p="' + d.para + '"]') || document.getElementById('intro');
+        notify('[Edit queue] Reopened Ch ' + d.n + ': “' + (d.quote || '').slice(0, 160) + '”. Please look again. Original request: ' + (d.note || '').slice(0, 500), el).then(function (r) { toast('Reopened. ' + notifyMsg(r)); });
+      });
+    }
+  });
+  document.getElementById('qResolveAll').addEventListener('click', function () {
+    var all = document.getElementById('qResolveAll');
+    var list = items.filter(function (d) { return d.status === 'completed'; });
+    if (!list.length) return;
+    if (!resolveArmed) {
+      resolveArmed = true; all.classList.add('confirm'); all.textContent = 'Tap again to resolve ' + list.length;
+      clearTimeout(armTimer); armTimer = setTimeout(function () { resolveArmed = false; all.classList.remove('confirm'); render(); }, 4000); return;
+    }
+    clearTimeout(armTimer); resolveArmed = false; all.classList.remove('confirm'); all.disabled = true;
+    list.reduce(function (p, d) { return p.then(function () { return write(d.id, { status: 'resolved' }); }); }, Promise.resolve())
+      .then(function () { toast('Resolved ' + list.length + '.'); });
+  });
+  document.getElementById('qNudge').addEventListener('click', function () {
+    var open = items.filter(function (d) { return d.status === 'submitted'; }).length;
+    notify('[Edit queue] Please work through the submitted edit requests (' + open + ' waiting).', document.getElementById('intro')).then(function (r) { toast(notifyMsg(r)); });
+  });
+  setInterval(function () { if (!document.hidden && items.length) render(); }, 60000);
+
+  /* ---------- capabilities (arrive later; the page reads fine without them) ---------- */
+  function unavailableQueue() {
+    document.getElementById('qEmpty').innerHTML = '';
+    document.getElementById('qEmpty').textContent = 'The edit queue needs the shared database, which is not available in this view. Sign in to the artifact to use it.';
+    document.getElementById('qResolveAll').disabled = true; document.getElementById('qNudge').disabled = true;
+  }
+  if (window.claude && window.claude.use) {
+    window.claude.use('comments').then(function (c) { comments = c || null; }, function () { comments = null; });
+    window.claude.use('db').then(function (d) {
+      db = d || null;
+      if (!db) { unavailableQueue(); return; }
+      edits = db.collection('edits');
+      edits.orderBy('createdAt').onSnapshot(function (snap) {
+        items = snap.docs.map(function (s) { var x = s.data() || {}; x.id = s.id; return x; });
+        render();
+      }, function () { unavailableQueue(); });
+    }, function () { unavailableQueue(); });
+  } else { unavailableQueue(); }
 })();
 </script>

@@ -35,6 +35,7 @@ company and building a marriage.
 | `decisions.md` | Running log of locked decisions |
 | `reader/` | Built reading page (published as an Artifact). Rebuild with `python3 tools/build_reader.py` after any chapter change, then republish |
 | `tools/` | `build_reader.py` and its template |
+| `process/` | Working procedures, e.g. `edit-queue.md` (how Claude processes reader edit requests) |
 | `chapters/` | Drafted chapters (Ch 1 approved; Ch 2-4 drafted, awaiting review) |
 
 ## Review agents
@@ -46,7 +47,7 @@ company and building a marriage.
 ## Reading and commenting
 
 The manuscript is published as an Artifact: https://claude.ai/artifact/1ro4H4yHP486qFYgePcT2Z
-Select any passage, tap **Comment**, and choose **Send to Claude** to have that line revised. After
+Select any passage and tap **Request edit** to add it to the Edits queue in the sidebar (Submitted, Working, Completed, then you press Resolve). Use **Comment** for discussion. See `process/edit-queue.md`. After
 editing any chapter, run `python3 tools/build_reader.py` and republish `reader/the-marriage-startup.html`.
 
 ## Status

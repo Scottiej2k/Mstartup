@@ -91,7 +91,7 @@ def parse(path):
 def main():
     chapters = [parse(p) for p in CHAPTERS]
     nav = "".join(
-        f'<a href="#ch{c["n"]}" data-n="{c["n"]}"><span class="n">{c["n"]}</span>'
+        f'<a class="ch" href="#ch{c["n"]}" data-n="{c["n"]}"><span class="n">{c["n"]}</span>'
         f'<span class="t">{html.escape(c["title"])}</span>'
         f'<span class="m">{c["words"]:,} words · {c["status"]}</span></a>'
         for c in chapters
