@@ -29,6 +29,7 @@ company and building a marriage.
 | `world/` | Setting, era, locations |
 | `startup/company.md` | The company: options, stages, key events |
 | `outline/stage-map.md` | Startup stage <-> relationship stage <-> chapter arc |
+| `outline/beat-sheets.md` | Beat sheets for all 24 chapters, calendar, trackers |
 | `style-guide.md` | Voice, tone, rules for the narrator and the reflections |
 | `open-questions.md` | What we need Scott to decide |
 | `decisions.md` | Running log of locked decisions |

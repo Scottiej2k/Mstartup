@@ -384,7 +384,7 @@ unkind either; it was surprise. "Do you hear yourself? You're benchmarking."
 
 It came out loud enough to hit the window. Neither of us moved. Somewhere down
 the hall a neighbor's TV went quiet, then came back on. I had never heard
-Maya's voice go up. Not once, in two and a half years.
+Maya's voice go up. Not once, in two years and change.
 
 She set the phone down on the counter. Very carefully, face down. Then she put both
 hands flat on the counter, the way you do when you're checking whether something

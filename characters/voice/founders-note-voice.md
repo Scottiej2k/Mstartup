@@ -126,7 +126,7 @@ Startup principle, relationship twin, form, tone. **Provisional.**
 | Ch | Startup principle | Relationship twin | Form | Tone |
 |---|---|---|---|---|
 | 1 | Fall in love with the problem, not the pitch | Fall for the person, not the idea of them | Slide | Confident |
-| 2 | Everyone's optimizing (a market with too many options) | Optionality is corrosive | Question | Wry |
+| 2 | Follow up (nobody's job is to notice; the follow-up is where the company lives) | The text after the date | Slide | Wry |
 | 3 | The best ideas arrive from someone else's pain | Attention is the origin of everything | Slide | Confident |
 | 4 | The best feedback comes from someone who isn't buying | Value the person who doesn't flatter you | Slide | Confident |
 | 5 | Interviews to learn, not to hear yes | The same for dates and for marriage | Confession | Wry |
