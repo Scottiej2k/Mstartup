@@ -66,8 +66,10 @@ Age 28 at open. Founder/CEO of Loopback.health. Narrator.
 
 ## The Valley version of Nate
 - Mountain View apartment with Kyle: two roommates' worth of mess, one dying plant.
-- Runs on cold brew and a Notion page called "Life OS," which Maya later discovers
-  contains a section titled "Relationships" (unfilled).
+- Runs on cold brew and a Notion page called "Life OS," which has a
+  "Relationships" section that stays empty for a long time. After Ch 16 he quietly
+  sets a recurring Sunday phone reminder: "Maya check-in. Ask open questions.
+  Listen. Don't fix." Maya sees it light up in Ch 19.
 - Doesn't drink much at events, holds a cup of water so he has something to do
   with his hands.
 

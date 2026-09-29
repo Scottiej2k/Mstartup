@@ -335,63 +335,105 @@ smell.
 
 ---
 
-### Sample F: Chapter 19, "Am I a project?"
-*Setting: Nate's laptop, open on the counter. Maya has just seen a Notion page
-titled "Life OS." One of the sections is "Relationships." Under it: "Maya:
-weekly check-in, biweekly date night, monthly family dinner." Each has a
-checkbox. Some are checked.*
+### Sample F: Chapter 19, "Am I a project?"  (REVISED: louder, subtler object)
+*Setting: their apartment, Sunday evening. Maya has had a brutal week: six days at
+the pharmacy, her father turning down a third staffing agency. Nate's phone is
+face-up on the kitchen counter. It lights up. She reads it before she means to.*
 
-I came out of the bathroom and she was standing at the counter with her coat still
-on. She hadn't closed the laptop. She was just looking at it.
+I came out of the bedroom and she was standing at the counter holding my phone
+in both hands, screen up, like something she'd found in the road.
 
-"Maya, that's a—"
+"It goes off every Sunday," she said. "At seven."
 
-"I know what it is."
+"It's a reminder."
 
-"It's a planning tool. It's for me. It's not, it doesn't mean—"
+"I know what it is." She turned it so I could see. **7:00 PM. Maya check-in. Ask
+open questions. Listen. Don't fix.** "Since when?"
 
-"I know what it is, Nate." She said it gently, which was worse. "You've been
-very good at this."
+"March. After the staffing agency thing. I wanted to do better. I wanted to stop
+just, jumping in."
 
-"At what?"
+"'Don't fix.'" She read it aloud, and it sounded worse in her voice. "You put
+it in the calendar."
 
-"At me." She finally turned around. She wasn't crying. She looked like someone
-who'd been carrying something up a long flight of stairs and had just reached the
-landing. "You show up. You ask the right questions. You never miss the dinners.
-You remember my mother's birthday, and my father's blood pressure, and how I
-take my coffee. I've been trying to find the thing you do wrong, and it isn't
-there. It's just...I can hear the checkbox."
+"I put it there because I was *trying*—"
 
-"That isn't fair."
+"Is there one for Wednesdays?"
 
-"You're right. It isn't fair. It's true, but it isn't fair." She put her keys
-in the bowl. It was the first time I'd seen her put them there. "I'm not angry.
-I think I've been waiting to be angry, so I'd know what to do."
+"What?"
 
-"What do you want me to do?"
+"Is there one for when I come home and sit in the car for ten minutes before I come
+up? Because I do that, Nate. I sit in the car."
 
-"That's the thing. You want a task."
+I didn't know that. She saw me not know it.
 
-I stood there. She was right. I'd said it the way I'd say it to Priya.
+"Maya—"
 
-"I don't want to be a project," Maya said. "I'm not a market. I'm not a launch.
-You're good at those. I don't want to be good for you, and I don't want to be
-handled. I want to be *here* with you and not be on a roadmap."
+"You don't know that. Because it isn't scheduled."
 
-"I don't know how to do that," I said, and it was the first entirely true
-thing I'd said in a month.
+"That's not fair." My voice went up. It always did, when I was right and
+losing. "I'm trying to learn how to do this. Most people don't even *notice*
+they're bad at it—"
 
-"I know." She took off her coat and hung it up. It was the first time in
-weeks she'd hung it up. "Neither do I. But I'd rather not know it with you than
-know it with someone who's good at it."
+"Most people!" She laughed, and it wasn't a nice laugh, and it wasn't
+unkind either; it was surprise. "Do you hear yourself? You're benchmarking."
 
-She sat down on the couch. Not on the arm. On the couch.
+"So what, I shouldn't try? You want me to be *worse* at this?"
 
-I sat down next to her. I didn't say anything. I didn't take out my phone. It was
-the hardest thing I had done that year, including the seed round.
+"I want you to be *in* it!"
 
-Somewhere in the pit of my stomach a girl named Hannah said, *I never felt like I
-was in your plan.* I hadn't thought about that in years.
+It came out loud enough to hit the window. Neither of us moved. Somewhere down
+the hall a neighbor's TV went quiet, then came back on. I had never heard
+Maya's voice go up. Not once, in two and a half years.
+
+She set the phone down on the counter. Very carefully, face down. Then she put both
+hands flat on the counter, the way you do when you're checking whether something
+will hold.
+
+"Sorry," she said. "That was loud."
+
+"Don't be sorry."
+
+"I'm not. I'm just—" She pressed her palms down. "The reminder went off and I
+thought, *oh. He's managing me.* Kindly. Very well. And I couldn't find
+anything to be angry about, because you're doing everything right. You show up.
+You ask the right questions. You remember my father's blood pressure. I've been
+looking for the thing you do wrong for two years, and it isn't there. It's that
+I can hear the checkbox."
+
+"Then what do I do?" I heard how it sounded the moment it left my mouth.
+
+"There," Maya said quietly. "That."
+
+"What?"
+
+"You want a task."
+
+I stood there. She was right. I'd said it in the exact voice I used with Priya
+when a deploy broke.
+
+"I'm not a project," she said. "I'm not a launch. I'm not something you get
+*right.* You're good at those, and I'm glad, I am, but I don't want to be good
+for you. I don't want to be handled well." Her eyes were wet and she was
+furious about it. "I want to be somewhere you don't have a plan."
+
+"I don't know how to do that," I said.
+
+It was the first entirely true thing I'd said in a month.
+
+"I know," said Maya. "Neither do I." She wiped her face with the heel of
+her hand, once, like a woman clearing a windshield. "I'd rather not know it with
+you than know it with someone who's good at it."
+
+She walked to the couch and sat down. Not on the arm. On the couch.
+
+I sat next to her. I didn't take out my phone. I didn't say *okay*. It was the
+hardest thing I'd done that year, including the seed round.
+
+Somewhere in my chest a girl named Hannah said, *I never felt like I was in
+your plan.* I hadn't thought about it in years.
+
+At seven-fifteen the phone buzzed on the counter, and neither of us got up.
 
 ---
 
@@ -442,17 +484,63 @@ theme, and makes her a mouthpiece. Maya would say something plainer and more
 exact: "I told you about my father on Tuesday, and on Thursday you sent me a
 staffing agency."
 
-## 8. Questions for Scott
-1. **Sample F (Ch 19):** is this the right temperature? It's quiet, tired, and
-   specific, with no shouting. Should the fight ever get louder than this?
-2. **Her humor:** is Sample B's level (dry, gentle, sharp) right, or should she be
-   sharper or warmer?
-3. **Maya's family in her voice:** should she code-switch with her parents (a few
-   words of Tamil or another family language), or keep her speech uniform?
-   (Depends on your answer to the heritage details in `open-questions.md`.)
-4. **The mixer detail:** in Sample A, Nate mentions his failed inventory tool.
-   Is that funny, or too neat, given that inventory is also his first startup?
-5. **The "Life OS" reveal:** is a Notion page with a checkbox for "Maya" too
-   on-the-nose, or exactly the right kind of specific?
-6. **Jules:** the blunt-friend voice works for me. Do you want her funnier, more
-   protective, or more skeptical of Nate?
+## 8. Decisions (2026-09-29)
+- **Ch 19 temperature:** louder. A real argument, and Maya's voice rises once (the
+  first time Nate has ever heard it), then she apologizes and settles. She never
+  becomes cruel.
+- **The reveal object:** subtler than a Notion page. A recurring Sunday phone
+  reminder Nate set up after Ch 16: "Maya check-in. Ask open questions. Listen.
+  Don't fix." He tried to fix his flaw with a system, which is the flaw.
+- **Humor:** Sample B's level. Dry, gentle, sharp, warm underneath.
+- **Family language:** a few Tamil words, lightly, with her parents (see section 9).
+
+## 9. Maya and her family's language (Tamil, lightly)
+The Ramans are from Chennai, so the family language is Tamil.
+
+### Rules
+- A few words only: terms of address and small phrases. Never a paragraph.
+- No italics, no glossary, no "which means." The meaning comes from context.
+- Maya code-switches with her parents and Arjun; she doesn't with Nate, until
+  the wedding week, when one word slips out to him and he notices.
+- Details of food, routine and manner carry the culture more than vocabulary.
+- **Get an authenticity read** from a Tamil speaker before publication. The words
+  below are common but should be checked, including spelling and register.
+
+### Working vocabulary (to verify)
+| Word | Use |
+|---|---|
+| Amma | Mother. Maya to Lakshmi |
+| Appa | Father. Maya to Suresh |
+| Kanna | Affectionate address, "dear one." Lakshmi to Maya, sometimes to Nate late in the book |
+| Aiyo | Exclamation of dismay or exasperation. Lakshmi, Maya (quietly) |
+| Saapteengala? | "Have you eaten?" Lakshmi to Nate, a sign of acceptance. He answers wrongly the first time ("I'm fine!") and Maya translates the real question |
+
+### Sample H: Lakshmi and Nate (the first "Saapteengala?")
+*Setting: the back office of the pharmacy, Ch 7. Lakshmi puts a steel tiffin
+box in front of Nate without looking at him.*
+
+"Saapteengala?" Lakshmi said.
+
+"I'm fine, thank you, I had a big breakfast—"
+
+Maya, without turning around from the shelf she was restocking: "Amma is asking if
+you've eaten."
+
+"I said I'm—"
+
+"It isn't a question about your breakfast." She set a box of gauze on the shelf,
+squared it to the edge. "She's asking if she's allowed to feed you."
+
+I looked at Lakshmi. She was very busy with the receipts. She was not looking at
+me at all, in the same way Ray never looks at me when he's saying the true thing.
+
+"Then no," I said. "I haven't eaten."
+
+Lakshmi pushed the tiffin an inch closer and said, "Aiyo, eat, kanna," to no one
+in particular, and I understood that I had passed something.
+
+## 10. Still open
+1. Should Maya ever speak Tamil at Nate in anger or exhaustion (a word that slips
+   out in the Ch 19 fight), or keep the fight fully in English?
+2. Do we want a Tamil-speaking reader to check the words before we publish
+   anything? (Recommended.)
