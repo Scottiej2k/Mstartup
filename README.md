@@ -24,6 +24,7 @@ company and building a marriage.
 | `00-premise.md` | Logline, structure, the chapter-ending device, sequel hook |
 | `themes.md` | Core themes and the startup-to-marriage principles |
 | `characters/` | Narrator, Maya, Uncle, supporting cast |
+| `characters/backstories/` | Full backstories, family and inner circle, timeline |
 | `world/` | Setting, era, locations |
 | `startup/company.md` | The company: options, stages, key events |
 | `outline/stage-map.md` | Startup stage <-> relationship stage <-> chapter arc |
