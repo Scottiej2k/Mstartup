@@ -65,3 +65,4 @@
 | 2026-09-29 | **The Walt letter is also an invitation:** Ray invites Walt Pruitt to help run the fellowship. Mailed the Sunday after the wedding; the reply is left for the sequel | APPROVED (Scott's choice) |
 | 2026-09-29 | **Night-nurse detail approved:** Ray's fellowship exists because of the nurses who noticed Denise during her eleven months, especially a night nurse who saw her fear and stayed | APPROVED |
 | 2026-09-29 | **Chapter 2 drafted (v1)** in `chapters/02-second-meeting-third-coffee.md`; awaiting Scott's edits | DRAFT |
+| 2026-09-29 | **Chapter 2 expanded (v2, ~3,300 words):** Maya's coffee count is explained ("there's a cliff after two; people vanish"), paid off at the bus stop ("Not as steep as I remembered"); added Priya's stakes (December), the pharmacy sign scene, Nate writing back to Ruth | DRAFT |

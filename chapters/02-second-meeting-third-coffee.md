@@ -83,7 +83,7 @@ There was a silence on the call, and it had a shape.
 
 "My face is a professional."
 
-I closed the tab. I'd like to note that, before I did, I looked at the Objective column one more time and deleted the words *learn about pharmacy workflows.* It was the smallest edit of my week, and I made it before Priya had finished blinking, and neither of us mentioned it.
+I closed the tab. Before I did, I looked at the Objective column one more time and deleted the words *learn about pharmacy workflows.* It was the smallest edit of my week, and I made it before Priya had finished blinking, and neither of us mentioned it.
 
 My phone buzzed against the desk. Cole Whitaker.
 
@@ -98,6 +98,20 @@ My phone buzzed against the desk. Cole Whitaker.
 "Cole. He wants to get drinks."
 
 "He doesn't want drinks," said Priya. "He wants a witness."
+
+Then she stopped joking, which she does about once a quarter, and it always feels like a change in air pressure. "Can I say the other thing?"
+
+"The other thing."
+
+"I have a rent check and a husband who teaches middle school." Her voice had the level, careful tone she uses on deploy days. "We have until December to find something worth being at half salary for. I'm not asking for a plan. I'm asking for a person with a problem. Any person."
+
+"I have a person with a problem."
+
+"You have a person," said Priya, "with a coffee."
+
+"It's a problem-adjacent coffee."
+
+She laughed, and then she didn't. "Ask her the real questions, Nate. Not the ones in the spreadsheet."
 
 ---
 
@@ -183,9 +197,9 @@ I could have lied. The lie was lying right there, in easy reach, like a slider. 
 
 "One what?"
 
-"Coffee."
+"Coffee." She said it the way you'd read a meter. "There's a cliff after two. People are lovely for two coffees and then they vanish. I count so I know how far out on it we are."
 
-"How many are there?"
+"And after three?"
 
 "I'll let you know."
 
@@ -233,7 +247,27 @@ Jules put the burrito down. She has told me that this is the point in the story 
 
 ---
 
-Coffee two was a walk, because Maya said it's harder to lie when you're moving. We did a long loop through the Mission and up toward Dolores Park, on a Sunday, in the fog that wasn't quite fog and wasn't quite not. She asked me questions about the first company, the way another person might ask about a former partner: carefully, and with a professional's interest in what went wrong. She wanted the details. She asked for the names of the customers who'd emailed and gotten no reply, and I told her, and she said, "Did you ever write back to them?"
+Coffee two was a walk, with coffees in our hands, which Maya ruled counted. She said it's harder to lie when you're moving. We did a long loop through the Mission on a Sunday and up toward Dolores Park, in the fog that wasn't quite fog and wasn't quite not.
+
+Around Twenty-Fourth Street she stopped in front of a small pharmacy with a handwritten sign taped inside the glass: **REFILLS: CALL AFTER 3. NO, WE CAN'T TEXT. YES, WE KNOW.**
+
+"Look at that," said Maya, and she read it the way other people read a menu. "Somebody made that at four o'clock on a Thursday, because a customer asked the same question all week and the owner ran out of patience. It's a system. It's just held up with tape."
+
+"It's a good sign."
+
+"It's an excellent sign," said Maya. "It's also the whole problem. A person had to stop what they were doing and write it, because there wasn't anywhere else for the answer to live." She glanced at me. "You're thinking it's a product."
+
+"I was thinking it was a good sign."
+
+"You were thinking it was both."
+
+"Both," I admitted.
+
+"Both is allowed," said Maya, "as long as you tell me."
+
+She walked on. I stood there a second longer, looking at the tape, with the feeling of a man who's been handed a small, important rule and hasn't yet found out how many there are.
+
+At the top of the park we sat on a bench. She asked me about the first company, the way another person might ask about a former partner: carefully, and with a professional's interest in what went wrong. She wanted details. She asked for the names of the customers who'd emailed and gotten no reply, and I told her, and she said, "Did you ever write back to them?"
 
 "No."
 
@@ -243,9 +277,19 @@ I looked at her. "It's been five months."
 
 "They'll still be surprised."
 
-I said I'd take it under advisement. She said "Okay," which I thought was a joke, and which was not.
+So I took out my phone. The first name on the list was a woman named Ruth who ran a stationery shop in Petaluma. I typed *Ruth, this is five months late and I'm sorry,* and then I typed the rest, and I sent it, while Maya watched a dog on the grass with extraordinary, transparent concentration.
 
-At the top of the park she asked who I talked to about this stuff. I said I had an uncle. "He's a retired founder. He sold his company years ago. I go up to his place in the mountains and I ask him questions."
+"Done?"
+
+"Sent."
+
+"How do you feel?"
+
+"Like I took off a very small, very heavy shoe."
+
+"That's the right size," said Maya.
+
+Before we left the bench, I mentioned my uncle. "He's a retired founder. He sold his company years ago. I go up to his place in the mountains and ask him questions."
 
 "What kind of questions?"
 
@@ -257,6 +301,8 @@ At the top of the park she asked who I talked to about this stuff. I said I had 
 
 "Mm," said Maya, and let it go, with the air of a woman putting something on a shelf where she could find it.
 
+Ruth wrote back that Wednesday. *I thought you were dead. Are you dead? The software was great when it worked.* Another customer replied, *Better late.* A third wrote, *Who is this?* It was the nicest week the company had had in a year, and it had been dead for five months.
+
 ---
 
 Coffee three was the following Saturday, at the same place, at the same table, and she was already there. I was ten minutes early. She was twelve.
@@ -265,7 +311,7 @@ Coffee three was the following Saturday, at the same place, at the same table, a
 
 "You're counting."
 
-"I count things." She turned her cup with its label to the wall. Her coat was open. I noticed this the way you notice a change in a room's temperature. "Can I ask you something? Are you on the apps?"
+"I told you. There's a cliff after two." She turned her cup with its label to the wall. Her coat was open. I noticed this the way you notice a change in a room's temperature. "Can I ask you something? Are you on the apps?"
 
 "I was. I deleted them last month."
 
@@ -300,6 +346,22 @@ She didn't answer right away. Her eyes went to my hands, then to the table, then
 "Okay," said Maya.
 
 I took it for yes. It was a yes, but it was also a door held open six inches by someone who hadn't decided whether to hold it wider. I'd learn the difference later, at some cost.
+
+She let me walk her to her bus stop. It was a gray, bright Saturday and the fog had come in over Twin Peaks like a slow lid. At the stop, she put her hands in her coat pockets and looked at the sidewalk.
+
+"You said there was a cliff after two," I said.
+
+"There is."
+
+"We're at three."
+
+"I know." She looked down at her shoes, the way you look over the edge of something. "I'm looking."
+
+"How's it look?"
+
+"Not as steep as I remembered."
+
+The bus came. She got on. She didn't look back, and I was fairly sure she was doing it on purpose, and I stood on the curb like a man who'd been graded and passed and wasn't sure whether he was allowed to say so.
 
 ---
 
