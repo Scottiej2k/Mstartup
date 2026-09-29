@@ -53,13 +53,15 @@ So I did. It said: *It's Nate, from the cup. Coffee sometime? I'd like to hear m
 
 She wrote back in four minutes. I know because I timed it, and I do not recommend timing it.
 
-**Thursday. 6:15. The place on Valencia with no sign on the door. Forty-five minutes.**
+**Thursday. 6:15. The place on Valencia with no sign on the door. I have a date with a friend at 7 so this is going to be a quick meet.**
 
 And, a second later:
 
 **Bring whatever you'd bring to a meeting.**
 
 I looked at that for a long time. It could mean *bring a laptop.* It could mean *bring a notebook.* I decided that a person who writes *whatever you'd bring to a meeting* has either a sense of humor or a checklist, and that I could not rule out both.
+
+The first message was harder. *A date with a friend at seven* could be reassurance, or information, or a warning. And then there was the word *meet.* It wasn't *meeting,* which has an agenda, and it wasn't *coffee,* which has a mood. It sat exactly on the line, and I understood that whoever had chosen it was better at this than I was.
 
 ---
 
@@ -141,7 +143,7 @@ The barista called out a name and handed her a cup. On the side, in black marker
 
 "Which ones are?"
 
-"I'll let you know." She put a hand flat next to her cup, and I understood that there was a clock and that it was her. "You have forty-five minutes."
+"I'll let you know." She put a hand flat next to her cup, and I understood that there was a clock and that it was her. "I have a friend at seven, so you have until then."
 
 There was a laptop in the bag under my chair. I had not taken it out, and I wanted that noted. I'd spent twenty minutes that afternoon deciding what to wear and had ended up in the shirt I wear to pitch, which is a shirt that says *I have read about this.* It was not a date shirt. It was also not not a date shirt. Maya was in a gray sweater under the buttoned coat, with her hair down, and I noticed these things and filed them in a drawer marked *inconclusive.*
 
@@ -221,7 +223,7 @@ I could have lied. The lie was lying right there, in easy reach, like a slider. 
 
 "Only when I'm losing."
 
-"You aren't losing," said Maya. She looked at her phone. "It's seven." She stood up. She checked the top button of her coat, which was already fastened, the way you check a lock you know is locked. "That's one."
+"You aren't losing," said Maya. She looked at her phone. "It's seven." She looked at it a second longer than the information required. Then she stood up. She checked the top button of her coat, which was already fastened, the way you check a lock you know is locked. "That's one."
 
 "One what?"
 
@@ -241,7 +243,7 @@ She left. I sat there with an empty cup and the feeling of having been graded by
 
 I wasn't there for what happened next. Maya's oldest friend, Jules, was, and Jules tells it with sound effects.
 
-According to Jules, Maya walked into the taqueria on Mission at 7:24 and ordered a carnitas burrito without looking at the menu, which, according to Jules, is her tell for a good mood. She sat down across from Jules and said, "So."
+According to Jules, Maya walked into the taqueria on Mission at 7:24, which is twenty-four minutes late, which Jules would like it known has happened twice in their friendship, and one of the times there was a fire. She ordered a carnitas burrito without looking at the menu, which, according to Jules, is her tell for a good mood. She sat down across from Jules, who had been waiting since seven and had opinions about it, and said, "So."
 
 "So?" said Jules, a public defender with the demeanor of someone who has heard every version of *so* and been lied to by most of them.
 
