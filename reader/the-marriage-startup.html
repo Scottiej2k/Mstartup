@@ -254,7 +254,7 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
 
 <header class="top">
   <div class="top-in">
-    <button class="tbtn only-narrow" id="menuBtn" aria-label="Chapters and edit queue" aria-expanded="false">Menu<span class="dot" id="menuDot" hidden>0</span></button>
+    <button class="tbtn only-narrow" id="menuBtn" aria-label="Chapters and comment queue" aria-expanded="false">Menu<span class="dot" id="menuDot" hidden>0</span></button>
     <div class="brand">The Marriage Startup <small>Draft manuscript</small></div>
     <div class="tools">
       <button class="tbtn" id="fsDown" aria-label="Smaller text">A&minus;</button>
@@ -268,7 +268,7 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
   <nav class="toc" id="toc" aria-label="Sidebar">
     <div class="tabs" role="tablist">
       <button role="tab" id="tabCh" aria-selected="true" aria-controls="panelCh">Chapters</button>
-      <button role="tab" id="tabEd" aria-selected="false" aria-controls="panelEd">Edits<span class="badge" id="edBadge" hidden>0</span></button>
+      <button role="tab" id="tabEd" aria-selected="false" aria-controls="panelEd">Queue<span class="badge" id="edBadge" hidden>0</span></button>
     </div>
 
     <div id="panelCh" role="tabpanel" aria-labelledby="tabCh">
@@ -278,14 +278,14 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
 
     <div id="panelEd" role="tabpanel" aria-labelledby="tabEd" hidden>
       <div class="q-head">
-        <div class="q-title">Edit queue</div>
+        <div class="q-title">Comment queue</div>
         <div class="q-counts" id="qCounts" aria-live="polite"></div>
         <div class="q-actions">
           <button class="qbtn strong" id="qResolveAll" disabled>Resolve all completed</button>
           <button class="qbtn" id="qNudge" title="Send Claude a note to start on the queue">Nudge Claude</button>
         </div>
       </div>
-      <div class="q-empty" id="qEmpty"><b>No edit requests yet.</b> Select any words in the manuscript and choose <b>Request edit</b>. Each request appears here as <b>Submitted</b>, moves to <b>Working</b> while Claude changes the text, and lands as <b>Completed</b> for you to check.</div>
+      <div class="q-empty" id="qEmpty"><b>No comments yet.</b> Select any words in the manuscript and choose <b>Comment</b>. Each one appears here as <b>Submitted</b>, moves to <b>Working</b> while Claude acts on it, and lands as <b>Completed</b> for you to check.</div>
       <div id="qGroups"></div>
       <details id="qResolved" hidden><summary>Resolved (<span id="qResolvedN">0</span>)</summary><div id="qResolvedList"></div></details>
     </div>
@@ -297,11 +297,10 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
         <h1>The Marriage Startup</h1>
         <p class="sub">Draft manuscript &middot; Chapters 1&ndash;4</p>
         <div class="how">
-          <b>To change a line, select it.</b>
+          <b>To change a line or ask a question, select it.</b>
           <ol>
             <li>Select any words. A bar appears at the bottom of the screen.</li>
-            <li><b>Request edit</b> opens a box for what should change. It joins the <b>Edits</b> queue as Submitted, and Claude is notified. You will see it move to Working, then Completed. Press <b>Resolve</b> when you are happy with it.</li>
-            <li><b>Comment</b> starts a discussion thread on the passage, for questions rather than changes.</li>
+            <li><b>Comment</b> opens a box where you tell Claude what to change, or ask a question, about the selected words. It joins the <b>Queue</b> tab as Submitted, and Claude is notified. You will see it move to Working, then Completed, with a note from Claude on what was done. Press <b>Resolve</b> when you are happy with it.</li>
             <li><b>Highlight</b> marks a passage for yourself, in this browser only. <b>Copy</b> puts the passage and its chapter on your clipboard.</li>
           </ol>
         </div>
@@ -315,21 +314,20 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
 </div>
 
 <div id="selbar" hidden role="toolbar" aria-label="Selection actions">
-  <button id="bEdit" class="primary" hidden>Request edit</button>
-  <button id="bComment" hidden>Comment</button>
+  <button id="bEdit" class="primary" hidden>Comment</button>
   <button id="bHighlight">Highlight</button>
   <button id="bCopy">Copy</button>
   <button id="bRemove" hidden>Remove highlight</button>
 </div>
 
-<div id="composer" hidden role="dialog" aria-label="Request an edit">
-  <div class="c-label" id="cLabel">Request edit</div>
+<div id="composer" hidden role="dialog" aria-label="Comment for Claude">
+  <div class="c-label" id="cLabel">Comment for Claude</div>
   <div class="c-quote" id="cQuote"></div>
-  <textarea id="cNote" rows="3" maxlength="1000" aria-label="What should change?" placeholder="What should change? For example: cut this, make it funnier, explain the reference, change the name."></textarea>
+  <textarea id="cNote" rows="3" maxlength="1000" aria-label="Your comment for Claude" placeholder="What should change, or what do you want to know? For example: cut this, make it funnier, explain the reference, why does she say this?"></textarea>
   <div class="c-row">
-    <span class="c-hint">Ctrl or Cmd + Enter to add</span>
+    <span class="c-hint">Ctrl or Cmd + Enter to send</span>
     <button id="cCancel">Cancel</button>
-    <button id="cAdd" class="primary">Add to queue</button>
+    <button id="cAdd" class="primary">Send to Claude</button>
   </div>
 </div>
 <div id="toast" role="status" aria-live="polite"></div>
@@ -338,7 +336,7 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
 (function () {
   var prose = document.getElementById('manuscript');
   var bar = document.getElementById('selbar');
-  var bEdit = document.getElementById('bEdit'), bComment = document.getElementById('bComment'), bHighlight = document.getElementById('bHighlight');
+  var bEdit = document.getElementById('bEdit'), bHighlight = document.getElementById('bHighlight');
   var bCopy = document.getElementById('bCopy'), bRemove = document.getElementById('bRemove');
   var toastEl = document.getElementById('toast');
   var comments = null, db = null, edits = null;
@@ -373,7 +371,7 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
   /* ---------- selection bar ---------- */
   function showBar(mode) {
     var m = mode === 'mark';
-    bEdit.hidden = m || !edits; bComment.hidden = m || !comments;
+    bEdit.hidden = m || !edits;
     bHighlight.hidden = m; bCopy.hidden = m; bRemove.hidden = !m;
     bar.hidden = false;
   }
@@ -388,21 +386,6 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
     bar.addEventListener(ev, function (e) { barBusy = true; if (ev !== 'touchstart') e.preventDefault(); }, { passive: false });
   });
   function done() { barBusy = false; var s = window.getSelection(); if (s) s.removeAllRanges(); bar.hidden = true; activeMark = null; }
-
-  /* ---------- comment (discussion thread in the platform's own composer) ---------- */
-  bComment.addEventListener('click', function () {
-    var r = lastRange; barBusy = false;
-    if (!comments || !r) { done(); return; }
-    comments.openComposer({ range: r }).then(function (res) {
-      if (res && res.opened === false) toast('Click into the page once, then select the text again.');
-      done();
-    }).catch(function (e) {
-      var code = e && e.code;
-      if (code === 'unavailable' || code === 'not_granted' || code === 'forbidden') { comments = null; toast('Comments are not available in this view.'); }
-      else { toast('Could not open the comment box. Try again.'); }
-      done();
-    });
-  });
 
   /* ---------- copy ---------- */
   bCopy.addEventListener('click', function () {
@@ -521,7 +504,7 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
     return 'Queued, but Claude was not notified. Use Nudge Claude.';
   }
 
-  /* ---------- composer: request an edit ---------- */
+  /* ---------- composer: comment for Claude ---------- */
   var composer = document.getElementById('composer'), cNote = document.getElementById('cNote'), cQuote = document.getElementById('cQuote');
   var cAdd = document.getElementById('cAdd'), cCancel = document.getElementById('cCancel');
   function openComposer() {
@@ -549,14 +532,14 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
   function submitEdit() {
     var note = cNote.value.trim();
     if (!pending || !edits) return;
-    if (!note) { toast('Say what should change first.'); cNote.focus(); return; }
+    if (!note) { toast('Write your comment first.'); cNote.focus(); return; }
     var p = pending, now = Date.now(), id = 'e' + now.toString(36) + Math.random().toString(36).slice(2, 5);
     var ref = edits.doc(id);
     cAdd.disabled = true;
     ref.set({ n: p.n, title: p.title, para: p.para, quote: p.quote, note: note.slice(0, 1000), status: 'submitted', createdAt: now, updatedAt: now, sent: false }).then(function () {
       closeComposer(true); cAdd.disabled = false; setTab('ed');
       var paraEl = prose.querySelector('[data-p="' + p.para + '"]') || document.getElementById('intro');
-      var text = '[Edit queue] Ch ' + p.n + ': “' + p.quote.slice(0, 160) + '”. Request: ' + note.slice(0, 700);
+      var text = '[Queue] Ch ' + p.n + ': “' + p.quote.slice(0, 160) + '”. Comment: ' + note.slice(0, 700);
       return notify(text, paraEl).then(function (r) {
         toast(notifyMsg(r));
         if (r && r.ok) return ref.update({ sent: true, threadId: r.threadId });
@@ -597,7 +580,7 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
     if (d.quote) el.appendChild(mk('blockquote', 'q-quote', '“' + d.quote + '”'));
     el.appendChild(mk('div', 'q-note', d.note || ''));
     if ((d.status === 'completed' || d.status === 'resolved') && d.claudeNote) {
-      var c = mk('div', 'q-claude'); c.appendChild(mk('b', '', 'What Claude did')); c.appendChild(document.createTextNode(d.claudeNote)); el.appendChild(c);
+      var c = mk('div', 'q-claude'); c.appendChild(mk('b', '', 'Claude')); c.appendChild(document.createTextNode(d.claudeNote)); el.appendChild(c);
     }
     if (d.status === 'working') el.appendChild(mk('div', 'q-work', 'Claude is working on this.'));
     var btns = mk('div', 'q-btns');
@@ -644,7 +627,7 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
     else if (act === 'reopen') {
       write(d.id, { status: 'submitted' }).then(function () {
         var el = prose.querySelector('[data-p="' + d.para + '"]') || document.getElementById('intro');
-        notify('[Edit queue] Reopened Ch ' + d.n + ': “' + (d.quote || '').slice(0, 160) + '”. Please look again. Original request: ' + (d.note || '').slice(0, 500), el).then(function (r) { toast('Reopened. ' + notifyMsg(r)); });
+        notify('[Queue] Reopened Ch ' + d.n + ': “' + (d.quote || '').slice(0, 160) + '”. Please look again. Original comment: ' + (d.note || '').slice(0, 500), el).then(function (r) { toast('Reopened. ' + notifyMsg(r)); });
       });
     }
   });
@@ -662,14 +645,14 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
   });
   document.getElementById('qNudge').addEventListener('click', function () {
     var open = items.filter(function (d) { return d.status === 'submitted'; }).length;
-    notify('[Edit queue] Please work through the submitted edit requests (' + open + ' waiting).', document.getElementById('intro')).then(function (r) { toast(notifyMsg(r)); });
+    notify('[Queue] Please work through the submitted comments (' + open + ' waiting).', document.getElementById('intro')).then(function (r) { toast(notifyMsg(r)); });
   });
   setInterval(function () { if (!document.hidden && items.length) render(); }, 60000);
 
   /* ---------- capabilities (arrive later; the page reads fine without them) ---------- */
   function unavailableQueue() {
     document.getElementById('qEmpty').innerHTML = '';
-    document.getElementById('qEmpty').textContent = 'The edit queue needs the shared database, which is not available in this view. Sign in to the artifact to use it.';
+    document.getElementById('qEmpty').textContent = 'The comment queue needs the shared database, which is not available in this view. Sign in to the artifact to use it.';
     document.getElementById('qResolveAll').disabled = true; document.getElementById('qNudge').disabled = true;
   }
   if (window.claude && window.claude.use) {
