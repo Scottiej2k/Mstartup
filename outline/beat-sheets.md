@@ -353,7 +353,7 @@ character's trouble read as the same trouble.
   3. Theo at the door, hoodie, "Is the pager still a thing?"
   4. Suresh in the pharmacy, the fax machine, "Ask me."
   5. The dishes; the kitchen table post-mortem.  6. Cole on the phone, late.
-  7. A short Ray call (**seed of his project**): he asks unusually specific questions about how follow-up works when someone leaves a hospital. Nate assumes he's curious.
+  7. A short Ray call (**seed of his project**): he asks Nate unusually specific questions about nurses: what actually keeps a good one in the job, who looks after them. Nate assumes he's curious.
 - **Note:** *Repair without blame.* (Memo, quiet.) "That's a very Nate way to put it."
 
 ### Ch 22. Ray's Questions
@@ -370,7 +370,7 @@ character's trouble read as the same trouble.
 - **Beats:**
   1. **The proposal at 6 a.m. on the trail** ("I don't have a backup." Maya: "Okay." then yes).
   2. **The civil ceremony** (a small, plain room; immediate family only: Suresh, Lakshmi, Arjun, Dan, Carol, Annie, Ray, plus Priya and Jules as witnesses). Lakshmi presses something into Maya's hand before they go in; Dan hands Nate a toolbox with a note: "Text me when you get there."
-  3. **The party** that evening (**Ray's backyard** in the Santa Cruz mountains: the big, landscaped yard, the pond finally dug, string lights, catered by Lakshmi's cousins). Kyle's badly timed toast. Theo, Margo, Cole alone, Hannah's text. Maya's Tamil word slips out to Nate, and he doesn't fake understanding. Ray, near the pond he has finally dug, tells Nate quietly what his something is (a project that honors Denise, addressing something about her passing). It is the first time he speaks about that year without stopping early.
+  3. **The party** that evening (**Ray's backyard** in the Santa Cruz mountains: the big, landscaped yard, the pond finally dug, string lights, catered by Lakshmi's cousins). Kyle's badly timed toast. Theo, Margo, Cole alone, Hannah's text. Maya's Tamil word slips out to Nate, and he doesn't fake understanding. Ray, near the pond he has finally dug, tells Nate quietly what his something is: **a nursing fellowship in Denise's name.** (Proposed: he says why. The nurses who noticed her during the eleven months, one night nurse in particular, who saw her fear and stayed.) It is the first time he speaks about that year without stopping early.
   4. **Sunday morning:** Nate sees Ray at the mailbox, dropping the Walt letter in. Neither says a word.
 - **Note:** *Culture is what you keep doing.* (Slide, warm.)
 
@@ -402,4 +402,4 @@ character's trouble read as the same trouble.
 6. **Meridian's reason:** "You listened. Nothing changed." Right?
 7. **The proposal:** trail at 6 a.m. (proposed).
 8. **In Ch 24, does Nate notice before Maya tells him** (proposed), or is it a surprise?
-9. **Ray's project (what is it?):** honors Denise and improves something about her passing. Options: (a) a program in her name at her hospital for **early-symptom follow-up** (the months before diagnosis, when nobody noticed), which rhymes with Loopback but is his own; (b) support for **families through a long illness** (the 11 months); (c) a **nursing fellowship** in her name, extending the scholarships he already funds. Open: which, and does the Walt letter invite Walt in?
+9. **Ray's project: RESOLVED.** A nursing fellowship in Denise's name; the Walt letter invites Walt to help run it. Open: the night-nurse detail (proposed) and the fellowship's name.
