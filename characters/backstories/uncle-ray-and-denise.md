@@ -70,9 +70,7 @@ Ray is 68. Denise died four years ago, at 60, after 38 years of marriage (Ray wa
   his hands (he's finally digging the pond), his questions, and a folder on the
   kitchen table. **The project (DECIDED): a nursing fellowship in Denise's name**, extending the
   hospital scholarships he already funds. Denise was a pediatric nurse for 34 years,
-  so it honors her work as well as her memory. (Proposed detail: the reason is the
-  nurses who noticed her during the eleven months, including a night nurse who saw her
-  fear and stayed. It quietly echoes "nobody's job is to notice": those nurses made
+  so it honors her work as well as her memory. (**Approved detail:** the reason is the nurses who noticed her during the eleven months, including a night nurse who saw her fear and stayed. It quietly echoes "nobody's job is to notice": those nurses made
   it theirs.)
 - **The Walt letter is an invitation (DECIDED):** the letter to Walt Pruitt is
   partly an apology and partly an invitation to help run the fellowship (Walt was the

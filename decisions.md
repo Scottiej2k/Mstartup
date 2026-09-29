@@ -63,3 +63,5 @@
 | 2026-09-29 | **Ray starts a project near the end:** something that honors Denise and improves something about her passing. He alludes to Nate's original "Healthcare, something?" and it's clear he has committed and is mostly through grief. Seeded in Ch 21 (a call), the "something" line in Ch 22, spoken about plainly at the party in Ch 23, and underway in Ch 24 | APPROVED (Scott's direction). The specific project is open |
 | 2026-09-29 | **Ray's project:** a nursing fellowship in Denise's name, extending the hospital scholarships he already funds. Denise was a pediatric nurse for 34 years | APPROVED (Scott's choice) |
 | 2026-09-29 | **The Walt letter is also an invitation:** Ray invites Walt Pruitt to help run the fellowship. Mailed the Sunday after the wedding; the reply is left for the sequel | APPROVED (Scott's choice) |
+| 2026-09-29 | **Night-nurse detail approved:** Ray's fellowship exists because of the nurses who noticed Denise during her eleven months, especially a night nurse who saw her fear and stayed | APPROVED |
+| 2026-09-29 | **Chapter 2 drafted (v1)** in `chapters/02-second-meeting-third-coffee.md`; awaiting Scott's edits | DRAFT |
