@@ -159,15 +159,19 @@ She put down her chopsticks.
 
 She typed. I watched her hands, the way you watch someone who's better at something than you'll ever be. She wrote for about four minutes, deleted most of it, then wrote three lines, and slid the laptop back.
 
-*Hi, it's [Pharmacy Name]. We noticed you haven't picked up your prescription, and wanted to check you're okay. No rush. Call us back, or don't. We just wanted to hear you were fine.*
+*Hi, it's [Pharmacy Name]. We noticed you haven't picked up your prescription, and wanted to check you're okay. We just wanted to hear you were fine. Your emergency contact will be notified in an hour if we do not hear back. Reply C to confirm or U to unsubscribe.*
 
-I read it. I read it again. It was exactly what a person would say, if that person were kind and slightly worried and weren't trying to prove anything to a compliance department.
+I read it. I read it again. The first half was exactly what a person would say, if that person were kind and slightly worried and weren't trying to prove anything to a compliance department. The second half was the small print, stapled on.
 
 "That's it," I said. "That's the whole thing."
 
-"It's three changes," said Maya. "'Our records indicate' becomes 'we noticed.' 'Non-compliance' becomes 'check you're okay.' And the ask at the end is optional. You let them off the hook." She picked up her chopsticks again. "People don't need to be told they're in trouble. They already know. They need to know someone noticed."
+"It's three changes," said Maya. "'Our records indicate' becomes 'we noticed.' 'Non-compliance' becomes 'check you're okay.' And the ask at the end is one letter. Nobody has to write anything back." She picked up her chopsticks again. "People don't need to be told they're in trouble. They already know. They need to know someone noticed."
 
 I typed the last two sentences into a note, word for word. She watched me do it.
+
+"The part about the emergency contact," I said. "That's the product. Patients pick someone when they sign up, a daughter, a neighbor, whoever. If they don't answer in an hour, we tell that person."
+
+"Good," said Maya. "It goes last. Kind first, then the backup."
 
 "There's a bigger problem," said Maya. "You're going to text them."
 
