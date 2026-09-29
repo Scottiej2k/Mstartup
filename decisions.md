@@ -47,4 +47,7 @@
 | 2026-09-29 | **Founder's Note:** short (120-250 words, a few very short), set apart; principle title line on early Notes only, fading; Ch 19 Note refuses to have a principle; Ch 24 Note reserved | APPROVED |
 | 2026-09-29 | **Founder's Note parallel:** mostly implicit; about one in four states the startup-to-marriage twin outright | APPROVED (Scott's direction) |
 | 2026-09-29 | **Maya in the Notes:** her voice appears as reported speech within Nate's text ("Maya would say...", "I'm not sure she was kidding"), roughly four to six times; no margin comments | APPROVED (Scott's direction) |
-| 2026-09-29 | **Chapter 1 drafted (v1)** in `chapters/01-the-room-nobody-wanted-to-be-in.md`; awaiting Scott's edits | DRAFT |
+| 2026-09-29 | **Chapter 1 (v1)** in `chapters/01-the-room-nobody-wanted-to-be-in.md`: voice, length (~3,300 words), Cole cameo and the "MAYA RAMEN" lanyard all kept as drafted | APPROVED |
+| 2026-09-29 | **Chapter 1 sets the voice standard** for later chapters: Nate's wry, specific narration is confirmed right | APPROVED |
+| 2026-09-29 | **Motif:** the misspelled "MAYA RAMEN" lanyard (her mother filled out the form) can recur lightly. Cole's "Optionality, man" plants the Ch 2 and Ch 8 theme. Lakshmi's receipt-roll call list is the human seed of Loopback | APPROVED |
+| 2026-09-29 | **Chapter length:** shorter is fine when the chapter is tight; target range 3,000-4,500 words | APPROVED |
