@@ -23,9 +23,11 @@ learned to notice.
    messages during the cake." Never "I was stressed."
 2. **Jokes at his own expense first.** He gets there before the reader does. The
    self-deprecation is a shield, and the reader should slowly see that.
-3. **Uses lists and numbers.** He quantifies things (31 customer interviews, 11
-   Slack messages). Lists are how he thinks and how he hides. The list device
-   fades late in the book, and its absence is a signal.
+3. **Uses numbers often, lists occasionally.** He counts what he can't say (31
+   customer interviews, 11 Slack messages). A numbered or "partial list of" passage
+   is a **flourish, used sparingly**: a handful in the whole book, with its
+   darkest use in Part 4. Late in the book the device is gone, and the gap is a
+   signal.
 4. **Reaches for engineering metaphors and lets them fail.** Funnels, sprints,
    runways, loops. Maya calls them out. By Part 6 he starts one and stops
    himself.
@@ -36,9 +38,11 @@ learned to notice.
    more composed than his speech; the gap between them is a running tell.
 7. **Trusts the scene.** Reflection is saved for the Founder's Note. In the
    chapter itself he stays in the moment.
-8. **Retrospective, lightly.** He is telling this from shortly after the events,
-   so hindsight lines ("I didn't know it then") are rare: at most one a
-   chapter, and never a spoiler.
+8. **Retrospective, and rarely.** He is telling this from shortly after the final
+   scene, in the days after Maya tells him she's pregnant, so his hindsight is at
+   most a few years long. Explicit hindsight lines ("It took me another two
+   years to...") are **rare: a handful across the whole book**, never a spoiler.
+   Mostly he narrates in the moment and lets the reader do the noticing.
 9. **Reads people better as the book goes on.** Early on he misses tells or
    misreads them ("Ray seemed distracted"); by Part 4 he catches them; by
    Part 6 he reads them before they speak. His prose sharpens accordingly.
@@ -56,7 +60,7 @@ learned to notice.
 - Stays the same voice from Ch 1 to Ch 24.
 
 ## 3. Tells: how Nate's narration reveals him
-- **The list.** He reaches for numbered items when he's avoiding a feeling.
+- **The list (occasional).** When he does reach for numbered items, it's because he's avoiding a feeling.
 - **The number.** "Thirty-one customers." "Eleven messages." He counts what he
   can't say.
 - **The aside in parentheses.** Where he sneaks in the true thing.
@@ -73,7 +77,7 @@ learned to notice.
 - "In my defense:" (followed by no defense)
 - "Here is a partial list of..." (a device that gets darker or sadder as the
   book goes on)
-- "It took me another [N] years to..." (the retrospective sting, used rarely)
+- "It took me another [N] years to..." (the retrospective sting: once or twice in the whole book)
 - "I did the thing where I..." (naming his habit)
 - "Which is a very [sprint/funnel/roadmap] thing to say." (Maya's line, and
   his catching it)
@@ -91,7 +95,7 @@ learned to notice.
 
 | Part | Narration sounds like |
 |---|---|
-| 1 The Spark | Brisk, funny, defensive. Lists, numbers, asides. Misses tells. |
+| 1 The Spark | Brisk, funny, defensive. Numbers and asides, an occasional list. Misses tells. |
 | 2 Discovery | Curious. More questions in the narration. Starts noticing hands and pauses. Still leans on the funnel. |
 | 3 Commitment | Warmer, more exposed. Fewer jokes at the top of a paragraph. |
 | 4 Growth | Frantic. Montages of metrics against missed moments. The list becomes indictment. |
@@ -125,28 +129,23 @@ already forty-one minutes into it, and I did not have a plan. I had a cup.
 
 ---
 
-### Sample B: Chapter 2 or 3, Nate's morning (the list device)
+### Sample B: Chapter 2 or 3, Nate's morning (numbers and one small list)
 *Setting: the Mountain View apartment. Early.*
 
 My apartment in Mountain View had two roommates, one dishwasher, and a plant
-that I want to say died in a tragic accident. It did not. It died the
+that I would like to say died in a tragic accident. It did not. It died the
 way most things in my life did that year: slowly, in plain view, while I was
 working on something else.
 
-Here is how my mornings went:
-
-1. Wake at 5:40. (Alarm at 5:30. I have never once obeyed the alarm.)
-2. Cold brew. Not because I like it. Because it has a *system*: bottle, filter,
-   twelve hours, done.
-3. Open Life OS.
+I woke at 5:40. (The alarm was set for 5:30. I have never once obeyed the alarm.)
+I made cold brew, which I don't like, but which has a system: bottle, filter,
+twelve hours, done. Then I opened Life OS.
 
 Life OS is a Notion page. It has five sections: Company, Health, Learning,
 Money, and Relationships. Company was forty screens long. Health had a
-checkbox for "sleep more" that I'd been checking on and off for years.
+checkbox for "sleep more" that I'd been checking and unchecking for years.
 Relationships was empty. I'd told myself this was because it was "a Q3
 problem."
-
-4. Ignore Kyle.
 
 Kyle was at the counter eating cereal out of a mixing bowl, with the
 expression of a man who had opinions about my life and hadn't yet been asked.
@@ -185,9 +184,6 @@ before he speaks. A man who is tired sits down. Ray never sat down when I said t
 word. He stayed on his feet, with his back a little straighter, the way you stand
 for something you've decided to hear all of.
 
-It took me about a year to notice, and about two to stop being embarrassed
-about it.
-
 ---
 
 ### Sample D: Chapter 5, the funnel (the metaphor fails)
@@ -220,9 +216,7 @@ the real one, the one I'd been fishing for since our first coffee. "That," Maya 
 
 "You don't have one."
 
-"I don't have one," I agreed. I abandoned the funnel in that same breath.
-
-It took me another two years to fully abandon the funnel.
+"I don't have one," I agreed. I abandoned the funnel in that same breath. (I did not. I used it again in March.)
 
 ---
 
@@ -259,6 +253,8 @@ None of those had an arrow.
 
 The email was four sentences long. I read it eleven times. I know because I
 counted, which is the kind of thing I do instead of feeling something.
+
+"Crap," I said, to the empty room. It seemed like the least I could do.
 
 Meridian Community Health was leaving. They were our largest customer. They
 were thirty-four percent of
@@ -345,18 +341,21 @@ jokes, no specifics, no gap between what he says and what he knows. Real Nate
 would say maybe half of one sentence of it, and then make a joke, and then
 list what he didn't do.
 
-## 9. Questions for Scott
-1. **Narrating position:** when is Nate telling this? (a) shortly after the
-   pregnancy reveal, so hindsight is short and the ending stays fresh; (b) a few
-   years later, with the baby already here (the reveal becomes a flashback); or (c) never
-   specified, with just an occasional light "I've since learned." I lean (c).
-2. **Hindsight lines:** Sample C and D each have one ("It took me a year..."). Is one
-   per chapter the right ceiling, or should there be more or fewer?
-3. **Lists and numbers:** the list device is a major part of his voice. Too much
-   in Sample B and E, or right?
-4. **Humor level in narration:** is the joke density in Samples A and B (roughly
-   one joke every two or three sentences) right, or should it run lighter?
-5. **Nate's profanity:** in narration or dialogue, does he ever curse? (Ray is mild
-   and occasional.)
-6. **Valley satire:** the lanyard stickers in Sample A. Is that the right level of
-   affectionate mockery, or should it be sharper or gentler?
+## 9. Decisions (2026-09-29)
+- **Narrating position:** Nate tells this shortly after the pregnancy reveal, in the
+  days after the last scene. Hindsight is short, and the ending stays fresh. (An
+  option for later: the book's last line could arrive in that same "now," such as
+  him writing at 6 a.m., their honest hour. Not decided.)
+- **Hindsight lines:** rare. A handful in the whole book.
+- **Lists and numbers:** numbers often, lists sparingly, as a flourish with its
+  darkest use in Part 4 (Sample E). Nearly gone by Part 6.
+- **Profanity:** mild and mostly at himself ("crap," "damn"). Matches Ray's
+  register.
+
+## 10. Still open
+1. **Humor level in narration:** roughly one joke every two or three sentences in
+   Samples A and B. Right, or lighter?
+2. **Valley satire:** the lanyard stickers in Sample A. Right level of affectionate
+   mockery, or sharper or gentler?
+3. **The final line:** do we want the book to close in Nate's "now" (writing
+   at 6 a.m.), or on the scene itself?

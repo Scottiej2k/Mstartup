@@ -40,3 +40,7 @@
 | 2026-09-29 | **Maya's humor:** dry, gentle, sharp, warm underneath (Sample B level) | APPROVED |
 | 2026-09-29 | **Family language:** a few Tamil words, lightly, with her parents (not translated for the reader). Authenticity read recommended before publication | APPROVED |
 | 2026-09-29 | **Maya and Tamil with Nate:** she uses a Tamil word only when English fails her for a feeling, then does her best to translate (imperfectly). Rare, at weighty moments. Ch 19 uses "aayasam" (verify with a Tamil speaker) | APPROVED (Scott's direction) |
+| 2026-09-29 | **Narrating position:** Nate tells the story shortly after the pregnancy reveal (short hindsight, ending stays fresh) | APPROVED |
+| 2026-09-29 | **Nate's hindsight lines:** rare, a handful across the whole book | APPROVED |
+| 2026-09-29 | **Nate's lists:** numbers often, lists sparingly as a flourish (darkest in Part 4, gone by Part 6) | APPROVED |
+| 2026-09-29 | **Nate's profanity:** mild, mostly at himself | APPROVED |
