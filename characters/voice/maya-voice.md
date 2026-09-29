@@ -75,7 +75,7 @@ politeness is the alarm.
 |---|---|---|---|
 | Sentence length | Short to medium, exact | Longer when nervous, over-explains | Short, spare |
 | Asks | The question underneath | Clarifying, practical ones | The question behind the question |
-| Under stress | Gets polite | Goes quiet, gets productive | Goes to check the tomatoes |
+| Under stress | Gets polite | Goes quiet, gets productive | Walks out to look at the yard |
 | Humor | Deadpan, specific | Self-deprecating, defensive | Dry, at his own expense |
 | Says "I love you" | Rarely, and means it | Never, until he does | Through Denise's rules |
 

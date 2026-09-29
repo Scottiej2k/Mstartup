@@ -87,9 +87,9 @@ learned to notice.
 |---|---|---|---|
 | Talks | Over-explains, jokes | Precise, dry | Spare |
 | Narrates | Lists, numbers, asides | (seen through Nate) | (seen through Nate) |
-| Under stress | Goes quiet, gets productive | Gets polite | Checks the tomatoes |
+| Under stress | Goes quiet, gets productive | Gets polite | Walks out to look at the yard |
 | Humor | Self-deprecating, defensive | Deadpan, warm underneath | Dry, at his own expense |
-| Metaphors | Engineering, and they fail | Plain, concrete | Plain, from garden and machines |
+| Metaphors | Engineering, and they fail | Plain, concrete | Plain, from the yard and machines |
 
 ## 6. How the voice evolves
 
@@ -172,14 +172,13 @@ one item on it: "He works at a company that has a ping-pong table."
 
 I said "hypothetically," and Ray stopped.
 
-It was about a second. His thumb was in the soil. He set the seedling down
-and turned the little pot a quarter turn, and then he said, "Go ahead."
+It was about a second. His mallet had stopped mid-swing. He set it down and turned his mug on the fence post a quarter turn, and then he said, "Go ahead."
 
 I remember thinking he seemed tired. I made a note of it, actually, the way
 you'd note a slow server response. *Ray: distracted?* I decided to keep my question
 short, out of consideration.
 
-I've since learned that a man who is tired does not turn a flowerpot a quarter turn
+I've since learned that a man who is tired does not turn a coffee mug a quarter turn
 before he speaks. A man who is tired sits down. Ray never sat down when I said that
 word. He stayed on his feet, with his back a little straighter, the way you stand
 for something you've decided to hear all of.
@@ -237,7 +236,7 @@ Here is a partial list of other things that happened in September:
    during the cake.
 2. A Tuesday dinner Maya cooked. I said "that's great" about a story she hadn't
    finished.
-3. Ray's tomato harvest weekend. I had a board prep. I told myself I'd go
+3. The weekend Ray finally dug the pond. I had a board prep. I told myself I'd go
    the next Saturday. It rained.
 4. Kyle's birthday. I sent a GIF.
 5. A Thursday when Maya sat across from me and asked, quite gently, whether I

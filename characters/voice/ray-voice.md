@@ -11,7 +11,7 @@ Ray talks like a man who has learned that most sentences make things worse.
 He's unhurried. He asks more than he tells. His sentences are short and concrete,
 and he trusts silence to do half the work. He has no startup jargon except when
 mocking it, and his metaphors come from things with moving parts: engines,
-radios, tomato vines, old customers. He is funny in a dry, sideways way,
+radios, retaining walls, garden hoses, old customers. He is funny in a dry, sideways way,
 almost always at his own expense. He never lectures. When he does say something
 wise, he says it plainly, then asks if anyone wants more coffee.
 
@@ -33,8 +33,7 @@ wise, he says it plainly, then asks if anyone wants more coffee.
    works; sometimes he does and it's incomplete; sometimes he ignores it and
    learns something Ray couldn't have told him. Ray never chases him for
    results and never says "I told you so."
-6. **Talks with his hands busy.** Pruning, pouring, cleaning a radio dial, checking
-   the vines. Hard conversations happen while he's doing a task.
+6. **Talks with his hands busy.** Driving stakes, coiling a hose, cleaning a radio dial, pouring coffee. Hard conversations happen while he's doing a task.
 7. **Repeats a few plain phrases** (see the bank below) so readers learn them.
 
 ### What Ray never does
@@ -42,7 +41,7 @@ wise, he says it plainly, then asks if anyone wants more coffee.
   unspoken to the end.)
 - Gives a speech longer than four sentences. Exception: a plain moment about
   Denise, and even then he stops early.
-- Uses fortune-cookie wisdom ("A tomato doesn't rush to ripen"). He says a
+- Uses fortune-cookie wisdom ("A pond doesn't dig itself"). He says a
   true, small, specific thing instead.
 - Uses startup terms un-ironically ("disrupt," "leverage," "synergy").
 - Comforts Nate with flattery. His warmth shows as attention.
@@ -52,13 +51,28 @@ wise, he says it plainly, then asks if anyone wants more coffee.
 ## 3. Tells: how Ray shows he knows without saying it
 Nate learns to read these, and so does the reader:
 - **The second cup.** Ray refills Nate's coffee when Nate says something true.
-- **The pause and the tomatoes.** When a moment gets raw, Ray goes to check the
-  vines. He returns with a tomato and a normal voice.
+- **The pause and the yard.** When a moment gets raw, Ray walks out to look at the yard, at the strings and stakes marking whatever he's planning. He comes back with a normal voice.
 - **The word "hypothetical."** He says it a half-beat too gently.
 - **The change of subject that isn't.** He'll ask about the dishes, the drive, the
   weather, and then loop back with the one question that matters.
 - **"And how's your co-founder?"** with the tiniest emphasis and no smile.
 - **Denise.** A rare, plain mention of her, never explained.
+
+## 3.5 Ray's house and yard (DECIDED 2026-09-29)
+- **The house:** a modest home in the Santa Cruz mountains, on a **larger-than-most
+  backyard.**
+- **The yard is his project.** Ray is always landscaping: sketching new flowerbeds
+  on graph paper, staking out a curve with a garden hose, moving flagstones,
+  planning a pond or a water feature he hasn't dug yet. He thinks in drainage,
+  slope, and where the afternoon light falls. This is what his hands do while he
+  talks.
+- **The small vegetable garden** in one corner is Denise's. It's a few beds of
+  ordinary vegetables, not a showpiece. Ray redesigns everything else in the yard
+  and never touches that corner. (Nate notices this long before he understands
+  it.)
+- **Not** a tomato garden. Tomatoes are gone from Ray's voice, jokes and
+  metaphors.
+- The yard is the wedding-party setting (Ch 23).
 
 ## 4. Phrase bank (use sparingly; each earns its place)
 - "Well." (a full sentence)
@@ -69,7 +83,7 @@ Nate learns to read these, and so does the reader:
 - "It's not a bad idea. It's an untested one."
 - "Coffee?" (used for comfort, for stalling, for signaling)
 - "Text me when you get there." (Dan's line, which Ray echoes once, deliberately)
-- "The Cherokees are making a point." (about the tomatoes, always)
+- "The ferns are making a point." (about the yard, always)
 - "You don't get certainty. You get enough. Then you get brave."
 - "I'm not saying you're wrong. I'm asking how you'd know."
 
@@ -87,11 +101,9 @@ Nate learns to read these, and so does the reader:
 ## 6. Sample scenes
 
 ### Sample A: Chapter 4, the first "hypothetically"
-*Setting: Ray's kitchen, Saturday, early morning. He is potting seedlings on a
-folding table Nate isn't allowed to touch.*
+*Setting: Ray's backyard, Saturday, early morning. He is staking out a new flowerbed with string and wooden stakes, in a yard bigger than most people's houses.*
 
-Ray didn't look up when I came in. He never did. He said, "Coffee's on the
-stove. Don't tell me about the traffic."
+Ray didn't look up when I came in. He never did. He said, "Coffee's in the thermos. Don't tell me about the traffic."
 
 "Hypothetically," I said, and he stopped moving for exactly one second, "say
 there's a person who keeps showing up at a customer discovery interview. Not
@@ -102,7 +114,7 @@ ever had."
 
 "Yes."
 
-"Asks good questions." He pressed soil around a stem with his thumb. "About what?"
+"Asks good questions." He drove a stake into the lawn with the heel of his hand. "About what?"
 
 "About whether the thing I'm building would help the people I say it helps."
 
@@ -110,7 +122,7 @@ ever had."
 
 "I don't know. That's the point. I couldn't answer."
 
-"Well." He turned the little pot a quarter turn. "You've had a lot of customers who
+"Well." He turned the mug on the fence post a quarter turn. "You've had a lot of customers who
 were buyers. Most of them said yes."
 
 "Almost all of them."
@@ -129,8 +141,7 @@ her interviews."
 
 "His."
 
-"Whichever." He poured me a coffee I hadn't asked for, then a second, which I
-hadn't finished. "Want to see the Brandywines?"
+"Whichever." He poured me a coffee from the thermos, which I hadn't asked for, then a second, which I hadn't finished. "Want to see where the pond's going?"
 
 *(Founder's Note echo: "Ray answered the question I asked. It took me twenty
 minutes to notice he'd answered the other one.")*
@@ -138,7 +149,7 @@ minutes to notice he'd answered the other one.")*
 ---
 
 ### Sample B: Chapter 8, "How many is enough?"
-*Setting: the garden, mid-morning, Ray pruning suckers off tomato plants.*
+*Setting: the yard, mid-morning. Ray is laying a garden hose in a long curve across the lawn to mark the edge of a new flowerbed.*
 
 "Hypothetically," I said, and this time he actually said it with me, under his
 breath, so quietly I could pretend I hadn't heard.
@@ -158,7 +169,7 @@ breath, so quietly I could pretend I hadn't heard.
 I didn't answer, because the honest answer was *that I like her more than I did
 after the thirtieth.*
 
-Ray snapped off a sucker and dropped it in the bucket. "I'll tell you what my
+Ray nudged the hose a few inches left and looked at the curve as if it owed him money. "I'll tell you what my
 old partner and I did. We waited. We wanted ninety percent sure. We waited
 eight months. A competitor got there first, with a worse product and one hundred
 percent conviction."
@@ -177,7 +188,7 @@ I wrote it down. I always write down what Ray says. He watched me do it and said
 "Because the next part is the hard part, and you'll write it down and feel
 like you did it."
 
-He handed me the pruners. "Take the suckers off the left row. Not the flowers."
+He handed me the spade. "Cut the edge along the hose. Not the lavender."
 
 ---
 
@@ -218,8 +229,7 @@ wouldn't put a price on it yet."
 
 "So don't charge?"
 
-"I said what I'd do. It's your customer." He picked up his cup. "Want to see
-how the Cherokees are doing?"
+"I said what I'd do. It's your customer." He picked up his cup. "Want to see where the pond's going?"
 
 I drove home with two pieces of advice that didn't agree with each other. On the
 freeway I decided not to follow either. I called the customer from the parking
@@ -246,11 +256,10 @@ for it."
 
 "Which is faster?"
 
-Ray gave me a look I'd only seen him give tomatoes. "That's not the question."
+Ray gave me a look I'd only seen him give a badly drawn flowerbed. "That's not the question."
 
 I washed. He dried. We didn't talk for a while, and it was the most talking
-we'd done all night. The window over the sink faced the garden, and the light
-was going.
+we'd done all night. The window over the sink faced the backyard, where a string outline marked a pond he hadn't dug yet, and the light was going.
 
 "Denise had a rule," Ray said. "You do the dishes together. Not because it's
 efficient. Because it isn't."
@@ -276,7 +285,7 @@ He didn't look at me. I washed a glass for a very long time.
 
 "So they said the market's 'huge,'" I said.
 
-"Huge." Ray looked at his tomatoes. "How big is the Cherokee Purple market?"
+"Huge." Ray looked at the stakes he'd driven into the lawn. "How big is the market for a water feature?"
 
 "That's not the same."
 
@@ -330,8 +339,7 @@ I'd rehearsed a business answer to that question, in my head, for weeks. I didn'
 use any of it. "A place where I don't have to be good at things," I said. "Where
 I'm just there."
 
-He picked up the kettle, and put it down again. He looked at the window, at the
-garden, at the last of the light on the vines. He was quiet long enough that I
+He picked up the kettle, and put it down again. He looked at the window, at the yard, at the last of the light on the strings and stakes marking a pond that didn't exist yet. He was quiet long enough that I
 thought I'd said something wrong.
 
 "Well," Ray said. His voice was very ordinary. "She'd have liked her."
@@ -377,7 +385,7 @@ Maya.
 - Tall, stooped a little from years at a workbench. Big, careful hands, with a
   knuckle that no longer bends after a machine-shop accident at 24.
 - Reading glasses pushed up into gray hair he cuts himself.
-- Faded flannel in every season. A canvas apron in the garden.
+- Faded flannel in every season. Work gloves in a back pocket, in every season.
 - Moves slowly and deliberately, never wasted motion, like a man who has
   learned that rushing breaks things.
 
@@ -386,9 +394,9 @@ Maya.
 |---|---|
 | Ray stops mid-motion for one second | He's caught what Nate is really asking |
 | Turns his cup a quarter turn | He's choosing what to say, or what not to |
-| Presses soil, pruning, or wiping his hands instead of looking up | He's giving Nate room; eye contact would be too much |
+| Driving a stake, coiling a hose, or wiping his hands instead of looking up | He's giving Nate room; eye contact would be too much |
 | Takes his glasses off and folds them | He's about to say something he means |
-| Looks at the window or garden | The conversation touched Denise, or something too near |
+| Looks at the window or the yard | The conversation touched Denise, or something too near |
 | Rubs the bent knuckle with his thumb | He's uneasy or remembering |
 | Refills Nate's cup without asking | Nate just said something true |
 | Turns the kettle off before it boils | Rare. He is genuinely moved |
@@ -409,8 +417,7 @@ Maya.
 ### Example
 > "Hypothetically," I said.
 >
-> Ray's thumb stopped in the soil. It was maybe a second. He set the seedling
-> down, turned the little pot a quarter turn, and said, "Go ahead."
+> Ray's mallet stopped mid-swing. It was maybe a second. He set it down, turned the mug on the fence post a quarter turn, and said, "Go ahead."
 >
 > He didn't look up. His shoulders, I noticed later, had come down half an inch, the
 > way a man's do when he's decided to be patient. At the time I thought he

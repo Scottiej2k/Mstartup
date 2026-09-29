@@ -127,8 +127,8 @@ character's trouble read as the same trouble.
 - **Relationship beat:** He asks Ray about "a person who keeps asking the best questions but isn't a buyer." Ray answers both questions.
 - **Scenes:**
   1. Drive to Santa Cruz mountains; Nate's phone dies; he arrives without a plan.
-  2. Ray's kitchen (Sample A): potting seedlings, quarter-turn pot, second coffee. Nate misreads the tell ("Ray seemed tired").
-  3. The garden; the framed photo of Denise; Ray mentions her plainly, once.
+  2. Ray's backyard (Sample A): staking out a flowerbed, the quarter-turned mug, second coffee. Nate misreads the tell ("Ray seemed tired").
+  3. The yard tour: the pond that isn't dug yet, Denise's small vegetable corner he never touches; the framed photo of Denise in the kitchen; Ray mentions her plainly, once.
   4. The drive home; Nate notes "Ray: distracted?" in his phone.
 - **Plants:** The quarter-turn; Denise photo; Dan and Ray's distance; Ray's "second cup."
 - **Note:** *The best feedback comes from someone who isn't buying.* (Slide, playful; "I'll spare you.")
@@ -183,7 +183,7 @@ character's trouble read as the same trouble.
 - **Relationship beat:** Nate says he wants to "keep it low-key until the seed closes." Maya says "Okay." (the door closes politely). Three days of silence.
 - **Scenes:**
   1. The fight (small, polite, devastating).
-  2. Ray's garden (Sample B): "You get enough. Then you get brave." "Don't write that down."
+  2. Ray's yard (Sample B): "You get enough. Then you get brave." "Don't write that down."
   3. The trail at 6 a.m. (Sample D): the spreadsheet, "renting a very nice apartment I never lived in," "Say it like you don't have a backup."
   4. Maya deletes the one app left on her phone.
 - **Nate's flaw:** hedges with a plan.
@@ -264,7 +264,7 @@ character's trouble read as the same trouble.
 **~3,600 words · Sep, Y2**
 - **Purpose:** The metrics rise as presence falls.
 - **Startup beat:** The green arrow. 41 → 58 → 77 weekly active clinics. 118% NRR.
-- **Relationship beat:** Lakshmi's birthday (Slack during cake). A Tuesday dinner. Ray's harvest weekend missed. Maya asks about their second date; "Sure" is obviously untrue.
+- **Relationship beat:** Lakshmi's birthday (Slack during cake). A Tuesday dinner. The weekend Ray finally dug the pond, missed. Maya asks about their second date; "Sure" is obviously untrue.
 - **Scenes:** the Sample E montage, then a quiet scene: Maya doesn't confront; she gives him "a gorgeous mercy."
 - **Note:** *You get what you measure.* (Board update, sharp.)
 
@@ -369,7 +369,7 @@ character's trouble read as the same trouble.
 - **Beats:**
   1. **The proposal at 6 a.m. on the trail** ("I don't have a backup." Maya: "Okay." then yes).
   2. **The civil ceremony** (a small, plain room; immediate family only: Suresh, Lakshmi, Arjun, Dan, Carol, Annie, Ray, plus Priya and Jules as witnesses). Lakshmi presses something into Maya's hand before they go in; Dan hands Nate a toolbox with a note: "Text me when you get there."
-  3. **The party** that evening (**Ray's backyard**: a nice, ordinary yard at his suburban house, string lights, catered by Lakshmi's cousins; not a tomato garden). Kyle's badly timed toast. Theo, Margo, Cole alone, Hannah's text. Maya's Tamil word slips out to Nate, and he doesn't fake understanding.
+  3. **The party** that evening (**Ray's backyard** in the Santa Cruz mountains: the big, landscaped yard, the pond finally dug, string lights, catered by Lakshmi's cousins). Kyle's badly timed toast. Theo, Margo, Cole alone, Hannah's text. Maya's Tamil word slips out to Nate, and he doesn't fake understanding.
   4. **Sunday morning:** Nate sees Ray at the mailbox, dropping the Walt letter in. Neither says a word.
 - **Note:** *Culture is what you keep doing.* (Slide, warm.)
 
@@ -393,7 +393,7 @@ character's trouble read as the same trouble.
 - Sequel hook: pregnancy plus a new product.
 
 ## Open items for Scott
-1. **Party location:** Ray's backyard. **DECIDED** it is a plain, pleasant suburban yard, *not* a tomato garden. (Ray's home and hobbies are being revisited; see `decisions.md`.)
+1. **Party location:** Ray's backyard. **DECIDED:** a big, pleasant yard at the mountain house, ongoing landscaping and all; *not* a tomato garden.
 2. **Wedding details:** any ritual from either family? Lakshmi's item pressed into Maya's hand: what is it?
 3. **The new product** (Ch 24): **DECIDED:** the general pulse check widening to other verticals (people who live alone, new parents, and so on). Open: which vertical is the first one Nate sketches? (New parents lands next to the pregnancy; living alone echoes Mr. Peralta. Recommend living alone, with new parents left for the sequel.)
 4. **Where they live:** Sunnyvale (proposed).

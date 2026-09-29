@@ -10,13 +10,14 @@ Recurring places should each become emotionally loaded over the book.
 | The office (Phase 3) | Larger space, more employees | Loss of intimacy; more meetings, more distance |
 | Narrator's apartment | Cramped 1BR in Mountain View | Mess, cables, one plant that dies |
 | Maya's apartment | Small, warm place in the Mission or Oakland | Bookshelves, actual food, the first place he feels calm |
-| Uncle Ray's house & garden | Los Altos Hills / Santa Cruz mountains | Advice happens here, often while he's doing a task with his hands |
+| Uncle Ray's house & backyard | Santa Cruz mountains (Ben Lomond/Felton) | Advice happens here, in a larger-than-most yard he's forever landscaping (flowerbeds, a pond-in-progress), plus Denise's small vegetable garden |
 | The Raman family home / pharmacy | Fremont | Where the narrator learns what "small business" means |
 | The 6 a.m. spot | A bakery or a trail (Rancho San Antonio) | Honest conversations |
-| The wedding venue | Somewhere modest and meaningful (vineyard, backyard, uncle's garden) | Closing set piece |
+| The wedding (civil ceremony) | A small, plain room (courthouse or city hall) | Immediate family only |
+| The wedding party | Ray's backyard in the Santa Cruz mountains | Closing set piece: string lights, a pond that's finally dug |
 | The rooftop / parking garage | Anywhere with a view | The near-breakup conversation |
 
 ## Recurring sensory anchors
-- Uncle's kitchen: burnt coffee and tomato plants
+- Uncle's kitchen and yard: burnt coffee, wet earth, cut grass
 - Office: dry-erase marker, cold pizza
 - Maya's apartment: cardamom, paper books

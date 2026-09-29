@@ -44,14 +44,16 @@ Ray is 68. Denise died four years ago, at 60, after 38 years of marriage (Ray wa
   Oregon. Ray keeps a letter to Walt in a drawer and never mails it.
 
 ## Ray now
-- Lives in a small ranch house in the Santa Cruz mountains (Ben Lomond/Felton
-  area), not Los Altos. He lives modestly, deliberately.
-- **The garden:** heirloom tomatoes. Denise planted the first ones. He speaks
-  about them like employees: "The Brandywines are fine. The Cherokees are
-  making a point."
+- Lives in a modest house in the Santa Cruz mountains (Ben Lomond/Felton area) on a
+  **larger-than-most backyard.** He lives modestly, deliberately.
+- **The yard:** his ongoing project. He's forever landscaping: planning new
+  flowerbeds, a flagstone path, a retaining wall, a water feature he hasn't dug
+  yet. He speaks about the yard like a difficult employee: "The ferns are making a
+  point."
+- **Denise's vegetable garden:** a small corner of ordinary vegetable beds she
+  planted. Ray redesigns everything but that corner and never says why.
 - Hobbies: restoring old radios, morning walks, reading the same three
-  paperbacks. Advises three startups on the side; charges nothing; accepts
-  produce.
+  paperbacks. Advises three startups on the side; charges nothing; accepts pie.
 - Sold company stock and gave a serious amount to hospital scholarships in
   Denise's name.
 
