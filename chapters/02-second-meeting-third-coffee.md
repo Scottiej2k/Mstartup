@@ -225,7 +225,7 @@ I could have lied. The lie was lying right there, in easy reach, like a slider. 
 
 "One what?"
 
-"Coffee." She said it the way you'd read a meter. "There's a cliff after two. People are lovely for two coffees and then they vanish. So I count."
+"Coffee." She said it the way you'd read a meter. "There's a cliff after two. People are lovely for two coffees. They ask good questions, they laugh in the right places. Then somewhere around the third one they stop answering, and you never find out why. It's happened to me four times. So I count."
 
 "And after three?"
 
@@ -415,7 +415,7 @@ She let me walk her to her bus stop. It was a gray, bright Saturday and the fog 
 
 "We're at three."
 
-"I know." She looked down at her shoes, the way you look over the edge of something. "I'm looking."
+"I know." She looked down at her shoes, the way you look over the edge of something. "I keep waiting for the part where you stop answering."
 
 "How's it look?"
 
@@ -433,7 +433,7 @@ I looked at it for a long time. Then I deleted it, because Maya would notice, an
 
 On Sunday morning, without a reminder or a plan, I texted her a photograph of a sandwich I'd bought from a place near the coworking space where Priya and I rent two desks. It was a bad sandwich. It had been built by someone who had heard of sandwiches. She wrote back in nine minutes: **That's a crime.**
 
-It was the best follow-up of my life, and it wasn't on a list.
+It was the best follow-up of my life, and it wasn't on a list. She was still there, past the cliff, answering in nine minutes.
 
 ---
 
