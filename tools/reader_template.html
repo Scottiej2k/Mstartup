@@ -701,23 +701,24 @@ p.has-edit[data-est="completed"], p.has-edit[data-est="resolved"] { --est: var(-
       if (has) p.setAttribute('data-est', est); else p.removeAttribute('data-est');
     });
   }
+  var sending = false;
   function unsentText() { return items.filter(function (d) { return d.kind === 'text' && d.status === 'submitted' && !d.sent; }); }
   function updateEditBar() {
     var n = unsentText().length;
-    eSend.disabled = n === 0 || !edits;
+    eSend.disabled = n === 0 || !edits || sending;
     eSend.textContent = n ? 'Send ' + n + ' to Claude' : 'Send to Claude';
     eHint.textContent = n ? n + ' saved change' + (n === 1 ? '' : 's') + ' not sent yet. Enter saves, Esc cancels.' : 'Click a paragraph. Enter saves, Esc cancels.';
   }
   eSend.addEventListener('click', function () {
-    var list = unsentText(); if (!list.length) return;
+    var list = unsentText(); if (!list.length || sending) return;
     var chs = {}; list.forEach(function (d) { chs[d.n] = 1; });
     var text = '[Queue] ' + list.length + ' direct text edit' + (list.length === 1 ? ' is' : 's are') + ' waiting to be applied (Ch ' + Object.keys(chs).join(', ') + '). Apply the wording exactly as written.';
     var firstEl = byPara[list[0].para] || document.getElementById('intro');
-    eSend.disabled = true;
+    sending = true; updateEditBar();
     notify(text, firstEl).then(function (r) {
       toast(r && r.ok ? 'Sent ' + list.length + ' edit' + (list.length === 1 ? '' : 's') + ' to Claude.' : notifyMsg(r));
-      if (r && r.ok) list.reduce(function (p, d) { return p.then(function () { return edits.doc(d.id).update({ sent: true, threadId: r.threadId }); }); }, Promise.resolve());
-      updateEditBar();
+      var chain = r && r.ok ? list.reduce(function (p, d) { return p.then(function () { return edits.doc(d.id).update({ sent: true, threadId: r.threadId }); }); }, Promise.resolve()) : Promise.resolve();
+      return chain.catch(function () {}).then(function () { sending = false; updateEditBar(); });
     });
   });
 
