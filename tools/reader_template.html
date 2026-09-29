@@ -197,6 +197,39 @@ mark.hl { background: var(--hl); color: inherit; border-radius: 2px; padding: 0 
 .note ::selection { background: color-mix(in srgb, #74b9d3 45%, transparent); }
 mark.hl.on-slide { color: #14181c; background: #ffe666; }
 
+/* direct editing */
+body.editing .prose p[data-p], body.editing .note p[data-p] { cursor: text; border-radius: 3px; outline: 1px dashed transparent; outline-offset: 3px; transition: outline-color .12s; }
+body.editing .prose p[data-p]:hover, body.editing .note p[data-p]:hover { outline-color: color-mix(in srgb, var(--accent) 55%, transparent); }
+body.editing .prose p[data-p]:focus, body.editing .note p[data-p]:focus { outline: 2px solid var(--accent); background: color-mix(in srgb, var(--accent) 7%, transparent); }
+body.editing .note p[data-p]:focus { background: color-mix(in srgb, var(--slide-ink) 10%, transparent); }
+p.has-edit { position: relative; --est: var(--st-sub); }
+p.has-edit::before { content: ""; position: absolute; left: -12px; top: 0.78em; width: 6px; height: 6px; border-radius: 50%; background: var(--est); }
+p.has-edit[data-est="working"] { --est: var(--st-work); }
+p.has-edit[data-est="completed"], p.has-edit[data-est="resolved"] { --est: var(--st-done); }
+#editbar {
+  position: fixed; left: 50%; transform: translateX(-50%); z-index: 41;
+  bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+  display: flex; align-items: center; flex-wrap: wrap; justify-content: center; gap: 6px 12px; padding: 8px 8px 8px 14px; border-radius: 12px; background: var(--slide); color: var(--slide-ink);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, .35); max-width: calc(100vw - 32px);
+}
+#editbar .e-info { display: grid; gap: 1px; }
+#editbar .e-title { font-family: var(--f-display); font-weight: 700; font-size: 0.86rem; }
+#editbar .e-hint { font-family: var(--f-mono); font-size: 0.66rem; color: var(--slide-mute); }
+#editbar .e-btns { display: flex; gap: 6px; }
+#editbar button { border: 0; background: transparent; color: inherit; padding: 9px 13px; border-radius: 8px; cursor: pointer; font-family: var(--f-display); font-weight: 600; font-size: 0.86rem; white-space: nowrap; min-height: 40px; }
+#editbar button:hover:not(:disabled) { background: color-mix(in srgb, var(--slide-ink) 14%, transparent); }
+#editbar button.primary { background: #74b9d3; color: #0b1216; }
+#editbar button.primary:hover:not(:disabled) { background: #8cc7de; }
+#editbar button:disabled { opacity: .5; cursor: default; }
+.tbtn[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.q-diff { display: grid; gap: 5px; margin: 0 0 4px; font-size: 0.86rem; line-height: 1.4; }
+.q-diff .lab { font-family: var(--f-mono); font-size: 0.6rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); display: block; }
+.q-diff .was, .q-diff .now { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; overflow-wrap: anywhere; }
+.q-diff .was { color: var(--muted); text-decoration: line-through; text-decoration-color: color-mix(in srgb, var(--muted) 60%, transparent); }
+.q-diff .now { font-weight: 500; }
+.q-kind { font-family: var(--f-mono); font-size: 0.62rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
+@media (max-width: 560px) { .tbtn .wide { display: none; } }
+
 /* selection bar and composer */
 #selbar {
   position: fixed; left: 50%; transform: translateX(-50%); z-index: 40;
@@ -257,6 +290,7 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
     <button class="tbtn only-narrow" id="menuBtn" aria-label="Chapters and comment queue" aria-expanded="false">Menu<span class="dot" id="menuDot" hidden>0</span></button>
     <div class="brand">The Marriage Startup <small>Draft manuscript</small></div>
     <div class="tools">
+      <button class="tbtn" id="editToggle" aria-pressed="false" aria-label="Edit the text directly" hidden>Edit<span class="wide"> text</span></button>
       <button class="tbtn" id="fsDown" aria-label="Smaller text">A&minus;</button>
       <button class="tbtn" id="fsUp" aria-label="Larger text">A+</button>
     </div>
@@ -301,6 +335,7 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
           <ol>
             <li>Select any words. A bar appears at the bottom of the screen.</li>
             <li><b>Comment</b> opens a box where you tell Claude what to change, or ask a question, about the selected words. It joins the <b>Queue</b> tab as Submitted, and Claude is notified. You will see it move to Working, then Completed, with a note from Claude on what was done. Press <b>Resolve</b> when you are happy with it.</li>
+            <li><b>Edit text</b> (top right) lets you click into any paragraph and type your change directly. Press Enter to save that paragraph, or Esc to cancel. Each change joins the Queue, and <b>Send to Claude</b> asks Claude to apply your wording exactly as you wrote it.</li>
             <li><b>Highlight</b> marks a passage for yourself, in this browser only. <b>Copy</b> puts the passage and its chapter on your clipboard.</li>
           </ol>
         </div>
@@ -315,6 +350,14 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
   <button id="bHighlight">Highlight</button>
   <button id="bCopy">Copy</button>
   <button id="bRemove" hidden>Remove highlight</button>
+</div>
+
+<div id="editbar" hidden role="toolbar" aria-label="Direct editing">
+  <div class="e-info"><span class="e-title">Editing text</span><span class="e-hint" id="eHint">Click a paragraph. Enter saves, Esc cancels.</span></div>
+  <div class="e-btns">
+    <button id="eSend" class="primary" disabled>Send to Claude</button>
+    <button id="eDone">Done</button>
+  </div>
 </div>
 
 <div id="composer" hidden role="dialog" aria-label="Comment for Claude">
@@ -337,6 +380,7 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
   var bCopy = document.getElementById('bCopy'), bRemove = document.getElementById('bRemove');
   var toastEl = document.getElementById('toast');
   var comments = null, db = null, edits = null;
+  var editMode = false;
   var lastRange = null, activeMark = null, barBusy = false, toastTimer = null, items = [], pending = null;
 
   /* ---------- helpers ---------- */
@@ -374,7 +418,7 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
   }
   function hideBar() { if (barBusy) return; bar.hidden = true; activeMark = null; }
   document.addEventListener('selectionchange', function () {
-    if (composerOpen()) return;
+    if (composerOpen() || editMode) return;
     var r = selRange();
     if (r) { lastRange = r.cloneRange(); activeMark = null; showBar('sel'); }
     else if (!activeMark) { setTimeout(function () { if (!selRange() && !activeMark && !composerOpen()) hideBar(); }, 180); }
@@ -436,7 +480,7 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
   });
   prose.addEventListener('click', function (e) {
     var m = e.target.closest && e.target.closest('mark.hl'); var sel = window.getSelection();
-    if (m && (!sel || sel.isCollapsed)) { activeMark = m; showBar('mark'); }
+    if (!editMode && m && (!sel || sel.isCollapsed)) { activeMark = m; showBar('mark'); }
   });
   bRemove.addEventListener('click', function () {
     barBusy = false; var m = activeMark; if (!m) { done(); return; }
@@ -547,13 +591,143 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
     });
   }
 
+  /* ---------- direct text editing ---------- */
+  var editToggle = document.getElementById('editToggle'), editbar = document.getElementById('editbar');
+  var eSend = document.getElementById('eSend'), eDone = document.getElementById('eDone'), eHint = document.getElementById('eHint');
+  var paras = Array.prototype.slice.call(prose.querySelectorAll('.prose p[data-p], .note p[data-p]'));
+  function toMd(node) {
+    var out = '';
+    Array.prototype.forEach.call(node.childNodes, function (c) {
+      if (c.nodeType === 3) out += c.nodeValue.replace(/ /g, ' ');
+      else if (c.nodeType === 1) {
+        var t = c.tagName;
+        if (t === 'BR') out += '\n';
+        else if (t === 'STRONG' || t === 'B') out += '**' + toMd(c) + '**';
+        else if (t === 'EM' || t === 'I') out += '*' + toMd(c) + '*';
+        else if (t === 'DIV' || t === 'P') out += '\n' + toMd(c);
+        else out += toMd(c);
+      }
+    });
+    return out;
+  }
+  function cleanMd(p) { return toMd(p).replace(/\*\*\*\*/g, '').replace(/[ \t]{2,}/g, ' ').replace(/^\s+|\s+$/g, ''); }
+  function esc(t) { return t.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
+  function mdHtml(md) {
+    return esc(md).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>').replace(/\*([^*\s][^*]*?)\*/g, '<em>$1</em>').replace(/\n/g, '<br>');
+  }
+  var byPara = {};
+  paras.forEach(function (p) { p.dataset.md = cleanMd(p); p._base = p.innerHTML; p._cur = p.dataset.md; byPara[p.dataset.p] = p; });
+  function paint(p, md) {
+    p.innerHTML = md === p.dataset.md ? p._base : mdHtml(md); p._cur = md;
+  }
+  function wrapOf(p) { return p.classList.contains('sign') ? 'sign' : p.classList.contains('msg') ? (p.classList.contains('in') ? 'in' : 'out') : ''; }
+  function plain(md) { return (md || '').replace(/\*+/g, ''); }
+  function setEditMode(on) {
+    editMode = on; document.body.classList.toggle('editing', on);
+    editToggle.setAttribute('aria-pressed', String(on)); editbar.hidden = !on;
+    var mode = 'plaintext-only';
+    paras.forEach(function (p) {
+      if (!on) { p.removeAttribute('contenteditable'); p.removeAttribute('spellcheck'); return; }
+      p.setAttribute('contenteditable', mode); if (p.contentEditable !== mode) p.setAttribute('contenteditable', 'true');
+      p.setAttribute('spellcheck', 'true');
+    });
+    if (on) { bar.hidden = true; activeMark = null; var s = window.getSelection(); if (s) s.removeAllRanges(); if (composerOpen()) closeComposer(false); }
+    else if (document.activeElement && document.activeElement.blur) document.activeElement.blur();
+    updateEditBar();
+  }
+  editToggle.addEventListener('click', function () { setEditMode(!editMode); });
+  eDone.addEventListener('click', function () { setEditMode(false); });
+  function paraOf(node) { var e = elOf(node); return e && e.closest && e.closest('[data-p]'); }
+  prose.addEventListener('focusin', function (e) {
+    var p = paraOf(e.target); if (!editMode || !p || !byPara[p.dataset.p]) return;
+    p._start = cleanMd(p);
+  });
+  prose.addEventListener('focusout', function (e) {
+    var p = paraOf(e.target); if (!editMode || !p || p._start == null) return;
+    commit(p);
+  });
+  prose.addEventListener('keydown', function (e) {
+    var p = paraOf(e.target); if (!editMode || !p || p._start == null) return;
+    if (e.key === 'Enter') { e.preventDefault(); p.blur(); }
+    else if (e.key === 'Escape') { e.preventDefault(); paint(p, p._start); p.blur(); }
+  });
+  prose.addEventListener('paste', function (e) {
+    var p = paraOf(e.target); if (!editMode || !p) return;
+    e.preventDefault();
+    var t = ((e.clipboardData || window.clipboardData).getData('text') || '').replace(/\s*\n\s*/g, ' ');
+    document.execCommand('insertText', false, t);
+  });
+  prose.addEventListener('beforeinput', function (e) {
+    if (editMode && (e.inputType === 'insertParagraph' || e.inputType === 'insertLineBreak')) e.preventDefault();
+  });
+  function openTextDoc(para) {
+    var found = null;
+    items.forEach(function (d) { if (d.kind === 'text' && d.para === para && d.status === 'submitted') found = d; });
+    return found;
+  }
+  function commit(p) {
+    var start = p._start; p._start = null;
+    var after = cleanMd(p); if (after === start) return;
+    if (!edits) { paint(p, start); return; }
+    if (!after) { paint(p, start); toast('A paragraph cannot be left empty here. Use Comment to ask Claude to cut it.'); return; }
+    if (after.length > 6000) { paint(p, start); toast('That paragraph is too long to save as one edit.'); return; }
+    var id = p.dataset.p, ch = chapterOf(p), now = Date.now(), open = openTextDoc(id);
+    p._cur = after;
+    var fail = function (e) {
+      paint(p, start);
+      toast(e && e.code === 'quota_exceeded' ? 'The queue is full. Resolve some items first.' : 'Could not save that edit. Your text was put back.');
+    };
+    if (open && after === open.before) {
+      edits.doc(open.id).delete().then(function () { toast('Edit undone.'); }).catch(fail);
+    } else if (open) {
+      edits.doc(open.id).update({ after: after, sent: false, updatedAt: now }).then(function () { toast('Edit saved.'); }).catch(fail);
+    } else {
+      var docId = 'e' + now.toString(36) + Math.random().toString(36).slice(2, 5);
+      edits.doc(docId).set({ kind: 'text', n: Number(ch ? ch.n : 0), title: ch ? ch.title : '', para: id, wrap: wrapOf(p), before: start, after: after, note: 'Direct edit', quote: '', status: 'submitted', createdAt: now, updatedAt: now, sent: false })
+        .then(function () { toast('Edit saved to the queue. Send to Claude when you are ready.'); }).catch(fail);
+    }
+  }
+  function applyOverlays() {
+    var docsBy = {};
+    items.forEach(function (d) { if (d.kind === 'text' && d.para && byPara[d.para]) (docsBy[d.para] = docsBy[d.para] || []).push(d); });
+    paras.forEach(function (p) {
+      if (document.activeElement === p) return;
+      var list = (docsBy[p.dataset.p] || []).slice().sort(function (a, b) { return (a.createdAt || 0) - (b.createdAt || 0); });
+      var cur = p.dataset.md, est = '';
+      list.forEach(function (d) { if (d.before === cur) { cur = d.after; est = d.status; } });
+      if (cur !== p._cur) paint(p, cur);
+      var has = cur !== p.dataset.md;
+      p.classList.toggle('has-edit', has);
+      if (has) p.setAttribute('data-est', est); else p.removeAttribute('data-est');
+    });
+  }
+  function unsentText() { return items.filter(function (d) { return d.kind === 'text' && d.status === 'submitted' && !d.sent; }); }
+  function updateEditBar() {
+    var n = unsentText().length;
+    eSend.disabled = n === 0 || !edits;
+    eSend.textContent = n ? 'Send ' + n + ' to Claude' : 'Send to Claude';
+    eHint.textContent = n ? n + ' saved change' + (n === 1 ? '' : 's') + ' not sent yet. Enter saves, Esc cancels.' : 'Click a paragraph. Enter saves, Esc cancels.';
+  }
+  eSend.addEventListener('click', function () {
+    var list = unsentText(); if (!list.length) return;
+    var chs = {}; list.forEach(function (d) { chs[d.n] = 1; });
+    var text = '[Queue] ' + list.length + ' direct text edit' + (list.length === 1 ? ' is' : 's are') + ' waiting to be applied (Ch ' + Object.keys(chs).join(', ') + '). Apply the wording exactly as written.';
+    var firstEl = byPara[list[0].para] || document.getElementById('intro');
+    eSend.disabled = true;
+    notify(text, firstEl).then(function (r) {
+      toast(r && r.ok ? 'Sent ' + list.length + ' edit' + (list.length === 1 ? '' : 's') + ' to Claude.' : notifyMsg(r));
+      if (r && r.ok) list.reduce(function (p, d) { return p.then(function () { return edits.doc(d.id).update({ sent: true, threadId: r.threadId }); }); }, Promise.resolve());
+      updateEditBar();
+    });
+  });
+
   /* ---------- queue ---------- */
   function write(id, fields, okMsg) {
     fields.updatedAt = Date.now();
     return edits.doc(id).update(fields).then(function () { if (okMsg) toast(okMsg); }).catch(function () { toast('Could not update that item. Try again.'); });
   }
   function jump(d) {
-    var target = null, q = (d.quote || '').slice(0, 40);
+    var target = null, q = (d.kind === 'text' ? plain(d.after) : (d.quote || '')).slice(0, 40);
     var ch = document.getElementById('ch' + d.n);
     if (ch && q) {
       var ps = ch.querySelectorAll('[data-p]');
@@ -570,12 +744,19 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
   function card(d) {
     var el = mk('article', 'q-item ' + d.status); el.dataset.id = d.id;
     var top = mk('div', 'q-top');
-    top.appendChild(mk('span', '', '#' + d.num + ' · Ch ' + d.n));
+    top.appendChild(mk('span', '', '#' + d.num + ' · Ch ' + d.n + (d.kind === 'text' ? ' · edit' : '')));
     top.appendChild(mk('span', 'pill-st', d.status === 'submitted' ? 'Submitted' : d.status === 'working' ? 'Working' : d.status === 'completed' ? 'Completed' : 'Resolved'));
     top.appendChild(mk('span', 'time', ago(d.updatedAt || d.createdAt)));
     el.appendChild(top);
-    if (d.quote) el.appendChild(mk('blockquote', 'q-quote', '“' + d.quote + '”'));
-    el.appendChild(mk('div', 'q-note', d.note || ''));
+    if (d.kind === 'text') {
+      var df = mk('div', 'q-diff');
+      var w1 = mk('div'); w1.appendChild(mk('span', 'lab', 'Was')); w1.appendChild(mk('div', 'was', plain(d.before)));
+      var w2 = mk('div'); w2.appendChild(mk('span', 'lab', 'Your edit')); w2.appendChild(mk('div', 'now', plain(d.after)));
+      df.appendChild(w1); df.appendChild(w2); el.appendChild(df);
+    } else {
+      if (d.quote) el.appendChild(mk('blockquote', 'q-quote', '“' + d.quote + '”'));
+      el.appendChild(mk('div', 'q-note', d.note || ''));
+    }
     if ((d.status === 'completed' || d.status === 'resolved') && d.claudeNote) {
       var c = mk('div', 'q-claude'); c.appendChild(mk('b', '', 'Claude')); c.appendChild(document.createTextNode(d.claudeNote)); el.appendChild(c);
     }
@@ -585,6 +766,7 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
     btn('Jump to text', 'jump');
     if (d.status === 'completed') btn('Resolve', 'resolve', 'resolve');
     if (d.status === 'submitted' || d.status === 'working') btn('Resolve', 'resolve');
+    if (d.kind === 'text' && d.status === 'submitted') btn('Discard', 'discard');
     if (d.status === 'completed' || d.status === 'resolved') btn('Reopen', 'reopen');
     el.appendChild(btns);
     return el;
@@ -613,6 +795,7 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
     resolvedBox.hidden = by.resolved.length === 0; document.getElementById('qResolvedN').textContent = String(by.resolved.length);
     var all = document.getElementById('qResolveAll'); all.disabled = by.completed.length === 0;
     if (!resolveArmed) all.textContent = by.completed.length ? 'Resolve all completed (' + by.completed.length + ')' : 'Resolve all completed';
+    applyOverlays(); updateEditBar();
     ['edBadge', 'menuDot'].forEach(function (id) { var b = document.getElementById(id); b.textContent = String(open); b.hidden = open === 0; });
   }
   document.getElementById('panelEd').addEventListener('click', function (e) {
@@ -620,11 +803,12 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
     var d = items.filter(function (x) { return x.id === b.dataset.id; })[0]; if (!d) return;
     var act = b.dataset.action;
     if (act === 'jump') jump(d);
+    else if (act === 'discard') { edits.doc(d.id).delete().then(function () { toast('Edit discarded.'); }).catch(function () { toast('Could not discard that edit. Try again.'); }); }
     else if (act === 'resolve') write(d.id, { status: 'resolved' }, 'Resolved.');
     else if (act === 'reopen') {
       write(d.id, { status: 'submitted' }).then(function () {
         var el = prose.querySelector('[data-p="' + d.para + '"]') || document.getElementById('intro');
-        notify('[Queue] Reopened Ch ' + d.n + ': “' + (d.quote || '').slice(0, 160) + '”. Please look again. Original comment: ' + (d.note || '').slice(0, 500), el).then(function (r) { toast('Reopened. ' + notifyMsg(r)); });
+        notify('[Queue] Reopened Ch ' + d.n + ': “' + (d.kind === 'text' ? plain(d.after) : (d.quote || '')).slice(0, 160) + '”. Please look again. Original ' + (d.kind === 'text' ? 'direct edit' : 'comment') + ': ' + (d.kind === 'text' ? '' : (d.note || '')).slice(0, 500), el).then(function (r) { toast('Reopened. ' + notifyMsg(r)); });
       });
     }
   });
@@ -657,7 +841,7 @@ mark.hl.on-slide { color: #14181c; background: #ffe666; }
     window.claude.use('db').then(function (d) {
       db = d || null;
       if (!db) { unavailableQueue(); return; }
-      edits = db.collection('edits');
+      edits = db.collection('edits'); editToggle.hidden = false;
       edits.orderBy('createdAt').onSnapshot(function (snap) {
         items = snap.docs.map(function (s) { var x = s.data() || {}; x.id = s.id; return x; });
         render();
