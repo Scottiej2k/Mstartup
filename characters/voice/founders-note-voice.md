@@ -36,9 +36,12 @@ get a wry, warm, surprisingly honest essay about starting things and staying.
    correction. He's teaching by confessing, not by pronouncing.
 4. **Is plain about the principle.** He can say "ask the person who isn't buying"
    in ordinary words. The cleverness goes into the turn, not the principle.
-5. **Trusts the reader with the twin.** In roughly half the Notes he states the
-   relationship parallel; in the other half he stops just short, or says "I'll
-   spare you."
+5. **Trusts the reader with the twin. Mostly implicit.** **DECIDED:** Nate rarely
+   states the relationship parallel outright; roughly one Note in four does
+   (Ch 12 and Ch 16 are the deliberate exceptions). Otherwise he leaves it
+   unsaid, half-says it, or says "I'll spare you." The reader connects the
+   dots, which is what makes the Notes feel like Nate's confessions rather
+   than a business book's lessons.
 6. **Sounds like Nate.** Dry, specific, self-deprecating, with numbers and
    the occasional aside. Jokes thin out as the book goes on, but a Note is never
    humorless.
@@ -170,9 +173,8 @@ Maya told me about the people the pharmacy never hears from. I didn't know I'd
 been handed a company. I only knew that for four minutes nobody in that ballroom
 was performing, and I wanted to stay in it.
 
-It took me a while to notice that the same rule applies to people. You don't
-fall for the idea of someone. You fall for the specific, inconvenient thing they
-tell you when you've stopped pitching.
+I've thought since about what I'd have missed if I'd had a better pitch. It's
+a short list. It has one item on it.
 ---
 
 ### Ch 4, "The best feedback comes from someone who isn't buying" (The Slide, playful)
@@ -217,8 +219,8 @@ She said, quite clearly, that she was not in it. It was the first useful piece o
 feedback I'd received in a month, and I nearly missed it because it arrived as a
 joke.
 
-I'd like to say I changed that afternoon. I changed about forty percent. I
-still use the funnel when I'm nervous. Ask Priya.
+I'd like to say I changed that afternoon. I changed about forty percent. Maya would say
+thirty. I still use the funnel when I'm nervous. Ask Priya.
 ---
 
 ### Ch 6, "Ship the ugly version" (The Confession, warm)
@@ -282,7 +284,7 @@ quarters. "I wasn't angry about the customer," she said. "I was angry that he
 thought I couldn't handle it." She funded him again the next year. She said it
 took a while.
 
-I've thought about that a lot in the context of who I let close. There are people
+I've thought about that a lot since. There are people
 who are wonderful when I win. There are a much smaller number who would
 still pick up the phone on the worst day and say the truest and least useful
 thing: *I'm here.*
@@ -302,8 +304,8 @@ I couldn't have told you how many months of patience Maya had. Or mine. Or my
 parents', or Ray's, or Kyle's. You'd think a person who tracks one number so
 carefully would think to wonder about the others.
 
-Emotional runway isn't a metaphor I love, and Maya has asked me to stop using
-it. But it's accurate. Everybody starts with some. It's replenished by ordinary
+Emotional runway isn't a metaphor I love. Maya says it's a very Nate way of
+saying you're tired. I'm not sure she was kidding. But it's accurate. Everybody starts with some. It's replenished by ordinary
 things, a walk, a meal that isn't at your desk, a night nobody needs anything from
 you, and drained by the things founders do best: being nearly there.
 
@@ -427,20 +429,41 @@ Nate who wrote the Ch 1 Note,* changed by everything in between.
 
 ---
 
-## 8. Optional device: Maya in the margin
-Since Nate is telling this from just after the reveal, and Maya has read the draft,
-she could occasionally answer a Note in a single line, in the margin.
+## 8. Maya's voice inside the Notes (DECIDED)
+Maya doesn't write in the margin. Her voice enters the Notes as **reported speech
+inside Nate's own text**, so the Notes stay purely his, while she still gets the
+last word now and then.
 
-Example, after the Ch 5 Note:
-> *[Maya, in the margin: "I said the funnel thing. You're welcome for the
-> material."]*
+### Patterns
+- **"Maya would say..."** for what she'd say about the point, often gently
+  correcting him.
+  > I changed about forty percent. Maya would say thirty.
+- **"Maya says X. I'm not sure she was kidding."**
+  > Maya says it's a very Nate way of saying you're tired. I'm not sure she was
+  > kidding.
+- **"When I read her this paragraph, she..."** used once or twice, as a small,
+  telling moment.
+- **Her exact words, once, with no comment,** in a late Note. No joke, no
+  reaction from Nate.
 
-Pros: humor, warmth, a second voice, and it proves she's a full partner in the
-book. Cons: it changes the book's form (she becomes a co-author of sorts), and
-overused it undercuts the Notes' seriousness.
+### Rules
+- Four to six uses across the book, so she's an occasional presence and not a
+  running gag.
+- Her line is always specific and in her own register (dry, precise). Never a
+  soundbite.
+- **Never** in a Short Note or the Refusal (Ch 19).
+- One late use should not be funny, and Nate should not react to it.
+- The line should surprise the Note the way Maya surprises Nate: from the side.
 
-If used: rarely (four to six times), never on a Refusal or a Short One, and one
-late margin note that isn't funny.
+### Where it lands (provisional)
+| Ch | Use |
+|---|---|
+| 5 | "Maya would say thirty." |
+| 12 | "I'm not sure she was kidding." |
+| 14 | Something she says about the dashboard, one line |
+| 21 | "That's a very Nate way to put it." / "she says I'd turn it into a checklist" |
+| 22 | Her exact words, no joke (the late, unfunny one) |
+| 23 | A wedding-week aside, possibly including a Tamil word he can't say right |
 
 ## 9. Anti-sample: the Note we must never write
 ---
@@ -458,12 +481,15 @@ cost, no turn, no Nate. The cliches ("communication is key," "foundation," "trus
 are exactly what we've banned. The Note we want says half as many words and
 contains a pharmacy, a cup of water, and a joke that hurts.
 
-## 10. Questions for Scott
-1. **The principle line:** should it be a fixed part of the format (early
-   Notes) and then fade, as drafted, or appear in every Note?
-2. **Maya's marginal notes:** keep as an occasional device, or leave them out?
-3. **How explicit is the parallel?** Ch 1 states it directly ("the same rule applies
-   to people"); Ch 4 says "I'll spare you." Is roughly half and half right?
-4. **Length:** 120-250 words for most Notes, with a few very short. Good?
-5. **The Refusal (Ch 19):** is it right that one Note refuses to have a principle?
-6. **The Ch 24 Note:** shall we hold it until the manuscript exists?
+## 10. Decisions (2026-09-29)
+- **Principle line:** early Notes only, then it fades. Ch 19 has none.
+- **Maya's voice:** reported speech inside the Note ("Maya would say...",
+  "I'm not sure she was kidding"), four to six times, not margin comments.
+- **Parallel:** mostly implicit. About one Note in four states the twin outright.
+- **Length:** 120-250 words, with a few very short.
+- **Ch 24 Note:** reserved until the manuscript exists.
+
+## 11. Still open
+1. The Ch 19 Refusal: keep exactly as drafted, or soften?
+2. Should any Note ever be in a different voice (a letter to Maya, a memo to Priya)?
+   The current forms are all Nate addressing the reader.
