@@ -5,11 +5,11 @@ I waited ninety minutes, which I'd like noted is forty-six and a half hours shor
 
 The industry standard was Kyle's.
 
-"Forty-eight hours," he said. It was 7:20 the next morning and he was at the counter with the mixing bowl. "A text is a term sheet. Whoever waits longer has leverage."
+"Forty-eight hours," he said. It was 7:20 the next morning and he was at the counter with the mixing bowl. "A text is a commitment, like a contract negotiation. Whoever waits longer has leverage."
 
 "It's a text."
 
-"Everything is a term sheet, man."
+"Everything is a negotiation, man."
 
 "Have you ever had leverage?"
 

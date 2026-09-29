@@ -41,13 +41,13 @@ Cole had raised eighteen million dollars at twenty-six and wore it lightly, the 
 
 "Healthcare. Something."
 
-"Love that. Keep it loose. Optionality, man." He said it the way other people say *God bless.* "Don't lock into anything until you have to. I've had three term sheets since March and I haven't signed one, on purpose. Stay liquid."
+"Love that. Keep it loose. Optionality, man." He said it the way other people say *God bless.* "Don't lock into anything until you have to. I've had three offers since March and I haven't signed one, on purpose. Stay liquid."
 
 "How's that going?"
 
 "Amazing," said Cole, and checked over my shoulder for someone better, and found them. "I'm on at quarter past. Catch you after!"
 
-(A term sheet is an investor's offer letter. Cole collected them the way other people collect airline miles: for the feeling, not the trip.)
+(Cole collected investor offers the way other people collect airline miles: for the feeling, not the trip.)
 
 He did not catch me after. I don't think he'd meant to. I stood there with my green sticker and my water and the distinct feeling of having been complimented in a language I didn't speak.
 
