@@ -19,3 +19,7 @@
 | 2026-09-29 | **Names:** mostly fictional companies/programs; real places OK | APPROVED |
 | 2026-09-29 | **Period:** contemporary, lightly dated | APPROVED |
 | 2026-09-29 | **Process:** Claude drafts chapters, Scott edits and approves | APPROVED |
+| 2026-09-29 | **Pharmacy as customer:** Nate is tempted to treat the Raman pharmacy as a sales lead; Maya shuts it down. This feeds her later "you treat me like a project" moment | APPROVED |
+| 2026-09-29 | **Kyle arc:** Nate and Kyle fall out over Kyle's defeatist attitude and unsolicited advice. The fight prompts a too-early conversation about moving in with Maya; she wants to but isn't sure she's ready. They decide together and sign a lease. Nate and Kyle repair the friendship before move day. Kyle grows, stays a recurring character, still makes badly timed jokes but with less judgment and fewer unsolicited opinions | APPROVED |
+| 2026-09-29 | **Chapter 1** opens straight in the mixer (light retrospective voice, no separate frame) | APPROVED |
+| 2026-09-29 | **Next step:** keep refining the bible before drafting prose | APPROVED |

@@ -16,7 +16,9 @@
   person feel replaceable.
 - **The roommate (Kyle, placeholder):** underperforming startup employee, complains
   rather than problem-solves, offers bad advice ("Don't lock in yet, you're
-  a founder"). Not malicious, just stuck. Nate slowly stops taking his advice.
+  a founder"). Not malicious, just stuck. After a falling-out and repair (ch. 11),
+  Kyle grows and stays a recurring character: still badly timed jokes, far less
+  judgment and unsolicited advice.
 - **VCs:** their expectations pull on Nate's time and identity.
 - **Cole (rival founder):** the foil, the version Nate could become.
 
@@ -30,13 +32,13 @@
 ### Part 2: Discovery
 5. Asking Better Questions (customer interviews vs. dates)
 6. The Ugly Prototype
-7. Meeting Maya's Parents (the pharmacy counter)
+7. Meeting Maya's Parents (the pharmacy counter; Nate is tempted to see it as a sales lead, and Maya shuts it down)
 8. The First Fight, and the Decision to Commit (both choose, deliberately)
 
 ### Part 3: Commitment
 9. First Paying Customer
 10. Term Sheets (VCs to please)
-11. A Drawer In My Apartment (moving in)
+11. The Lease (Nate and Kyle fall out; the fight prompts a too-early move-in talk; Maya wants to but isn't sure she's ready; they decide together and sign; Kyle and Nate repair before move day)
 12. Runway
 
 ### Part 4: Growth
