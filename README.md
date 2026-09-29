@@ -32,7 +32,7 @@ company and building a marriage.
 | `style-guide.md` | Voice, tone, rules for the narrator and the reflections |
 | `open-questions.md` | What we need Scott to decide |
 | `decisions.md` | Running log of locked decisions |
-| `chapters/` | (empty for now) drafted chapters |
+| `chapters/` | Drafted chapters (Ch 1 drafted, awaiting review) |
 
 ## Status
 

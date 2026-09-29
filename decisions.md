@@ -47,3 +47,4 @@
 | 2026-09-29 | **Founder's Note:** short (120-250 words, a few very short), set apart; principle title line on early Notes only, fading; Ch 19 Note refuses to have a principle; Ch 24 Note reserved | APPROVED |
 | 2026-09-29 | **Founder's Note parallel:** mostly implicit; about one in four states the startup-to-marriage twin outright | APPROVED (Scott's direction) |
 | 2026-09-29 | **Maya in the Notes:** her voice appears as reported speech within Nate's text ("Maya would say...", "I'm not sure she was kidding"), roughly four to six times; no margin comments | APPROVED (Scott's direction) |
+| 2026-09-29 | **Chapter 1 drafted (v1)** in `chapters/01-the-room-nobody-wanted-to-be-in.md`; awaiting Scott's edits | DRAFT |
