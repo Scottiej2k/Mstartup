@@ -5,7 +5,7 @@ that runs Raman Family Pharmacy in Fremont.
 
 ## The family she came from
 - **Suresh Raman (father), ~62.** Pharmacist. Came to the US from Chennai in his
-  20s for his pharmacy degree. Worked for a chain for 11 years, hated the
+  20s for his pharmacy degree. Worked for a chain for 17 years, hated the
   metrics, saved and opened Raman Family Pharmacy when Maya was 6.
 - **Lakshmi Raman (mother), ~59.** Runs the front of the store, the books and
   every customer's business. Knows whose husband is sick and whose son didn't get

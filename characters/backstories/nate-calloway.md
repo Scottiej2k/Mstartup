@@ -5,7 +5,7 @@ Age 28 at open. Founder/CEO of Loopback.health. Narrator.
 ## The family he came from
 - **Dayton, Ohio.** Only child (proposed; see questions). Modest brick ranch on a
   street where everyone mowed on Saturday.
-- **Dan Calloway (father), now ~60.** Facilities manager for a regional hospital
+- **Dan Calloway (father), now 61.** Facilities manager for a regional hospital
   system. He fixes things before anyone knows they're broken. Never late, never
   says "I love you." Says "Text me when you get there."
 - **Carol Calloway (mother), now ~58.** Dental office scheduler for 30 years. She
@@ -25,7 +25,7 @@ Age 28 at open. Founder/CEO of Loopback.health. Narrator.
 3. **Age 15, the science fair.** He built a pill-organizer prototype for
    his grandmother, a cheap reminder box. It won regionally. (Quiet seed for the
    healthcare startup, which Nate has half forgotten.)
-4. **Age 17, Uncle Ray's visit.** Ray flew in for a funeral and spent an evening
+4. **Age 17, Uncle Ray's visit.** Ray flew in for Grandpa Walt's funeral and spent an evening
    asking Nate what he wanted to build. Nobody had asked him a question like
    that. Ray told him, "Wanting to build something is not the same as wanting
    to leave. But you might need to leave to find out."
