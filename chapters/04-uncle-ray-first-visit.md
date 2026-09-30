@@ -91,7 +91,7 @@ I would like it noted that I changed pronouns mid-sentence, like a man swapping 
 
 "How's the new thing been, so far?"
 
-I thought about it. It took longer than I liked. Loopback, at that point, had a name, fourteen interviews, a co-founder on a ninety-day trial that started on October first, a week away, and a short list of people who'd said "love it" when I described the idea, among them Cole, Kyle's dentist, and a man at Priya's gym. Nobody had been asked to pay for anything. "People say they love it," I said. "It's been nice."
+I thought about it. It took longer than I liked. Loopback, at that point, had a name, fourteen interviews, a co-founder on a ninety-day trial that started on October first, six days away, and a short list of people who'd said "love it" when I described the idea, among them Cole, Kyle's dentist, and a man at Priya's gym. Nobody had been asked to pay for anything. "People say they love it," I said. "It's been nice."
 
 "Nice." He said it the way you'd say the name of a town you'd driven through. "Has anyone paid you yet?"
 

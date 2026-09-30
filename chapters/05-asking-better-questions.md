@@ -1,11 +1,13 @@
 # Chapter 5
 ## Asking Better Questions
 
-On day six of Priya's ninety, I asked a practice manager in Redwood City nine questions and learned nothing, and I wrote it down as a success.
+On day six of Priya's ninety, I asked an office manager in Redwood City six questions and learned nothing, and I wrote it down as a success.
+
+(The first fourteen interviews, back in September, had been the good kind. Then the idea got a name, and it turns out a name makes you want to sell it.)
 
 I want to explain how I got there, because it started well.
 
-Priya had started the ninety days the way she starts everything, which is with a rule and a whiteboard. On October first, at 8:55 in the morning, she wrote **DAY 1 / 90** in the corner of the wall in her small capitals, and under it three columns of her own design. *Asks. Listens. Ships.* Under each she drew a box. The boxes were empty.
+Priya had started the ninety days the way she starts everything, which is with a rule and a whiteboard. On October first, at 8:55 in the morning, she wrote **DAY 1 / 90** in the corner of the wall in her small capitals, and under it three columns of her own design. *Asks. Listens. Ships.* (*Asks* meant questions, not money. I checked.) Under each she drew a box. The boxes were empty.
 
 "What are those?" I said.
 
@@ -33,7 +35,7 @@ There was a pause of about fifteen minutes, which I spent rearranging a desk tha
 
 **Observer. Unpaid. Unquoted. What time.**
 
-So on a Wednesday at two o'clock, Maya Raman sat on a folding chair against the back wall of a second-floor office in Redwood City, in her navy coat, buttoned, holding a paper cup of water in both hands the way you hold one when you've been told to watch and not speak. I recognized it from the inside. She saw me recognize it and lifted the cup an inch, without expression.
+So on a Wednesday at two o'clock, Maya Raman sat on a folding chair against the back wall of a second-floor office in Redwood City, in her navy coat, unbuttoned, holding a paper cup of water in both hands the way you hold one when you've been told to watch and not speak. I recognized it from the inside. She saw me recognize it and lifted the cup an inch, without expression.
 
 The office belonged to Bayside Family Medicine, four doctors in a building shared with a dentist and a notary, and the woman across the table was Rosalind Tran, who ran the front desk and the billing. She had a mug that said WORLD'S OKAYEST OFFICE MANAGER and the warm, practiced patience of someone who has been pitched by all of us.
 
@@ -65,7 +67,7 @@ I wrote *validated* in my notes, and underlined it.
 
 "Free is great," said Rosalind.
 
-I'd like to be clear about how this felt from the inside. It felt like the best interview of my life. Every answer was a yes, each yes got a new word in my notes, and by the seventh one I'd started to lean forward, like a man in a hot tub of agreement. I had a column. The column said *validated* down the whole page.
+I'd like to be clear about how this felt from the inside. It felt like the best interview of my life. Every answer was a yes, each yes got a new word in my notes, and by the fourth one I'd started to lean forward, like a man in a hot tub of agreement. I had a column. The column said *validated* down the whole page.
 
 Beside me, Priya had taken a sticky note from her bag and was writing something on it with the tiny, decisive letters she uses to label wires. She slid it across the table, under the edge of my notebook.
 
@@ -73,7 +75,7 @@ Beside me, Priya had taken a sticky note from her bag and was writing something 
 
 I looked down. It said **STOP.**
 
-I didn't. I'd like the record to show that I understood it, and asked a ninth question, which was whether Rosalind would be open to a trial. She said she'd have to ask the doctors. She said it kindly, and with an expression I've since learned to recognize: the face of someone handing you a door so you'll leave through it.
+I didn't. I'd like the record to show that I understood it, and asked a sixth question, which was whether Rosalind would be open to a trial. She said she'd have to ask the doctors. She said it kindly, and with an expression I've since learned to recognize: the face of someone handing you a door so you'll leave through it.
 
 At the back wall, the water cup hadn't moved. Maya's eyes had gone to the floor, and stayed there, the way you look at a spot on a carpet when you're being very polite about a funeral.
 
@@ -81,19 +83,19 @@ At the back wall, the water cup hadn't moved. Maya's eyes had gone to the floor,
 
 Priya drives a gray hatchback with a box of tissues in the cup holder and a rule that nobody talks for the first two minutes after an interview. We spent them on Woodside Road. I counted the lane markers. I got to fifty-one.
 
-"Nine questions," I said, finally. "Seven of them started with *wouldn't.*"
+"Six questions," I said, finally. "Four of them started with *wouldn't* or *and if.*"
 
-"Eight," said Priya.
+"Five," said Priya.
 
-"Eight?"
+"Five?"
 
-"You said 'wouldn't it' twice in the same breath. I count breaths."
+"The trial wasn't a question either. I count breaths."
 
 "May I?" said Maya, from the back seat.
 
 Priya looked in the mirror. "Please."
 
-"I'm not consulting." Maya had her hands folded on her knees. "I'm in a car. Anyone can say things in a car." She paused. "She said yes nine times, and I couldn't tell you one thing about her Tuesday."
+"I'm not consulting." Maya had her hands folded on her knees. "I'm in a car. Anyone can say things in a car." She paused. "She said yes four times, and I couldn't tell you one thing about her Tuesday."
 
 "She said it'd be great."
 
@@ -109,7 +111,7 @@ Priya looked in the mirror. "Please."
 
 "What should I have asked?"
 
-Maya thought about it. She actually thought about it, which I was still, three months in, unable to get used to. "Ask about the last time it happened," she said. "Not what she'd want. What she did. People will tell you anything about what they'd want. They can't lie about last Tuesday."
+Maya thought about it. She actually thought about it, which I was still, ten weeks in, unable to get used to. "Priya tells me you did this well for fourteen interviews. Then you got a name." She shrugged. "Go back. Ask about the last time it happened," she said. "Not what she'd want. What she did. People will tell you anything about what they'd want. They can't lie about last Tuesday."
 
 I took out my phone.
 
@@ -131,11 +133,11 @@ I put the phone away.
 
 "I know what." She smiled, small and brief, and put it away. "I'm observing. It's a very different form."
 
-At the light on El Camino, Priya glanced over. "Day six," she said, in her level voice. "That's one data point."
+At the light on El Camino, Priya glanced over. "Day six," she said, in her level voice. "Four yeses is one data point. This afternoon is another."
 
-"It's a data point."
+"Understood."
 
-"It's a data point," said Priya, "that I'd like you to remember when you're writing *validated.*"
+"I'd like you to remember both," said Priya, "the next time you write *validated.*"
 
 ---
 
@@ -165,7 +167,7 @@ I didn't say anything. I'd been about to say something funny.
 
 "Yeah." He picked the spoon back up. "Yeah, it's that."
 
-I'd known Kyle for years, and I had thought his entire working life was mixing bowl. I hadn't known he had a last Tuesday. I went to my room and, for the first time that week, wrote nothing in a notebook, so I'd stop having to hear it.
+I'd known Kyle for years, and I had thought his entire life was mixing bowl. I hadn't known he had a last Tuesday. I went to my room and, for the first time that week, wrote nothing in a notebook, so I wouldn't stop hearing it.
 
 ---
 
@@ -205,15 +207,17 @@ He smiled, for the first time, and went to help a customer who wanted to know wh
 
 In the parking lot, Priya unlocked the car and stood there with the door open.
 
-"That's the first real one," she said.
+"That's the first one where you shut up," she said.
 
-"Real what?"
+"Is that good?"
 
-"Interview." She got in. She started the car. She said, to the steering wheel, "Day twelve." It was a few blocks before I understood that she was writing it down somewhere, in her head, with the dates.
+"It's a data point." She got in. She started the car. She said, to the steering wheel, "Day twelve." It was a few blocks before I understood that she was writing it down somewhere, in her head, with the dates.
+
+I called Maya from the curb and told her the outline: the woman, the bag, *he's resting.* I didn't tell her what I thought we should do about it. I wasn't sure yet that I'd stopped wanting to.
 
 ---
 
-That Friday I took Maya to a taqueria in the Mission, a place with seven stools and a radio, where the tortillas were made in a machine that had been making them since before either of us was a person. I told her about Ruben. I told her the whole thing, including the part where I'd counted to ten and nearly died.
+That Friday I took Maya to a taqueria in the Mission, a place with seven stools and a radio, where the tortillas were made in a machine that had been making them since before either of us was a person. She'd had the outline on the phone on Tuesday. I gave her the rest, including the part where I'd counted to ten and nearly died.
 
 She listened the way she does, which is with her whole face turned a few degrees away from yours, as if she could hear better that way. Then she put down her taco.
 
@@ -223,11 +227,11 @@ She listened the way she does, which is with her whole face turned a few degrees
 
 "Why do you ask so many questions?"
 
-"It's customer discovery," I said, and heard it a second too late, and kept going, because I'm an engineer. "Dating, I mean. It's a lot of interviews. You're trying to learn what the person actually needs. It's basically a funnel."
+"It's customer discovery," I said, and heard it a second too late, and kept going, because I'm an engineer by degree and a salesman by panic. "Dating, I mean. It's a lot of interviews. You're trying to learn what the person actually needs. It's basically a funnel."
 
 (A funnel is how a salesperson draws the path from stranger to customer: a wide top where everyone comes in and a narrow bottom where somebody pays.)
 
-Maya put down her fork.
+Maya put down her napkin.
 
 "Please don't."
 
@@ -251,15 +255,15 @@ She looked at me for a long moment. Then she laughed, not the polite laugh, the 
 
 "I don't have one," I agreed, and abandoned the funnel in that same breath. (I did not. I used it again in March.)
 
-She wiped her eyes with a napkin, carefully, like someone cleaning a lens. The laughing had worked something loose. "No, really," she said. "Why? You ask everyone everything. You asked a pharmacist what he did last Tuesday, and the man practically cried. You asked me about my mother's list in the first ten minutes. And then you did a thing tonight I've only seen you do once."
+She wiped her eyes with a napkin, carefully, like someone cleaning a lens. The laughing had worked something loose. "No, really," she said. "Why? You ask everyone everything. You asked a pharmacist what he did last Tuesday, and the man practically cried. You got me to tell you about my mother's list in the first ten minutes. And then you did something on Tuesday I'd only seen you do once before."
 
 "What thing?"
 
-"You stayed." She said it plainly. "Usually you ask the question, and somewhere around the answer you start to fix it. Tonight you let Ruben finish." She picked the taco back up. "I watched you do it, on the phone, when you told me. Your voice went down. You never do that."
+"You stayed." She said it plainly. "Usually you ask the question, and somewhere around the answer you start to fix it. On Tuesday you called me from a parking lot and told me what Ruben said, and you didn't tell me what to do about it." She picked the taco back up. "Your voice went down. It doesn't do that."
 
 I hadn't known that. I didn't know what to do with it, so I told her the true thing, which is the thing I do when I'm cornered.
 
-"Where I grew up," I said, "nobody asked anybody anything. My dad and I once spent four hours fixing a dishwasher, and the only full sentence was *hand me the flat one.* It was the best day of the month." I turned my napkin over. "I think I learned questions from a book about sales. It was the only place I found anyone asking."
+"Where I grew up," I said, "nobody asked anybody anything. My dad and I once spent four hours fixing a dishwasher, and the only full sentence was *hand me the flat one.* It was the best day of the month." I turned my napkin over. "I think I learned questions from a book about sales, and then from Ray, who's the only person who ever asked back."
 
 Maya didn't say anything. Under the counter, her knee had come to rest against mine, where it had not been a minute earlier, and I did what I always do: I noticed it, and I left it alone. It was, I want to report, extremely difficult.
 
@@ -271,7 +275,7 @@ Maya didn't say anything. Under the counter, her knee had come to rest against m
 
 "A person with a cup."
 
-"She wrote it on the list." Maya turned her taco a quarter turn, which I would only later realize I'd seen before, on a fence post. "It says *Nate. Cup.* with a question mark. She'd like to meet the cup. I said not yet."
+"She wrote it on the list, the receipt roll, next to the people she's supposed to call." Maya turned her taco a quarter turn, which I would only later realize I'd seen before, on a fence post. "It says *Nate. Cup.* with a question mark. She'd like to meet the cup. I said not yet."
 
 "Not yet," I said, and made a great effort to sound like a man writing nothing down.
 
@@ -295,7 +299,7 @@ She looked at the ceiling. There was a long silence. The tortilla machine hummed
 
 I started to say *the interview with Ruben,* and heard how it would sound, at a table with her across it.
 
-"Now," I said. "Is that allowed?"
+"Now," I said, and looked at the table. "Is that allowed?"
 
 "It's a cheat," said Maya.
 
@@ -316,4 +320,4 @@ I did it to Maya, too, at a taqueria, in the form of a funnel. She didn't say ye
 
 The other kind of question has a smaller shape. *Tell me about the last time.* Then you wait. The silence isn't the tool's failure. It's the tool.
 
-I'd like to say I changed that afternoon. I changed about forty percent. Maya would say thirty. I still use the funnel when I'm nervous. Ask Priya.
+I'd like to say I changed that week. I changed about forty percent. Maya would say thirty. I still use the funnel when I'm nervous. Ask Priya, who keeps a list of the times.

@@ -255,7 +255,7 @@ It took fourteen interviews, one bad sandwich, and a great deal of dumpling. I'd
 
 ---
 
-I wrote to Cole that Monday, the last one in September. It took three drafts, which for me is a personal best. The first thanked him at length. The second had a footnote. The third said: *Thank you. No. We're going to build it ourselves.* I sent it before I could add anything, and I felt the day tilt, slightly, toward the thing I'd chosen.
+I wrote to Cole that Monday, the third one in September. It took three drafts, which for me is a personal best. The first thanked him at length. The second had a footnote. The third said: *Thank you. No. We're going to build it ourselves.* I sent it before I could add anything, and I felt the day tilt, slightly, toward the thing I'd chosen.
 
 Priya was already at her desk under the fish sign, headphones around her neck, which means available. I told her everything: the rooftop, the title, the third more, *let me think about it,* and that I had thought about it, and said no, and wanted her to know I'd felt the pull.
 
