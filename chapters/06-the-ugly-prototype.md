@@ -149,7 +149,7 @@ That was the whole message.
 
 I showed her.
 
-"That's not a yes," said Priya, and peeled the clementine, and looked at the parking meter too.
+"That's not *okay,*" said Priya. "That's a period." She peeled the clementine, and looked at the parking meter too.
 
 We fixed the bug at 2:15 in the morning. It had been a typo in a number field, one character, the kind of mistake that's invisible to the person who made it and obvious to everyone else. I'd like to say I felt triumph. What I felt was the flat, enormous quiet of a room where a thing has finally stopped being broken, and there's nothing in it to say.
 
