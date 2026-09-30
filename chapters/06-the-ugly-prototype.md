@@ -149,11 +149,11 @@ That was the whole message.
 
 I showed her.
 
-"That's not *okay,*" said Priya. "That's a period." She peeled the clementine, and looked at the parking meter too.
+"Okay with a period," said Priya. "Sorry for whatever you have to go through to fix that one." She peeled the clementine, and looked at the parking meter too.
 
-It wasn't a bug. Priya had worked that out by noon, from the error logs: the cloud account had been suspended. The month's prepaid credits had run out, the card on file had expired in August, and the billing notice was sitting in an inbox I hadn't opened since the ninth. I was the one who'd said *I'll handle the bill.* The AI that had written most of our code in an afternoon could not have caught it, because there was nothing wrong with the code. The code was fine. It was just running on a computer we'd stopped paying for.
+I haven't said what broke, because I didn't want to. It wasn't a bug. Priya had worked that out by noon, from the error logs: the cloud account had been suspended. The month's prepaid credits, which work like a phone card for computers, had run out. The card on file was the dead company's, and it had expired in August, and the billing notice had gone to an old company inbox I hadn't opened since the ninth. The day Priya opened the account she'd asked who would watch the billing, and I'd said *I'll handle it,* in the voice of a man volunteering for the only job he couldn't fail. The code was fine. It was just running on a computer we'd stopped paying for.
 
-That is the kind of mistake that's invisible to the person who made it and obvious to everyone else. It took a new card, a support ticket, a fraud review on a payment of three hundred and twelve dollars, and a human being in a time zone where it was already Sunday, and it was 2:15 in the morning before the account came back and our database came up after it, every row intact. I'd like to say I felt triumph. What I felt was the flat, enormous quiet of a room where a thing has finally stopped being broken, and there's nothing in it to say.
+That is the kind of mistake that's invisible to the person who made it and obvious to everyone else. It took a new card, a support ticket, and a fraud review on a payment of three hundred and twelve dollars, which ended in a phone call to the cardholder. The cardholder was me. They said they'd call sometime that day or night, and that if I missed it we'd go to the back of the queue until Monday, so I couldn't leave the curb. The call came at 1:40 in the morning, from a man named Dennis who wanted my mother's maiden name, and at 2:15 the account came back and our database came up after it, every row intact. I'd like to say I felt triumph. What I felt was the flat, enormous quiet of a room where a thing has finally stopped being broken, and there's nothing in it to say.
 
 ---
 
@@ -211,7 +211,7 @@ I hadn't known I was going to say it until I said it. "I can't— I don't have t
 
 "The good version of what?"
 
-"The apology." The bag crackled. "I've been writing it since nine. There's six drafts. I can't get it right, and I've just decided that I'm not going to, because I've spent my whole life waiting until I have the right one, and the right one always arrives on Tuesday." I looked at her through the four inches. "So this is the ugly version. I'm sorry. I picked the thing that was on fire over the person I'd promised, and I've done it my whole life, and it's a bad reason. I should've been at the dinner. I should've called at eleven, when it broke, instead of five-forty. I brought the wrong wine. I didn't ask you what you drink."
+"The apology." The bag crackled. "I've been writing it since nine. There's six drafts. I can't get it right, and I've just decided that I'm not going to, because I've spent my whole life waiting until I have the right one, and the right one always arrives on Tuesday." I looked at her through the four inches. "So this is the ugly version. I'm sorry. I picked the thing that was on fire, which I'd started, over the person I'd promised, and I've done it my whole life, and it's a bad reason. I should've been at the dinner. I should've called at eleven, when it broke, instead of five-forty. I brought the wrong wine. I didn't ask you what you drink."
 
 The door didn't move.
 
@@ -308,6 +308,6 @@ I thought about it. I'd slept on her couch under her blanket and there was a cha
 
 A minimum viable product, which is what founders call the first version, is the ugliest thing that still does its job. The idea is that you learn more from one real person using a bad version than from a month of polishing a good one in private. It's the most repeated piece of advice in my business, and I'd have told you I believed it.
 
-The first version of Loopback crashed twice in front of Dr. Okafor, the one person whose opinion we'd needed. It was the best thing that could have happened to us. She didn't need it to work. She needed it to ask.
+The first version of Loopback failed twice in front of Dr. Okafor, the one person whose opinion we'd needed. It was the best thing that could have happened to us. She didn't need it to work. She needed it to ask.
 
 I did the same thing with an apology, on a doorstep, in the dark, with the wrong wine. It was the only version I had. It worked. Once. I've spent a lot of time since then wondering why I'd believed it about software and never about a person.
