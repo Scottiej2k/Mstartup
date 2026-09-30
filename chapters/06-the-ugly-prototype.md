@@ -193,7 +193,7 @@ Maya lives on the fourth floor of a building in Glen Park, on a street so steep 
 
 She buzzed me in without a word. I took that as a good sign for about four flights. On the fourth floor there was a hallway with a worn green runner and a radiator ticking to itself, and, at the end of it, her door, which opened four inches and stopped, because there was a chain on it.
 
-She looked at me through the gap. It was a long look. I thought about a door she'd described to me over coffee, and the chain I'd imagined on it. I thought: *she's looking me over to see if I'm the kind of person she should let in.* I stood in her hallway with a bottle of wine in a paper bag, and somewhere below us a neighbor's television laughed at something, and I waited to be let.
+She looked at me through the gap. It was a long look. I thought about a door she'd described to me over coffee, and the chain I'd imagined on it. I thought: *she's looking me over to see if I'm the kind of person she should let in.* I stood in her hallway with a bottle of wine in a paper bag, and somewhere below us a neighbor's television laughed at something, and I waited to be let in.
 
 "I'm not going to say I'm fine," said Maya. She was in a gray sweater and socks and she didn't look angry. She looked like someone holding something very still. "I told them you'd be there."
 
