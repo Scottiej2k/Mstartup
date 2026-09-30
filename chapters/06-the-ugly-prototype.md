@@ -227,7 +227,7 @@ I heard the chain. It's a small sound, like a coin dropped in a dish. Then the d
 
 "I didn't know."
 
-"I know you didn't." She took the bag out of my hands anyway. "It's the most honest thing you've brought me. Come in. Take your shoes off."
+"I know you didn't." She took the bag out of my hands anyway. "It's the most honest thing you've brought me. Shoes off, please."
 
 ---
 
