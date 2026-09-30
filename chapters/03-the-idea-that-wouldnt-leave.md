@@ -129,7 +129,13 @@ She capped the marker. It was quarter past midnight. We looked at the wall for a
 
 She typed. It took four seconds. "Loopback dot health," said Priya. "Forty dollars a year."
 
-"It's a good costume," I said.
+"It's a good costume," I said. "I'll put it on the company card, the old one. I'll handle the money. That's my department."
+
+"What's the rest of the department?"
+
+"Just the money. It's a small department."
+
+She made a note of it somewhere in her head, which I took for agreement.
 
 She wiped the word off the whiteboard with the flat of her hand. I said, "What are you doing?" She said, "Making sure we mean it." She waited, and then she wrote it again, the same size, in the same capitals, and I remember thinking that this is what a company is: it's the second time you write the word.
 
