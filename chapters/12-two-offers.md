@@ -5,7 +5,9 @@ The partners at Sable Ventures had a slide that said **EIGHT BILLION SMOKE ALARM
 
 It was the fifth of May, a Tuesday, in a conference room on Sand Hill Road with a view of a parking lot full of German cars and a eucalyptus tree that somebody was paid to keep beautiful. Priya sat at my elbow with her laptop closed. Across the table sat three partners, who had the tan of people who exercise on boats, and on the wall behind them, at a scale meant for a stadium, was the slide. It had a globe on it. The globe had a pulse.
 
-"Every phone on earth is already a sensor," I said. I was in the voice. I can hear it now, like a recording of someone else's funeral: warm, smooth, slightly too fast, with a little rise at the end of each sentence as if the facts were being offered for approval. "How you type, how you walk, how long since you opened an app. You don't need anyone to tell you they've gone quiet. The phone knows. Loopback is the ambient safety layer for every person alive."
+I should say how we'd got there. In March we'd agreed that a two-hundred-dollar-a-month clinic and the last of my savings was a hobby with a login, and that we needed money. Priya had agreed to *meetings.* She had not seen the deck. I'd built it the night before, alone, which should have told me something. I'd called Cole in April, which I'm not proud of, and he'd made two introductions before I finished the sentence, because Cole will give you anything that costs him a text: one to Sable, and one to a woman above a hardware store.
+
+"Every phone on earth is already a sensor," I said. I was in the voice. I can hear it now, like a recording of someone else's funeral: warm, smooth, slightly too fast, with a little rise at the end of each sentence as if the facts were being offered for approval. "How you type, how you walk, how your voice sounds in a room, how long since you opened an app. Every home has a smoke alarm. Every person has a phone. You don't need anyone to tell you they've gone quiet. The phone knows. Loopback is the ambient safety layer for every person alive."
 
 "Ambient," said the youngest partner, whose name was Jared and who wore a charcoal quarter-zip. He said it the way you say the name of a good restaurant. "I love ambient."
 
@@ -15,7 +17,7 @@ It was the fifth of May, a Tuesday, in a conference room on Sand Hill Road with 
 
 I felt Priya, beside me, stop moving. It's a difference you can feel in a chair.
 
-They loved it. I'd like you to understand that I'd never been loved by a room before. In the gap after I finished, a silence fell in which three people who could write a check looked at a globe with a pulse and saw a number. Jared said, "We'd do three million, for twenty percent. We'd want you in San Francisco, three days a week, at our office in the Mission. We'd want a bigger team by fall." He smiled. "Talk to Cole. He speaks very highly of you."
+They loved it. I'd like you to understand that I'd never been loved by a room before. In the gap after I finished, a silence fell in which three people who could write a check looked at a globe with a pulse and saw a number. Jared said, "We'd do three million, for twenty percent." (Meaning: they would hand us three million dollars and own a fifth of the company.) He went on, "We'd want you in San Francisco, three days a week, at our office in the Mission. We'd want a bigger team by fall." He smiled. "Talk to Cole. He speaks very highly of you."
 
 In the elevator, Priya said nothing. In the parking lot, she stopped next to a car that was not hers, with her keys in her hand.
 
@@ -45,9 +47,9 @@ My case was the boy. It was the refrigerator, and the man on the floor, and Mari
 
 "Some people are. Some people are going to be very frightened."
 
-"And the operating system won't let an app listen in the background," I said, because I'd read that, too. "Phones are built to stop it."
+"And a phone shuts a background microphone off after a few minutes," I said, because I'd read that, too. "To protect people from apps like ours."
 
-"Then it's a bedside thing." She gave me the look that means she's already thought of it. "Or a wearable. Or a speaker. A thing you *put* somewhere, on purpose, and can see is on." She opened her door. "It's a harder product. That's not an argument."
+"So we don't use the phone." She gave me the look that means she's already thought of it. "We use something plugged into the wall, or a wearable, or a speaker. A thing you *put* somewhere, on purpose, with a light on it, that you can see is on." She opened her door. "It's a harder product. That's not an argument."
 
 I was quiet. I want to be fair to the man I was. I wasn't stupid; I was somewhere else. I was still in a room with a globe on the wall, feeling what it was like to be loved by people who'd never been asked to do anything for me.
 
@@ -57,19 +59,19 @@ I was quiet. I want to be fair to the man I was. I wasn't stupid; I was somewher
 
 ---
 
-I went up the mountain on Wednesday. I took a hypothetical. It was the first time since January.
+I went up the mountain on Wednesday, and I went back to the old habit. I took a hypothetical.
 
 "Hypothetically," I said, at the fence post, into a cup of burnt coffee, "a person is offered three million dollars to describe his product as something larger than it is."
 
 "Hm," said Ray. He was at the far edge of the yard, doing something with a level and a length of string. The pond had acquired, since I'd seen it last, a shallow depression in the grass, the shape of a kidney, about a foot deep. A second, smaller mound of dirt stood beside it, like a thing he'd been meaning to bring up. "Larger how?"
 
-"All of the phones. Every person on earth. They said it, and I said it, and they loved it, and—" I heard how it sounded. "I think I'd like to be invited back."
+"All of the phones. Every person on earth. They said it, and I said it, and they loved it, and—" I heard how it sounded. "I think I'd like to be invited back there."
 
 "What did they love?" said Ray. "Specifically."
 
 "The market."
 
-"Ah." He stopped. He put the level down on the grass, carefully, the way he puts everything down. "I spent nine years in rooms where people loved a market. Nobody wants a market, Nate. Nobody in history has ever woken up and wished for a market." He looked at the depression in the lawn, the place where the water would go. "Somebody wants a Tuesday to go right. One person. One Tuesday. You build it for that, and then you find out how many of them there are."
+"Ah." He stopped. He put the level down on the grass, carefully, the way he puts everything down. "I spent a long time in rooms where people loved a market. Nobody wants a market, Nate. Nobody in history has ever woken up and wished for a market." He looked at the depression in the lawn, the place where the water would go. "Somebody wants a Tuesday to go right. One person. One Tuesday. You build it for that, and then you find out how many of them there are."
 
 I took out my phone. I put it back.
 
@@ -91,7 +93,7 @@ She was fifty-five, with cropped gray hair and a cardigan the color of a tired d
 
 "Put it away." She folded her hands. "Tell me about the last time something broke."
 
-It was the question I'd been taught by a woman in the back seat of a car. I felt something go loose in my chest, like a knot being slowly thought about.
+It was a version of the question I'd been taught by a woman in the back seat of a car. I felt something go loose in my chest, like a knot being slowly thought about.
 
 "I don't have a pitch," I said. It was true. "I had one. I gave it yesterday and it went very well, and I've been feeling sick since. Can I tell you something that isn't one?"
 
@@ -107,7 +109,7 @@ She let me finish. She sat with her hands folded, looking at me, and the man on 
 
 "I know."
 
-"I'd like to fund it." She said it without warmth and without hesitation, the way you'd confirm a reservation. "A million two, for twelve percent. It's not what Sable offered. It's not close. You'd get fourteen months of cash at the pace you're going. That's what people in this business call runway, because eventually you either take off or you run out." She took a pen from a cup. "Let me tell you why, and then I'll tell you what I want, and then you'll go away and be tempted."
+"I'll fund it." She said it without warmth and without hesitation, the way you'd confirm a reservation. "A million two, for twelve percent. It's not what Sable offered, which Cole says was three million. It's not close. You'd get fourteen months of cash, at about eighty-five thousand a month, once you pay people like people. That's what people in this business call runway, because eventually you either take off or you run out." She took a pen from a cup. "Let me tell you why, and then I'll tell you what I want, and then you'll go away and be tempted."
 
 "Tempted?"
 
@@ -119,11 +121,11 @@ She capped the pen, and uncapped it, and put it down.
 
 "What happened to him?"
 
-"He fixed it, eventually. It cost him a great deal. It wasn't the loss." She turned her head. "Everyone loses a customer. Everyone's wrong. I'll be wrong with you; I've been wrong with nine companies, and two husbands. What I care about is the week after. You'll be judged, by me, by how you behave the week after you're wrong. I'd like to find out what that looks like with you. I'd like it to be soon." She smiled for the first time. It was a very small one. "You ran a company that stopped answering once. I heard. You answered thirty-four times."
+"He fixed it, eventually. It cost him a great deal. It wasn't the loss." She turned her head. "Everyone loses a customer. Everyone's wrong. I'll be wrong with you; I've been wrong with nine companies, and two husbands. What I care about is the week after. You'll be judged, by me, by how you behave the week after you're wrong. I'd like to find out what that looks like with you. I'd like it to be soon." She smiled for the first time. It was a very small one. "You ran a company that stopped answering once. Cole told me. You answered thirty-four times."
 
 "How—"
 
-"Dr. Okafor sits on the advisory board of one of my other companies," said Margo Bell. "She doesn't tell people things. She told me that."
+"Dr. Okafor sits on the advisory board of a patient-messaging company I backed," said Margo Bell. (Dr. Okafor had never mentioned it. She'd called investors a hobby.) "She doesn't tell people things. She told me that."
 
 ---
 
@@ -155,7 +157,7 @@ Kyle was at the counter with the mixing bowl when I got home, and he had an opin
 
 "It's a cash flow question. I'm not going to move out."
 
-"It's a cash flow question *now.*" He stirred. "In a month you'll have a salary that's a number with a comma in it. And then one day there's a one-bedroom in Sunnyvale with a *dishwasher that works.*" He said it like the name of a disease. "I hope it's bad money. I'd like to say that formally. I hope she offers you a deal with terrible terms."
+"It's a cash flow question *now.*" He stirred. "In a month you'll have a salary that's a number with a comma in it. And then one day there's a one-bedroom in Sunnyvale with a *balcony.*" He said it like the name of a disease. "I hope it's bad money. Formally. I hope she offers you a deal with terrible terms."
 
 "That's a monstrous thing to hope."
 
@@ -163,13 +165,13 @@ Kyle was at the counter with the mixing bowl when I got home, and he had an opin
 
 ---
 
-Sunday dinner at the Ramans' was at five, because Suresh eats at five, and because Lakshmi had said, on the phone, *you will come.*
+Sunday dinner at the Ramans' was at five, because Suresh eats at five, and because Lakshmi had said, on the phone, *you will come. We are hoping.*
 
-It was the house in Fremont, a low cream stucco on a street of identical houses, each with a lemon tree and a small, fierce lawn. I'd been once before, in January, where I'd been handed a plate and then a second plate and then a cousin. I parked across the street. I didn't get out.
+It was the house in Fremont, a low cream stucco on a street of identical houses, each with a lemon tree and a small, fierce lawn. I'd been once before, in January, where I'd been handed a plate and then a second plate and then a cousin. I parked across the street. I didn't get out. I'd told Maya only that there had been meetings, and she'd asked how they went, and I'd said *fine,* in the voice.
 
 I had about seven minutes. I used them.
 
-I want to explain what I was doing, because it was the most natural thing in the world to me, and it was about to be the most revealing. I was in the car, in the dark, in my second-best shirt, with my lips moving, running a speech. It was a good one. It began with thanks, and moved to *our* thanks, and arrived, by stages, at a paragraph in which I described the state of the company and my plans for it, in a warm, steady, slightly rising voice, to a man who hadn't asked. I'd been rehearsing it all weekend.
+I want to explain what I was doing, because it was the most natural thing in the world to me, and it was about to be the most revealing. I was in the car, in the failing light, in my second-best shirt, with my lips moving, running a speech. It was a good one. It began with thanks, and moved to *our* thanks, and arrived, by stages, at a paragraph in which I described the state of the company and my plans for it, in a warm, steady, slightly rising voice, to a man who hadn't asked. I'd been rehearsing it all weekend.
 
 There was a knock on the window. I jumped.
 
@@ -187,7 +189,7 @@ Maya was standing at the passenger door in her coat, with a covered dish in both
 
 "Your father."
 
-"My father's going to ask you whether you've eaten." She looked at me, in the little light from the dashboard. "That's the whole thing. That's the speech. He'll ask, and you'll say yes or no, and he'll either pass you the rice or he won't. You can't do it in a voice."
+"My mother's going to ask you whether you've eaten." She looked at me, in the little light from the dashboard. "My father's going to count. That's the whole thing. That's the speech. You'll say yes or no, and they'll either pass you the rice or they won't. You can't do it in a voice."
 
 I didn't say anything. She reached over and put two fingers on my left cheek, very lightly, the way you'd steady a picture.
 
@@ -221,7 +223,7 @@ The room was very quiet. I heard a pot, in the kitchen, tick as it cooled.
 
 "I'm—telling your father about—"
 
-"No, you weren't." She said it gently. "That was the voice from the ballroom. The one you used on everyone but me. I thought, *well, that's who he is at work.* And then I heard you on the phone with thirty-four strangers, at one in the morning, in a different one." She set her fork down beside the plate, carefully, at an angle. "Who were you talking to, just now? It wasn't my father."
+"No, you weren't." She said it gently. "That's the voice you used at Cole's table in January. You said *we've got a pilot,* and your voice went up at the end, like you were asking permission. I thought, *well, that's who he is at work.* And then I heard you on the phone with thirty-four strangers, at one in the morning, in a different one." She set her fork down beside the plate, carefully, at an angle. "Who were you talking to, just now? It wasn't my father."
 
 My mouth was open. Nothing came out. I looked at Suresh, who was looking at his rice. I looked at Lakshmi, who had one hand flat on the table and whose expression I could not read, because, I understood, it was the expression of a woman who had been waiting for this.
 
@@ -255,7 +257,7 @@ Lakshmi, at the end of the table, said, quietly, to the banana leaf, in English,
 
 I told Margo on Monday. I told Priya first.
 
-It was a clause; it was hers. *Neither founder can take investment without the other's agreement.* I said, in the glass room, at 8:15, under the fish sign, "It's your vote." She said, "I know what it is," and waited, and I said, "I'm going with Margo." She said, "Why?"
+It was a clause; it was hers. *Neither founder can take investment without the other's agreement.* I said, in the glass room, at Priya's desk, at 8:15, under the fish sign, "It's your vote." She said, "I know what it is," and waited, and I said, "I'm going with Margo." She said, "Why?"
 
 I told her about a car, and a table, and a question. She listened to all of it. When I finished, she looked at the wall for a while, at the place where a whiteboard had said **ANSWER.**
 
@@ -269,7 +271,7 @@ We signed in June. The money came in a wire on the twelfth, which I know because
 
 ---
 
-On the following Monday, a young man in a hoodie sat across from me at the glass table and looked at the ceiling.
+Priya had made me write up the clock night, in the first person, and put it on our site. Nine people read it. One of them was a young man in a hoodie, who sat across from me at the glass table, the following Monday, and looked at the ceiling.
 
 He was twenty-four, with a face that hadn't decided yet whether to be a beard. He'd been a community-college transfer who had taught himself to code at night in a parking lot outside a Denny's, where the Wi-Fi was good. The hoodie was gray and said **DE ANZA** on the front, and I would later learn that it was the only one he owned, that he washed it on Sundays, and that he'd worn it, without exception, to every interview, including one at a company that had a rule against hoodies.
 
@@ -310,12 +312,12 @@ I looked at Priya. She nodded once, barely. It was the first time she'd ever agr
 ---
 
 **FOUNDER'S NOTE**
-*Take money from people who'll be kind the week after you're wrong.*
+*Take money from people who'll still be in the room the week after you're wrong.*
 
-I had two term sheets on my desk that month, and I'd like to describe them fairly. One was for three million dollars. It was a beautiful document. It had a lovely typeface and a globe. The other was for a million two, and it was printed on what looked like a single sheet of copy paper, and the ink had run a little on the corner.
+I had two term sheets on my desk that month. (A term sheet is the short document in which an investor puts a number on you.) One was for three million dollars, in a beautiful typeface, with a globe. The other was for a million two, on what looked like a single sheet of copy paper, and the ink had run a little at the corner.
 
-The difference between them wasn't the number. It wasn't the twenty percent or the twelve. It was that I'd been a different person in each room, and I'd been able to tell, in the second, which one I'd have to be for the next six years.
+The difference wasn't the number. It wasn't the twenty percent or the twelve. In one room I'd been someone who could say *ambient,* and in the other I'd had nothing to say but what had happened, and only one of those men could be reached at one in the morning.
 
-There's a line Margo has, which I'd like to give to everyone who's ever pitched a fund. *You'll be judged by how you behave the week after you're wrong.* I had been, for about ninety seconds, a man who could say *ambient.* I am grateful to a woman I barely knew for asking me, at a table, in front of her family, over a dumpling, who I'd been talking to.
+Margo's line is the one I'd give to anyone who's ever pitched a fund. *You'll be judged, by me, by how you behave the week after you're wrong.* She meant it about me. It turned out to be a good test for anyone you plan to sit across a table from for years.
 
-I've noticed that Maya asks it still. I've learned to tell her first.
+Maya asks her question still. *Who did you just talk to?* I've learned to tell her first.
