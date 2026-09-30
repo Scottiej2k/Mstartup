@@ -1,18 +1,6 @@
 # Chapter 1
 ## The Room Nobody Wanted To Be In
 
-The first thing I noticed about Maya was that she was the only person in the ballroom who wasn't checking anyone else's lanyard.
-
-I want to be clear that this was unusual. The lanyards at the Founders & Funders Mixer came with color-coded stickers, a dating profile for your neck: green for *raising*, blue for *investing*, and orange for *seeking a co-founder*, which was the color of someone waiting at a bus stop for a bus that has been cancelled. I had a green sticker, which was a lie of ambition. I was an orange (my co-founder had not, strictly, committed) with a green sticker on. I also had a Notion page titled "Healthcare, something?", no customers, no product, and a cup of water I was holding the way a hostage holds a newspaper.
-
-(I don't drink at these things. It isn't virtue. If I have a cup in one hand, nobody expects me to know what to do with the other.)
-
-I've told this story eleven times now. Maya tells it differently. In her version, I walked up to her at 8:03 with a plan. She's technically right that I had one; it was folded in my pocket, and it wasn't about her. In mine, she was standing by the exit like a person who had budgeted precisely one hour for this and was already forty-one minutes into it, and I did not have a plan for her. I had a cup.
-
-We should start earlier, though, at our kitchen counter, because Kyle did most of the setup.
-
----
-
 At 6:40 on a Thursday in late July I was standing in our hallway in my second-best shirt, holding my best shirt, and I knew the night was already going badly.
 
 Kyle was at the counter with a mixing bowl of cereal. It was dinner. He looked at the two shirts the way a man looks at two menus in a restaurant he has already decided not to eat at.
@@ -72,6 +60,14 @@ I put on the blue shirt, the one I wear to pitch, which Kyle says speaks for its
 "The story," said Kyle. "The card is just a number that never calls back."
 
 ---
+
+The first thing I noticed about Maya was that she was the only person in the ballroom who wasn't checking anyone else's lanyard.
+
+I want to be clear that this was unusual. The lanyards at the Founders & Funders Mixer came with color-coded stickers, a dating profile for your neck: green for *raising*, blue for *investing*, and orange for *seeking a co-founder*, which was the color of someone waiting at a bus stop for a bus that has been cancelled. I had a green sticker, which was a lie of ambition. I was an orange (my co-founder had not, strictly, committed) with a green sticker on. I also had a Notion page titled "Healthcare, something?", no customers, no product, and a cup of water I was holding the way a hostage holds a newspaper.
+
+(I don't drink at these things. It isn't virtue. If I have a cup in one hand, nobody expects me to know what to do with the other.)
+
+I've told this story eleven times now. Maya tells it differently. In her version, I walked up to her at 8:03 with a plan. She's technically right that I had one; it was folded in my pocket, and it wasn't about her. In mine, she was standing by the exit like a person who had budgeted precisely one hour for this and was already forty-one minutes into it, and I did not have a plan for her. I had a cup.
 
 It was the last week of July, in the ballroom of a hotel in SoMa that had been designed by someone who had heard of ballrooms. The carpet was a pattern I'd call *aggressively neutral.* There was a table of sliders that had been sliders since at least Thursday, and a bar serving a pinot noir in the sense that it was red and had once been introduced to a pinot noir at a party. On a little stage at the front, under a banner that said **BUILD SOMETHING THAT MATTERS** in a font that did not, a technician was adjusting a microphone for a man who was about to tell us about conviction.
 
