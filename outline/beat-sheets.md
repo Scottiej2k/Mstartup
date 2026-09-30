@@ -143,7 +143,7 @@ Balance check: wrong transfers appear in every part (2, 5, 7, 9 | 11, 12, 13, 14
 - **Rewrite needed (light):** see 0.5.
 
 ### Ch 3. The Idea That Wouldn't Leave  *(DRAFTED)*
-- **S:** Fourteen interviews (Priya's condition before building anything). The pulse-check idea. Loopback. A tenant on a kitchen floor.
+- **S:** Fourteen interviews (Priya's condition before building anything), widening beyond pharmacies (a county health nurse, a far-away daughter, Dr. Okafor). The idea: a check-in that notices when someone goes quiet and gets a person they chose to look in. Loopback. A tenant on a kitchen floor. *(Needs revision to the new product: see 0.6.)*
 - **R:** Maya rewrites the patient text in ten minutes; "I'll tell you what's wrong with it. I won't build it."
 - **Crossing:** R to S, right. The best idea comes from listening to the person in pain.
 - **Note:** *The best ideas come from someone else's pain.*
@@ -153,6 +153,24 @@ Balance check: wrong transfers appear in every part (2, 5, 7, 9 | 11, 12, 13, 14
 - **S/R:** Nate asks Ray a hypothetical about "a person who keeps asking the best questions but isn't a buyer." Ray answers both.
 - **Plants:** The quarter-turned cup; Denise's photo; the landline; "Keep inviting her to your interviews."
 - **Note:** *The best feedback comes from someone who isn't buying.*
+
+### 0.6 Product overlay (Scott, 2026-09-30): the product is a check-in, not a refill reminder
+Full details in `startup/product.md`. Where an older sheet says "refill text" or "missed follow-up," read
+"check-in for someone who might go quiet." The five rules, the signals menu, the Activity view and the
+escalation ladder are the product. Crossings tied to it:
+
+| Ch | What happens to the product |
+|---|---|
+| 3 | The idea forms from interviews that widen beyond pharmacies (a county health nurse, a far-away daughter, a pharmacist, Dr. Okafor). Maya rewrites the message into a check-in ("We haven't heard from you"). The man in 4B and Mr. Peralta stay. Kyle's "reminder app" line changes to something about a smoke alarm. |
+| 5 | Ruben's story (the husband he never saw) works unchanged |
+| 6 | The ugly prototype is a morning "You okay?" that texts a person if you don't answer; Dr. Okafor uses it with recently discharged patients |
+| 8 | Priya's won't-build list is the rules in embryo; the single father and toddler story (offstage, plain) is told in an interview; the $40,000 sponsor is a drugmaker wanting its name on the messages |
+| 12 | Investors want "passive monitoring at scale"; the voice-signal debate (Priya vs. Nate) |
+| 13-14 | Version 1 (phone-data scan) is built for the investors. The Sunday reminder is the same mistake at home: a check-in Maya didn't choose. |
+| 16-18 | Meridian: the pharmacy counter is the front door; enrollment with the counter question; Nate pitches **in line** at the pilot store; rules and Activity view shipped |
+| 21 | Automated alerts alone get ignored; each store has a named person with protected time. The design rules come from what Maya taught him (R to S, right). |
+| 22-23 | New parents and single-parent use cases arise naturally (a hospital asks; the night Suresh is in the hospital) |
+| 24 | The living-alone napkin; Nate finally buys loopback.com from the Norwegian shoe company |
 
 ### 0.5 Rewrites to Ch 1-4 for the new arc (DONE 2026-09-30)
 | Where | Change | Why |
@@ -182,7 +200,7 @@ promised anything yet. The cheap bets are the test.*
 
 ### Ch 6. The Ugly Prototype
 **~3,500 words · Nov, Y1**
-- **S:** Weekend build with Priya; a blue SUBMIT button; it crashes twice in Dr. Okafor's demo. She uses it anyway, free, for a month. That is her small investment.
+- **S:** Weekend build with Priya; a blue SUBMIT button; it crashes twice in Dr. Okafor's demo. The prototype is a morning "You okay?" that texts a person if you don't answer. She uses it anyway, free, for a month, with recently discharged patients. That is her small investment.
 - **R:** Nate cancels on Maya for the build weekend (her friend's birthday dinner). He arrives Sunday with unresearched wine and an unrehearsed apology. "Are you here to fix it or to say it?"
 - **Crossing:** S to R mixed. "Ship the ugly version" works once, on an apology. It becomes a habit he will lean on.
 - **Scenes:** (1) Priya's rule: ship when it's embarrassing; (2) the demo, crash, crash, "So it works when you're standing next to it"; (3) Maya's door, cardamom, bookshelves; (4) the apology, bad, and believed.
@@ -200,7 +218,7 @@ promised anything yet. The cheap bets are the test.*
 
 ### Ch 8. Ninety Days
 **~3,800 words · Dec, Y1**
-- **S:** Day ninety of Priya's trial. She asks what he wants from this in three years. His answer is a slide. She writes a list on the whiteboard of what she won't build (no selling patient names, no texts that scold). A drugmaker offers $40,000 to put its name at the bottom of Loopback's texts. Nate hesitates for ten seconds before saying no. Priya counts the ten seconds.
+- **S:** Day ninety of Priya's trial. She asks what he wants from this in three years. His answer is a slide. She writes a list on the whiteboard of what she won't build (no location tracking, no selling data, no messages that scold). A county nurse tells the single-father-and-toddler story, plainly. A drugmaker offers $40,000 to put its name at the bottom of Loopback's messages. Nate hesitates for ten seconds before saying no. Priya counts the ten seconds.
 - **R:** Christmas. The first real "what do we want" talk with Maya: where she will always live (near the pharmacy), what he'd give up. "Is that the pitch or the answer?" A list of three non-negotiables on a napkin each; they don't compare them yet.
 - **Crossing:** R to S right ("Is that the pitch or the answer?" turned on himself). S to R right (a written list of what you won't do).
 - **Scenes:** (1) whiteboard, Priya; (2) the sponsor call; (3) the ten seconds; (4) the napkins; (5) Maya's question.
@@ -243,7 +261,7 @@ now, and so is the way out.*
 
 ### Ch 12. Two Offers
 **~4,000 words · May-Jun, Y2**
-- **S:** Seed money: two offers. A glossy fund (Cole's recommendation; wants a move to SF and the "huge market" story, every kind of person who lives alone) and Margo Bell's small fund (Loopback first, slowly). Plain language: they give us money, we give them a slice of the company. "We have fourteen months of cash. That's called runway." Nate takes Margo's. Then hires Theo.
+- **S:** Seed money: two offers. A glossy fund (Cole's recommendation; wants a move to SF and the "huge market" story: passive monitoring of everyone) and Margo Bell's small fund (Loopback first, slowly). Plain language: they give us money, we give them a slice of the company. "We have fourteen months of cash. That's called runway." Nate takes Margo's. Then hires Theo.
 - **R:** Everyone hopes: investors, Kyle (hopes not), Lakshmi (hopes out loud). Dinner at the Ramans'. After the glossy fund's pitch Maya asks, over dumplings: "Who did you just talk to?"
 - **Crossing:** R to S right (who he is when he pitches decides who he takes money from). S to R wrong (he rehearses what he'll say to Suresh; Maya: "Are you rehearsing?").
 - **Scenes:** (1) pitch #1 and Ray's porch: "Nobody wants a market. Somebody wants a Tuesday to go right."; (2) Margo's office: her story of the founder who hid a lost customer; (3) Cole's coffee: a subtle cage; (4) dumplings; (5) Theo's interview, the hoodie.
@@ -284,7 +302,7 @@ and the go-live are the same weekend.*
 
 ### Ch 16. Ray's Questions
 **~4,200 words · Nov-Dec, Y2**
-- **S:** Carla Ruiz, operations manager at Meridian Pharmacy Group (40 stores), calls. Dr. Okafor told her about Loopback. Meridian wants a pilot in three stores that could become forty. Nate says, "We'll be ready," and means it a little less than he says it.
+- **S:** Carla Ruiz, operations manager at Meridian Pharmacy Group (40 stores), calls. Dr. Okafor told her about Loopback. Meridian wants to offer it at the counter: a pilot in three stores that could become forty. The pharmacy chain is the first test market. Nate says, "We'll be ready," and means it a little less than he says it.
 - **R:** Nate decides to propose. He asks Suresh and Lakshmi ("Saapteengala?" at last has an answer). He visits Ray. Ray asks four questions: *What would you do if she said no? What does she do that you'd never tell her you like? What would make you walk? How will you know when you're wrong?* Nate notices that the questions are the same ones Margo asked about the company. "She'd have liked her." Then, nearly to himself: "Your healthcare, something. I've been thinking I might have a something." A folder, face down. The proposal, at 6 a.m. on the trail: "I don't have a backup." Maya: "Okay." Then yes. Not a line was rehearsed.
 - **Crossing:** R to S right (the four questions make him read Meridian's contract differently). S to R right (he doesn't rehearse).
 - **Scenes:** (1) Carla's call; (2) the Ramans' living room; (3) Ray's questions; (4) the folder; (5) the trail.
@@ -292,7 +310,7 @@ and the go-live are the same weekend.*
 
 ### Ch 17. Two Checklists
 **~4,200 words · Jan-Jun, Y3**
-- **S:** Meridian signs. Forty stores by the last Saturday in September. The checklist: security review, training at every store, hooking into each store's computers, a pilot store, an on-call plan. Carla is the other half of the checklist. Nate puts one person's name next to every store.
+- **S:** Meridian signs. Forty stores by the last Saturday in September. The checklist: security review, training at every store, hooking into each store's computers, a pilot store, an on-call plan. Carla is the other half of the checklist. Nate puts one person's name next to every store. The counter script: *"If you went quiet for a day, who would you want to know?"*
 - **R:** Wedding planning. Civil ceremony at city hall, a party at Ray's. Two families, two lists: Carol's color-coded calendar; Lakshmi's receipt roll (who is cooking, who is told, who must never sit together). Nate builds a master plan with owners and deadlines. Maya: "It's a wedding, not a migration." Kyle volunteers to do the music.
 - **Crossing:** S to R wrong (project-managing two families). R to S right (Lakshmi's "one named person for each thing" becomes the design of Meridian's rollout; he doesn't notice the source).
 - **Scenes:** (1) Meridian's first checklist; (2) two kitchens, two lists; (3) the master plan and its reception; (4) Maya crossing things off his plan with a pen; (5) a named person for each store; (6) Lakshmi, reading the store list upside down: "This is my list."
@@ -301,7 +319,7 @@ and the go-live are the same weekend.*
 
 ### Ch 18. Rehearsal
 **~4,000 words · Aug, Y3**
-- **S:** The dry run: Loopback goes live in Meridian's flagship store as a test. It fails in an ugly way. Carla, hands clasped: "Is this what happens?" Nate tells her about a second risk *before* she finds it. Theo is on call. Priya: "We need to say it now." Nate calls Carla that night.
+- **S:** The dry run: Loopback goes live in Meridian's flagship store as a test, and **Nate stands in line at the pilot store pitching the opt-in to people waiting** (twenty seconds; most say no; he takes the no seriously). It fails in an ugly way. Carla, hands clasped: "Is this what happens?" Nate tells her about a second risk *before* she finds it. Theo is on call. Priya: "We need to say it now." Nate calls Carla that night.
 - **R:** The rehearsal dinner. Dan and Suresh talk about tools. Lakshmi wants a bigger ceremony; Carol is worried about the cost; Annie translates between them. Maya says, late, on the balcony: "I don't know if I can do both days." Nate takes her to city hall on a Tuesday evening, empty: a private walk-through, no one watching.
 - **Crossing:** R to S right (telling Maya early is telling Carla early). S to R right (a dry run, with nobody watching).
 - **Scenes:** (1) the pilot store; (2) Carla's hands; (3) the call that night; (4) the rehearsal dinner; (5) the balcony; (6) the empty room at city hall.
@@ -332,7 +350,7 @@ This part should feel quieter and more ordinary than the rest, on purpose.*
 
 ### Ch 21. The Named Person
 **~4,400 words · Jan-Mar, Y4**
-- **S:** Carla tells him why Meridian is thinking about leaving: "You listened. Nothing changed." Alerts go out and nobody owns them. The pivot: each missed follow-up goes to a *named person with protected time to make the call.* Lakshmi's receipt roll is, in effect, the product. Theo quits in January and returns part-time in March when the on-call rota is fixed. Suresh asks to try it: "I think I'd like to be asked." A call from Ray with unusually specific questions about nurses.
+- **S:** Carla tells him why Meridian is thinking about leaving: "You listened. Nothing changed." Alerts go out and nobody owns them. The pivot: each missed check-in goes to a *named person with protected time to make the call.* Lakshmi's receipt roll is, in effect, the product, and the design rules are Maya's lesson from Ch 14: the person chooses who notices. Theo quits in January and returns part-time in March when the on-call rota is fixed. Suresh asks to try it: "I think I'd like to be asked." A call from Ray with unusually specific questions about nurses.
 - **R:** After the calendar-invite fight, Nate and Maya hold a blameless post-mortem at the kitchen table: *what happened*, not *who*. The best fight they ever have. "Don't fix. Just be the one I tell."
 - **Crossing:** R to S right (big): a notification is not a person. S to R right: the post-mortem at home.
 - **Scenes:** (1) Carla's coffee; (2) the whiteboard: Priya draws the named person; (3) Theo at the door: "Is the pager still a thing?"; (4) Suresh at the fax machine: "Ask me."; (5) the kitchen-table post-mortem; (6) Ray's call.
@@ -356,7 +374,7 @@ This part should feel quieter and more ordinary than the rest, on purpose.*
 
 ### Ch 24. Runway, Revisited
 **~3,500 words · Sep-Oct, Y4**
-- **S:** Loopback is stable in healthcare. Nate sketches the next thing on a napkin: the same pulse check for people who live alone (the man in 4B, Mr. Peralta). He doesn't finish the sketch.
+- **S:** Loopback is stable in healthcare. Nate sketches the next thing on a napkin: the same check-in for people who live alone, and for new parents (the man in 4B, Mr. Peralta). He doesn't finish the sketch. He buys loopback.com from the Norwegian shoe company.
 - **R:** Their first anniversary (they passed the first-year cliff; he doesn't say the word). He has noticed for weeks: the wine she turned down, the coffee smell. He has said nothing and waited to be told. 6 a.m., their honest hour: Maya tells him she's pregnant. A glass of water he doesn't need to hold.
 - **Open threads for the sequel:** Walt's reply hasn't come; the napkin is blank; Ray's fellowship has a first meeting, and Ray says yes on the phone to someone.
 - **Crossing:** both, right. The job of noticing, now his.
