@@ -3,19 +3,79 @@
 
 The first thing I noticed about Maya was that she was the only person in the ballroom who wasn't checking anyone else's lanyard.
 
-I want to be clear that this was unusual. The lanyards at the Founders & Funders Mixer came with color-coded stickers: green for *raising*, blue for *investing*, and orange for *seeking a co-founder*, which was the color of someone waiting at a bus stop for a bus that has been cancelled. I had a green sticker, which was a lie of ambition. I was an orange (my co-founder had not, strictly, committed) with a green sticker on. I also had a Notion page titled "Healthcare, something?", no customers, no product, and a cup of water I was holding the way a hostage holds a newspaper.
+I want to be clear that this was unusual. The lanyards at the Founders & Funders Mixer came with color-coded stickers, a dating profile for your neck: green for *raising*, blue for *investing*, and orange for *seeking a co-founder*, which was the color of someone waiting at a bus stop for a bus that has been cancelled. I had a green sticker, which was a lie of ambition. I was an orange (my co-founder had not, strictly, committed) with a green sticker on. I also had a Notion page titled "Healthcare, something?", no customers, no product, and a cup of water I was holding the way a hostage holds a newspaper.
 
 (I don't drink at these things. It isn't virtue. If I have a cup in one hand, nobody expects me to know what to do with the other.)
 
 I've told this story eleven times now. Maya tells it differently. In her version, I walked up to her at 8:03 with a plan. In mine, she was standing by the exit like a person who had budgeted precisely one hour for this and was already forty-one minutes into it, and I did not have a plan. I had a cup.
 
-We should start with the room, though, because the room did most of the work.
+We should start earlier, though, at our kitchen counter, because Kyle did most of the setup.
+
+---
+
+At 6:40 on a Thursday in late July I was standing in our hallway in my second-best shirt, holding my best shirt, and I knew the night was already going badly.
+
+Kyle was at the counter with a mixing bowl of cereal. It was dinner. He looked at the two shirts the way a man looks at two menus in a restaurant he has already decided not to eat at.
+
+"Where are you going?"
+
+"The Founders & Funders Mixer."
+
+"Oh no." He put the spoon down with real feeling. "Nate. Do you know what that is?"
+
+"A networking event."
+
+"It's speed dating." He said it gently, the way a doctor says a diagnosis. "It's business speed dating, except the people with the money are the hot girls. And the rest of the room is two hundred guys in quarter-zips, trying to convince them they're worth five minutes of attention. You stand there with a cup. You say *so what are you working on* and they say *oh, nice,* which is the same *oh, nice* a girl says when you tell her you're in consulting."
+
+"Some of the investors are men."
+
+"It's a metaphor, Nate. The investors are the hot girls. You're the guy at the bar with a pitch instead of a personality." He picked the spoon back up. "They'll tell you they want founders with *conviction.* That's what they say instead of *tall.*"
+
+I'd like the record to show that I objected to the framing. I'd also like the record to show that I spent the next forty minutes unable to unhear it.
+
+"What are you hoping to get out of it?" said Kyle.
+
+I thought about lying. I'm not good at it with Kyle; he has no poker face, so nobody else needs one. "A co-founder who's actually a co-founder," I said.
+
+"You have Priya."
+
+"Priya's staying through whatever this is."
+
+"Has she signed anything?"
+
+"No."
+
+"Has she said the word?"
+
+"She said she'd decide once she saw whether this was a thing."
+
+"Nate." Kyle looked truly troubled, which took a moment, as if he'd been handed something heavy and asked to guess the weight. "That's not a co-founder. That's a roommate. I'm a roommate. I know the signs."
+
+I took a folded paper from my pocket, which I'm only mentioning so you know I'm a man who has one. "I have a plan," I said. It said: *1. Two investors. 2. One follow-up meeting. 3. Don't explain.*
+
+Kyle read it over my shoulder. "Number three is going to go badly."
+
+"It's a goal."
+
+"It's a wish with a number." He went back to the cereal. "My advice: play it cool. Don't commit to anyone. Don't look like you need it. The first person who looks desperate loses the room. Keep your options open. That's what works."
+
+"Does it work?"
+
+"For other people," said Kyle, without irony, and I think he'd have said the same about the weather.
+
+I put on the blue shirt, the one I wear to pitch, which Kyle says speaks for itself, and what it says is *I have read about this.* He wasn't wrong. I had read about this. It turns out that's the whole problem with being a person who reads.
+
+"There are two outcomes," said Kyle, as I reached the door. "You come home with a business card, or you come home with a story."
+
+"Which is better?"
+
+"The story," said Kyle. "The card is just a number that never calls back."
 
 ---
 
 It was the last week of July, in the ballroom of a hotel in SoMa that had been designed by someone who had heard of ballrooms. The carpet was a pattern I'd call *aggressively neutral.* There was a table of sliders that had been sliders since at least Thursday, and a bar serving a pinot noir in the sense that it was red and had once been introduced to a pinot noir at a party. On a little stage at the front, under a banner that said **BUILD SOMETHING THAT MATTERS** in a font that did not, a technician was adjusting a microphone for a man who was about to tell us about conviction.
 
-Around me, two hundred people were asking each other the only question anyone in the Valley asks, which is *So what are you working on?* It isn't really a question. It's a handshake with a subtitle. You say the name of your company. They say the name of theirs. Both of you say "Oh, nice," in the tone of someone being handed a stranger's baby.
+Around me, two hundred people were asking each other the only question anyone in the Valley asks, which is *So what are you working on?* It isn't really a question. It's a handshake with a subtitle. You say the name of your company. They say the name of theirs. Both of you say "Oh, nice," in the tone of someone being handed a stranger's baby. (Kyle had been right about the speed dating. He'd only been wrong about the speed.)
 
 By eight o'clock I'd had three of these conversations. A man raising a seed round (the first real money a startup raises, so called because it's supposed to grow) for a compliance startup that helped other compliance startups. A woman who described herself as "pre-idea, post-pitch," which stayed with me longer than most of my college classes. And a guy who told me his company was "Stripe for pets" and then asked whether I knew anyone at Stripe.
 
@@ -47,13 +107,11 @@ Cole had raised eighteen million dollars at twenty-six and wore it lightly, the 
 
 "Amazing," said Cole, and checked over my shoulder for someone better, and found them. "I'm on at quarter past. Catch you after!"
 
-(Cole collected investor offers the way other people collect airline miles: for the feeling, not the trip.)
+(Cole collected investor offers the way other people collect airline miles: for the feeling, not the trip. It was also, I noticed, Kyle's advice in a better jacket.)
 
 He did not catch me after. I don't think he'd meant to. I stood there with my green sticker and my water and the distinct feeling of having been complimented in a language I didn't speak.
 
 I looked around for the other oranges. There were six, standing alone near the pillars, each holding a cup with the same posture of a man waiting to be asked. One of them caught my eye and I looked away, fast, the way you look away from a reflection.
-
-My roommate Kyle had described mixers as a costume party for people who owned hoodies. I'd defended them on the grounds that I owned four.
 
 My phone buzzed. Priya.
 
@@ -282,7 +340,7 @@ I walked most of SoMa before the train, the long way, and missed one on purpose.
 
 Our apartment was dark except for the light over the stove. Kyle was at the counter at twenty to midnight, eating cereal out of a mixing bowl.
 
-"How was the costume party?" he said.
+"How was the speed dating?" he said.
 
 "I talked to a person."
 
@@ -317,7 +375,7 @@ Every founder gets the same advice, usually from someone with a podcast: fall in
 
 What I hadn't done, until a woman by the exit gave me the safe answer and I said it was the one she gave vendors, was ask a question and be willing to hear the real one. That's the whole trick. Not the asking. The willingness. Most of us ask the way we hold a cup of water at a party: for something to do with our hands.
 
-Every person in that ballroom was looking for something: a co-founder, a customer, a check. Each of us wore the color of the thing we'd settle for. I'd pinned on green and spent two hours ignoring the orange underneath. The orange, it turned out, had already been answered by someone on the other end of a Slack channel. The person I wasn't looking for didn't have a sticker.
+Kyle had told me the room was speed dating, and he was right, which is the trouble with it: two hundred people trying to be chosen, and almost nobody doing any choosing. Every one of us was looking for something, a co-founder, a customer, a check, and each of us wore the color of the thing we'd settle for. I'd pinned on green and spent two hours ignoring the orange underneath. The orange, it turned out, had already been answered by someone on the other end of a Slack channel. The person I wasn't looking for didn't have a sticker.
 
 Maya told me about the people the pharmacy never hears from. I didn't know I'd been handed a company. I knew only that for about twenty minutes nobody in that ballroom was performing, and I wanted to stay in it.
 
