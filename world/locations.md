@@ -9,7 +9,7 @@ Recurring places should each become emotionally loaded over the book.
 | The office (Phase 2) | Small real office in Palo Alto/Redwood City | The first door with the company's name on it |
 | The office (Phase 3) | Larger space, more employees | Loss of intimacy; more meetings, more distance |
 | Narrator's apartment | Cramped 1BR in Mountain View | Mess, cables, one plant that dies |
-| Maya's apartment | Small, warm place in the Mission or Oakland | Bookshelves, actual food, the first place he feels calm |
+| Maya's apartment | Fourth floor, Glen Park (steep street, sidewalk stairs; buzzer name "RAMAN" in pen; chain on the door) | Bookshelves, actual food, the first place he feels calm |
 | Uncle Ray's house & backyard | Santa Cruz mountains (Ben Lomond/Felton) | Advice happens here, in a larger-than-most yard he's forever landscaping (flowerbeds, a pond-in-progress), plus Denise's small vegetable garden |
 | The Raman family home / pharmacy | Fremont | Where the narrator learns what "small business" means |
 | The 6 a.m. spot | A bakery or a trail (Rancho San Antonio) | Honest conversations |
