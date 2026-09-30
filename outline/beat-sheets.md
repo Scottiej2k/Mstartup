@@ -136,7 +136,7 @@ Balance check: wrong transfers appear in every part (2, 5, 7, 9 | 11, 12, 13, 14
 
 ### Ch 2. Second Meeting, Third Coffee  *(DRAFTED)*
 - **S:** Priya tells him to follow up. Nate builds a spreadsheet for it (touchpoint, objective, ask); she sees it on a screen share.
-- **R:** The coffee is ambiguous, business or date. Maya's "cliff after two coffees" rule; "It has a name now"; Jules hears the story.
+- **R:** The coffee is ambiguous, business or date. Maya's "cliff after two coffees" rule and "I don't name things until coffee three"; at coffee three, "Then I guess you'll be seeing me" / "Seeing you later, yes" (the door with the chain still on); Jules hears the story.
 - **Crossing:** Follow-up (S to R, right) with its wrong twin, the pipeline spreadsheet (S to R, wrong).
 - **Plants:** "The gap"; the cliff; "Okay."
 - **Note:** *Follow up.*
@@ -213,6 +213,7 @@ promised anything yet. The cheap bets are the test.*
 - **R:** At a company dinner Nate introduces Maya as "my friend Maya." Kyle: "Don't lock in yet, you're a founder." Maya says "Okay." Three days of silence.
 - **Crossing:** S to R wrong (keep options open). R to S right (he calls Priya from the trail and says, "Draw up the paper. I'm not hedging.").
 - **Scenes:** (1) the fight, small, polite, devastating; (2) Ray's yard: "You get enough. Then you get brave." "Don't write that down."; (3) the trail at 6 a.m.: "Say it like you don't have a backup."; (4) Maya deletes the last app on her phone; (5) the call to Priya.
+- **Payoff due:** Maya said in Ch 2 that she doesn't name things until coffee three and that "whatever this is" has no name yet. In this chapter, once he says it without a backup, she gives it a name (what she calls them to Jules, or to her mother).
 - **Note:** *Optionality is a tax.* (Slide + withheld, sincere.)
 
 ---

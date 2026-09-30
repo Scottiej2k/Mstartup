@@ -403,13 +403,13 @@ That got a laugh out of her, brief, like it had slipped past a guard. Then it wa
 
 She looked at me for a long moment, the way she'd looked at the sign, as if I were something someone had written on tape. Then she nodded, once.
 
-"Okay," said Maya. "It has a name now."
+"Okay," said Maya. "Then I guess you'll be seeing me."
 
-"What is it?"
+"And you will be seeing... me?"
 
-"Later," she said, in the voice of someone who had already decided when.
+"Seeing you later, yes," she said, in a brilliant dodge of my obvious question.
 
-I took it for yes. It was a yes, but it was also a door held open six inches by someone who hadn't decided whether to hold it wider. I'd learn the difference later, at some cost.
+I felt like she'd opened the door but the chain was still locked, and she was looking me over to see if I was the kind of person she should let in.
 
 She let me walk her to her bus stop. It was a gray, bright Saturday and the fog had come in over Twin Peaks like a slow lid. At the stop, she put her hands in her coat pockets and looked at the sidewalk.
 
