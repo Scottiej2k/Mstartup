@@ -28,8 +28,8 @@ company and building a marriage.
 | `characters/backstories/` | Full backstories, family and inner circle, timeline |
 | `world/` | Setting, era, locations |
 | `startup/company.md` | The company: options, stages, key events |
-| `outline/stage-map.md` | Startup stage <-> relationship stage <-> chapter arc |
-| `outline/beat-sheets.md` | Beat sheets for all 24 chapters, calendar, trackers |
+| `outline/stage-map.md` | The five-stage arc (search, courting, going serious, breakthrough, grind): company and marriage side by side, with chapter list |
+| `outline/beat-sheets.md` | Beat sheets for all 24 chapters, calendar, the transfer ledger, trackers |
 | `style-guide.md` | Voice, tone, rules for the narrator and the reflections |
 | `open-questions.md` | What we need Scott to decide |
 | `decisions.md` | Running log of locked decisions |

@@ -21,6 +21,22 @@ you get it wrong.
 7. **Growth changes the thing you built.** Success forces you to renegotiate
    roles, time, and identity.
 
+## The five-stage spine (2026-09-30)
+Company and marriage go through the same five stages: **the search, courting,
+going serious, the breakthrough, the grind.** Nate carries lessons across in both
+directions. Sometimes they fit; sometimes he applies the right rule to the wrong
+thing. Delivery is implicit: action and consequence, with the parallel stated
+reflectively in the Founder's Note. The chapter-by-chapter ledger is in
+`outline/beat-sheets.md` (0.2).
+
+| Stage | Question the stage asks | The lesson that matures |
+|---|---|---|
+| 1. The Search | Is this the right person? | Ask, and want the real answer |
+| 2. Courting | Do we want the same things? | Small bets show who shows up; write down what you won't do |
+| 3. Going Serious | Can we carry real weight together? | Answer when it breaks; a person is not a project |
+| 4. The Breakthrough | Are we ready for the day we wanted? | Name one person per job; tell bad news early; delegate so you can be present |
+| 5. The Grind | Can we keep showing up? | A notification is not a person; ritual needs presence; notice, and wait to be told |
+
 ## Principle bank (for chapter-ending reflections)
 Draft list; each maps to a chapter. Should feel earned by the scene, never
 lecture-y.
@@ -41,6 +57,10 @@ lecture-y.
 | The pivot | Renegotiating the plan without ending the deal |
 | Vesting / long-term commitment | Marriage: the cliff is a choice, not a formality |
 | Next product = new risk | A child |
+| Vesting cliff: you earn nothing until a year in | Maya's "cliff after two coffees": what does it cost to leave now? |
+| One named owner per task | Lakshmi's receipt roll; one person for each thing |
+| Dry run before launch | A walk-through of the room before the wedding, with nobody watching |
+| A notification is not a person | A reminder is not a check-in |
 
 ## Motifs
 - Whiteboards and what gets erased

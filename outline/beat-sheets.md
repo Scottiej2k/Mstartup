@@ -1,405 +1,378 @@
-# Beat Sheets: All 24 Chapters  `PROPOSED`
+# Beat Sheets: All 24 Chapters  `PROPOSED` (redrawn 2026-09-30)
 
 A blueprint, not a cage. Every beat is a proposal for Scott to change. Built from
-`decisions.md`, `stage-map.md`, the backstories and the four voice guides.
+Scott's five-stage arc (see `stage-map.md`), `decisions.md`, the backstories and the
+voice guides.
 
-Chapter 1 is drafted and approved (`chapters/01-...`); its sheet is here for
-completeness and to show what later chapters plant and pay off.
+Chapters 1-4 are drafted (Ch 1 approved). Their sheets are kept short here, with the
+small rewrites the new arc asks for. Chapters 5-24 are new sheets.
+
+**Each sheet names:** S (the startup line), R (the relationship line), the **Crossing**
+(which way a lesson travels, and whether it is applied rightly or wrongly), scenes,
+plants and payoffs, and the Founder's Note. **Delivery: implicit only.** Nate never
+announces a crossing; the reader sees the rule travel and sees what it does.
 
 ---
 
 ## 0. Front matter
 
 ### 0.1 Master calendar
-Mixer is in July of Year 1. Nate is 28, Maya 27.
+Mixer is in July of Year 1. Nate is 28 and Maya 27. They marry in late September of
+Year 3 (Nate 30, Maya 29). Pregnancy is revealed in October of Year 4.
 
 | Part | Chapters | When | Company | Relationship |
 |---|---|---|---|---|
-| 1 The Spark | 1-4 | Jul-Sep, Y1 | Idea forms; name "Loopback" | Mixer, second meeting, first dates |
-| 2 Discovery | 5-8 | Oct Y1-Jan Y2 | Interviews, ugly prototype | Parents; first fight; the choice (Jan) |
-| 3 Commitment | 9-12 | Feb-Aug Y2 | First customer; seed round | Lease (Jun); Dayton (Aug) |
-| 4 Growth | 13-16 | Aug Y2-Mar Y3 | Hiring; metrics; growth | Pharmacy expands; the "solution" (Mar) |
-| 5 The Crisis | 17-20 | Apr-Dec Y3 | Meridian leaves; cofounder crisis | "Am I a project?" (Oct); repair |
-| 6 Maturity | 21-24 | Jan Y4-Oct Y5 | Rebuild; Series A; next product | Proposal (Sep Y4); wedding (May Y5); pregnancy (Oct Y5) |
+| 1 The Search | 1-4 | Jul-Sep Y1 | Problem found; name "Loopback"; Priya "helping" | Mixer, coffees, first dates |
+| 2 Courting | 5-9 | Oct Y1-Jan Y2 | Interviews; ugly prototype; free pilot; ninety-day trial ends; turns down sponsor money | Her parents; values talk; first fight; the choice (Jan) |
+| 3 Going Serious | 10-14 | Feb-Sep Y2 | First paying customer; founder agreement (one-year cliff); first investors; first hire; Priya at the cliff | Moving in; both families hoping; pharmacy expansion announced; "Am I a project?" (Sep) |
+| 4 The Breakthrough | 15-19 | Oct Y2-Sep Y3 | Meridian (40 stores): checklist, pilot store, rehearsal, **go-live** | Repair; Ray's questions; proposal (Dec); wedding planning; **wedding** (same weekend as go-live) |
+| 5 The Grind | 20-24 | Oct Y3-Oct Y4 | Keeping Meridian; Theo burns out and returns; the pivot; a double-failure night | First year of marriage; Tuesdays; the pharmacy suite opens; Suresh's scare; first anniversary; pregnancy |
 
-Consistency notes: Ch 19 falls about 2 years 3 months after the mixer, so Maya's
-sample now says "in two years and change." The Sunday reminder was set in March
-(after Ch 16) and Maya sees it in October (Ch 19).
+Consistency notes:
+- Priya's start date is **October 1, Year 1**, so her one-year cliff falls on **October 1, Year 2**. Ch 14 happens in the last weeks of September.
+- The Sunday reminder is set in **August, Y2** (end of Ch 13), seen by Maya in **September, Y2** (Ch 14), deleted in Ch 15, and its *idea* comes back in Ch 20 (a calendar-invite relapse) and Ch 21 (the named person).
+- Wedding and go-live are both the **last Saturday of September, Y3**.
 
-### 0.2 Nate's growth ladder (a different lesson each part)
-**DECIDED (Scott):** the book must not hammer one theme. Nate learns something
-*different* in each part, in ways that surprise him. "Nobody's job is to notice" is
-set up in Ch 1 and Ch 3, echoes lightly (Ch 9), goes quiet through the middle, and
-**returns near the end**: Nate has built a company to take on the job of
-noticing, and he also takes on the job of noticing in his marriage.
+### 0.2 The transfer ledger (replaces the old "growth ladder")
+Each row is one crossing. **S to R** = a startup lesson applied to the relationship;
+**R to S** = a relationship lesson applied to the company. **Right** = it works.
+**Wrong** = it is the right rule in the wrong place, and it costs him.
 
-| Part | What Nate learns | How it shows |
-|---|---|---|
-| 1 The Spark | To ask, and to want the real answer | He follows up; he lets Maya's answer change his idea |
-| 2 Discovery | To stay when it's uncomfortable, and to commit without hedging | The ugly demo; the fight and the trail |
-| 3 Commitment | To be answerable: to answer when it breaks | The midnight outage; the lease; repairing with Kyle |
-| 4 Growth | What scale and speed cost, and that helping isn't listening | The green arrow; the staffing spreadsheet |
-| 5 The Crisis | To be present without a plan | The car; the couch; not opening the spreadsheet |
-| 6 Maturity | To take responsibility for noticing | The pivot; the proposal; Ch 24 |
+| Ch | Crossing | Direction | Right / Wrong | What it costs or earns |
+|---|---|---|---|---|
+| 1 | "Nobody's job is to notice" (a hunch from a dead product) | S to R | Seed | Plants the book's idea |
+| 2 | Follow up; don't let the gap open | S to R | Right (with a wrong twin: the spreadsheet) | He texts her; Priya gracious about the spreadsheet |
+| 2 | Run courtship as a pipeline (touchpoint, objective, ask) | S to R | Wrong | Caught on a screen share |
+| 3 | Listen to the person in pain, not the pitch | R to S | Right | The idea is hers, in other words |
+| 4 | Ask Ray a "hypothetical" that is really about Maya | both | Mixed | Ray answers both |
+| 5 | Interview technique: "tell me about the last time" | R to S | Right | The first useful customer interview |
+| 5 | Treat a date like a funnel | S to R | Wrong | "I am not in your funnel" |
+| 6 | Ship the ugly version (of the apology) | S to R | Mixed (works once, becomes a habit) | Forgiven, then a pattern |
+| 7 | See a lead in a family | S to R | Wrong | Maya shuts it down |
+| 7 | Ask before you pitch (the fax machine) | R to S | Right | Suresh shows him how it works |
+| 8 | "Is that the pitch or the answer?" | R to S | Right | The honest talk with Priya |
+| 8 | Write down what we won't do | S to R | Right | The napkin list with Maya |
+| 9 | Stay liquid; keep options open | S to R | Wrong | The first fight |
+| 9 | Commit without a backup | R to S | Right | Nate asks Priya for the paper |
+| 10 | Answer when it breaks | S to R | Right | Lakshmi: "Did he answer?" |
+| 11 | A cliff as a clause | S to R | Wrong | The vesting joke at Annie's table lands badly |
+| 11 | The quiet father | R to S | Right | He tells Priya what he feels, not just what he signs |
+| 12 | Who are you when you pitch? | R to S | Right | He picks the kind investor |
+| 12 | Rehearse the pitch | S to R | Wrong | Maya: "Are you rehearsing?" |
+| 13 | Runway math on the lease | S to R | Wrong | Maya is not a line item |
+| 13 | The fix nobody asked for (staffing spreadsheet); automate the check-in (Sunday reminder) | S to R | **Wrong (the big one)** | Sets up Ch 14 |
+| 14 | "You listened, and then you fixed" (Priya's version) | S to R | Wrong | Two women say the same thing in one week |
+| 15 | Sit with it; do not speak | R to S | Right | He listens to Priya; she passes the cliff |
+| 16 | Ray's four questions (what would make you walk?) | R to S | Right | He asks the same of a customer contract |
+| 17 | Project-manage the wedding (who does what, by when) | S to R | Wrong | "It's a wedding, not a migration" |
+| 17 | One named person per job (Lakshmi's receipt roll) | R to S | Right | The pilot store design |
+| 18 | Tell bad news early | R to S | Right | He warns Carla before the pilot fails |
+| 18 | Do a dry run in private | S to R | Right | The city hall walk-through with Maya |
+| 19 | Delegate so you can be present | S to R | Right | His phone stays off; "They're all green." |
+| 20 | Scale what works (recurring date-night invites) | S to R | Wrong | "It's in my calendar, with a link" |
+| 21 | A notification is not a person | R to S | **Right (the big one)** | The pivot: a named person with protected time |
+| 21 | Blameless post-mortem at the kitchen table | S to R | Right | The best fight they ever have |
+| 22 | A fixed Tuesday customer call | S to R | Right | A fixed Tuesday hour with Maya |
+| 23 | Build a team that runs without you | S to R | Right | He is at the hospital; Priya has the outage |
+| 24 | Notice, and wait to be told | both | Right | The book's idea comes home |
 
-The middle chapters should each have their own concern. Don't let every
-character's trouble read as the same trouble.
+Balance check: wrong transfers appear in every part (2, 5, 7, 9 | 11, 12, 13, 14 | 17 | 20). Part 5 has only one wrong transfer, so the marriage is not a rerun of the crisis.
 
 ### 0.3 Who is where (character tracker)
 
-| Character | Ch 1-4 | 5-8 | 9-12 | 13-16 | 17-20 | 21-24 |
-|---|---|---|---|---|---|---|
-| **Ray** | 4 | 8 | 10, 12 | 15, 16 | 18, 20 | 21 (call), 22, 23, 24 |
-| **Kyle** | 1, 2, 3 | 5, 8 | 11 (fight, repair) | 13, 14 | 17, 20 | 21, 23 |
-| **Priya** | 1, 3 | 5, 6 | 9, 10, 12 | 13, 14 | 17, 18 | 21, 22 |
-| **Cole** | 1, 2 | 8 | 10 | 14 | 17 | 21, 23 |
-| **Margo** | | | 10 | 13, 14 | 17 | 21, 22 |
-| **Dr. Okafor** | | 6 | 9 | | 17 | 21 |
-| **Lakshmi / Suresh** | (mentioned) | 7 | 9 | 15, 16 | 20 | 22, 23 |
-| **Jules** | 2 | 8 | 11 | | 19, 20 | 23 |
-| **Annie / Dan / Carol** | | | 12 | | | 23 |
-| **Theo** | | | | 13, 14 | 17 (exits) | 21 (returns, part-time), 23 (at the party) |
-| **Arjun** | | | | 15 | 20 | 23 |
+| Character | Ch 1-4 | 5-9 | 10-14 | 15-19 | 20-24 |
+|---|---|---|---|---|---|
+| **Ray** | 4 | 9 | 12, 13, 14 (call) | 15, 16, 19 | 21 (call), 24 |
+| **Kyle** | 1, 2, 3 | 5, 9 | 13 (fight, repair) | 17, 19 | 20, 22 |
+| **Priya** | 1, 2, 3 | 5, 6, 8, 9 | 10, 11, 12, 14 | 15, 17, 18, 19 | 20, 21, 23, 24 |
+| **Cole** | 1, 2 | 9 | 12 | 19 | 22 |
+| **Margo** | | | 12 | 19 | 22 |
+| **Dr. Okafor** | | 6 | 10 | | |
+| **Carla Ruiz** (Meridian) | | | | 16, 17, 18, 19 | 20, 21, 23 |
+| **Lakshmi / Suresh** | (mentioned) | 7, 8 | 10, 12, 13 | 15, 16, 18, 19 | 21, 22, 23, 24 |
+| **Jules** | 2 | 8 | 13 | 19 | 22 |
+| **Annie / Dan / Carol** | | | 11 | 17, 18, 19 | 22 |
+| **Theo** | | | 12 (hired), 13 | 18, 19 | 20, 21 (quits, returns), 23 |
+| **Arjun** | | | 13 | 15, 18, 19 | 23 |
 
 ### 0.4 Motif tracker (planted and paid off)
 
 | Motif | Planted | Grows | Pays off |
 |---|---|---|---|
-| The cup of water | Ch 1 | Ch 2 (he doesn't hold one), Ch 6 | Ch 24 (a glass he doesn't need to hold) |
-| Maya's coat / the door | Ch 1 | Ch 7, 8 | Ch 19 (she sits on the couch, coat off) |
-| "Nobody's job is to notice" | Ch 1 | Ch 3, a light echo in Ch 9, then quiet | Ch 21 (pivot), Ch 24 (Nate takes the job) |
-| The question mark | Ch 1 | Ch 3 (he removes it) | Ch 22 |
-| Lakshmi's receipt-roll call list | Ch 1 | Ch 3, 7 | Ch 21 (Loopback makes the call) |
-| "Good luck with the question mark. Get some evidence." (Maya's exit line) | Ch 1 | Ch 3 (he removes it, with evidence) | (paid off in Ch 3) |
-| "Optionality" (Cole) | Ch 1 | Ch 2, 8 | Ch 23 (Cole alone) |
-| Ray's quarter-turn cup | Ch 4 | Ch 8, 16 | Ch 22 |
-| Denise's rules | Ch 4 (a photo) | Ch 15 (dishes) | Ch 22, 24 |
-| The Sunday reminder | Ch 16 | | Ch 19 (revealed) |
-| "Okay." (Maya's neutral, dangerous word) | Ch 2 | Ch 8, 16 | Ch 23 (the yes) |
-| The dishes | Ch 15 (Ray) | Ch 21 (Maya) | Ch 24 |
-| Sitting in the car | Ch 19 (she says it) | | Ch 20 (he sits with her) |
-| "Text me when you get there" | Ch 12 (Dan) | | Ch 23 (toolbox note) |
-| Tuesdays | Ch 8 | Ch 14 | Ch 21 |
-| Aayasam | Ch 19 | | Ch 23 or 24 (he says it right, or doesn't need to) |
+| The cup of water | Ch 1 | Ch 2, 6 | Ch 24 (a glass he doesn't need to hold) |
+| Maya's coat / the door | Ch 1 | Ch 2 (buttoned), 7 (off) | Ch 14 (she sits on the couch, coat off) |
+| "Nobody's job is to notice" | Ch 1 | Ch 3, 10 | Ch 21 (pivot), Ch 24 (Nate takes the job) |
+| The question mark | Ch 1 | Ch 3 (he removes it, with evidence) | Ch 16 (he asks her in a sentence with no hedge in it) |
+| **The cliff** (Maya's "cliff after two coffees") | Ch 2 | Ch 11 (vesting cliff, a joke that misfires), 14 | Ch 15 (Priya passes it), Ch 24 (first anniversary) |
+| "Tuesday" ("makes someone's Tuesday easier") | Ch 3 | Ch 9 (Ray), 12 | Ch 22 |
+| "Tell me about the last time" | Ch 5 | Ch 8, 16 | Ch 21 |
+| Lakshmi's receipt-roll call list | Ch 1 | Ch 3, 7, 17 | Ch 21 (Loopback makes the call) |
+| "Optionality" / "stay liquid" (Cole) | Ch 1 | Ch 2, 9 | Ch 19 (Cole alone) |
+| Ray's quarter-turn cup | Ch 4 | Ch 9, 15 | Ch 16 |
+| Denise's rules | Ch 4 (a photo) | Ch 13 (dishes) | Ch 16, 24 |
+| The Sunday reminder | Ch 13 | Ch 14 (revealed), 15 (deleted) | Ch 20 (calendar-invite relapse), Ch 21 (the named person) |
+| "Okay." (Maya's neutral, dangerous word) | Ch 2 | Ch 9, 13 | Ch 16 (the yes) |
+| "I don't have a backup" | Ch 9 | Ch 12 (investors) | Ch 16 (the proposal) |
+| The dishes | Ch 13 (Ray) | Ch 20 | Ch 22, 24 |
+| Sitting in the car | Ch 14 (she says it) | | Ch 15 (he sits with her) |
+| "Text me when you get there" | Ch 11 (Dan) | Ch 18 | Ch 19 (toolbox note) |
+| Aayasam | Ch 14 | | Ch 19 or 24 (he says it right, or doesn't need to) |
+| Walt's letter | Ch 15 | | Ch 19 (mailbox) |
+| Suresh's fax machine / "I'd like to be asked" | Ch 7 | | Ch 21 |
+| Carla's "You listened. Nothing changed." | Ch 18 (foreshadow) | | Ch 21 |
+| Mr. Peralta / the man in 4B | Ch 1, 3 | | Ch 24 (the next product: people who live alone) |
 
 ---
 
-## PART 1: THE SPARK  (Jul-Sep, Year 1)
+## PART 1: THE SEARCH  (Jul-Sep, Year 1)
+
+*Stage: finding the right co-founder and the right partner. Both are auditioning Nate.*
 
 ### Ch 1. The Room Nobody Wanted To Be In  *(DRAFTED, approved)*
-- **Startup:** Nate has no company, a Notion page ("Healthcare, something?"), and a dead inventory startup.
-- **Relationship:** Meets Maya. She gives the safe answer, then the real one.
-- **Plants:** Cole's "Optionality, man"; Lakshmi's index card and receipt-roll list; the coat and the door; "MAYA RAMEN"; Nate's list habit; "Nobody's job is to notice."
-- **Note:** *Ask what's actually wrong.* (Slide, confident.)
+- **S:** Nate has no company, a Notion page ("Healthcare, something?"), a dead inventory startup, and Priya on the phone.
+- **R:** Meets Maya. She gives the safe answer, then the real one.
+- **Plants:** Cole's "Optionality, man"; Lakshmi's index card and receipt-roll list; the coat and the door; "MAYA RAMEN"; "Nobody's job is to notice."
+- **Note:** *Ask what's actually wrong.*
 
-### Ch 2. Second Meeting, Third Coffee
-**~3,500 words · Aug, Y1**
-- **Purpose:** Establish the dating landscape ("everyone's optimizing") and prove Nate can follow up. Priya told him to.
-- **Startup beat:** Priya asks for a follow-up plan. Nate builds a 12-item "customer discovery" spreadsheet, hears himself, deletes it. Cole texts: "Drinks? Stay liquid."
-- **Relationship beat:** Nate texts Maya: the first message is 4 drafts long. Coffee in the Mission (Maya's Sample B): her 61-match spreadsheet; his Notion page; "I'm afraid of picking someone who's still keeping the door open."
-- **Scenes:**
-  1. Nate drafts the text (Kyle "helps"). Kyle: "Wait 48 hours." Nate waits 90 minutes.
-  2. Second meeting: a walk, not a date. She is mostly interested in his failed company: "Why did it die?"
-  3. Third coffee (Sample B). She says "Okay." (first neutral, unread) when he says he wants to see her again.
-  4. Maya tells Jules (Sample G). "Are you being kind, or are you being useful?"
-- **Nate's flaw:** turns the courtship into a plan. Voice: brisk, defensive, numbers.
-- **Plants:** Kyle's advice pattern; Jules; "Okay."; Nate has deleted the apps.
-- **Note:** *Follow up.* (Slide, wry.) The follow-up is where the company lives, and where dates live. *(Replaces the earlier "optionality" idea; that theme moves to Ch 8.)*
+### Ch 2. Second Meeting, Third Coffee  *(DRAFTED)*
+- **S:** Priya tells him to follow up. Nate builds a spreadsheet for it (touchpoint, objective, ask); she sees it on a screen share.
+- **R:** The coffee is ambiguous, business or date. Maya's "cliff after two coffees" rule; "It has a name now"; Jules hears the story.
+- **Crossing:** Follow-up (S to R, right) with its wrong twin, the pipeline spreadsheet (S to R, wrong).
+- **Plants:** "The gap"; the cliff; "Okay."
+- **Note:** *Follow up.*
+- **Rewrite needed (light):** see 0.5.
 
-### Ch 3. The Idea That Wouldn't Leave
-**~3,800 words · Aug-Sep, Y1**
-- **Purpose:** The company idea crystallizes; Nate names it.
-- **Startup beat:** Nate and Priya interview 14 pharmacists and clinic managers (Priya's condition: talk to ten before building anything). Everyone says the same thing Maya did, in different words. The idea: a system that notices who didn't come back and routes it to a human. Name: **Loopback** ("closing the loop"). Kyle: "So it's a reminder app."
-- **Relationship beat:** Maya, when asked to review the patient-facing wording, refuses to "consult" but rewrites three sentences in ten minutes ("take with food" energy). Nate notices she is better at this than he is.
-- **Scenes:**
-  1. The interviews (montage, one detail each). Dr. Okafor's first appearance: skeptical.
-  2. Whiteboard night at the coworking space: "Loopback" written, erased, written.
-  3. Nate shows Maya the sketch. She rewrites the wording. Then: "I'll tell you what's wrong with it. I won't build it."
-  4. Nate removes the question mark from the Notion page (payoff to Ch 1).
-- **Plants:** Loopback's human-in-the-loop instinct (Lakshmi's calls) and the danger of automating it; Maya's line: "It's a good idea if it makes someone's Tuesday easier."
-- **Plant (vision):** one interview isn't healthcare: a property manager describes an elderly tenant nobody checked on. Nate writes it down and tells Priya, "Healthcare first." The general idea is *a pulse check*; healthcare is the wedge.
-- **Note:** *The best ideas come from someone else's pain.* (Slide, confident.) Twin left implicit.
+### Ch 3. The Idea That Wouldn't Leave  *(DRAFTED)*
+- **S:** Fourteen interviews (Priya's condition before building anything). The pulse-check idea. Loopback. A tenant on a kitchen floor.
+- **R:** Maya rewrites the patient text in ten minutes; "I'll tell you what's wrong with it. I won't build it."
+- **Crossing:** R to S, right. The best idea comes from listening to the person in pain.
+- **Note:** *The best ideas come from someone else's pain.*
+- **Rewrite needed (light):** end with Priya's "I'm in, for ninety days." See 0.5.
 
-### Ch 4. Uncle Ray
-**~3,800 words · Sep, Y1**
-- **Purpose:** Introduce Ray and the "hypothetically" device.
-- **Startup beat:** Nate needs a sounding board about prioritizing buyers vs. non-buyers.
-- **Relationship beat:** He asks Ray about "a person who keeps asking the best questions but isn't a buyer." Ray answers both questions.
-- **Scenes:**
-  1. Drive to Santa Cruz mountains; Nate's phone dies; he arrives without a plan.
-  2. Ray's backyard (Sample A): staking out a flowerbed, the quarter-turned mug, second coffee. Nate misreads the tell ("Ray seemed tired").
-  3. The yard tour: the pond that isn't dug yet, Denise's small vegetable corner he never touches; the framed photo of Denise in the kitchen; Ray mentions her plainly, once.
-  4. As Nate arrives, an old colleague of Ray's is leaving (a thermos handed over; Ray: "Just coffee."). The landline rings once during the visit. Ray doesn't answer it.
-  5. The drive home; Nate notes "Ray: distracted?" in his phone.
-- **Plants:** The quarter-turn; Denise photo; Dan and Ray's distance; Ray's "second cup."
-- **Note:** *The best feedback comes from someone who isn't buying.* (Slide, playful; "I'll spare you.")
+### Ch 4. Uncle Ray  *(DRAFTED)*
+- **S/R:** Nate asks Ray a hypothetical about "a person who keeps asking the best questions but isn't a buyer." Ray answers both.
+- **Plants:** The quarter-turned cup; Denise's photo; the landline; "Keep inviting her to your interviews."
+- **Note:** *The best feedback comes from someone who isn't buying.*
+
+### 0.5 Rewrites needed in Ch 1-4 (proposed, small)
+| Where | Change | Why |
+|---|---|---|
+| Ch 2, the weekly call scene | One or two lines: Priya "hasn't signed anything" and says "let's see" about joining properly | The search for a co-founder is live, not assumed |
+| Ch 2 or Ch 3 | **Cole's offer (optional, ~500 words):** Cole proposes folding Nate's idea into his company with Nate as "a sort of CTO." Nate is tempted. Priya doesn't say anything. He says no | Makes the co-founder search concrete (glossy option vs. the right one), and rhymes with the apps |
+| Ch 3, final scene | Priya: "I'm in. For ninety days. Then we talk about paper." | Sets up Ch 8 and the founder agreement |
+| Ch 2 Founder's Note | None. "Follow up" still fits | |
 
 ---
 
-## PART 2: DISCOVERY  (Oct Y1-Jan Y2)
+## PART 2: COURTING  (Oct Y1-Jan Y2)
+
+*Stage: small investments in each other, to see if goals and values line up. Nobody has
+promised anything yet. The cheap bets are the test.*
 
 ### Ch 5. Asking Better Questions
 **~3,600 words · Oct, Y1**
-- **Purpose:** Interviews vs. dates; Nate learns to ask without confirming.
-- **Startup beat:** A disastrous customer interview (Nate asks, "Wouldn't it be great if...?" and hears yes to everything). Maya sits in and afterward tells him why it was useless.
-- **Relationship beat:** The taqueria funnel scene (Nate's Sample D): "I am not in your funnel." He admits, partially, why he asks so many questions (his family doesn't).
-- **Scenes:**
-  1. The bad interview (Priya in the room, wincing).
-  2. Maya coaches him: "Ask about the last time it happened, not what they'd want."
-  3. Taqueria funnel (Sample D). Maya's laugh, finally.
-  4. A short scene with Kyle: Nate says "customer discovery" about dating; Kyle: "That's the least sexy sentence."
-- **Plants:** Maya's interviewing skill as a gift he'll misuse (treat as a resource) and later honor.
-- **Note:** *There are two kinds of questions.* (Confession, wry.) "Maya would say thirty."
+- **S:** A customer interview with a clinic manager. Nate asks, "Wouldn't it be great if...?" and hears yes to everything. Priya winces. Maya, there as a favor to her mother and strictly unpaid, watches. Afterward she tells him why it was useless: "Ask about the last time it happened."
+- **R:** The taqueria funnel scene: Nate asks Maya about her life in the language of a sales call. "I am not in your funnel." He admits, partly, why he asks so many questions: nobody in his family did.
+- **Crossing:** R to S right (Maya's technique rescues the next interview). S to R wrong (funnel), then right (he asks Maya about the last time she was happy at work, and gets an answer).
+- **Scenes:** (1) the bad interview; (2) Maya coaches him in the car; (3) the taqueria; (4) a short scene with Kyle ("That's the least sexy sentence"); (5) the good interview: a pharmacist tells a story about the last Tuesday.
+- **Plants:** "The last time it happened"; Maya's skill is a gift he will misuse and later honor.
+- **Note:** *There are two kinds of questions.*
 
 ### Ch 6. The Ugly Prototype
 **~3,500 words · Nov, Y1**
-- **Purpose:** Ship something; show up imperfect.
-- **Startup beat:** Nate and Priya build the ugly prototype over a weekend. SUBMIT in default blue. It crashes twice during Dr. Okafor's demo. She uses it anyway.
-- **Relationship beat:** Nate cancels on Maya for the build weekend, arrives at her door with unresearched wine and an unrehearsed apology. Maya: "Are you here to fix it or to say it?"
-- **Scenes:**
-  1. Weekend crunch: Priya's rule ("ship when it's embarrassing").
-  2. Dr. Okafor's clinic demo: crash, crash, "So it works when you're standing next to it."
-  3. Nate at Maya's door (her apartment, bookshelves, cardamom).
-  4. The apology, bad, and believed.
-- **Nate's flaw:** perfectionism as fear (first company died unshipped).
-- **Note:** *Ship the ugly version.* (Confession, warm.)
+- **S:** Weekend build with Priya; a blue SUBMIT button; it crashes twice in Dr. Okafor's demo. She uses it anyway, free, for a month. That is her small investment.
+- **R:** Nate cancels on Maya for the build weekend (her friend's birthday dinner). He arrives Sunday with unresearched wine and an unrehearsed apology. "Are you here to fix it or to say it?"
+- **Crossing:** S to R mixed. "Ship the ugly version" works once, on an apology. It becomes a habit he will lean on.
+- **Scenes:** (1) Priya's rule: ship when it's embarrassing; (2) the demo, crash, crash, "So it works when you're standing next to it"; (3) Maya's door, cardamom, bookshelves; (4) the apology, bad, and believed.
+- **Nate's flaw:** perfectionism as fear (the first company died unshipped).
+- **Note:** *Ship the ugly version.*
 
 ### Ch 7. Meeting Maya's Parents
-**~4,000 words · Nov, Y1**
-- **Purpose:** The pharmacy, the family, and the "leads" moment.
-- **Startup beat:** Nate sees the fax machine and instantly thinks "wedge." Maya shuts it down ("Those are people. Not leads.").
-- **Relationship beat:** Lakshmi's "Saapteengala?" and tiffin box; Suresh's dead fax machine; Nate asks Suresh about it and they have his first real business conversation.
-- **Scenes:**
-  1. Arrival at Raman Family Pharmacy. Maya's coat off (only here).
-  2. Sample C (the counter, Mrs. Chen).
-  3. Lakshmi in the back office (Sample H).
-  4. Nate and Suresh, the fax machine; Suresh asks "Do you want to see how it works?" and lets him look.
-- **Plants:** Suresh has been faxing from the UPS Store; "I think he'd like to be asked" pays off in Ch 21.
-- **Note:** *Don't treat a customer like a lead.* (Short, chastened.)
+**~4,000 words · Nov-Dec, Y1**
+- **S:** Suresh's fax machine. Nate sees a wedge. Maya: "Those are people. Not leads."
+- **R:** Lakshmi's "Saapteengala?" and the tiffin; the pharmacy counter (Mrs. Chen); Maya's coat comes off, only here.
+- **Crossing:** S to R wrong (lead). R to S right (he asks Suresh how the fax works, and Suresh lets him look: the first real customer conversation).
+- **Scenes:** (1) arrival; (2) the counter; (3) Lakshmi in the back office; (4) Nate and Suresh at the fax machine.
+- **Plants:** Suresh faxes from the UPS Store; "I'd like to be asked" pays off in Ch 21.
+- **Note:** *Don't treat a customer like a lead.*
 
-### Ch 8. The First Fight, and the Choice
-**~4,200 words · Dec Y1-Jan Y2**
-- **Purpose:** Both choose, deliberately, against a culture of optionality.
-- **Startup beat:** The seed round looms. Cole's "stay liquid." Kyle: "Don't lock in yet, you're a founder."
-- **Relationship beat:** Nate says he wants to "keep it low-key until the seed closes." Maya says "Okay." (the door closes politely). Three days of silence.
-- **Scenes:**
-  1. The fight (small, polite, devastating).
-  2. Ray's yard (Sample B): "You get enough. Then you get brave." "Don't write that down."
-  3. The trail at 6 a.m. (Sample D): the spreadsheet, "renting a very nice apartment I never lived in," "Say it like you don't have a backup."
-  4. Maya deletes the one app left on her phone.
-- **Nate's flaw:** hedges with a plan.
-- **Note:** *Optionality is a tax.* (Slide + Withheld, sincere.)
+### Ch 8. Ninety Days
+**~3,800 words · Dec, Y1**
+- **S:** Day ninety of Priya's trial. She asks what he wants from this in three years. His answer is a slide. She writes a list on the whiteboard of what she won't build (no selling patient names, no texts that scold). A drugmaker offers $40,000 to put its name at the bottom of Loopback's texts. Nate hesitates for ten seconds before saying no. Priya counts the ten seconds.
+- **R:** Christmas. The first real "what do we want" talk with Maya: where she will always live (near the pharmacy), what he'd give up. "Is that the pitch or the answer?" A list of three non-negotiables on a napkin each; they don't compare them yet.
+- **Crossing:** R to S right ("Is that the pitch or the answer?" turned on himself). S to R right (a written list of what you won't do).
+- **Scenes:** (1) whiteboard, Priya; (2) the sponsor call; (3) the ten seconds; (4) the napkins; (5) Maya's question.
+- **Plants:** The values list; the ten seconds (Priya remembers).
+- **Note:** *Write down what you won't do.*
+
+### Ch 9. The Choice
+**~4,200 words · Jan, Y2**
+- **S:** Priya asks for paper (a founder agreement). Nate says: "After we have customers." Cole: "Stay liquid."
+- **R:** At a company dinner Nate introduces Maya as "my friend Maya." Kyle: "Don't lock in yet, you're a founder." Maya says "Okay." Three days of silence.
+- **Crossing:** S to R wrong (keep options open). R to S right (he calls Priya from the trail and says, "Draw up the paper. I'm not hedging.").
+- **Scenes:** (1) the fight, small, polite, devastating; (2) Ray's yard: "You get enough. Then you get brave." "Don't write that down."; (3) the trail at 6 a.m.: "Say it like you don't have a backup."; (4) Maya deletes the last app on her phone; (5) the call to Priya.
+- **Note:** *Optionality is a tax.* (Slide + withheld, sincere.)
 
 ---
 
-## PART 3: COMMITMENT  (Feb-Aug Y2)
+## PART 3: GOING SERIOUS  (Feb-Sep Y2)
 
-### Ch 9. First Paying Customer
+*Stage: building the thing together, with everyone hoping we commit. The weight is real
+now, and so is the way out.*
+
+### Ch 10. When It Breaks
 **~3,600 words · Feb-Mar, Y2**
-- **Purpose:** The first check; Lakshmi's second question, "What happens when it breaks?"
-- **Startup beat:** Dr. Okafor signs the first paid pilot. Two weeks later, a midnight outage during flu season.
-- **Relationship beat:** Nate stays up until 2 a.m. fixing it. Maya sees the whole thing on speaker; she calls her mother the next day.
-- **Scenes:**
-  1. The signature (small clinic, real check, Dr. Okafor: "Come see it in flu season").
-  2. The outage: Nate and Priya work it from his kitchen table; Nate answers every call himself.
-  3. Maya at the pharmacy the next day: Lakshmi asks, "Did he answer?" "Yes." Lakshmi writes something on her list.
-- **Plants:** Lakshmi's approval as a running measure.
-- **Note:** *The first hard thing you do for someone.* (Question, warm.)
+- **S:** Dr. Okafor signs the first paid pilot. Two weeks later, a midnight outage in flu season. Nate and Priya fix it at his kitchen table; he answers every call himself.
+- **R:** Maya hears the whole thing on speaker. The next day at the pharmacy Lakshmi asks, "Did he answer?" That week Maya's car dies on the 101 at 1 a.m. and Nate answers.
+- **Crossing:** S to R right. Answering when it breaks is the same skill.
+- **Scenes:** (1) the signature; (2) the outage; (3) the pharmacy: "Did he answer?"; (4) the 101.
+- **Plants:** Lakshmi's approval as a running measure; "Tuesday."
+- **Note:** *The first hard thing you do for someone.*
 
-### Ch 10. Term Sheets
-**~4,000 words · Apr-May, Y2**
-- **Purpose:** VCs to please; Margo's rule; who you let close.
-- **Startup beat:** Two term sheets: a glossy fund (Cole: "stay liquid," wants a move to SF), and Margo Bell's smaller fund (better fit). Nate chooses Margo.
-- **Relationship beat:** Maya is uneasy watching Nate perform for investors; she asks him one question afterward: "Who did you just talk to?"
-- **Scenes:**
-  1. Pitch #1, the "huge market" moment, then Ray's porch (Sample E): "Nobody wants a market."
-  2. Margo's office; her story of the founder who hid a lost customer (Note material).
-  3. Cole's coffee: he offers a "better" deal; it's a subtle cage.
-  4. Nate calls Margo; Maya takes him for dumplings after.
-- **Note:** *Take money from people who'll be kind the week after you're wrong.* (Slide, wry.)
+### Ch 11. The Cliff
+**~4,200 words · Apr, Y2**
+- **S:** The founder agreement. Plain language: you earn your share of the company over four years. Leave in the first year and you get nothing. That first year is called the cliff. Priya reads every line, asks for one clause (either founder can say no to taking money alone), and Nate signs.
+- **R:** The Dayton trip. Maya meets Dan, Carol and Annie. Carol's color-coded calendar (Maya gets a color). Dan and Nate fix the dishwasher. At dinner Nate jokes that marriage should have a one-year cliff. Nobody laughs. Annie to Maya: "He says 'text me when you get there' because he can't say the other thing." At the airport, Dan: "Text me when you get there."
+- **Crossing:** S to R wrong (a cliff is a clause; to Maya it is a fear). R to S right (he sees his father's silence and gives Priya a sentence, not just a signature).
+- **Scenes:** (1) signing; (2) the plane; (3) Carol's calendar; (4) the dishwasher; (5) the joke; (6) Annie and Maya; (7) the airport.
+- **Plants:** Maya's "cliff" now has a second meaning; "Text me when you get there."
+- **Note:** *A cliff is a promise with a price.*
 
-### Ch 11. The Lease
-**~4,200 words · Jun, Y2**
-- **Purpose:** Kyle's falling-out and repair; the too-early, mutual decision to live together.
-- **Startup beat:** The seed money lands; Nate can afford a better apartment.
-- **Relationship beat:** Nate tells Kyle they might live together; Kyle: "You're 29 and you've known her 11 months." Nate snaps: "You don't want advice. You want an audience." Kyle storms out. Nate, raw, calls Maya and blurts out "what if we just moved in together." She wants to but isn't sure she's ready.
-- **Scenes:**
-  1. The Kyle fight (in the apartment, cereal bowl in hand).
-  2. The blurted question, a phone call; Maya goes quiet ("Okay?").
-  3. A night apart; Jules tells Maya, "Are you afraid of him or of yourself?"
-  4. They decide together, sign the lease (a one-bedroom in Sunnyvale, "equally inconvenient" for both worlds).
-  5. Move day: Kyle shows up with a hand truck. "I said it because I thought you'd stop needing me."
+### Ch 12. Two Offers
+**~4,000 words · May-Jun, Y2**
+- **S:** Seed money: two offers. A glossy fund (Cole's recommendation; wants a move to SF and the "huge market" story, every kind of person who lives alone) and Margo Bell's small fund (Loopback first, slowly). Plain language: they give us money, we give them a slice of the company. "We have fourteen months of cash. That's called runway." Nate takes Margo's. Then hires Theo.
+- **R:** Everyone hopes: investors, Kyle (hopes not), Lakshmi (hopes out loud). Dinner at the Ramans'. After the glossy fund's pitch Maya asks, over dumplings: "Who did you just talk to?"
+- **Crossing:** R to S right (who he is when he pitches decides who he takes money from). S to R wrong (he rehearses what he'll say to Suresh; Maya: "Are you rehearsing?").
+- **Scenes:** (1) pitch #1 and Ray's porch: "Nobody wants a market. Somebody wants a Tuesday to go right."; (2) Margo's office: her story of the founder who hid a lost customer; (3) Cole's coffee: a subtle cage; (4) dumplings; (5) Theo's interview, the hoodie.
+- **Note:** *Take money from people who'll be kind the week after you're wrong.*
+
+### Ch 13. The Lease
+**~4,600 words · Jul-Aug, Y2**
+- **S:** The money is in the bank and Nate can afford a better apartment. Theo's first weeks (he fixes a bug in an afternoon that took Nate a week).
+- **R:** Nate tells Kyle they might live together. Kyle: "You've known her thirteen months." Nate: "You don't want advice. You want an audience." Kyle storms out. Nate, raw, calls Maya and blurts out, "What if we just moved in together." She wants to; isn't sure she's ready. Jules: "Are you afraid of him or of yourself?" They decide together. Move day: Kyle with a hand truck. "I said it because I thought you'd stop needing me." Then the family table: the Ramans announce an adjacent suite (consultation room, vaccination corner). Suresh: "I have a daughter." Maya: "Okay." Nate, at Ray's, washes dishes: "Standing next to somebody with nothing to fix." He goes home and builds a staffing spreadsheet for Maya's parents. She says, "That's very thoughtful." He sets a phone reminder: **Maya check-in. Ask open questions. Listen. Don't fix.** He feels proud.
+- **Crossing:** S to R wrong, twice: runway math on the lease (Maya is not a line item), then the fix nobody asked for and the automated check-in. The reader sees it go wrong before he does.
+- **Scenes:** (1) the Kyle fight; (2) the blurted call; (3) the night apart; (4) the lease; (5) move day; (6) the family table; (7) Ray's dishes; (8) the spreadsheet and the reminder.
 - **Kyle's growth:** starts a side project; asks before advising.
-- **Note:** *Fight, repair, then move.* (Confession, warm.)
+- **Note:** *Fight, repair, then move.* (Confession, warm.) The reminder stays out of the Note.
 
-### Ch 12. Runway
-**~4,000 words · Aug, Y2**
-- **Purpose:** Emotional runway: Nate's, Maya's, and the families'.
-- **Startup beat:** Priya runs the burn math: 14 months of cash. Nate checks the number every Monday.
-- **Relationship beat:** The Dayton trip: Maya meets Dan, Carol, Annie. Dan and Nate fix a dishwasher (callback to age 12). Nate sees his own silence in his father. Maya watches; Annie translates.
-- **Scenes:**
-  1. Priya and Nate at the whiteboard, the number.
-  2. Dayton: Carol's color-coded calendar; Maya gets a color.
-  3. Dan and Nate on the kitchen floor; wordless closeness.
-  4. Annie to Maya: "He says 'text me when you get there' because he can't say the other thing."
-  5. Airport: Dan says, "Text me when you get there."
-- **Note:** *Know how long you can last.* (Slide with numbers, sober.) "I'm not sure she was kidding."
+### Ch 14. "Am I a Project?"
+**~4,600 words · Sep, Y2**
+- **S:** Three weeks before her cliff, Priya asks for a closed-door meeting. She has carried support and on-call alone for months. Nate hears "I'm overloaded," offers a title and a raise, and hires a contractor without asking. She says: "I want a CEO who listens." She isn't sure she'll reach October 1.
+- **R:** A Sunday night. His phone lights up on the counter at 7 p.m.: **Maya check-in. Ask open questions. Listen. Don't fix.** She reads it. "Am I a project?" A real argument, and her voice rises once. "I want you to be *in* it." A Tamil word, *aayasam*, and her best attempt at the English. She sits on the couch, coat off. Hannah's old line (from his college ex) lands on the same spot.
+- **Crossing:** S to R wrong, at full cost. He managed a person the way he manages a roadmap. The same sentence comes from two women within a week: *you listened, and then you fixed.*
+- **Scenes:** (1) Priya's door closes; (2) Nate over-explains; (3) Sunday; the phone; (4) the argument; (5) the couch; (6) Nate alone at 2 a.m., not opening a spreadsheet.
+- **Note:** The refusal. *I don't have a principle for this chapter.*
 
 ---
 
-## PART 4: GROWTH  (Aug Y2-Mar Y3)
+## PART 4: THE BREAKTHROUGH  (Oct Y2-Sep Y3)
 
-### Ch 13. Hiring Theo (and Others)
-**~3,800 words · Aug-Sep, Y2**
-- **Purpose:** Growth changes the thing; culture is what you do when no one's watching.
-- **Startup beat:** Loopback goes from 5 to 14 people. Theo Vance (24, community college transfer) is hired as the first engineer.
-- **Relationship beat:** Nate hears himself say "ticket" about a person. Maya: "Did you just say ticket?"
-- **Scenes:**
-  1. Hiring rounds; Margo: "Hire slow."
-  2. Theo's interview; his hoodie; his hunger.
-  3. Culture question at all-hands (Nate speaks; Priya rewrites it).
-  4. Dinner at Maya's family's: Nate tells Suresh about hiring; Suresh: "Do you know their families?"
-- **Note:** *Culture is what you do when no one's watching.* (Question, wry.)
+*Stage: the first big customer, and everything that has to be ready for it. The wedding
+and the go-live are the same weekend.*
 
-### Ch 14. Numbers Up, Nights Late
-**~3,600 words · Sep, Y2**
-- **Purpose:** The metrics rise as presence falls.
-- **Startup beat:** The green arrow. 41 → 58 → 77 weekly active clinics. 118% NRR.
-- **Relationship beat:** Lakshmi's birthday (Slack during cake). A Tuesday dinner. The weekend Ray finally dug the pond, missed. Maya asks about their second date; "Sure" is obviously untrue.
-- **Scenes:** the Sample E montage, then a quiet scene: Maya doesn't confront; she gives him "a gorgeous mercy."
-- **Note:** *You get what you measure.* (Board update, sharp.)
-
-### Ch 15. The Pharmacy Expands
-**~4,000 words · Nov-Dec, Y2**
-- **Purpose:** Maya's workload doubles; her parents refuse help.
-- **Startup beat:** Loopback lands a large customer; Nate is traveling more.
-- **Relationship beat:** Suresh and Lakshmi announce an adjacent suite (a consultation room and vaccination corner, proposal). Suresh: "I have a daughter." Maya says "Okay." Arjun's Sunday call.
-- **Scenes:**
-  1. The announcement at the family table.
-  2. Maya alone in the store after close; she straightens receipts.
-  3. Nate at Ray's: the dishes (Sample D, Ray): "Standing next to somebody with nothing to fix."
-  4. Nate at home: he starts a spreadsheet.
-- **Note:** *Scaling changes the thing you built.* (Confession, sober.)
-
-### Ch 16. Nate Offers a Solution
-**~4,200 words · Mar, Y3**
-- **Purpose:** The fix she didn't ask for; the Sunday reminder is born.
-- **Startup beat:** Meridian's operations manager, Carla Ruiz, looks at her hands. Nate calls and asks how her week was. It makes no money. (Ray's porch, Sample C.)
-- **Relationship beat:** The staffing-agency spreadsheet (Maya's Sample E). "That's very thoughtful." He sets a phone reminder: **Maya check-in. Ask open questions. Listen. Don't fix.**
-- **Scenes:**
-  1. The Meridian call (Carla; the hands).
-  2. Ray's porch (Sample C): advice and a non-decision.
-  3. Home: the spreadsheet; shoes lined up.
-  4. Nate creates the reminder; feels proud.
-- **Plant:** Carla was telling him something. He listened but changed nothing.
-- **Note:** *A correction* ("Ship the ugly version of the product. Not of the apology."). (Self-indicting.)
-
----
-
-## PART 5: THE CRISIS  (Apr-Dec Y3)
-
-### Ch 17. The Customer Who Left
-**~3,400 words · Apr, Y3**
-- **Purpose:** The company nearly dies; Nate handles it alone.
-- **Startup beat:** Meridian leaves (34% of revenue). The four-sentence email. Seven minutes before he opens a spreadsheet. Theo burns out and quits the next week.
-- **Relationship beat:** Nate doesn't call Maya that night. She learns two days later from Priya.
-- **Scenes:** Sample F; Margo's call; Theo's resignation; Maya at the door, quiet.
-- **Note:** *Bad news doesn't age well.* (Short, spare.)
-
-### Ch 18. The Cofounder Talk
-**~3,800 words · May, Y3**
-- **Purpose:** Priya's version of Maya's speech.
-- **Startup beat:** Priya nearly leaves. "Disagree in the room, agree in the hallway." "I want a CEO who listens."
-- **Relationship beat:** Nate asks Ray, hypothetically, about a co-founder pulling away. Ray tells him about Walt: plain, incomplete, the drawer with the letter.
-- **Scenes:**
-  1. The whiteboard room, closed door.
-  2. Nate over-explains; Priya lets him.
-  3. Ray's kitchen; the Walt story; the letter he doesn't mail.
-  4. Nate and Priya, next morning: a smaller, better talk.
-- **Note:** *Cofounder conversations are the company.* (Confession, spare.)
-
-### Ch 19. "Am I a Project?"
-**~3,600 words · Oct, Y3**
-- **Purpose:** The emotional center.
-- **Startup beat:** A grinding summer of rebuilding; he has become more systematic.
-- **Relationship beat:** The phone lights up at 7 p.m.: Sample F (revised). "I want you to be *in* it." "Aayasam." The couch. Hannah.
-- **Note:** The Refusal ("I don't have a principle for this chapter.").
-
-### Ch 20. Repair
-**~3,800 words · Nov-Dec, Y3**
-- **Purpose:** Repair as work, not gesture.
-- **Startup beat:** Nate asks Carla (Meridian) if he can visit; she says no, not yet.
-- **Relationship beat:** He sits with Maya in her car in the pharmacy lot: ten minutes, silence. Lakshmi to Nate: "She is not the unpaid employee of two families." Maya finally tells her parents she needs help; Nate does not speak.
-- **Scenes:**
-  1. Nate sits in the car.
-  2. Ray (a "business" question about rebuilding trust): "You don't rebuild trust with a speech."
-  3. Lakshmi's kitchen, the tiffin, the line.
-  4. Maya at the family table (Nate silent), Suresh agrees to hire one person, chosen by Maya.
-  5. Kyle helps Nate move furniture and doesn't give advice.
+### Ch 15. Sitting in the Car
+**~3,800 words · Oct-Nov, Y2**
+- **S:** October 1 passes. Priya's Slack message: "Cliff: passed. Don't make it weird." Before that, Nate asks, doesn't fix: what does she want her job to be? They rewrite who decides what. She chooses the person to hire for on-call.
+- **R:** Nate sits with Maya in her car in the pharmacy lot: ten minutes, silence. Lakshmi to Nate, in her kitchen: "She is not the unpaid employee of two families." Maya tells her parents she needs help; Nate doesn't speak. Suresh agrees to hire one person, chosen by Maya. Nate deletes the Sunday reminder.
+- **Ray:** Nate asks a "business" question: a co-founder pulling away. Ray tells him about Walt: plain, incomplete, the drawer with the letter. "You don't rebuild trust with a speech."
+- **Crossing:** R to S right (sitting without fixing is how he listens to Priya). The Walt story is a warning he half-takes.
+- **Scenes:** (1) Priya and the whiteboard; (2) the car; (3) Ray's kitchen; (4) Lakshmi's kitchen; (5) the family table; (6) Kyle helps him move furniture and gives no advice.
 - **Note:** *Repair is the work.* (Short, quiet.)
 
----
+### Ch 16. Ray's Questions
+**~4,200 words · Nov-Dec, Y2**
+- **S:** Carla Ruiz, operations manager at Meridian Pharmacy Group (40 stores), calls. Dr. Okafor told her about Loopback. Meridian wants a pilot in three stores that could become forty. Nate says, "We'll be ready," and means it a little less than he says it.
+- **R:** Nate decides to propose. He asks Suresh and Lakshmi ("Saapteengala?" at last has an answer). He visits Ray. Ray asks four questions: *What would you do if she said no? What does she do that you'd never tell her you like? What would make you walk? How will you know when you're wrong?* Nate notices that the questions are the same ones Margo asked about the company. "She'd have liked her." Then, nearly to himself: "Your healthcare, something. I've been thinking I might have a something." A folder, face down. The proposal, at 6 a.m. on the trail: "I don't have a backup." Maya: "Okay." Then yes. Not a line was rehearsed.
+- **Crossing:** R to S right (the four questions make him read Meridian's contract differently). S to R right (he doesn't rehearse).
+- **Scenes:** (1) Carla's call; (2) the Ramans' living room; (3) Ray's questions; (4) the folder; (5) the trail.
+- **Note:** *The questions you'd rather not answer honestly.* (Maya's exact words, no joke.)
 
-## PART 6: MATURITY  (Jan Y4-Oct Y5)
+### Ch 17. Two Checklists
+**~4,200 words · Jan-Jun, Y3**
+- **S:** Meridian signs. Forty stores by the last Saturday in September. The checklist: security review, training at every store, hooking into each store's computers, a pilot store, an on-call plan. Carla is the other half of the checklist. Nate puts one person's name next to every store.
+- **R:** Wedding planning. Civil ceremony at city hall, a party at Ray's. Two families, two lists: Carol's color-coded calendar; Lakshmi's receipt roll (who is cooking, who is told, who must never sit together). Nate builds a master plan with owners and deadlines. Maya: "It's a wedding, not a migration." Kyle volunteers to do the music.
+- **Crossing:** S to R wrong (project-managing two families). R to S right (Lakshmi's "one named person for each thing" becomes the design of Meridian's rollout; he doesn't notice the source).
+- **Scenes:** (1) Meridian's first checklist; (2) two kitchens, two lists; (3) the master plan and its reception; (4) Maya crossing things off his plan with a pen; (5) a named person for each store; (6) Lakshmi, reading the store list upside down: "This is my list."
+- **Plants:** The named person (pays off in Ch 21); Ray asks unusually specific questions about nurses.
+- **Note:** *Lists are for remembering. People are for doing.*
 
-### Ch 21. Rebuild
-**~4,200 words · Jan-Apr, Y4**
-- **Purpose:** The company finds its answer; the relationship finds its ritual. This is where "nobody's job is to notice" comes back, lightly, once.
-- **Startup beat:** Carla finally tells Nate why Meridian left: "You listened. Nothing changed." Loopback pivots: instead of automated alerts, it routes each missed follow-up to a *named person with protected time to make the call*. Lakshmi's receipt-roll list is, in effect, the product. **Theo returns part-time** now that on-call is fixed. Suresh asks to try it, on his own terms ("I think I'd like to be asked").
-- **Relationship beat:** Dishes with Maya (Nate's Sample G): the unfinished metaphor. The blameless post-mortem at the kitchen table. Cole's late call: lonely, asking for advice.
-- **Scenes:**
-  1. Carla's debrief at a coffee shop (short; hard).
-  2. Whiteboard: the pivot; Priya draws the "named person."
-  3. Theo at the door, hoodie, "Is the pager still a thing?"
-  4. Suresh in the pharmacy, the fax machine, "Ask me."
-  5. The dishes; the kitchen table post-mortem.  6. Cole on the phone, late.
-  7. A short Ray call (**seed of his project**): he asks Nate unusually specific questions about nurses: what actually keeps a good one in the job, who looks after them. Nate assumes he's curious.
-- **Note:** *Repair without blame.* (Memo, quiet.) "That's a very Nate way to put it."
+### Ch 18. Rehearsal
+**~4,000 words · Aug, Y3**
+- **S:** The dry run: Loopback goes live in Meridian's flagship store as a test. It fails in an ugly way. Carla, hands clasped: "Is this what happens?" Nate tells her about a second risk *before* she finds it. Theo is on call. Priya: "We need to say it now." Nate calls Carla that night.
+- **R:** The rehearsal dinner. Dan and Suresh talk about tools. Lakshmi wants a bigger ceremony; Carol is worried about the cost; Annie translates between them. Maya says, late, on the balcony: "I don't know if I can do both days." Nate takes her to city hall on a Tuesday evening, empty: a private walk-through, no one watching.
+- **Crossing:** R to S right (telling Maya early is telling Carla early). S to R right (a dry run, with nobody watching).
+- **Scenes:** (1) the pilot store; (2) Carla's hands; (3) the call that night; (4) the rehearsal dinner; (5) the balcony; (6) the empty room at city hall.
+- **Plants:** Carla's "You listened"-style feedback, foreshadowed ("You always listen. I keep waiting for you to change something.").
+- **Note:** *Bad news doesn't age well.*
 
-### Ch 22. Ray's Questions
-**~4,000 words · Jun-Sep, Y4**
-- **Purpose:** Nate decides to propose; Ray's four questions.
-- **Startup beat:** Series A closes. A large customer (Halvorsen) wobbles; Nate tells Maya the same night; she makes tea and doesn't fix it.
-- **Relationship beat:** Nate buys the ring; asks Suresh and Lakshmi for their blessing ("Saapteengala?"); visits Ray. Sample F (Ray's questions). "She'd have liked her." Then, almost to himself: "Your healthcare, something. I've been thinking I might have a something." He doesn't explain. A folder is on the kitchen table, face down.
-- **Note:** *The questions you'd rather not answer honestly.* (Question, quiet.) Maya's exact words, no joke.
-
-### Ch 23. The Wedding
-**~4,500 words · Sep Y4-May Y5**
-- **Purpose:** Two families, one small day, then a party; ritual outlasts feeling.
-- **DECIDED (Scott):** a **simple civil ceremony, then a party.**
-- **Beats:**
-  1. **The proposal at 6 a.m. on the trail** ("I don't have a backup." Maya: "Okay." then yes).
-  2. **The civil ceremony** (a small, plain room; immediate family only: Suresh, Lakshmi, Arjun, Dan, Carol, Annie, Ray, plus Priya and Jules as witnesses). Lakshmi presses something into Maya's hand before they go in; Dan hands Nate a toolbox with a note: "Text me when you get there."
-  3. **The party** that evening (**Ray's backyard** in the Santa Cruz mountains: the big, landscaped yard, the pond finally dug, string lights, catered by Lakshmi's cousins). Kyle's badly timed toast. Theo, Margo, Cole alone, Hannah's text. Maya's Tamil word slips out to Nate, and he doesn't fake understanding. Ray, near the pond he has finally dug, tells Nate quietly what his something is: **a nursing fellowship in Denise's name.** (He says why. The nurses who noticed her during the eleven months, one night nurse in particular, who saw her fear and stayed. **Approved.**) It is the first time he speaks about that year without stopping early.
-  4. **Sunday morning:** Nate sees Ray at the mailbox, dropping the Walt letter in. Neither says a word.
+### Ch 19. Text Me When You Get There
+**~4,800 words · Sep, Y3**
+- **S:** Go-live, 9 a.m., all forty stores. The ceremony is at 11. Priya runs launch. Nate hands her the keys the night before. His phone is off at city hall. One text arrives, afterward: **They're all green.**
+- **R:** The ceremony (Suresh, Lakshmi, Arjun, Dan, Carol, Annie, Ray, with Priya and Jules as witnesses). Lakshmi presses something into Maya's hand. Dan gives Nate a toolbox with a note: *Text me when you get there.* The party at Ray's: the big yard, the pond finally dug, string lights, Lakshmi's cousins cooking. Kyle's badly timed toast. Theo, Margo, Cole alone. Maya's Tamil word slips out and Nate doesn't pretend to understand it. Ray tells him quietly what his something is: **a nursing fellowship in Denise's name** (the night nurse who saw her fear and stayed). Sunday morning: Ray at the mailbox, dropping in the Walt letter. Neither says a word.
+- **Crossing:** S to R right (delegate so you can be there).
 - **Note:** *Culture is what you keep doing.* (Slide, warm.)
 
+---
+
+## PART 5: THE GRIND  (Oct Y3-Oct Y4)
+
+*Stage: success exists, and keeping it takes steady work and showing up for everyone.
+This part should feel quieter and more ordinary than the rest, on purpose.*
+
+### Ch 20. After the Confetti
+**~3,800 words · Oct-Dec, Y3**
+- **S:** The first months after launch. Support queue, small failures, a fourteen-person company that feels like twenty. Theo is on call at 3 a.m. for the third night running. Nate doesn't notice.
+- **R:** Married, in a Sunnyvale apartment that is not quite theirs yet. The dishes. Who does what. The new help arrives at the pharmacy. Nate puts recurring date nights into both calendars with an agenda and a link. Maya: "It's in my calendar, with a link." She goes anyway, and the dinner is good, and the point is lost.
+- **Crossing:** S to R wrong (scale what works). The marriage is not a product.
+- **Scenes:** (1) the pager at 3 a.m.; (2) the calendar invite; (3) the date that works despite him; (4) the dishes; (5) Thanksgiving, two families, one table.
+- **Note:** *Scale what works.* (Memo, wry. With a turn: not everything does.)
+
+### Ch 21. The Named Person
+**~4,400 words · Jan-Mar, Y4**
+- **S:** Carla tells him why Meridian is thinking about leaving: "You listened. Nothing changed." Alerts go out and nobody owns them. The pivot: each missed follow-up goes to a *named person with protected time to make the call.* Lakshmi's receipt roll is, in effect, the product. Theo quits in January and returns part-time in March when the on-call rota is fixed. Suresh asks to try it: "I think I'd like to be asked." A call from Ray with unusually specific questions about nurses.
+- **R:** After the calendar-invite fight, Nate and Maya hold a blameless post-mortem at the kitchen table: *what happened*, not *who*. The best fight they ever have. "Don't fix. Just be the one I tell."
+- **Crossing:** R to S right (big): a notification is not a person. S to R right: the post-mortem at home.
+- **Scenes:** (1) Carla's coffee; (2) the whiteboard: Priya draws the named person; (3) Theo at the door: "Is the pager still a thing?"; (4) Suresh at the fax machine: "Ask me."; (5) the kitchen-table post-mortem; (6) Ray's call.
+- **Note:** *Repair without blame.* (Memo, quiet.) "That's a very Nate way to put it."
+
+### Ch 22. Tuesdays
+**~3,800 words · Apr-Jun, Y4**
+- **S:** Nate now calls one customer every Tuesday to ask how their week was, and changes one thing because of it. Series A talks with Margo; a late call from Cole, lonely.
+- **R:** The pharmacy suite opens (ribbon, vaccination corner, Suresh pretending not to be moved). Tuesday becomes Maya's night: dinner at the Ramans' one week, Ray's the next. Kyle's birthday. Annie visits; Dan texts "Did you get there?" which means *are you okay?* A small, single scene of dishes, with the unfinished metaphor.
+- **Crossing:** S to R right (the fixed Tuesday call becomes the fixed Tuesday hour with Maya).
+- **Scenes:** (1) the Tuesday call; (2) the ribbon; (3) two dinners; (4) Kyle, Jules, Annie; (5) Cole's call; (6) the dishes.
+- **Note:** *Show up on the boring day.*
+
+### Ch 23. Who's On Call
+**~4,200 words · Jul-Aug, Y4**
+- **S:** 11 p.m.: a software update at Meridian breaks Loopback in all forty stores. The first serious failure since launch.
+- **R:** The same night, Suresh has chest pains. The hospital. Nate's phone buzzes every few minutes. He calls Priya: "You have it. I'm at the hospital." She does. He sits in the waiting room with Maya and doesn't fix anything. Suresh is fine, and will work fewer hours. Carla at 6 a.m.: "We noticed before you did. Priya handled it. That's better." Maya's load goes up again; this time Nate asks, and doesn't build a spreadsheet.
+- **Crossing:** S to R right (a team that runs without him). R to S right (be the person who stays).
+- **Scenes:** (1) the alert; (2) the hospital; (3) the call to Priya; (4) the waiting room; (5) dawn, Carla; (6) the kitchen table: what does she want to happen?
+- **Note:** *The best thing a founder builds is a company that runs without him on the day it matters.* (Short.)
+
 ### Ch 24. Runway, Revisited
-**~3,500 words · Oct, Y5**
-- **Purpose:** The sequel hook: **the pregnancy plus a new product** (Scott).
-- **Beats:**
-  1. Loopback is stable in healthcare. Nate sketches the next step on a napkin: the same **pulse check** for people who live alone, for new parents, for anyone whose silence would go unnoticed. He doesn't finish the sketch. (Loopback was always more general than pharmacies; healthcare was the first vertical, not the last.)
-  2. **He has noticed.** For weeks: she turned down wine, she stopped mid-sentence at the smell of coffee. He said nothing and didn't fix it. He waited to be told. (This is the *return* of "nobody's job is to notice": the job is now his, and he does it without taking over.)
-  3. 6 a.m., their honest hour: Maya tells him she's pregnant. Small, domestic.
-  4. A glass of water he doesn't need to hold.
-  5. A last look at the open threads: Walt's reply hasn't come, the napkin is still blank, and **Ray has a project now** (a folder, a calendar, a first meeting). He says yes on the phone to someone.
+**~3,500 words · Sep-Oct, Y4**
+- **S:** Loopback is stable in healthcare. Nate sketches the next thing on a napkin: the same pulse check for people who live alone (the man in 4B, Mr. Peralta). He doesn't finish the sketch.
+- **R:** Their first anniversary (they passed the first-year cliff; he doesn't say the word). He has noticed for weeks: the wine she turned down, the coffee smell. He has said nothing and waited to be told. 6 a.m., their honest hour: Maya tells him she's pregnant. A glass of water he doesn't need to hold.
+- **Open threads for the sequel:** Walt's reply hasn't come; the napkin is blank; Ray's fellowship has a first meeting, and Ray says yes on the phone to someone.
+- **Crossing:** both, right. The job of noticing, now his.
 - **Note:** **Reserved.** Written last, with Scott.
 
 ---
 
-## Decisions from this pass (2026-09-29)
-- Growth ladder replaces the "overload spine"; the noticing idea returns near the end.
-- Wedding: simple civil ceremony, then a party.
-- Theo returns part-time in Ch 21.
-- Sequel hook: pregnancy plus a new product.
+## Decisions from this pass (2026-09-30)
+- Five-part arc from Scott's stages replaces the six-part structure.
+- Wedding is the end of Part 4 and coincides with the first big customer's go-live.
+- Near-breakup at the end of Part 3; repair leads to the proposal.
+- Transfers are implicit only (action and consequence, never announced).
 
 ## Open items for Scott
-1. **Party location:** Ray's backyard. **DECIDED:** a big, pleasant yard at the mountain house, ongoing landscaping and all; *not* a tomato garden.
-2. **Wedding details:** any ritual from either family? Lakshmi's item pressed into Maya's hand: what is it?
-3. **The new product** (Ch 24): **DECIDED:** the general pulse check widening to other verticals (people who live alone, new parents, and so on). Open: which vertical is the first one Nate sketches? (New parents lands next to the pregnancy; living alone echoes Mr. Peralta. Recommend living alone, with new parents left for the sequel.)
-4. **Where they live:** Sunnyvale (proposed).
-5. **The pharmacy expansion:** an adjacent consultation room and vaccination corner (proposed).
-6. **Meridian's reason:** "You listened. Nothing changed." Right?
-7. **The proposal:** trail at 6 a.m. (proposed).
-8. **In Ch 24, does Nate notice before Maya tells him** (proposed), or is it a surprise?
-9. **Ray's project: RESOLVED.** A nursing fellowship in Denise's name; the Walt letter invites Walt to help run it. Night-nurse detail approved. Open: the fellowship's name.
+1. **Part and chapter titles:** proposed in `stage-map.md`; Ch 10 ("When It Breaks"), Ch 11 ("The Cliff"), Ch 12 ("Two Offers") and Ch 17-19 are new.
+2. **Priya's cliff:** her start date is Oct 1, Y1, so the cliff is Oct 1, Y2. Is "she nearly walks three weeks before it" the right size of crisis?
+3. **Suresh's scare (Ch 23):** a mild one, he recovers, and works fewer hours. Too heavy for a grind chapter?
+4. **Cole's offer (Ch 2/3, optional):** add it to make the co-founder search concrete?
+5. **Lakshmi's item (Ch 19):** what does she press into Maya's hand? Still open.
+6. **Where they live:** Sunnyvale (proposed).
+7. **Ray's fellowship name:** still open.
+8. **Ch 24 product:** living alone first (proposed), new parents left for the sequel.

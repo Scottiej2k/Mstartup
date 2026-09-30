@@ -55,7 +55,18 @@ Additional consequences of this choice:
 12. **Next horizon:** New product, new risks (the sequel hook).
 
 ## Key company events to sync with romance beats
-See `outline/stage-map.md`.
+See `outline/stage-map.md` and `outline/beat-sheets.md`. Redrawn 2026-09-30 to five stages:
+
+| Stage | Company events |
+|---|---|
+| 1. The Search | Nate and Priya find the problem; Priya is helping but hasn't signed; fourteen interviews; Loopback named |
+| 2. Courting | Ugly prototype; Dr. Okafor's free pilot; a drugmaker's $40,000 sponsorship declined; Priya's ninety-day review |
+| 3. Going Serious | First paying customer and the midnight outage; founder agreement with a one-year cliff (Priya's cliff is Oct 1, Y2); two investor offers (Margo Bell's chosen); Theo hired; Priya nearly walks three weeks before her cliff |
+| 4. The Breakthrough | Meridian Pharmacy Group (Carla Ruiz, 40 stores) signs; onboarding checklist; pilot store fails and is fixed; go-live is the same Saturday as the wedding |
+| 5. The Grind | Post-launch support load; Theo's burnout, exit and part-time return; Meridian nearly leaves ("You listened. Nothing changed."); the pivot to a named person with protected time; Series A talks; a double-failure night; next product: people who live alone |
+
+Changes from the earlier plan: Meridian is now the **first big customer** (Part 4), not
+the customer who leaves; the cofounder crisis is in Part 3; the pivot is in Part 5.
 
 ## Vision: Loopback is a "pulse check" (APPROVED, Scott 2026-09-29)
 Loopback isn't only about pharmacy refills. The underlying idea is general:

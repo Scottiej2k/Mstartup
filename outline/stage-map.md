@@ -1,64 +1,96 @@
-# Stage Map  `PROPOSED` (updated with Scott's decisions, 2026-09-29)
+# Stage Map  `PROPOSED` (redrawn 2026-09-30 from Scott's five-stage arc)
 
-~24 chapters, 6 parts. Titles and order are provisional.
+24 chapters, 5 parts. **One arc, told twice.** Nate's company and Nate's relationship go
+through the same five stages, and the two stories overlap on purpose: events in one
+rhyme with events in the other, and Nate carries lessons across in both directions.
+Sometimes the lesson is right. Sometimes he applies the right rule to the wrong thing,
+and that causes the tension.
 
-| Part | Startup stage | Relationship stage | Reflection theme |
-|---|---|---|---|
-| 1. The Spark | Idea, first prototype, finding a co-founder | The mixer, first dates, dating-app optionality | Fall in love with the problem, not the pitch |
-| 2. Discovery | Customer interviews, early users, MVP | Learning each other, first fight, meeting families, deliberate choice to commit | Listening is the whole game |
-| 3. Commitment | First customers, seed round, VCs to please | Exclusive, moving in together | Skin in the game; choosing on purpose |
-| 4. Growth | Hiring, scaling, metrics | Careers collide; the pharmacy expansion doubles Maya's work | Growth changes the thing you built |
-| 5. The Crisis | Company nearly fails; cofounder conflict | Maya: "You're treating me like a project" | You can't run a person like a roadmap |
-| 6. Maturity | Recovery, Series A, next product | Ray's questions, proposal, wedding, pregnancy | Partnership is a long game; new venture, no playbook |
+## The five stages
+
+| Part | Stage | The company | The relationship | What's at stake |
+|---|---|---|---|---|
+| 1. The Search | Finding the right co-founder and the right partner | Priya is helping but hasn't committed; Nate hunts for a problem worth a company | The mixer, the coffees, the apps | Is this the right person? |
+| 2. Courting | Small investments to see if goals and values line up | Ninety days with Priya; interviews; an ugly prototype; a free pilot; "what we won't build" | First dates, her parents, the first fight, the choice to be exclusive | Do we want the same things? |
+| 3. Going Serious | Building the thing together, with everyone hoping we commit | First paying customer, a founder agreement, the first money from investors, first hires | Moving in; both families watching; her parents' pharmacy expanding | Can we carry real weight together? |
+| 4. The Breakthrough | First big customer; everything that must be ready for it | A regional chain wants Loopback in 40 stores: checklists, a pilot store, rehearsals, go-live | Engagement and wedding planning: two families, lists, rehearsals, the day | Are we ready for the day we wanted? |
+| 5. The Grind | Success exists; keeping it takes steady work and showing up for everyone | Keeping the big customer, the team, the on-call rota, a pivot | The first year of marriage: dishes, Tuesdays, families, her pharmacy, a baby | Can we keep showing up? |
+
+### The dual-spine rule
+Every chapter has a **startup line (S)** and a **relationship line (R)**, and every
+chapter names its **crossing**: the lesson that moves from one line to the other.
+See the transfer ledger in `beat-sheets.md`.
+
+- **S to R, right:** a startup habit helps the relationship (following up, answering when it breaks, delegating so you can be present).
+- **S to R, wrong:** a startup rule misapplied to a person (funnel, spreadsheet, status updates, project-managing a wedding, automating care). This is the engine of the conflict.
+- **R to S, right:** something the relationship taught him fixes the business (interview technique, who to take money from, sitting without fixing, a named person instead of an automated message).
+- **R to S, wrong:** a relationship instinct misapplied at work (used rarely, so it stands out).
+
+**Delivery rule (Scott, 2026-09-30): implicit only.** The crossing is carried by action and consequence. Nate does not announce it. Founder's Notes carry the explicit parallel, reflectively and mostly by implication.
+
+### How the stages rhyme (one line each)
+1. **Search:** Priya is auditioning Nate while Nate is auditioning everyone. Maya is scouting for her mother.
+2. **Courting:** both couples make cheap bets first. The cheap bets are the test: *who shows up, who answers, who tells the truth when it's inconvenient?*
+3. **Going Serious:** the commitment has a cliff. Priya's shares only start to count after a year. Maya's "cliff after two coffees" becomes a question about the marriage: *what does it cost to leave now?* Both women reach a moment where they could walk away.
+4. **The Breakthrough:** go-live and the wedding are the same weekend. A launch and a wedding both need guest lists, rehearsals, one person per job, and a plan for when it rains.
+5. **The Grind:** after the confetti, the work is ordinary and repeated. The skill is being the person who shows up on a Tuesday.
 
 ## Recurring obstacles (no villain)
-- **SF tech culture:** everyone is "optimizing," and dating apps make every
-  person feel replaceable.
-- **The roommate (Kyle, placeholder):** underperforming startup employee, complains
-  rather than problem-solves, offers bad advice ("Don't lock in yet, you're
-  a founder"). Not malicious, just stuck. After a falling-out and repair (ch. 11),
-  Kyle grows and stays a recurring character: still badly timed jokes, far less
-  judgment and unsolicited advice.
-- **VCs:** their expectations pull on Nate's time and identity.
-- **Cole (rival founder):** the foil, the version Nate could become.
+- **SF tech culture:** everyone is "optimizing"; dating apps make every person feel replaceable.
+- **Kyle (roommate):** complains rather than problem-solves; offers bad advice. Falls out with Nate and repairs (Ch 13), then grows.
+- **Investors:** their expectations pull on Nate's time and identity.
+- **Cole (rival founder):** the version of Nate that could happen if he never commits to anything.
+- **Two families, two expectations:** Ramans want a wedding that means something; Calloways want logistics and silence.
+- **Maya's pharmacy:** expansion doubles her work; her parents refuse to hire help.
 
-## Draft chapter list
-### Part 1: The Spark
-1. The Room Nobody Wanted To Be In (mixer; Maya sent by her mother)
-2. Second Meeting, Third Coffee (dating-app culture and optionality)
-3. The Idea That Wouldn't Leave (the company idea sharpens; Maya's pharmacy insight)
-4. Uncle Ray ("hypothetically...")
+## Chapter list
 
-### Part 2: Discovery
-5. Asking Better Questions (customer interviews vs. dates)
+### Part 1: The Search  (Jul-Sep, Year 1)
+1. The Room Nobody Wanted To Be In *(drafted, approved)*
+2. Second Meeting, Third Coffee *(drafted)*
+3. The Idea That Wouldn't Leave *(drafted)*
+4. Uncle Ray *(drafted)*
+
+### Part 2: Courting  (Oct Y1-Jan Y2)
+5. Asking Better Questions
 6. The Ugly Prototype
-7. Meeting Maya's Parents (the pharmacy counter; Nate is tempted to see it as a sales lead, and Maya shuts it down)
-8. The First Fight, and the Decision to Commit (both choose, deliberately)
+7. Meeting Maya's Parents
+8. Ninety Days
+9. The Choice
 
-### Part 3: Commitment
-9. First Paying Customer
-10. Term Sheets (VCs to please)
-11. The Lease (Nate and Kyle fall out; the fight prompts a too-early move-in talk; Maya wants to but isn't sure she's ready; they decide together and sign; Kyle and Nate repair before move day)
-12. Runway
+### Part 3: Going Serious  (Feb-Nov Y2)
+10. When It Breaks
+11. The Cliff
+12. Two Offers
+13. The Lease
+14. "Am I a Project?"
 
-### Part 4: Growth
-13. Hiring Theo (and others)
-14. Numbers Up, Nights Late
-15. The Pharmacy Expands (Maya's workload doubles; her parents refuse to hire help)
-16. Nate Offers a Solution (he tries to fix it; she wanted a partner)
+### Part 4: The Breakthrough  (Nov Y2-Sep Y3)
+15. Sitting in the Car
+16. Ray's Questions
+17. Two Checklists
+18. Rehearsal
+19. Text Me When You Get There
 
-### Part 5: The Crisis
-17. The Customer Who Left
-18. The Cofounder Talk
-19. "Am I A Project?" (Maya names it)
-20. Repair (real work, not a grand gesture; Ray advises on a "business" problem, pretense intact)
-
-### Part 6: Maturity
-21. Rebuild
-22. Ray's Questions (Nate decides to propose; Ray asks a few questions and ends in warm validation)
-23. The Wedding
-24. Runway, Revisited (pregnancy; sequel hook)
+### Part 5: The Grind  (Oct Y3-Oct Y4)
+20. After the Confetti
+21. The Named Person
+22. Tuesdays
+23. Who's On Call
+24. Runway, Revisited
 
 ## Ending image
-Small and domestic, echoing the opening. Ideas: Maya sets a positive test on the
-counter of her family's pharmacy, or tells him at 6 a.m., their honest hour.
+Small and domestic, echoing the opening. 6 a.m., their honest hour: Maya tells him she's pregnant, a few weeks after their first anniversary. He has already noticed. A glass of water he doesn't need to hold.
+
+## What changed from the previous map (2026-09-29)
+- The old six parts (Spark, Discovery, Commitment, Growth, Crisis, Maturity) are replaced by the five stages above.
+- **The wedding is now the end of Part 4**, not of the book. It coincides with the first big customer's go-live. Part 5 is the marriage and company *after* the day.
+- **The near-breakup moves to the end of Part 3** (Scott, 2026-09-30). Repair leads to the proposal. Part 5 tests the marriage with a relapse, not a breakup.
+- **Meridian changes role:** from "the customer who leaves" to the **first big customer** (Part 4), who nearly leaves in the grind (Part 5). Carla Ruiz still says, "You listened. Nothing changed."
+- **Priya's commitment becomes a thread:** a ninety-day trial (Part 2), a founder agreement with a one-year cliff (Part 3), and a near-walkout just before the cliff (Ch 14).
+- **Parent-expansion, Sunday reminder, Kyle repair, Theo, Ray's fellowship:** all kept, with new positions. See `beat-sheets.md`.
+
+## Consequences for chapters already drafted (Ch 1-4)
+Light touches only. Listed in `beat-sheets.md` under "Rewrites needed". Nothing contradicts; two things are planted:
+1. **Priya's status:** she has been helping for weeks without signing anything. The interviews are her condition and Nate's audition.
+2. **A ninety-day trial** starts at the end of Ch 3 (her "I'm in, for ninety days").
