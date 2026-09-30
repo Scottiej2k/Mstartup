@@ -61,6 +61,22 @@ I put on the blue shirt, the one I wear to pitch, which Kyle says speaks for its
 
 ---
 
+The 7:02 Caltrain was crowded in the way where you learn who is carrying what. I got a seat by the window, and a view of myself in it.
+
+"Hi, I'm Nate," I said to the glass, without sound. "I'm building something in healthcare."
+
+The man beside me looked up from his laptop, and then, very slowly, back down.
+
+I'd like to explain that I'm not a person who talks to windows. I'm a person who does it on trains, for the length of the Peninsula. The pep talk went through drafts, like everything I do. The first was Kyle's: *play it cool, don't look like you need it.* I tried the face. In the window it looked like a man waiting for a ride he hadn't ordered. The second came from the podcasts: *conviction.* I narrowed my eyes and said, "I'm building the future of care," and the reflection looked like someone who'd lost a bet. The third, which I'm embarrassed to say was the best, was only this: *Ask good questions. Listen to the answers. Be somebody you'd want to sit next to.* I said it twice, into my collar.
+
+And there was the reason under the reasons. Priya was four months into half salary, in a region where that is a hobby for the very rich. I'd been telling myself that this wasn't a night for me. It was a night for the woman who'd answered my spreadsheet with *Sleep* and kept showing up anyway, and who was owed one evening in which I behaved like someone worth showing up for.
+
+"Best foot forward," I said, to no one, and the man with the laptop moved his bag, in the small, merciful way strangers do.
+
+At Fourth and King I got off and walked. It was a clear gold evening, the kind San Francisco offers in July just before it takes it back. I practiced my handshake on a parking meter. I'd like the record to show that it was firm. The pep talk lasted about six blocks. By the hotel doors it had narrowed to a single line, which I repeated under my breath as I went in: *Don't explain. Don't explain. Don't explain.*
+
+---
+
 The first thing I noticed about Maya was that she was the only person in the ballroom who wasn't checking anyone else's lanyard.
 
 I want to be clear that this was unusual. The lanyards at the Founders & Funders Mixer came with color-coded stickers, a dating profile for your neck: green for *raising*, blue for *investing*, and orange for *seeking a co-founder*, which was the color of someone waiting at a bus stop for a bus that has been cancelled. I had a green sticker, which was a lie of ambition. I was an orange (my co-founder had not, strictly, committed) with a green sticker on. I also had a Notion page titled "Healthcare, something?", no customers, no product, and a cup of water I was holding the way a hostage holds a newspaper.
