@@ -7,7 +7,7 @@ I want to be clear that this was unusual. The lanyards at the Founders & Funders
 
 (I don't drink at these things. It isn't virtue. If I have a cup in one hand, nobody expects me to know what to do with the other.)
 
-I've told this story eleven times now. Maya tells it differently. In her version, I walked up to her at 8:03 with a plan. In mine, she was standing by the exit like a person who had budgeted precisely one hour for this and was already forty-one minutes into it, and I did not have a plan. I had a cup.
+I've told this story eleven times now. Maya tells it differently. In her version, I walked up to her at 8:03 with a plan. She's technically right that I had one; it was folded in my pocket, and it wasn't about her. In mine, she was standing by the exit like a person who had budgeted precisely one hour for this and was already forty-one minutes into it, and I did not have a plan for her. I had a cup.
 
 We should start earlier, though, at our kitchen counter, because Kyle did most of the setup.
 
@@ -35,7 +35,7 @@ I'd like the record to show that I objected to the framing. I'd also like the re
 
 "What are you hoping to get out of it?" said Kyle.
 
-I thought about lying. I'm not good at it with Kyle; he has no poker face, so nobody else needs one. "A co-founder who's actually a co-founder," I said.
+I thought about lying. I'm not good at it with Kyle; he has no poker face, so he assumes nobody else does either. "A co-founder who's actually a co-founder," I said.
 
 "You have Priya."
 
@@ -45,13 +45,13 @@ I thought about lying. I'm not good at it with Kyle; he has no poker face, so no
 
 "No."
 
-"Has she said the word?"
+"Has she said *co-founder* out loud?"
 
 "She said she'd decide once she saw whether this was a thing."
 
 "Nate." Kyle looked truly troubled, which took a moment, as if he'd been handed something heavy and asked to guess the weight. "That's not a co-founder. That's a roommate. I'm a roommate. I know the signs."
 
-I took a folded paper from my pocket, which I'm only mentioning so you know I'm a man who has one. "I have a plan," I said. It said: *1. Two investors. 2. One follow-up meeting. 3. Don't explain.*
+I took a folded paper from my pocket, which I'm only mentioning so you know I'm a man who owns a plan. "I have a plan," I said. It said: *1. Two investors. 2. One follow-up meeting. 3. Don't explain.*
 
 Kyle read it over my shoulder. "Number three is going to go badly."
 
@@ -75,7 +75,7 @@ I put on the blue shirt, the one I wear to pitch, which Kyle says speaks for its
 
 It was the last week of July, in the ballroom of a hotel in SoMa that had been designed by someone who had heard of ballrooms. The carpet was a pattern I'd call *aggressively neutral.* There was a table of sliders that had been sliders since at least Thursday, and a bar serving a pinot noir in the sense that it was red and had once been introduced to a pinot noir at a party. On a little stage at the front, under a banner that said **BUILD SOMETHING THAT MATTERS** in a font that did not, a technician was adjusting a microphone for a man who was about to tell us about conviction.
 
-Around me, two hundred people were asking each other the only question anyone in the Valley asks, which is *So what are you working on?* It isn't really a question. It's a handshake with a subtitle. You say the name of your company. They say the name of theirs. Both of you say "Oh, nice," in the tone of someone being handed a stranger's baby. (Kyle had been right about the speed dating. He'd only been wrong about the speed.)
+Around me, two hundred people were asking each other the only question anyone in the Valley asks, which is *So what are you working on?* It isn't really a question. It's a handshake with a subtitle. You say the name of your company. They say the name of theirs. Both of you say "Oh, nice," in the tone of someone being handed a stranger's baby. (Kyle had been right about the speed dating. He'd only been wrong about the speed. Speed dating, at least, has a bell.)
 
 By eight o'clock I'd had three of these conversations. A man raising a seed round (the first real money a startup raises, so called because it's supposed to grow) for a compliance startup that helped other compliance startups. A woman who described herself as "pre-idea, post-pitch," which stayed with me longer than most of my college classes. And a guy who told me his company was "Stripe for pets" and then asked whether I knew anyone at Stripe.
 
@@ -85,13 +85,13 @@ By eight o'clock I'd had three of these conversations. A man raising a seed roun
 
 "Love it," he said, and left to find someone with an actual answer.
 
-For the record, four months earlier I'd had a real answer to that question. I'd spent eight months and most of my savings on an inventory tool for small retailers, and it had died in March, quietly and in plain view, the way things die when you've built them without asking anyone if they wanted them. My pitch deck for it had been nine slides long, and on slide three, under the word PROBLEM, was a statistic about small retailers that I'd found on the internet and never once checked against an actual retailer. My co-founder Priya, who was the only reason the code had ever worked, had agreed to keep showing up through "whatever this is" at half salary. She had not agreed to anything in writing, and I had been careful not to bring that up, the way you're careful not to ask a friend who's helping you move whether they're also planning to move in. She had said she'd decide once she saw whether this was a thing, which I understood to mean: once she saw whether I was. I'd sent her a spreadsheet of options for what "this" might be. She'd replied with one word: *Sleep.*
+For the record, four months earlier I'd had a real answer to that question. I'd spent eight months and most of my savings on an inventory tool for small retailers, and it had died in March, quietly and in plain view, the way things die when you've built them without asking anyone if they wanted them. My pitch deck for it had been nine slides long, and on slide three, under the word PROBLEM, was a statistic about small retailers that I'd found on the internet and never once checked against an actual retailer. Priya, who was the only reason the code had ever worked, was still showing up, through "whatever this is," at half salary. I'd sent her a spreadsheet of options for what "this" might be. She'd replied with one word: *Sleep.*
 
 The man from Stripe for Pets was still in sight, scanning for someone better, when someone clapped me on the shoulder hard enough to spill a small amount of my water.
 
 "Nate Calloway," said Cole Whitaker. "Inventory guy!"
 
-Cole had raised eighteen million dollars at twenty-six and wore it lightly, the way some people wear a scarf indoors. He was thirty-one now, and tall, and lit, always, from some angle I'd never worked out. We'd been in the same accelerator batch, in the way two fish are in the same lake.
+Cole had raised eighteen million dollars at twenty-six and wore it lightly, the way some people wear a scarf indoors. He was thirty-one now, and tall, which Kyle would want noted, and lit, always, from some angle I'd never worked out. We'd been in the same accelerator batch (a startup boot camp; the batch is the class), in the way two fish are in the same lake.
 
 "I heard about the shutdown," he said, with sincere warmth. "Rough one. But honestly? Respect. Most people never ship anything. You *tried.*"
 
@@ -135,7 +135,7 @@ She had her coat on. I want to note that, because in that ballroom, which was he
 
 She was standing about eighteen inches from the exit. I'd be lying if I said I understood that yet.
 
-Here is what I did next, and I'm going to be honest, because Maya will check: I did not walk up to her with a plan. I walked toward the sliders, because I'd begun to feel like a man who'd been standing in one place for an hour, and the sliders were near her, and I told myself it was the sliders. I picked one up. I put it down. It was, on inspection, load-bearing.
+Here is what I did next, and I'm going to be honest, because Maya will check: I did not walk up to her with a plan for her. I walked toward the sliders, because I'd begun to feel like a man who'd been standing in one place for an hour, and the sliders were near her, and I told myself it was the sliders. I picked one up. I put it down. It was, on inspection, load-bearing.
 
 "You look like you're waiting for a bus," I said.
 
@@ -206,7 +206,7 @@ I watched her decide. I didn't know it then. I only knew that she took half a se
 
 She looked at me properly. "Excuse me?"
 
-"I built an inventory tool for eight months," I said. It was out before I could stop it. This is a thing that happens when I'm nervous: I explain. "It died. It died because everyone I talked to said 'inventory,' too. I think it's what people say when they want you to stop asking." I lifted the cup an inch, as if that helped. "Sorry. It's an occupational hazard. You don't have to tell me."
+"I built an inventory tool for eight months," I said. It was out before I could stop it. This is a thing that happens when I'm nervous: I explain. (So much for item three.) "It died. It died because I built it without asking anyone, and when I finally did, everyone said 'inventory,' too. I think it's what people say when they want you to stop asking." I lifted the cup an inch, as if that helped. "Sorry. It's an occupational hazard. You don't have to tell me."
 
 There was a pause long enough that a man in a quarter-zip drifted over, saw her face, and drifted away again like a leaf that had thought better of it.
 
@@ -318,7 +318,7 @@ The room took a little breath, the way rooms do when the one quiet person leaves
 
 ---
 
-I didn't go find the woman from Bluebird Ventures. I'd like to say it was principle. It was closer to the feeling of having eaten something real, and being unwilling, for a while, to ruin it with the sliders.
+I didn't go find the woman from Bluebird Ventures. So much for item one; I'd finish the night zero for two on investors. I'd like to say it was principle. It was closer to the feeling of having eaten something real, and being unwilling, for a while, to ruin it with the sliders.
 
 I walked out through the same door. It was cold, in that thin, bright way San Francisco has when the fog hasn't quite arrived. I was at the crosswalk on Third Street, waiting for the light, when I noticed I was still holding the cup. It was full. I'd held it for the better part of two hours without taking a sip.
 
@@ -336,7 +336,7 @@ My phone buzzed.
 
 **Great**, Priya wrote. **Follow up.**
 
-I walked most of SoMa before the train, the long way, and missed one on purpose. On the Caltrain home, somewhere around Millbrae, I took the strip of index card out of my pocket. It said **Maya R.** and a phone number, in small, exact handwriting, the way you'd fill in a form you intended to be held to.
+I walked most of SoMa before the train, the long way, and missed one on purpose. On the Caltrain home, somewhere around Millbrae, I took the strip of index card out of my pocket. It said **Maya R.** and a phone number, in small, exact handwriting, the way you'd fill in a form you intended to be held to. It was the closest I'd come to item two.
 
 Our apartment was dark except for the light over the stove. Kyle was at the counter at twenty to midnight, eating cereal out of a mixing bowl.
 
@@ -356,6 +356,8 @@ The spoon stopped halfway to his mouth. "You're not sure. About a lead." He look
 
 "The number."
 
+I didn't mention that I'd also come home with a story. Kyle hadn't listed both.
+
 "Wow." He took a bite. "Don't overthink it."
 
 This was the single least useful sentence Kyle gave me that year, and he gave me a lot of them. He said it with real affection, and with cereal in his mouth, and I nodded like it was advice.
@@ -364,7 +366,7 @@ I went to my room and opened the Notion page. I looked at the title for a while,
 
 Under it, I typed: *Nobody's job is to notice.*
 
-I didn't know that I'd just written the mission statement of a company. I only knew that I wasn't going to sleep, and that for the first time in four months, I didn't want to.
+I didn't know that I'd just written the mission statement of a company. I only knew that I wasn't going to sleep, and that for the first time in four months, I didn't want to. I told myself it was the company.
 
 ---
 
@@ -375,7 +377,7 @@ Every founder gets the same advice, usually from someone with a podcast: fall in
 
 What I hadn't done, until a woman by the exit gave me the safe answer and I said it was the one she gave vendors, was ask a question and be willing to hear the real one. That's the whole trick. Not the asking. The willingness. Most of us ask the way we hold a cup of water at a party: for something to do with our hands.
 
-Kyle had told me the room was speed dating, and he was right, which is the trouble with it: two hundred people trying to be chosen, and almost nobody doing any choosing. Every one of us was looking for something, a co-founder, a customer, a check, and each of us wore the color of the thing we'd settle for. I'd pinned on green and spent two hours ignoring the orange underneath. The orange, it turned out, had already been answered by someone on the other end of a Slack channel. The person I wasn't looking for didn't have a sticker.
+Kyle had told me the room was speed dating, and, crude as his version was, he was right about the shape of it: two hundred people trying to be chosen, and almost nobody doing any choosing. Every one of us was looking for something, a co-founder, a customer, a check, and each of us wore the color of the thing we'd settle for. I'd pinned on green and spent two hours ignoring the orange underneath. The orange, it turned out, was already being answered, by someone who texted me *Status?* and did not yet know she was saying yes. The person I wasn't looking for didn't have a sticker.
 
 Maya told me about the people the pharmacy never hears from. I didn't know I'd been handed a company. I knew only that for about twenty minutes nobody in that ballroom was performing, and I wanted to stay in it.
 
