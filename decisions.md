@@ -102,3 +102,4 @@
 | 2026-09-30 | **Ch 2: the CRM definition is cut** (Scott: context is enough). General note: fewer jargon glosses where the scene already makes the meaning clear | DONE |
 | 2026-09-30 | **Ch 2, coffee three exit replaced with Scott's wording:** "Then I guess you'll be seeing me." / "And you will be seeing... me?" / "Seeing you later, yes," in "a brilliant dodge"; the door with the chain still locked. The old "It has a name now" / "Later" is gone, so Maya's "I don't name things until coffee three" needs a payoff: she names it in Ch 9 (The Choice) | DONE, payoff pending in Ch 9 |
 | 2026-09-30 | **Ch 3: the coworking fish sign gets a fourth line** (Scott): "THAT MEANS YOU, DEREK!" | DONE |
+| 2026-09-30 | **Ch 3: the fish sign gets a fifth line** (Scott): "THERE WILL BE CONSEQUENCES!" in the building manager's handwriting. Running gag; stop at five unless Derek answers back | DONE |
