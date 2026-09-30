@@ -37,6 +37,11 @@ reflectively in the Founder's Note. The chapter-by-chapter ledger is in
 | 4. The Breakthrough | Are we ready for the day we wanted? | Name one person per job; tell bad news early; delegate so you can be present |
 | 5. The Grind | Can we keep showing up? | A notification is not a person; ritual needs presence; notice, and wait to be told |
 
+## The product's question is the marriage's question (2026-09-30)
+Where does caring end and managing begin? Loopback's consent rules (only you can turn it on; you choose who
+notices; you see everything that's sent) are what Nate learns from Maya's "Am I a project?" The Sunday reminder
+is a check-in she didn't choose; the product must never be that.
+
 ## Principle bank (for chapter-ending reflections)
 Draft list; each maps to a chapter. Should feel earned by the scene, never
 lecture-y.
@@ -61,6 +66,8 @@ lecture-y.
 | One named owner per task | Lakshmi's receipt roll; one person for each thing |
 | Dry run before launch | A walk-through of the room before the wedding, with nobody watching |
 | A notification is not a person | A reminder is not a check-in |
+| Consent is the product | Checking in is not checking up |
+| Shorten the silence | Don't promise to keep them safe; promise someone will notice sooner |
 
 ## Motifs
 - Whiteboards and what gets erased

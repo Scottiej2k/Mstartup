@@ -1,6 +1,6 @@
 # The Company
 
-**DECISION (APPROVED): Option A, clinic/pharmacy care-coordination software.**
+**DECISION (UPDATED 2026-09-30): the product is a check-in for people who might go quiet, with a chosen person alerted, aimed at catching a catastrophe early. See `startup/product.md`.** (It began as Option A below, clinic/pharmacy care-coordination; that version is superseded because a pharmacy already texts refill reminders and readers won't see why it's a company.)
 **Company name (APPROVED): Loopback.health.** Motif: closing the loop, with patients,
 with Maya, with himself. Nate says it out loud early; Maya notes he closes every
 loop except the ones with people.
@@ -59,16 +59,16 @@ See `outline/stage-map.md` and `outline/beat-sheets.md`. Redrawn 2026-09-30 to f
 
 | Stage | Company events |
 |---|---|
-| 1. The Search | Nate and Priya find the problem; Priya is helping but hasn't signed; fourteen interviews; Loopback named |
+| 1. The Search | Nate and Priya find the problem; Priya is helping but hasn't signed; fourteen interviews widening past pharmacies; Loopback named |
 | 2. Courting | Ugly prototype; Dr. Okafor's free pilot; a drugmaker's $40,000 sponsorship declined; Priya's ninety-day review |
-| 3. Going Serious | First paying customer and the midnight outage; founder agreement with a one-year cliff (Priya's cliff is Oct 1, Y2); two investor offers (Margo Bell's chosen); Theo hired; Priya nearly walks three weeks before her cliff |
-| 4. The Breakthrough | Meridian Pharmacy Group (Carla Ruiz, 40 stores) signs; onboarding checklist; pilot store fails and is fixed; go-live is the same Saturday as the wedding |
+| 3. Going Serious | First paying customer (Dr. Okafor) and the midnight outage; version 1 (passive phone-data scan) built for the investors; founder agreement with a one-year cliff (Priya's cliff is Oct 1, Y2); two investor offers (Margo Bell's chosen); Theo hired; Priya nearly walks three weeks before her cliff |
+| 4. The Breakthrough | Meridian Pharmacy Group (Carla Ruiz, 40 stores) is the first test market: counter enrollment, a named person per store; Nate pitches in line at the pilot store; the pilot fails and is fixed; go-live is the same Saturday as the wedding |
 | 5. The Grind | Post-launch support load; Theo's burnout, exit and part-time return; Meridian nearly leaves ("You listened. Nothing changed."); the pivot to a named person with protected time; Series A talks; a double-failure night; next product: people who live alone |
 
 Changes from the earlier plan: Meridian is now the **first big customer** (Part 4), not
 the customer who leaves; the cofounder crisis is in Part 3; the pivot is in Part 5.
 
-## Vision: Loopback is a "pulse check" (APPROVED, Scott 2026-09-29)
+## Vision: Loopback is a "pulse check" (APPROVED, Scott 2026-09-29; details superseded by `product.md`)
 Loopback isn't only about pharmacy refills. The underlying idea is general:
 **noticing when someone has gone quiet, and making sure a person follows up.** There
 are many reasons someone might need a pulse check:
@@ -90,6 +90,6 @@ How it shows up in the book:
 - **Ch 21:** the pivot to a named person with protected time works in any vertical.
 - **Ch 24:** the "new product" hook is the pulse-check idea widening into a second vertical (e.g., new parents or people who live alone).
 
-## Killer feature: the opt-in second person (added from Scott's comment)
+## Killer feature: the opt-in second person (added from Scott's comment; now central to the product, see `product.md`)
 
 When a patient signs up, they can opt in to naming one secondary person (a daughter, a neighbor, a friend) the pharmacy is allowed to contact. If the patient goes quiet after the pharmacy's check-in text, the pharmacy follows up with that person the next day to make sure the patient is okay. This is the part of the pulse check that makes sure a person follows up. It is opt-in only. The patient-facing text ends with reply codes: "Reply A to acknowledge this message or U to unsubscribe." Texts never name the medication or condition.
