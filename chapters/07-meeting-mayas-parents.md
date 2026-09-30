@@ -1,0 +1,294 @@
+# Chapter 7
+## Meeting Maya's Parents
+
+At the door of the pharmacy, Maya took off her coat.
+
+I want to be exact about this, because in July I would have missed it. She'd kept the coat on in the ballroom. She'd kept it on at the place on Valencia, unbuttoned, and on every walk since, and at the taqueria, where she hung it on the back of her chair and then twice put a hand on it, like someone checking for a wallet. She wore it the way a person keeps her shoes by the door in a house she's visiting. I'd decided it was the weather.
+
+The pharmacy had no weather. It was in a strip mall on Mission Boulevard in Fremont, between a tax preparer and a UPS Store, under a sign that said **RAMAN** in red letters that somebody had repainted by hand at least twice. It was spelled right. I found I was pleased about that, the way you're pleased for a stranger.
+
+Inside, there was a rack of greeting cards, a scale you could stand on for a quarter, and a long white counter with a glass partition behind it, where a man in a white coat was counting pills into a tray with the side of a spatula. There was a hook on the wall behind the counter, at about the height of a nine-year-old's shoulder. Maya hung her coat on it without looking, the way you'd hang it in your own hall.
+
+"Don't pitch," she said, very quietly, beside me.
+
+"I'm not going to pitch."
+
+"My father won't say anything. That isn't a bad sign. My mother will say everything. That isn't a good one." She straightened the strings of the pastry box in my hands. "And eat whatever you're given."
+
+"All of it?"
+
+"She'll know."
+
+I'd brought the pastries because Kyle had said *wine* and Jules had said *nothing* and Maya had said *nothing, but eat everything,* and I am a person who, given three instructions, invents a fourth. The box was from a bakery in Mountain View where I'd spent a full minute on the phone asking whether any of the items contained egg. It was the second baked good I'd carried across a threshold that month and the first I hadn't made myself. The first had been Jules's cake, which I'd baked on a Thursday, from a video, in a pan that had belonged to Kyle's mother. Jules had looked at it for a long time and said it was "structurally honest," which I'm told is the highest thing she says.
+
+The woman at the register had been watching us since the door. She was about five feet tall, in a cardigan the color of weak tea over her pharmacy smock, with her glasses pushed up into her hair. She looked at Maya first, quickly, the way you'd check a child for scrapes, and said something in Tamil. Maya answered. Then she looked at me.
+
+"Saapteengala?" said Lakshmi Raman.
+
+"She's asking whether you've eaten," said Maya.
+
+"I had a bagel," I said.
+
+Maya translated that. Lakshmi listened to it with no expression at all, and answered at some length.
+
+"What did she say?"
+
+"She said a bagel is what you eat when you've decided not to."
+
+"Amma," said Maya, and then something else, and her mother waved a hand at her without turning her head, the way you'd wave off a fly.
+
+"So," said Lakshmi, in English, looking at me over an invisible pair of glasses. "You are the cup."
+
+I opened my mouth, and understood that it was going to be a long day.
+
+---
+
+There was a stool behind the counter, and I was put on it. Lakshmi lifted the lid of the pastry box, read the label on the side, and looked at me.
+
+"Who told you to ask about egg?"
+
+"Nobody. I read a thing."
+
+"He reads things," said Maya, from the far end of the counter, to a shelf of bandages.
+
+"Hm," said Lakshmi, and set the box by the register, unopened, where she could keep an eye on it. There was a stack of steel tins, three high, with a clip holding them together, and I was given them. Idli, sambar, coconut chutney, and a fourth tin of rice with lemon and something that crackled when I bit it, which I ate all of, including the part I couldn't identify. Lakshmi watched me do it, from the register, without seeming to.
+
+The counter ran the whole length of the store, and everything happened at it. A man came to pick up something for his wife and left with a lollipop for his son. A teenager in a school hoodie picked up an inhaler and was asked, by name, about a chemistry test. "It was fine," he said. "It was *fine,*" said Lakshmi, like a woman logging an answer that would be checked.
+
+On the wall behind the register, on a strip of adding-machine tape held up with a thumbtack, was a column of names in pencil.
+
+I looked at it for three seconds, which is too long. It was the receipt roll. The one Maya had told me about over a paper napkin, in a ballroom, on the first night. It was longer than I'd imagined, and more alive: a hundred and forty names, in a small upright hand, each with a few words beside it. *Mr. Castillo, wife in hospital, call Tues.* *Mrs. Bhatt, grandson's visa.* *Stopped, ask Suresh.* A few were crossed out with a single line. At the bottom, in the same pencil, it said: *Nate. Cup.* The question mark had been erased and something written in its place. It was *Sat.*
+
+I felt the thought come up in me like a cold from the floor. It was the one I'd had at the mixer, for four seconds, and Maya had called it five. *A hundred and forty people. Every one of them already trusts her.*
+
+I looked at my lemon rice.
+
+"Two questions," said Lakshmi. She didn't need a card. She had written them. "Maya says you have answered them, but I prefer to hear."
+
+"I've answered—"
+
+"Do you know what a refill is?"
+
+Maya, at the far end of the counter, was taking something off a shelf with her back to me, and was very still.
+
+"A refill," I said, "is a habit somebody else keeps for you."
+
+"Hm." Lakshmi wrote nothing down. "Maya told you that?"
+
+"I said it. She said the somebody-else part was you."
+
+"It is me." She said it without pride. She said it the way you'd identify a wall. "Second question. When it breaks, who answers?"
+
+"I do."
+
+"Always?"
+
+I thought about the Sunday. I thought about a text I'd sent from a curb at 5:40. "Mostly," I said.
+
+Lakshmi looked at me for a long moment. Then she turned to the register and said, to the register, "*Mostly,*" and there was something in her voice that wasn't quite disapproval. It was the sound of a number being written down.
+
+---
+
+An old woman came in at ten to noon, in a good wool coat and white sneakers, and Lakshmi had a paper bag on the counter before the door finished closing.
+
+"Mrs. Chen," she said. "Your pressure."
+
+"I didn't say what I came for," said Mrs. Chen.
+
+"Forty years. You came for your pressure." The bag went over the counter. "How is the grandson?"
+
+"He failed the driving test." Mrs. Chen counted coins into a dish, slowly, with the flat of one finger. "He hit the cone. He says it moved."
+
+"They move."
+
+"They do not move," said Mrs. Chen, with great dignity, and then she looked at me. "Is this the one?"
+
+"He's the cup," said Lakshmi.
+
+"He looks like a cup." She said it kindly. She took her bag and her change, and said to me, at the door, "She'll call you at eight on the day you don't come," and left, and I stood there with an empty tin, absorbing it.
+
+Next to the register, taped to the counter, was a sheet of white paper covered in very large type. It was instructions for a cough syrup: *TWO SPOONS. NOT THREE. ONCE AT NIGHT.* It was laminated, and the lamination had gone cloudy at the corners. In the bottom corner, in ballpoint, in a teenager's handwriting, someone had drawn a small arrow and written, *for Mr. Alvarez.*
+
+"She was sixteen," said Lakshmi, not looking up from the register. "He couldn't read the label. So she made him a label. Now everyone who is sixty gets that one." She lifted a jar of lollipops half an inch and set it down again. "He has not been in since the fourteenth of September."
+
+"Mr. Alvarez?"
+
+"Nine weeks. I call every evening. Nobody answers. He lives alone." She said it in the flat, even voice people use for facts they've carried for a while. "It is perhaps nothing. He has a daughter in Sacramento. It is perhaps a cruise. If I call the daughter, I am a busybody. If I do not, I am a busybody who was right." She looked at me at last. "What is your company for?"
+
+I'd been waiting all morning for the question, and I found I hadn't got an answer ready. That was the odd part. I'd rehearsed one.
+
+"For that," I said. "For him."
+
+"Hm," said Lakshmi.
+
+---
+
+"Come and help me with something," said Maya, at half past twelve, in a voice that was so careful, so even, that I knew it was going to be a test.
+
+The stockroom was at the back, through a door with a sign that said **EMPLOYEES ONLY. THIS MEANS MAYA.** It smelled of cardboard and something clean. It had metal shelves floor to ceiling, stacked with boxes of things that help people with their lives, in small, exact quantities: bandages, test strips, a whole shelf of vitamin D, the orderly stockpile of someone who'd once been robbed and never intended to be again. A table in the corner held a computer older than some of Priya's socks, a fax machine under a plastic sheet with a yellow note on it that said, in block capitals, **DEAD. DON'T.** and a ledger, an actual ledger, green, with a cloth spine.
+
+"Hold this," said Maya, and gave me one end of a case of something, and we began to move it toward the door.
+
+I should have said nothing. I want to be honest: it wasn't a close call. I had a dim back room, a case of gauze, and Maya on the other end of it, and I had eaten four of her mother's tins, and I'd been told twice not to, and I did it anyway.
+
+"Maya," I said. "Do you know what you have here?"
+
+"A case of gauze."
+
+"I mean the list." I set my end down, which I shouldn't have done. "Your mother's list. A hundred and forty people, and she knows every one. She knows which of them will pick up the phone. That's a *network.* That's the thing we'd spend a year and two hundred thousand dollars building, and it's on a receipt roll." I'd begun to talk with my hands. "And the fax, your dad's whole workflow. This place could be the pilot. A design partner, a real one, where a customer helps you build the thing in exchange for being first. If we loaded your mother's list in—"
+
+"Loaded them in."
+
+"With their permission, obviously. They'd sign up through your mother. She's the trust. She's the whole channel. You wouldn't have to do anything, it would take your mother half the time, and I think we could do it for free—"
+
+I heard it then. I heard it at the same instant I saw her face, which had done nothing. That was how I knew. It had gone perfectly calm, the way a room goes when somebody has closed a door on a noise you only now realize you'd been hearing.
+
+"Those are people," said Maya. "Not leads."
+
+It was not loud. She said it like someone setting a box on a shelf.
+
+"I didn't mean—"
+
+"I know what you meant. You meant it nicely. That's the worst part." She picked her end of the gauze back up, and put it on the shelf, and straightened it. "I told you at coffee. I said you could interview me for my mother, and you couldn't interview my mother for you." Then, in the polite voice: "Thank you for telling me what you were thinking. It's very thoughtful."
+
+She walked out. I followed her as far as the door and stopped, because the door was a thing I understood.
+
+I watched her cross the store. She stopped at the hook on the wall behind the counter, and took down her coat, and put it on. She did the top button. Her mother was ringing up a man with a bag of cough drops and did not look up, and did not stop, and her hand came down flat on the counter once, like someone steadying a table.
+
+I stood in the stockroom door for a long while, looking at a dead fax machine with a note on it.
+
+---
+
+I hadn't heard him come up behind me. Suresh Raman was a man who seemed to have trained himself out of noise. He was about sixty, narrow and upright, in a white coat with a pen in the pocket and a second pen in the other pocket, in case the first one had feelings. He had come from the counter, where he must have seen what I'd seen.
+
+"She put her coat on," he said.
+
+"Yes."
+
+"Not in the store. In the car, in the parking lot, at a funeral. Not in the store." He turned a box over, read the side, and turned it back. "Since she was nine."
+
+"I said something I shouldn't have."
+
+He didn't ask what. He stood there a moment, and then he looked at the wall clock, and then at his watch, as if the two might have disagreed.
+
+"It is one o'clock," said Suresh. "I go to the UPS. You come."
+
+I looked at him.
+
+"Don't talk," said Lakshmi, from the doorway, where she had appeared with the silent efficiency of a woman who has been a mother for thirty years. "Go and watch. Then decide if you are a cup." She looked at her husband. "Take the folder."
+
+It was thirty steps. Suresh walked them with a manila folder, in silence, in the flat white glare of the parking lot, past the tax preparer, where a man in a tie had fallen asleep at his desk with the lights on. I am not a man at ease with a silence. I got as far as the UPS Store's door before I ran out.
+
+"Where are we going?"
+
+"To fax."
+
+"Why do you fax?"
+
+I want that recorded. It was the first real question I asked anyone in that building. Not a leading one, not *wouldn't it be great if.* I simply didn't know.
+
+"Because Dr. Lin's office does not have email," said Suresh. "They have a fax." He opened the door for me. "Ours died in March. A man came. He said four thousand dollars a year for a cloud fax. He installed it on a Monday. It did not work on Tuesday. He did not ask me what I used it for." He held up the folder. "He told me what it does. Then he told me how I would use it. I said no. I have been walking thirty steps since March."
+
+The UPS Store smelled of tape and warm paper. A young woman at the counter, who had the name tag **DEVON** and a stud in her nose, looked up and said, "Hi, Mr. Raman, the usual?"
+
+"The usual."
+
+He opened the folder on the counter. Inside was a cover sheet, a printed form with the word **FAX** at the top in a big, cheerful font, and a stack of pages beneath it. Suresh took a pen from his pocket and filled in the cover sheet, by hand, in block capitals, slowly, like a man signing a hospital form for a stranger.
+
+I watched. He'd given me permission, I think, by not objecting. I read over his arm.
+
+*TO: DR. LIN. RE: MR. ALVAREZ. NOT PICKED UP SINCE 9/14 (BLOOD PRESSURE). LIVES ALONE. PLEASE CONFIRM HE IS WELL. S. RAMAN, RPH.*
+
+"Does anyone answer?" I said.
+
+"Sometimes."
+
+"How often?"
+
+He considered it, with his pen on the page. "Twice, this year."
+
+"And how many do you send?"
+
+"One a week. More in winter." He capped the pen. "The clinic is busy. It is not the clinic's job. It is nobody's job. I do not blame the clinic. But I am the one who sees the man not come."
+
+Devon fed the pages into the machine. It made the sound fax machines make, which is the sound of a very old modem being asked for a favor, and then it stopped, and a slip of paper came out of the side. Suresh took it, read it, and held it out to me, and I took it.
+
+**TRANSMISSION OK**
+
+"It says received," said Suresh. "It does not say read." He folded the slip into his pocket and looked at me. "It is the same thing, in this business. A person sends. The machine says OK. And nobody says what happened."
+
+I thought about a text, on a curb, that said *Delivered,* and then *Read,* and then nothing, for four minutes, while I looked at a parking meter. I didn't say that. I put my hands in my pockets, because I wanted badly to take out my phone and write something down, and I didn't.
+
+We walked back the thirty steps. It was ten to two. A light rain had started and stopped, in the undecided way of a Fremont afternoon. Halfway across the lot, I felt the thing come up in me again, the pitch. *A fax that actually works. Or no fax at all: a text to the clinic, and the reply—* I'd got as far as *reply.*
+
+"What would you want it to do?" I said instead.
+
+Suresh stopped. He stood there on the wet asphalt, with his folder under his arm, for a long time. It was a little strange, how long.
+
+"You are asking what it should do."
+
+"Yes."
+
+"Everybody tells me what it should do. What the customer needs. What the doctor needs." He looked at the sign over his store, at the red letters. "Nobody asks who makes the call."
+
+"Who makes the call?"
+
+"Lakshmi. Every night, after we close. Forty minutes. Sometimes two hours. It is on no form. It is in no budget. She does it and then she comes home and she eats." He said it without complaint, which was what made it so hard to hear. "Everyone talks about what the patient wants. I would like to be asked what it costs the person who notices."
+
+I couldn't think of a thing to say. It was the second time that day I'd had nothing ready. I was beginning to think that might be the point.
+
+"I would like to be asked," said Suresh. He went back inside.
+
+---
+
+Maya was at the register when we came in, in her coat, ringing up a woman with a large bottle of antacid and a small greeting card. She didn't look up. Her mother, in the back, was counting something into something else, with an expression of great and deliberate innocence.
+
+I waited until the woman was gone.
+
+"I'm sorry," I said. "I did it in the stockroom, and it was wrong, and you'd told me, and I did it anyway. I heard it while I was saying it. I kept going."
+
+"I know you heard it." She still hadn't looked at me. She was straightening a stack of receipts. "That's why I'm not angrier."
+
+"I didn't write anything down. At the fax. I wanted to."
+
+"I know. My father told me." She squared the edge of the pile. "He said you asked him where he was going."
+
+"That was the question."
+
+"It's the only one he ever wants to answer." She let the receipts go. She looked, finally, at my hands, not at my face, and held it there, and I felt the usual dizzy lurch of being read by someone who is almost never wrong. "I'm not finished being annoyed."
+
+"Okay."
+
+"Don't say *okay* at me, it's my word." But the corner of her mouth moved. She reached up and, with one hand, undid the top button of her coat, and then the second. She didn't take it off. She stood there with it open, like a door you'd left on the latch. "Go home. My mother wants the tins back on Saturday." She raised her voice very slightly. "Jules."
+
+A head rose above the vitamin D shelf. I hadn't known there was anyone behind it. "I came at noon to see whether you'd pitch," said Jules, with enormous dignity. "I had five dollars on the first hour. Maya put her coat on at 12:41. I checked my watch. I lost." She looked at the white box by the register. "Are those from a bakery?"
+
+"Yes," I said. "I checked about the egg."
+
+"Structurally honest," said Jules, and took one, and went back down behind the shelf.
+
+I left at four with the tins, which Lakshmi had filled again, without being asked, and stacked, and clipped, and handed to me with both hands, as though passing a baby. "Saturday," she said. "You will bring them back clean. I will know." She looked at my face. "You ate, in the end. It is a beginning."
+
+On the way out, I stopped at the counter, at the laminated sheet, and looked at the little pencil arrow one more time, *for Mr. Alvarez.* Next door, somewhere, a machine was taking in a stranger's paper.
+
+The sign on the door said *CLOSED 6 P.M.* in red. Somebody had crossed out the *6* and written *7.* Somebody had crossed out the *7* and put it back.
+
+---
+
+**FOUNDER'S NOTE**
+*Don't treat a customer like a lead.*
+
+A lead, in my business, is a person who might buy something, with the person taken out. It's a row. It has a name, a company, and a number beside it that says how warm. It is an extremely useful thing to have. I've kept spreadsheets of them that I'd have run into a fire to save.
+
+The trouble is that it isn't a tool you can put down. I'd been trained to see the row for six years, and it worked on a pharmacy, and on a family, and on a Saturday, the way a tune does after you've heard it too often. I'd had a hundred and forty names in front of me, in pencil, in a woman's hand, each with a note about a husband or a visa, and I saw a network. She saw a hundred and forty people she'd have to phone tonight.
+
+I learned more in the thirty steps to the UPS Store than in the six months before them. The man who taught me said almost nothing. I asked one real question, about where he was going, and he let me watch. The machine told him the message was *received.* It didn't tell him whether anybody *read* it.
+
+I haven't stopped seeing rows. Ask Maya. Ask her about the coat.
+
+TO: Me
+FROM: Me, Saturday, 12:41 p.m., the stockroom
+RE: The list
+PAGES: 1
+
+PLEASE CONFIRM RECEIPT.
