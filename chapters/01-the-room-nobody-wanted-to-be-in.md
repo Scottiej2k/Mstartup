@@ -73,7 +73,7 @@ And there was the reason under the reasons. Priya was four months into half sala
 
 "Best foot forward," I said, to no one, and the man with the laptop moved his bag, in the small, merciful way strangers do.
 
-At Fourth and King I got off and walked. It was a clear gold evening, the kind San Francisco offers in July just before it takes it back. I practiced my handshake on a parking meter. I'd like the record to show that it was firm. The pep talk lasted about six blocks. By the hotel doors it had narrowed to a single line, which I repeated under my breath as I went in: *Don't explain. Don't explain. Don't explain.*
+At Fourth and King I got off and walked. It was a clear gold evening, the kind San Francisco offers in July just before it takes it back. The pep talk lasted about six blocks. By the hotel doors it had narrowed to a single line, which I repeated under my breath as I went in: *Don't explain. Don't explain. Don't explain.*
 
 ---
 
