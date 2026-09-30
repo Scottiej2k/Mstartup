@@ -49,13 +49,13 @@ The office belonged to Bayside Family Medicine, four doctors in a building share
 
 It was a good start. It was the last good thing I did for twenty-two minutes.
 
-"Wouldn't it be great," I said, "if you knew which patients were about to stop coming?"
+"Wouldn't it be great," I said, "if you knew which of your discharged patients had gone quiet?"
 
 "Sure," said Rosalind. "That'd be great."
 
 I wrote *validated* in my notes, and underlined it.
 
-"And if something reached out to them for you? Automatically?"
+"And if something checked on them for you? Automatically?"
 
 "That'd be great."
 

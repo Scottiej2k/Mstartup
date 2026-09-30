@@ -19,6 +19,8 @@ A home-health scheduler in Hayward began answering the question, stopped in the 
 
 A district manager for a pharmacy chain, in a conference room with a very good chair, showed us a slide deck about their "adherence initiative." It was forty-three slides long. The word *patient* appeared on slide thirty-one, in a footnote.
 
+A nurse who does home visits for new mothers, for the county, told us about her Thursdays. She sees each mother on day three and again on day ten. "Between those," she said, "I'm a phone number." She said it lightly, the way you'd mention that your car has a dent. "Most of them are fine. The ones who aren't are usually the ones who'd never call."
+
 And a doctor named Ngozi Okafor, who ran a small community clinic in Oakland, spent the whole interview looking at my laptop as if it were something a cat had dragged in.
 
 "Software people come twice a year," said Dr. Okafor. She was about fifty, with reading glasses on a cord and the tired, tremendous patience of a person whose waiting room was full of children who weren't hers. The phones were ringing behind her. Nobody was picking them up. "They promise to save me time. Then I spend two hours training my front desk, and I have less time, and I have a password."
@@ -31,7 +33,7 @@ I stopped typing.
 
 "I do the calling myself," she said. "Sunday nights, badly. My husband calls it my second shift." She took the glasses off. "If you build something, don't send me a deck. Send me something that works in a waiting room. Not a laptop. A waiting room."
 
-We walked back to the car in silence. "That's five people," said Priya, "and five different sentences."
+We walked back to the car in silence. "That's six people," said Priya, "and six different sentences."
 
 "The one with the notebook didn't use a sentence," I said.
 
@@ -67,19 +69,23 @@ I thought about it. I thought about the spiral notebook, and Dr. Okafor's Sunday
 
 ---
 
-I gave Kyle the one-sentence version on a Wednesday, at the counter, with the mixing bowl: when a patient stops coming in, somebody finds out.
+I gave Kyle the one-sentence version on a Wednesday, at the counter, with the mixing bowl: when someone goes quiet, somebody finds out.
 
-"So it's a reminder app," he said.
+"So it's a nanny cam for grandma," he said.
 
-"It isn't a reminder app."
+"It isn't a camera. It doesn't see anything."
 
-"Every pharmacy has a reminder app. My dentist has three. I get a text when I'm about to have a cleaning, and a text after the cleaning that says how was the cleaning, and a text that says *we miss you* about six months after I stopped going." He took a bite. "Which, honestly, was a low blow."
+"That's what the nanny cam guy says." He took a bite. "Who's it watching?"
 
-"Those remind you *before* you're supposed to come in," I said. "This notices *after*. Someone who's come in on the fourth of every month for nine years doesn't, and three days later the system notices. Then it texts them. Something like: *we noticed you're missing.*"
+"It isn't watching. It notices when nothing happens. Someone who opens their phone every morning doesn't, and by afternoon a person they trust gets a message."
 
-"So it's a reminder app with a guilt complex."
+"Saying what?"
 
-"It's a reminder app that pays attention."
+"*Dana hasn't been heard from today. Maybe check.*"
+
+"Dana's going to love that."
+
+I hadn't thought about what Dana would think. I'd only thought about Dana's daughter. I let it go by, which is a thing I'd like to say I've stopped doing.
 
 Kyle pointed his spoon at me. "Regulated," he said. "Healthcare. You know that's the most regulated thing there is? You'll die in compliance. You'll spend a year writing a document about a document." He chewed. "Also, if it's really just about noticing when people go quiet, why is it only pharmacies? Why not everybody?"
 
@@ -93,9 +99,9 @@ I would like to note that this was the best product feedback I received that wee
 
 The naming happened on a Thursday, at the whiteboard, at a quarter to midnight.
 
-By then Priya and I had a description. It took us a month of interviews to be able to say it in one breath: *a system that notices who didn't come back, and reaches out.* What we lacked was a word for it.
+By then Priya and I had a description. It took us a month of interviews to be able to say it in one breath: *a check-in that notices when someone goes quiet, and tells a person they trust.* What we lacked was a word for it.
 
-The whiteboard filled up with rejected names, and it looked like a graveyard designed by a committee. *Nudge* (taken). *Refillr,* without the e (Priya put a line through it without speaking). *Pulse* (six companies). And, in my handwriting, *Notice,* which was the truest name and sounded like something a landlord slides under your door.
+The whiteboard filled up with rejected names, and it looked like a graveyard designed by a committee. *Nudge* (taken). *Hellr,* without the o (Priya put a line through it without speaking). *Pulse* (six companies). And, in my handwriting, *Notice,* which was the truest name and sounded like something a landlord slides under your door.
 
 "It has to be one word," said Priya. "And it has to work as a website." She had also pointed out, earlier that week, that our email addresses still ended in the name of the dead inventory company, which was sad in a specific and searchable way.
 
@@ -163,11 +169,11 @@ I'd brought my laptop, and she watched it appear on the table the way you'd watc
 
 "A sentence."
 
-"It's the text a pharmacy would send. To someone who didn't pick up a refill." I turned the screen. "It's the first draft. It's bad. I know it's bad. I want to know exactly how bad."
+"It's the message the app would send. To someone who's gone quiet." I turned the screen. "It's the first draft. It's bad. I know it's bad. I want to know exactly how bad."
 
 She read it the way she'd read a discharge form. Her lips moved slightly. It said:
 
-*Our records indicate that you have not refilled your prescription. Please contact us to discuss your non-compliance. Reply A to acknowledge or U to unsubscribe. Failure to respond will result in notification of your emergency contact.*
+*We have detected an absence of activity on your device for fourteen hours. Reply A to acknowledge or U to unsubscribe. Failure to respond will result in notification of your emergency contact.*
 
 She put down her chopsticks.
 
@@ -175,55 +181,51 @@ She put down her chopsticks.
 
 "I know."
 
-"'Non-compliance.'" She said it the way you'd say the name of a person who'd wronged you. "You're going to text a seventy-year-old man who's frightened of his own blood pressure the word 'non-compliance.'"
+"'An absence of activity.'" She said it the way you'd say the name of a person who'd wronged you. "You're going to text a seventy-year-old woman who lives alone that she has exhibited an absence of activity."
 
-"It's the clinical term."
+"It's the technical term."
 
-"It's the term for what the *clinic* is worried about." She pulled the laptop toward her, which she had not been invited to do and did not ask to do. "Give me ten minutes. This isn't consulting. This is a bad-sentence emergency."
+"It's the term for what the *system* is worried about." She pulled the laptop toward her, which she had not been invited to do and did not ask to do. "Give me ten minutes. This isn't consulting. This is a bad-sentence emergency."
 
 "Understood."
 
 She typed. I watched her hands, the way you watch someone who's better at something than you'll ever be. She wrote for about four minutes, deleted most of it, then wrote three lines, and slid the laptop back.
 
-*Hi, it's [Pharmacy Name]. We noticed you haven't picked up your prescription, and wanted to check you're okay. We just wanted to hear you were fine. Reply A to acknowledge this message or U to unsubscribe. If we do not hear back, we will reach out to your emergency contact tomorrow.*
+*Hi, it's Loopback. You've been quiet today, which is probably nothing, and we wanted to check you're okay. Reply A if you are, or U to stop these. If we don't hear back this afternoon, we'll let Sam know, and we'll tell you when we do.*
 
 I read it. I read it again. It was exactly what a person would say, if that person were kind and slightly worried and weren't trying to prove anything to a compliance department.
 
 "That's it," I said. "That's the whole thing."
 
-"It's three changes," said Maya. "'Our records indicate' becomes 'we noticed.' 'Non-compliance' becomes 'check you're okay.' And 'failure to respond will result in' becomes 'if we don't hear back.' It's the same fact. One of them is a threat." She picked up her chopsticks again. "People don't need to be told they're in trouble. They already know. They need to know someone noticed."
+"It's three changes," said Maya. "'We have detected an absence of activity' becomes 'you've been quiet today.' 'Acknowledge' becomes 'check you're okay.' And 'failure to respond will result in' becomes 'if we don't hear back.' It's the same fact. One of them is a threat." She picked up her chopsticks again. "The last part is mine. 'We'll tell you when we do.' Nobody likes being talked about behind their back." She ate a dumpling. "People don't need to be told they're in trouble. They already know. They need to know someone noticed."
 
 I typed the last two sentences into a note, word for word. She watched me do it.
 
-"The part about the emergency contact," I said. "That's the product. Patients opt in when they sign up. They name one person we're allowed to call, a daughter, a neighbor, whoever. If the patient goes quiet, the pharmacy follows up with that person the next day. Nobody else builds that part."
+"Sam's the product," I said. "You name one person you trust, a daughter, a neighbor, whoever. If you go quiet, they get a message. That's the part nobody builds."
 
-"Good," said Maya. "It goes last. Kind first, then the backup."
+"You name them."
 
-She set the chopsticks down. "There's a bigger problem. You're going to text them."
+"You do. Or whoever's worried about you signs you up."
 
-"That's the plan. If they haven't picked it up in three days, the system sends a message."
+"Whoever's worried." She set the chopsticks down. "Did she say yes? The woman on the floor, in 4B. Did she ever say *watch me*?"
 
-"A machine sends a message."
+"No."
 
-"Yes."
+"Then you're building it for the person who's worried and selling it to the person who's watched." She said it mildly, like a woman pointing out a stain. "She'd have to say yes herself. Or it's a nanny cam with better manners."
 
-"Then a machine has noticed that you're missing, and told you so." She lined the chopsticks up, parallel to the edge of the plate. "When my mother calls someone, they pick up. Because it's her. A voice. When a text arrives from a number, the person thinks: *they're tracking me.*" She shook her head slowly. "A machine can notice. But a person has to be the one who says it."
+"That's what Kyle said."
+
+"I'm starting to like Kyle." She lined the chopsticks up, parallel to the edge of the plate. "And there's a second problem. A machine can notice. But a person has to be the one who comes."
 
 I didn't say anything. I had a horrible, exhilarating sense that the product I'd been describing to myself for a month had just been turned upside down and set on its feet.
 
-"So the system tells a person," I said. "It doesn't do the calling."
+"So the system tells a person," I said. "It doesn't do the checking."
 
-"It can send the text," said Maya. "It just can't send it as nobody."
+"It can send the text," said Maya. "It just can't be the only thing that shows up. Who gets the message?"
 
-"Who gets the names?" said Maya. "Of the ones who didn't come back?"
+"Whoever's closest."
 
-"The pharmacy."
-
-"Which person?"
-
-"Whoever's there."
-
-"Whoever," said Maya, "is nobody." She said it mildly, like a woman pointing out a stain. "That's the sentence from the ballroom. Nobody's job. It's what my mother does with a receipt roll and her own phone. Somebody has to be the somebody."
+"Whoever's closest," said Maya, "is nobody." She didn't look up. "That's the sentence from the ballroom. Nobody's job. It's what my mother does with a receipt roll and her own phone. Somebody has to be the somebody, and she should get to say who."
 
 I wrote it down. I didn't understand it yet.
 
@@ -245,7 +247,7 @@ I went home on the train that night, and I opened the page that had been called 
 
 I looked at the question mark for a while. I have said, to more than one person, that I don't remove a question mark without evidence. Maya had told me, at the door of a ballroom, to get some.
 
-I had fourteen interviews. I had a notebook with a rubber band around it and a doctor's second shift and a man on a kitchen floor. I had a sentence, written by a woman who had refused to consult, that said *we just wanted to hear you were fine.* I had a word on a whiteboard that we'd written twice.
+I had fourteen interviews. I had a notebook with a rubber band around it and a doctor's second shift and a nurse who was a phone number and a man on a kitchen floor. I had a sentence, written by a woman who had refused to consult, that said *we wanted to check you're okay.* I had a word on a whiteboard that we'd written twice.
 
 I removed the question mark. Then I deleted the rest of the title, and I typed:
 
