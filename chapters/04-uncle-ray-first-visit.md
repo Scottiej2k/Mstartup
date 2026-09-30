@@ -11,7 +11,7 @@ A hypothetical, if you haven't used one, is a question you've told to wait in th
 
 Ray is my father's older brother. Seven years older. He left Dayton at twenty-two, and my father, Dan, stayed to look after their parents, and the two of them have never once discussed whether that was fair. They talk at Christmas and on the anniversary of my grandfather's death, briefly, about the weather. That is also how they say they love each other. We are a family that fixes things and does not discuss them.
 
-Dan runs maintenance for a hospital system. Ray spent most of thirty years building software for hospitals. This has never come up. (I had not yet told Ray that my new company was, more or less, his old industry in a smaller hat. Hypothetically, I was working up to it.)
+Dan runs maintenance for a hospital system. Ray spent most of a quarter century building software for hospitals. This has never come up. (I had not yet told Ray that my new company was, more or less, his old industry in a smaller hat. Hypothetically, I was working up to it.)
 
 His company was called Steadyline Systems, and it did inventory for hospital supply closets: gauze, syringes, the dull, life-critical arithmetic of whether there's enough of something. He started it at thirty-one with a friend. He sold it at fifty-five to a bigger company, thirteen years ago, and has not, in the sense the Valley uses the word, worked since. What he does is take phone calls and drink coffee with people. He doesn't charge. He accepts pie.
 
@@ -65,7 +65,7 @@ I'd prepared a hypothetical in the car, before the phone died. It was a good one
 
 I poured myself a mug from the thermos on the fence post. It was burnt. It is always burnt, on principle. I looked at the yard, and the string, and the man with the mallet, and I heard myself say something completely different.
 
-"Hypothetically," I said, and Ray stopped moving for exactly one second, "say there's a person who keeps showing up to a problem interview. (That's the kind where you ask questions and try not to sell.) Not a buyer. Not the person who could sign the check. But she, they, keep asking the best questions I've ever had."
+"Hypothetically," I said, and Ray stopped moving for exactly one second, "say there's a person who keeps showing up to, basically, a problem interview. (That's the kind where you ask questions and try not to sell.) Not a buyer. Not the person who could sign the check. But she, they, keep asking the best questions I've ever had."
 
 I would like it noted that I changed pronouns mid-sentence, like a man swapping license plates.
 
@@ -91,7 +91,7 @@ I would like it noted that I changed pronouns mid-sentence, like a man swapping 
 
 "How's the new thing been, so far?"
 
-I thought about it. It took longer than I liked. Loopback, at that point, had a name, fourteen interviews, a co-founder on a ninety-day trial that began in a week, and a growing number of people who'd said "love it" when I described the idea to them afterward. Nobody had been asked to pay for anything. "People say they love it," I said. "It's been nice."
+I thought about it. It took longer than I liked. Loopback, at that point, had a name, fourteen interviews, a co-founder on a ninety-day trial that started on October first, a week away, and a short list of people who'd said "love it" when I described the idea, among them Cole, Kyle's dentist, and a man at Priya's gym. Nobody had been asked to pay for anything. "People say they love it," I said. "It's been nice."
 
 "Nice." He said it the way you'd say the name of a town you'd driven through. "Has anyone paid you yet?"
 
@@ -229,7 +229,7 @@ I looked at that for a minute. Then I put the car in gear, and drove down the mo
 
 Buyers are generous. They say "looks good," because they want the meeting to be over, or because they like you, or because saying no takes a kind of energy they'd prefer to spend on lunch. I had a spreadsheet full of buyers who liked me. It was the most dangerous document I owned.
 
-The person who isn't buying has no reason to be nice. She'll tell you the label is unreadable. She'll ask what happens after the demo. If you can stand it, she is the only real product manager you'll ever have. The other person not buying is the one deciding whether to stay. Priya had told me I was being interviewed. Ray agreed, in his way, which is to pour more coffee.
+The person who isn't buying has no reason to be nice. She'll tell you the label is unreadable. She'll ask what happens after the demo. If you can stand it, she is the only real product manager you'll ever have. The other person who isn't buying is the one deciding whether to stay: a co-founder on a trial. Priya had told me I was being interviewed. Ray agreed, in his way, which is to pour more coffee.
 
 I've thought since about how carefully I'd arranged my life so that the people around me said "looks good." Kyle was the exception. He told me the truth with a mixing bowl of cereal.
 

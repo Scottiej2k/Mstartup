@@ -31,7 +31,7 @@ I stopped typing.
 
 "I do the calling myself," she said. "Sunday nights, badly. My husband calls it my second shift." She took the glasses off. "If you build something, don't send me a deck. Send me something that works in a waiting room. Not a laptop. A waiting room."
 
-We walked back to the car in silence. "That's four people," said Priya, "and four different sentences."
+We walked back to the car in silence. "That's five people," said Priya, "and five different sentences."
 
 "The one with the notebook didn't use a sentence," I said.
 
@@ -75,7 +75,7 @@ I gave Kyle the one-sentence version on a Wednesday, at the counter, with the mi
 
 "Every pharmacy has a reminder app. My dentist has three. I get a text when I'm about to have a cleaning, and a text after the cleaning that says how was the cleaning, and a text that says *we miss you* about six months after I stopped going." He took a bite. "Which, honestly, was a low blow."
 
-"Those remind you *before* you're supposed to come in," I said. "This notices *after*. Someone who's come in on the fourth of every month for nine years doesn't, and the system catches it on the fifth. Then it texts them. Something like: *we noticed you're missing.*"
+"Those remind you *before* you're supposed to come in," I said. "This notices *after*. Someone who's come in on the fourth of every month for nine years doesn't, and three days later the system notices. Then it texts them. Something like: *we noticed you're missing.*"
 
 "So it's a reminder app with a guilt complex."
 
@@ -125,11 +125,11 @@ She wiped the word off the whiteboard with the flat of her hand. I said, "What a
 
 ---
 
-Cole's drinks happened the following Tuesday, on a rooftop in SoMa with heat lamps that cost more than my rent. I told myself I'd gone to be polite, which is what I tell myself before I do things I want to do.
+Cole's drinks happened that Saturday, the night before the dumplings, on a rooftop in SoMa with heat lamps that cost more than my rent. I told myself I'd gone to be polite, which is what I tell myself before I do things I want to do.
 
 I ordered water. Cole ordered for me anyway, and a cocktail arrived with an orange peel curled on the rim like a question mark. I held it the way I hold every drink, as a prop.
 
-"So I hear pharmacies," said Cole. He hadn't asked what I was working on. Someone had told him. That's how information moves at his altitude: downhill.
+"So I hear pharmacies," said Cole. (Northbeam was his company, the eighteen-million one, and apparently it was about to become a health company, in the way a restaurant becomes a health company by adding a salad.) He hadn't asked what I was working on. Someone had told him. That's how information moves at his altitude: downhill.
 
 "Healthcare," I said. "We're early. We've done fourteen interviews and—"
 
@@ -143,7 +143,7 @@ I ordered water. Cole ordered for me anyway, and a cocktail arrived with an oran
 
 "*Exactly,*" said Cole, delighted, like a man whose dog has finally fetched.
 
-I want to be honest about the next few seconds, because I'd like credit for what I did after them. My stomach did a small, warm, traitorous thing. I wouldn't be the inventory guy anymore. I'd be Nate, Head of. Priya could stop being at half salary. No more *whatever this is.* Somebody else would carry the weight, and all I'd have to do was not put it down.
+I want to be honest about the next few seconds, because I'd like credit for what I did after them. My stomach did a small, warm, traitorous thing. I wouldn't be the inventory guy anymore. I'd be Nate, Head of. Priya could stop counting months. No more *whatever this is.* Somebody else would carry the weight, and all I'd have to do was not put it down.
 
 "Let me think about it," I said.
 
@@ -213,6 +213,8 @@ I didn't say anything. I had a horrible, exhilarating sense that the product I'd
 
 "So the system tells a person," I said. "It doesn't do the calling."
 
+"It can send the text," said Maya. "It just can't send it as nobody."
+
 "Who gets the names?" said Maya. "Of the ones who didn't come back?"
 
 "The pharmacy."
@@ -253,7 +255,7 @@ It took fourteen interviews, one bad sandwich, and a great deal of dumpling. I'd
 
 ---
 
-I wrote to Cole the next morning. It took three drafts, which for me is a personal best. The first thanked him at length. The second had a footnote. The third said: *Thank you. No. We're going to build it ourselves.* I sent it before I could add anything, and I felt the day tilt, slightly, toward the thing I'd chosen.
+I wrote to Cole that Monday, the last one in September. It took three drafts, which for me is a personal best. The first thanked him at length. The second had a footnote. The third said: *Thank you. No. We're going to build it ourselves.* I sent it before I could add anything, and I felt the day tilt, slightly, toward the thing I'd chosen.
 
 Priya was already at her desk under the fish sign, headphones around her neck, which means available. I told her everything: the rooftop, the title, the third more, *let me think about it,* and that I had thought about it, and said no, and wanted her to know I'd felt the pull.
 
@@ -261,19 +263,23 @@ Priya was already at her desk under the fish sign, headphones around her neck, w
 
 "You know what?"
 
-"He called me on Tuesday. After your drinks. Before you'd finished not drinking your drink." She didn't look up from her screen. "Senior engineer. A third more. He said I'd be 'part of the team.'"
+"He called me Saturday night. You were probably still holding the glass." She didn't look up from her screen. "Senior engineer. A third more. He said I'd be 'part of the team.'"
 
 "You didn't say—"
 
-"I said I'd think about it." She took the headphones off. "Then I thought about it. Then I waited to see what you'd do."
+"I said I'd think about it." She took the headphones off. "Then I thought about it. Then I waited to see what you'd do with yours."
 
 "That's a test."
 
-"It's a reference check." She said it gently. "I've been at half salary since March with nothing on paper, Nate. I'm not putting the next four years into someone who says *let me think about it* to a man with a halo." She looked at me at last. "You said it too. But you said no by Monday."
+"It's the same offer, to both of us." She said it gently. "I've been at half salary since March with nothing on paper, Nate. I'm not putting the next four years into someone who'd take the easier job the first time it came with a title." (Four years is the usual stretch before a founder's share of a company is fully hers.) She looked at me at last. "You said *let me think about it.* So did I. You said no by Monday."
+
+"What did you tell him?"
+
+"No. Monday afternoon. After yours." She looked almost pleased. "I wanted to know I wasn't the only one who'd say it."
 
 "So what does that mean?"
 
-"It means I'm in. For ninety days. Starting October first, because I'd like a start date and an end date. On day ninety we sit down and talk about paper." She turned back to her screen. "Until then it's a trial. For both of us."
+"It means I'm in. Actually in, not half-in. Ninety days, starting October first, because I'd like a start date and an end date. On day ninety, the last week of December, we sit down and talk about paper." She turned back to her screen. "Until then it's a trial. For both of us."
 
 "Both of us?"
 

@@ -3,7 +3,7 @@
 
 The first thing I noticed about Maya was that she was the only person in the ballroom who wasn't checking anyone else's lanyard.
 
-I want to be clear that this was unusual. The lanyards at the Founders & Funders Mixer came with color-coded stickers: green for *raising*, blue for *investing*, and orange for *seeking a co-founder*, which was the color of someone waiting at a bus stop for a bus that has been cancelled. I had a green sticker, which was a lie of ambition. I was an orange with a green sticker on. I also had a Notion page titled "Healthcare, something?", no customers, no product, and a cup of water I was holding the way a hostage holds a newspaper.
+I want to be clear that this was unusual. The lanyards at the Founders & Funders Mixer came with color-coded stickers: green for *raising*, blue for *investing*, and orange for *seeking a co-founder*, which was the color of someone waiting at a bus stop for a bus that has been cancelled. I had a green sticker, which was a lie of ambition. I was an orange (my co-founder had not, strictly, committed) with a green sticker on. I also had a Notion page titled "Healthcare, something?", no customers, no product, and a cup of water I was holding the way a hostage holds a newspaper.
 
 (I don't drink at these things. It isn't virtue. If I have a cup in one hand, nobody expects me to know what to do with the other.)
 
@@ -25,7 +25,7 @@ By eight o'clock I'd had three of these conversations. A man raising a seed roun
 
 "Love it," he said, and left to find someone with an actual answer.
 
-For the record, four months earlier I'd had a real answer to that question. I'd spent eight months and most of my savings on an inventory tool for small retailers, and it had died in March, quietly and in plain view, the way things die when you've built them without asking anyone if they wanted them. My pitch deck for it had been nine slides long, and on slide three, under the word PROBLEM, was a statistic about small retailers that I'd found on the internet and never once checked against an actual retailer. My co-founder Priya, who was the only reason the code had ever worked, had agreed to stay on through "whatever this is" at half salary. She had not agreed to anything in writing, and I had been careful not to bring that up, the way you're careful not to ask a friend who's helping you move whether they're also planning to move in. She had said she'd decide once she saw whether this was a thing, which I understood to mean: once she saw whether I was. I'd sent her a spreadsheet of options for what "this" might be. She'd replied with one word: *Sleep.*
+For the record, four months earlier I'd had a real answer to that question. I'd spent eight months and most of my savings on an inventory tool for small retailers, and it had died in March, quietly and in plain view, the way things die when you've built them without asking anyone if they wanted them. My pitch deck for it had been nine slides long, and on slide three, under the word PROBLEM, was a statistic about small retailers that I'd found on the internet and never once checked against an actual retailer. My co-founder Priya, who was the only reason the code had ever worked, had agreed to keep showing up through "whatever this is" at half salary. She had not agreed to anything in writing, and I had been careful not to bring that up, the way you're careful not to ask a friend who's helping you move whether they're also planning to move in. She had said she'd decide once she saw whether this was a thing, which I understood to mean: once she saw whether I was. I'd sent her a spreadsheet of options for what "this" might be. She'd replied with one word: *Sleep.*
 
 The man from Stripe for Pets was still in sight, scanning for someone better, when someone clapped me on the shoulder hard enough to spill a small amount of my water.
 
@@ -317,7 +317,7 @@ Every founder gets the same advice, usually from someone with a podcast: fall in
 
 What I hadn't done, until a woman by the exit gave me the safe answer and I said it was the one she gave vendors, was ask a question and be willing to hear the real one. That's the whole trick. Not the asking. The willingness. Most of us ask the way we hold a cup of water at a party: for something to do with our hands.
 
-Every person in that ballroom was looking for something: a co-founder, a customer, a check. Each of us wore the color of the thing we'd settle for. I'd pinned on green and spent two hours ignoring the orange underneath. The person I was actually looking for didn't have a sticker.
+Every person in that ballroom was looking for something: a co-founder, a customer, a check. Each of us wore the color of the thing we'd settle for. I'd pinned on green and spent two hours ignoring the orange underneath. The orange, it turned out, had already been answered by someone on the other end of a Slack channel. The person I wasn't looking for didn't have a sticker.
 
 Maya told me about the people the pharmacy never hears from. I didn't know I'd been handed a company. I knew only that for about twenty minutes nobody in that ballroom was performing, and I wanted to stay in it.
 

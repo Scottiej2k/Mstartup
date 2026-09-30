@@ -147,7 +147,7 @@ There was a laptop in the bag under my chair. I had not taken it out, and I want
 
 "Right."
 
-"I told my mother this was research. She asked what I was wearing." She took a sip. "I wore the practical one."
+"I told my mother this was research. She asked what I was wearing." She took a sip. "I wore the practical sweater."
 
 "The practical one is nice."
 
