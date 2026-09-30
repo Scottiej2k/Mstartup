@@ -5,7 +5,7 @@ Theo found the bug in an afternoon. It had taken me a week to lose it.
 
 It was a Thursday in July, in the glass room, and the bug was a very small one: nine patients in a row had been reported to their people as having gone quiet, although every one of them had answered. I had spent the week on it. I'd built a dashboard. I'd built a second dashboard to look at the first one. I'd concluded, with the confidence of a man who has read a number of blog posts, that it was a *business* problem, having to do with carrier delays, and I had a call scheduled with a man at a telecommunications company.
 
-Theo had been with us for three weeks. He sat next to Priya in the hoodie, in the chair that had come with the second monitor, and he said nothing for about four hours, and then he turned around.
+Theo had been with us for three weeks. He sat next to Priya in the hoodie, in the chair we'd bought with the second monitor, and he said nothing for about four hours, and then he turned around.
 
 "It's the *a,*" said Theo.
 
@@ -19,29 +19,29 @@ There was a silence. Priya, without turning her head, took a pen from behind her
 
 "I know," said Theo gently. "Priya told me. She said don't say anything until you've asked." He scratched his beard, which had decided. "I wanted to see if you'd ask."
 
-I hadn't. I'm still not sure why that has stayed with me. It was a small thing. I had a hundred and twelve patients and a co-founder and a salary that was, for the first time, a number with a comma in it, and I'd spent five days building a wall around a lowercase letter because it was easier than saying *I'm stuck.*
+I hadn't. I'm still not sure why that has stayed with me. It was a small thing. I had a hundred and twelve patients, now that Margo's money had bought a second clinic, and a co-founder and a salary that was, for the first time, a number with a comma in it, and I'd spent five days building a wall around a lowercase letter because it was easier than saying *I'm stuck.*
 
-It turns out the comma changes everything you're afraid of. That's the thing I hadn't expected: how much money teaches you to be frightened, and of what. I'd been poor for sixteen months, and I'd known how. I hadn't known how to be someone with fourteen months of runway and a Saturday.
+It turns out the comma changes everything you're afraid of. That's the thing I hadn't expected: how much money teaches you to be frightened, and of what. I'd been poor for sixteen months, and I'd known how. I hadn't known how to be someone with fourteen months of runway and a free Saturday for the first time in a year.
 
 That's how I came to be looking at a one-bedroom in Sunnyvale.
 
 ---
 
-I told Kyle on a Sunday, at the counter, over the mixing bowl. I'd prepared nothing, which is a thing I'd begun to do on purpose, and which turns out to be the same as being unprepared.
+I told Kyle on a Sunday, at the counter, over the mixing bowl. I'd prepared nothing, which I'd begun to do on purpose, and which turns out to be the same as being unprepared.
 
-"Maya and I are looking at places," I said. "In Sunnyvale. It's forty minutes from the pharmacy. It's on the train. We might live together."
+"I'm looking at places," I said. "In Sunnyvale. It's the dot on the map that keeps Maya inside her forty minutes of the pharmacy and me inside mine. We might—it's a *might.*"
 
 He stopped chewing. He held the spoon in the air for about a second, like a man in a cartoon who's walked off a cliff and hasn't noticed.
 
-"Cool," said Kyle.
+"Cool," said Kyle. Then, after a moment: "Does it have a balcony?"
 
-"It's a thing we're thinking about. It's a *might.*"
+"What?"
 
-"You've known her thirteen months."
+"Nothing." He looked at the bowl. "You've known her a year."
 
-"It's thirteen months and a bit."
+"A year and two weeks."
 
-"Dude, it's a *lease.*" He put the spoon in the bowl. "It's twelve months, in writing, with a landlord. It's the same as a company, except the company can't cry in the kitchen." He said it lightly, and then not lightly. "You don't know what you're doing. You've never lived with anyone but me, and I don't count, I'm a *mixing bowl.* You'll move in and you'll find out she has a *thing,* and you'll be stuck in a one-bedroom with it."
+"Dude, it's a *lease.*" He put the spoon in the bowl. "It's twelve months, in writing, with a landlord. It's the same as a company, except the company can't cry in the kitchen." He said it lightly, and then not lightly. "You don't know what you're doing. You've never lived with anyone you were trying to impress, and I don't count, I'm a *mixing bowl.* You'll move in and you'll find out she has a *thing,* and you'll be stuck in a one-bedroom with it."
 
 "She doesn't have a thing."
 
@@ -55,13 +55,13 @@ I'd left it open. It said **Housing,** and under it, in a column I'd labeled **V
 
 "It's the rent *share.* It's just how I—"
 
-"Look," said Kyle. He'd gone a bit pale, in the face, and his voice had gone up into a register I recognized from a long time ago, in a dorm room, at two a.m. "I'm just saying. You're a founder. You've got a company that could work or not. Don't lock yourself in. There's no rush, there's a thing called *optionality*—"
+"Look," said Kyle. He'd gone a bit pale, in the face, and his voice had gone up into a register I recognized from a long time ago, in a dorm room in Ohio, at two a.m., when we were eighteen. "I'm just saying. You're a founder. You've got a company that could work or not. Don't lock yourself in. There's no rush, there's a thing called *optionality*—"
 
 "You don't want advice," I said.
 
 It came out very level. It came out like something I'd been carrying, in a pocket, for a year.
 
-"You want an audience. You've been giving me advice since I moved in, and you've never once asked how it turned out. You want me to need you to tell me what to do, because then you don't have to do anything." I heard my voice, and it was a voice I'd never used on him. "I don't need your opinion on my life, Kyle. I need a roommate. And you can't even be that without a speech."
+"You want an audience. You've been giving me advice since we were eighteen, and you've never once asked how it turned out. You want me to need you to tell me what to do, because then you don't have to do anything." I heard my voice, and it was a voice I'd never used on him. "I don't need your opinion on my life, Kyle. I need a roommate. And you can't even be that without a speech."
 
 He didn't say anything. The refrigerator hummed. There was a sound from somewhere down the hall, a neighbor's television, which for a moment sounded like applause.
 
@@ -73,7 +73,7 @@ Then he left. The door didn't slam. It closed, very gently, like a man leaving a
 
 It was eleven-fifteen when I called Maya, and I hadn't planned what I'd say, and what I said was the truest thing I had.
 
-She picked up on the second ring. "You never call this late. We're supposed to call at eleven."
+She picked up on the second ring. "You're never late. We're supposed to talk at eleven."
 
 "I was late."
 
@@ -109,7 +109,7 @@ I didn't sleep. I lay in a room that smelled of a roommate who wasn't there, and
 
 Jules came to the apartment in Glen Park on Tuesday night, with noodles.
 
-She'd been told. I could see that as soon as I came in, from the way she looked at me from behind the counter with a box of pad thai, the way a public defender looks at a defendant whose file she's read on the train. Maya was on the couch, in her gray sweater, with her knees pulled up and her chin on them. The room smelled of cardamom and the chain hung on the door like a thing someone had meant to remove.
+She'd been told. I could see that as soon as I came in, from the way she looked at me from behind the counter with a box of pad thai, the way a public defender looks at a defendant whose file she's read on the train. Maya was on the couch, in her gray sweater, with her knees pulled up and her chin on them. The room smelled of cardamom and the chain hung on the door as if someone had meant to remove it.
 
 "He brought a laptop," said Jules.
 
@@ -157,6 +157,14 @@ It was Maya, at the end, who said it. She said it without looking at me, to the 
 
 She stared at me. And then she laughed, suddenly, into her sleeve, and Jules, without looking up from the noodles, said, "I'd like the record to show that I've been asked to witness something."
 
+We signed on the Thursday, in a leasing office that smelled of carpet glue, after seeing the unit twice: a second-floor one-bedroom with a window that looked at a tree, and a kitchen with a small, uncomplaining dishwasher. There was a pen on a chain. Maya checked it before she used it. She wrote her name first, and pressed hard, and looked at the line for a moment, the way you look over the edge of something.
+
+"It's twelve months," she said, to the page.
+
+"It has a landlord," I said. "It doesn't have a schedule."
+
+"I'll take the landlord," said Maya, and handed me the pen.
+
 ---
 
 Move day was the twenty-second of August, a Saturday, and it was a hundred and one degrees, and Kyle came with a hand truck.
@@ -187,7 +195,7 @@ It's a strange thing to be asked that by a man who's been handing it out since y
 
 We carried it down together, with the hand truck, in a hundred and one degrees, three flights and out to a rented van, with Kyle on the bottom and me on the top, saying, from time to time, *left* and *your left.* At the bottom, on the curb, he straightened up and wiped his face with his T-shirt, and then he did something I'd never seen him do, which was to stand next to me for a minute and not say a thing.
 
-"I kept the bowl," said Kyle. "You can have it on Sundays."
+"I kept the bowl," said Kyle. "You can come eat out of it on Sundays."
 
 ---
 
@@ -195,9 +203,9 @@ The Ramans had us to dinner the next night, the Sunday, in the cream stucco hous
 
 "We are expanding," she said.
 
-Nobody said anything. I had a fork in my hand. Across the table, Maya, who'd spent the day carrying boxes up a flight of stairs and whose hair was still coming out of its clip, set her glass down very slowly, like a thing she didn't want to wake.
+Nobody said anything. I had a fork in my hand. Across the table, Maya, who'd spent the day carrying boxes up a flight of stairs and whose hair was still coming out of its clip, set her glass down very slowly, as if it might wake.
 
-"The nail salon next door has closed," said Lakshmi. "The owner is retiring to Fresno. There is an empty suite, two rooms. A consultation room, for the pharmacist to sit with a patient, with a door. And a corner, for the vaccinations. So nobody has to go to the clinic." She said it all at once, in the voice of a woman who has practiced in the mirror and then in front of a pot. "It will be good for the store. It will be good for the customers."
+"The nail salon next door has closed," said Lakshmi. "The owner is retiring to Fresno. There is an empty suite, two rooms. A consultation room, for the pharmacist to sit with a patient, with a door. And a corner, for the vaccinations. So nobody has to go to the clinic." She said it all at once, in the voice of a woman who has practiced in front of a pot. "It will be good for the store. It will be good for the customers."
 
 "And staffing?" said Maya.
 
@@ -209,9 +217,9 @@ It was the first thing he'd said since he sat down. He was at the head of the ta
 
 "Yes."
 
-"It's double the hours. Somebody has to—"
+"It's double the hours. Arjun could—"
 
-"I have a daughter," said Suresh.
+"Arjun is in Seattle," said Suresh. (Arjun was her older brother, an ER resident, the one who'd gone away and succeeded. I had never met him.) "He is saving people." He said it with pride and no apology. "I have a daughter."
 
 The room was absolutely silent. A clock ticked in the hall. I looked at Maya, and I saw her do it. I watched her receive it, the way you receive a parcel you've known for years was coming, and she didn't move at all. She looked at her father. Her face went polite.
 
@@ -219,7 +227,7 @@ The room was absolutely silent. A clock ticked in the hall. I looked at Maya, an
 
 It had a period on it. It had a whole sentence's worth of period.
 
-I opened my mouth. I'll tell you what I'd planned to say. I'd planned to say *I can help,* and I'd planned to say *let's talk about a schedule.* I closed it. I sat there, in the quiet of her parents' dining room, and did nothing, which is a thing I'd learned on a guardrail, and I can report that it was the single hardest piece of work I did that year. Maya reached under the table and found my hand. She held it, very tightly, for about ten seconds, and then let go, and passed the rice.
+I opened my mouth. I'll tell you what I'd planned to say. I'd planned to say *I can help,* and I'd planned to say *let's talk about a schedule.* I closed it. I sat there, in the quiet of her parents' dining room, and did nothing, which I'd learned on a guardrail, and I can report that it was the single hardest piece of work I did that year. Maya reached under the table and found my hand. She held it, very tightly, for about ten seconds, and then let go, and passed the rice.
 
 "There is more dal," said Lakshmi. She didn't look at anyone.
 
@@ -233,9 +241,9 @@ Ray didn't ask. He was in the kitchen, at noon, in the flannel, frying two eggs 
 
 "I can—"
 
-"It's a rule. It isn't mine." He ran the water. "You do the dishes together. Not because it's efficient. It isn't. It's the most inefficient thing in the house, two people at one sink." He handed me the first plate. "Because it's the only time nobody's trying to get anywhere."
+"It's a rule. It isn't mine." (He didn't say whose. The pan did.) He ran the water. "You do the dishes together. Not because it's efficient. It isn't. It's the most inefficient thing in the house, two people at one sink." He handed me the first plate. "Because it's the only time nobody's trying to get anywhere."
 
-I washed. He dried. We did it in silence, in the small kitchen, with the window over the sink that looked out at the yard, at the string, at the kidney-shaped depression in the lawn that had acquired, in a week, a sheet of blue plastic. A redwood dripped on the roof. I handed him a fork, and a glass, and a plate with a chip in the edge, and I found that my shoulders, which had been up around my ears for a fortnight, had come down.
+I washed. He dried. We did it in silence, in the small kitchen, with the window over the sink that looked out at the yard, at the string, at the kidney-shaped depression in the lawn that had acquired, since May, a sheet of blue plastic. A redwood dripped on the roof. I handed him a fork, and a glass, and a plate with a chip in the edge, and I found that my shoulders, which had been up around my ears for a fortnight, had come down.
 
 "I was going to fix it," I said. "Her parents. The staffing. I've got—"
 
@@ -257,7 +265,7 @@ I want to tell you I understood it then. I've thought about it a great deal. I'd
 
 I built the spreadsheet on Sunday. It took me four hours.
 
-It was a beauty. It was called **Raman Pharmacy: Staffing Options,** and it had a tab for each of three plans: a part-time technician, a cross-training schedule, and a rota of relatives, in which I'd included Arjun, who was in Seattle, and whose availability I'd estimated at *weekends, guilt-adjusted.* It had a chart. It had a cost per hour, calculated against the vaccination volume Lakshmi had described at dinner, and a column for *risk,* and at the bottom, in a cell with a border, a recommendation, in bold.
+It was a beauty. It was called **Raman Pharmacy: Staffing Options,** and it had a tab for each of three plans: a part-time technician, a cross-training schedule, and a rota of relatives, in which I'd included Arjun, whose availability I'd estimated at *weekends, guilt-adjusted.* It had a chart. It had a cost per hour, calculated against the vaccination volume Lakshmi had described at dinner, and a column for *risk,* and at the bottom, in a cell with a border, a recommendation, in bold.
 
 I emailed it to Maya at 11:08 p.m., from the floor of the new living room, with my back against the ugly good armchair, while she was in the shower. I attached a note. *Thought this might help. No pressure. — N.* I've kept the email. I find it hard to read.
 
