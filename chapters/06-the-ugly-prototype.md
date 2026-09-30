@@ -51,7 +51,7 @@ I tested it on myself, at the apartment, at ten o'clock Friday night. I signed m
 
 "Wow," said Kyle. "Great. Love it. Finally, a job I'm qualified for."
 
-I worked until four. The last thing I remember is Priya, asleep sitting up on our couch with her laptop still open, the screen dimmed to a gray so low it looked like a thought she was about to have. Then it was seven-twenty on Saturday morning and Kyle was standing over me with his phone, and I was lying on the kitchen floor with my cheek stuck to a cereal box, which I hadn't known was possible.
+I worked until four. The last thing I remember is Priya, asleep sitting up in our one armchair with her laptop still open, the screen dimmed to a gray so low it looked like a thought she was about to have. Then it was seven-twenty on Saturday morning and Kyle was standing over me with his phone, and I was lying on my couch with my laptop resting on me, one hand still on the keyboard and the other in a bag of chips on the floor.
 
 "You're alive," said Kyle.
 
@@ -59,11 +59,11 @@ I worked until four. The last thing I remember is Priya, asleep sitting up on ou
 
 "It says you're not." He held up the phone. The message read, in full: *Hi Kyle, it's Loopback. Nate Calloway hasn't anwsered his morning check-in, which is probably nothing. Could you check on him? Reply DONE when you have. (We told Nate we were texting you.)* "It spelled *answered* wrong. It has a W in the wrong place."
 
-"It's a prototype," said Priya, from the couch, without opening her eyes.
+"It's a prototype," said Priya, from the armchair, without opening her eyes.
 
-"It found you on the *floor,*" said Kyle.
+"It found you *under a laptop,*" said Kyle.
 
-"It found me on the floor," I said. I looked at the ceiling. "It worked."
+"It found me under a laptop," I said. I looked at the ceiling. "It worked."
 
 "I'm going to need you to say that again in a voice that isn't a whisper."
 
