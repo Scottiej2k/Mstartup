@@ -75,7 +75,7 @@ There was a silence on the call, and it had a shape.
 
 "It's a person."
 
-"So it's a CRM for a person." (A CRM is the software salespeople use to keep track of customers, one touch at a time.)
+"So it's a CRM for a person."
 
 "Is the coffee a business thing," said Priya, "or a date?"
 
