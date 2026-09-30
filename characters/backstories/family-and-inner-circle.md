@@ -49,7 +49,7 @@ calendar, her form of a hug.
 ### Priya Anand, Co-founder and CTO, 28
 - Grew up in Fremont-adjacent Newark. Met Nate at his first job; she wrote the
   code he was pitching.
-- Married to **Sam**, a middle-school teacher; they're the visibly healthy
+- Married to **Dev**, a middle-school teacher (renamed from Sam; Ch 3's placeholder is "Sam"); they're the visibly healthy
   partnership Nate keeps watching without learning from.
 - Quietly better at people than Nate. Her rule: "Disagree in the room, agree in
   the hallway." Applied to marriage, it becomes "Disagree at dinner, agree at
