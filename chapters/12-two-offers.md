@@ -121,7 +121,7 @@ She capped the pen, and uncapped it, and put it down.
 
 "What happened to him?"
 
-"He fixed it, eventually. It cost him a great deal. It wasn't the loss." She turned her head. "Everyone loses a customer. Everyone's wrong. I'll be wrong with you; I've been wrong with nine companies, and two husbands. What I care about is the week after. You'll be judged, by me, by how you behave the week after you're wrong. I'd like to find out what that looks like with you. I'd like it to be soon." She smiled for the first time. It was a very small one. "You ran a company that stopped answering once. Cole told me. You answered thirty-four times."
+"He fixed it, eventually. It cost him a great deal. It wasn't the loss." She turned her head. "Everyone loses a customer. Everyone's wrong. I'll be wrong with you; I've been wrong with nine companies, and two husbands. What I care about is the week after. You'll be judged, by me, by how you behave the week after you're wrong. I'd like to find out what that looks like with you. I'd like it to be soon. Once a quarter I'll ask you two things. *What would make you shut it down? How will you know you're wrong?* You don't have to answer well. You have to answer." She smiled for the first time. It was a very small one. "You ran a company that stopped answering once. Cole told me. You answered thirty-four times."
 
 "How—"
 

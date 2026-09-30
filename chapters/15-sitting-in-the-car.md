@@ -247,6 +247,8 @@ The reply came in nine seconds. It said, **Good.** And then, a moment later, in 
 
 **Ines says yes.**
 
+When I got in that morning, the crack phone was on my desk, with a sticky note on it in small capitals: **DAYS. NOT NIGHTS.** Nights would be Ines's, from November. Days were mine.
+
 ---
 
 On Saturday, Kyle helped me move a desk.

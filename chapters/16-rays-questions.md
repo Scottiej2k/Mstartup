@@ -39,9 +39,9 @@ I decided on a Wednesday, in a grocery store, in the dairy aisle, with a carton 
 
 There wasn't a reason. It was closer to a quiet. I'd been standing in front of a wall of milk, thinking about nothing, about whether we needed oat or regular, and I'd had the very clear and ordinary thought that I'd like to be standing in this aisle in forty years, wondering the same thing, next to her. It wasn't a revelation. It was a fact, like a price.
 
-I went home and did nothing about it for a week.
+I went home and did nothing about it for ten days.
 
-I'd never told anyone. I told Kyle first, because he asked. He'd come by on the Sunday, for the cereal, and he'd looked at my face across the bowl, and he hadn't said a word. He'd waited. It took about forty seconds. I heard myself say, "I'm going to ask her," and he put down the spoon.
+I'd never told anyone. I told Kyle first, because he didn't ask. He'd come by on the Sunday, for the cereal, and he'd looked at my face across the counter, and he hadn't said a word. He'd waited. It took about half a minute. I heard myself say, "I'm going to ask her," and he put down the spoon.
 
 "Cool," said Kyle. "Do you want my advice?"
 
@@ -55,7 +55,7 @@ I'd never told anyone. I told Kyle first, because he asked. He'd come by on the 
 
 ---
 
-I asked her parents on the Sunday before Thanksgiving. I asked them in their living room, in Fremont, on a couch with a crocheted throw, under a framed photograph of a young man in a white coat.
+I asked her parents on the Sunday before Thanksgiving. I asked them in their living room, in Fremont, on a couch with a crocheted throw, under a framed photograph of Arjun at his residency, a young man in a white coat who looked older than he was.
 
 It wasn't planned. I'd driven out with the tins. Maya was at the store; she'd said she'd come at six. I had about ninety minutes, and I had no speech. I'd had the outline of one, and I'd deleted it in the car.
 
@@ -103,7 +103,7 @@ He said it quietly. I think it was the first time in my life I'd heard a man say
 
 ---
 
-I went up the mountain on Saturday. I took no hypothetical. I'd stopped bringing them, more or less, since September. I found that I couldn't remember why I ever had.
+I went up the mountain on the Saturday after Thanksgiving. I took no hypothetical. I'd stopped bringing them, more or less, since September. I found that I couldn't remember why I ever had.
 
 Ray was in the kitchen. It was a cold, bright day, the sort of clear November that comes up the mountain after a week of rain and makes every redwood look as though it's been cut out of paper, and he had the heater on. He was sitting at the table, in the flannel, with his glasses pushed up into his hair and a mug of coffee at his elbow. A folder lay on the table near his other hand. It was face down.
 
@@ -153,21 +153,19 @@ I said nothing for a while. Through the window, a bird I didn't know the name of
 
 I hadn't got an answer. I sat there with the hot mug in both hands, in the heat of the little kitchen, and what I understood, very slowly, was that I'd heard these questions before. Not these words. The shape of them.
 
-"Margo asks me that," I said. "About the company. At every board meeting. *What would make you shut it down? How will you know you're wrong?*" I looked at him. "It's the same four. It's the same four questions."
+"Two of those are Margo's," I said. "My investor, Margo Bell. She asks them about the company, every quarter. *What would make you shut it down? How will you know you're wrong?*" I looked at him. "They're the same questions. About a company and about a person."
 
 "Is it?" said Ray.
 
-"You know it is."
+"I've never met her." He picked up the mug and looked into it. "I know that people who've been wrong a few times tend to ask the same questions." He took a sip. "It's a very short list. Every important thing you do in your life, you'll be asked it. By a banker. By a doctor. By the man in the robe, at the wedding." He put it down. "Denise would have liked her."
 
-"I don't know Margo Bell." He picked up the mug and looked into it. "I know that people who've been wrong a few times tend to ask the same questions." He took a sip. "It's a very short list. Every important thing you do in your life, you'll be asked it. By a banker. By a doctor. By the man in a robe." He put it down. "She'd have liked her."
+I didn't say anything.
 
-I knew who he meant. I didn't say anything.
-
-"Denise," said Ray, unnecessarily. "She'd have liked Maya. She'd have been difficult about it for about a month." He almost smiled. It didn't reach the corner of his mouth, but it tried. "She'd have put her in charge of the dishes."
+"She'd have been difficult about it for about a month," said Ray. He almost smiled. It didn't reach the corner of his mouth, but it tried. "She'd have put her in charge of the dishes."
 
 We sat for a little while. He reached out, slowly, and put his hand flat on the folder on the table. It was a manila one, a little creased, with a rubber band around it. He didn't pick it up, and he didn't turn it over.
 
-"Your thing," said Ray, in a voice I'd never heard, a voice pitched very low, almost to himself. "Your *healthcare, something.* I told myself I was too old for it. I've been thinking I might have a something." He stopped. "It's not ready. I've had it for a while. I'm not sure I'm going to do it."
+"Your thing," said Ray, in a voice I'd never heard, a voice pitched very low, almost to himself. "Your *something.* The healthcare one. I told myself I was too old for it. I've been thinking I might have a something." He stopped. "It's not ready. I've had it for a while. I'm not sure I'm going to do it."
 
 "Ray—"
 
@@ -181,7 +179,7 @@ I read the Meridian contract on Monday, and I read it differently.
 
 It was forty-one pages, and it came from a lawyer in a tower in San Jose, and it was in the plain, impassive prose of a document intended to be skimmed. I read it at the glass table, at seven in the morning, in the quiet, with a pencil. I'd never read a contract with a pencil. I read it with a line in my head that had been put there by a man at a fence post: *What would make you walk?*
 
-It was the third question. I'd answered it for myself, at a table, in a kitchen. I had not, in five years of selling things, asked it of anyone who was buying.
+It was the third question. I'd answered it for myself, at a table, in a kitchen. I had not, in six years of selling things, asked it of anyone who was buying.
 
 I called Carla at nine.
 
@@ -213,21 +211,21 @@ I wrote it down. I wrote *a notification is not a person.* I underlined it. I've
 
 ---
 
-I proposed on a Saturday in December, at six in the morning, on a trail above a nature preserve, to a woman in a hat.
+I proposed on a Saturday in December, at dawn, on a trail above a nature preserve, to a woman in a hat.
 
-I'd asked her to come. I'd said it the night before, on the couch, over the dishes, in the most offhand voice I'd ever managed: "Do you want to go for a walk tomorrow? It'll be early." She'd looked at me for a second, and at the window, and she'd said, "How early?" and I'd said, "Six," and she'd said, with a great deal of care, "I'll bring a hat."
+I'd asked her to come. I'd said it the night before, at the sink, over the dishes, in the most offhand voice I'd ever managed: "Do you want to go for a walk tomorrow? It'll be early." She'd looked at me for a second, and at the window, and she'd said, "How early?" and I'd said, "Six," and she'd said, with a great deal of care, "I'll bring a hat."
 
-It was cold, the cold of a clear December, and dark when we started, with frost on the grass and our breath going up in front of her phone's small flashlight. I'd brought nothing. I want to be clear about that. I had no ring, no speech, no list, no plan for what my hands would do. I'd had a dream, on the Thursday night, in which I'd arrived on the trail with a slide deck, and woken up laughing, and then not laughing.
+It was cold, the cold of a clear December, and dark when we started, with frost on the grass and our breath going up in front of her phone's small flashlight. I'd brought nothing. I want to be clear about that. I had no ring, no speech, no list, no plan for what my hands would do. I'd chosen the place, which is not the same as a plan, though it's close. I'd had a dream, on the Thursday night, in which I'd arrived on the trail with a slide deck, and woken up laughing, and then not laughing.
 
 We climbed. She was in front, in a gray wool hat with a small pom-pom, and I followed her up the path, and neither of us said anything. It's a steep path, with a bench at the top, facing east, where the whole bay lies under you in a gray sheet with a few lights still on in it, like a desk after a long night.
 
 The deer was there. I swear it. It was standing about thirty feet from the bench, in the frost, with its head up, watching us with the patience of an animal that has seen people work things out.
 
-"Is that—" said Maya.
+"Is that a deer?" said Maya.
 
-"I think so."
+"I think it's the deer."
 
-"You've met a *deer?*"
+"You have a *deer?*"
 
 "I once said something to it." I sat down. "It wasn't my best work."
 
@@ -251,7 +249,7 @@ She looked at me. She took a long time. She didn't smile.
 
 "Hm," said Maya.
 
-It was Lakshmi's sound. She'd got it from her mother. It was the sound of a number being added to a column, and I'd never heard it in her mouth, and I felt the whole bay under us go very still.
+It was Lakshmi's sound. She'd got it from her mother. It was the sound of a number being added to a column, and I'd never heard it in her mouth for something good, and I felt the whole bay under us go very still.
 
 I didn't say anything for a minute. I didn't gather myself. I'd had no speech. I'd had a good one, a month ago, and I'd deleted it in a car. I sat on a cold bench, with my hands on my knees, and I looked at the side of her face, in a gray wool hat, in the first light, and I said the only thing I had, which was true, and which had no door in it.
 
@@ -281,7 +279,7 @@ She took her hand from her mouth. She looked at me, for a long time, steadily, a
 
 "Okay," said Maya.
 
-I listened for the period. It wasn't there. It wasn't the no-period one, either. It was a third kind, which I'd never heard, and which I've been trying to describe ever since. It was a word with nothing around it at all. It was the sound of a door that had never had a chain.
+I listened for the period. It wasn't there. It wasn't the no-period one, either. It was a kind I had no name for, and which I've been trying to describe ever since. It was a word with nothing around it at all. It was the sound of a door that had never had a chain.
 
 "Yes," said Maya.
 
