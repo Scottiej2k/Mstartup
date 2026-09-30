@@ -285,6 +285,16 @@ Maya was standing in the doorway of her kitchen in a sweater, with two cups, loo
 
 "You answer A."
 
+"And if you don't?"
+
+"It texts somebody you've named. Your person."
+
+"Who's yours?"
+
+"Kyle."
+
+"Hm," said Maya.
+
 She handed me a cup. She sat on the arm of the couch, and read it again, slowly, the way she reads things she's deciding about. "It asks you first," she said. "Good."
 
 "Dr. Okafor said something like that. About the sign-up."

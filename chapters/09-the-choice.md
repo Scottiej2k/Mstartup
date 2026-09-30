@@ -17,11 +17,11 @@ It was the fifth of January. She'd had a holiday, and I'd had a holiday, and nei
 
 I didn't say anything. She waited, in her way, for exactly as long as it took me to understand that she'd measured it in advance.
 
-"After we have customers," I said. "I promise. It's not a no. It's a *when.*"
+"After we have customers," I said. "It's not a no. It's a *when.*"
 
-"Okay," said Priya, which from her isn't Maya's word; it's a thing you say to close a file. She picked up the folder and held it against her chest for a moment, like someone who'd been handed something back. "I'll keep it."
+"Okay!" said Priya, with the rising inflection, the lift going up to a floor she had no intention of getting out on. She picked up the folder and held it against her chest for a moment, like someone who'd been handed something back. "I'll keep it."
 
-I watched her go to her desk. I'd like to tell you I felt uneasy. What I felt was relieved, in the thin, slightly sour way you feel after a test's been postponed. It took me about four days to learn that relief and safety are different words, and that I'd been using the wrong one.
+I watched her go to her desk. I wish I'd felt uneasy. What I felt was relieved, in the thin, slightly sour way you feel after a test's been postponed. It took me about four days to learn that relief and safety are different words, and that I'd been using the wrong one.
 
 ---
 
@@ -45,7 +45,7 @@ I said I would, and I believed I'd decided it on my own.
 
 ---
 
-Cole's dinner was in a private room above a restaurant in SoMa, with a long wooden table and a chef who came out to explain each course, as though the food were a pitch. There were fourteen people, nine of whom had raised money and four of whom were about to, and Cole at the head of the table, lit as usual from an angle I've never been able to locate. He was in a jacket the color of wet sand and no tie, and he had, I noticed, a new ring-shaped tan line on his left hand, from a thing that had been and wasn't. (It was his third engagement. It had ended in September. He wore it the way he wore everything.)
+Cole's dinner was in a private room above a restaurant in SoMa, with a long wooden table and a chef who came out to explain each course, as though the food were a pitch. There were sixteen of us: ten who had raised money, four who were about to, and two who'd come for the food. Cole sat at the head of the table, lit as usual from an angle I've never been able to locate. He was in a jacket the color of wet sand and no tie, and he had, I noticed, a new ring-shaped tan line on his left hand, from a thing that had been and wasn't. (It was his third engagement. It had ended in September. He wore it the way he wore everything.)
 
 Maya had her coat on. She'd kept it on at the coat rack, where a man in a vest had offered to take it, and she'd said, "I'm fine," in the tone of a person declining a kidney. She'd chosen the chair nearest the door, which was also the chair nearest the kitchen, and I'd sat next to her, and I felt the old feeling I'd had in the ballroom: the feeling of a room trying to decide which of us was the exception.
 
@@ -63,7 +63,7 @@ I'd heard it in July. It had sounded different in July. It had sounded like a da
 
 A woman beside Cole, a founder of something with a logo, turned to Maya, and then to me, with the smile of a person waiting for the rest of a sentence. "And this is—?"
 
-It's very quiet in your head when it happens. I'd expected a roar. It was a clear room with a single clear sentence in it. I felt Kyle's spoon. I felt Cole's glass. I felt, most of all, a rule I'd been given by the woman beside me over a coffee in the summer, that she didn't name things. I told myself that I was respecting it. I told myself that the word was hers to give.
+It's very quiet in your head when it happens. I'd expected a roar. It was a clear room with a single clear sentence in it. I felt Kyle's spoon. I felt Cole's glass. I felt, most of all, a rule the woman beside me had given me over a coffee in the summer: *I don't name things until coffee three.* We were somewhere past coffee thirty. I told myself the rule had gone on existing out of politeness, and that I was respecting it, and that the word was hers to give.
 
 "This is my friend Maya," I said.
 
@@ -71,7 +71,7 @@ The woman said, "Lovely."
 
 "Okay," said Maya.
 
-It's a small word. It was a very small word, and it had a period on it, and I heard the period, and I would like to tell you that I understood it at once. I understood it the way you understand a noise in the house at night, which is to say that I sat very still and waited for it to go away.
+It's a small word. It was a very small word, and it had a period on it, and I heard the period, and I'd like to tell you I understood it at once. I understood it the way you understand a noise in the house at night, which is to say that I sat very still and waited for it to go away.
 
 Somewhere in the second course, Maya asked Cole a question.
 
@@ -99,7 +99,7 @@ I drove her home. She sat with her hands in her lap and her coat buttoned to the
 
 "He is."
 
-"The chef was good." It was the tone. I want to be exact about it, because I've spent a long time learning to read it, and what I want you to understand is that she wasn't angry. She'd gone polite. She'd gone all the way around to the other side of it, where the manners are. "Thank you for driving. I know it's out of your way."
+"The chef was good." It was the tone. I've spent a long time learning to read it, and she wasn't angry. She'd gone polite. She'd gone all the way around to the other side of it, where the manners are. "Thank you for driving. I know it's out of your way."
 
 "Maya—"
 
@@ -117,9 +117,9 @@ The door opened. She went in. She closed it, and there was a short silence, and 
 
 That was a Thursday. The next three days were the politest of my life.
 
-I texted Friday morning. *Good morning.* She replied in four minutes. *Good morning.* I texted Friday night. *Did you get home okay?* She'd been home for a day and a half. *Yes, thank you.* On Saturday I said, carefully, that I was going to be free in the afternoon if she was, and she said she'd be at the store until late, and thanked me for asking, and every one of them had a period, and I began to believe that there was a bank somewhere in which I'd been running up a balance of periods.
+I texted Friday morning. *Good morning.* She replied in four minutes. *Good morning.* I texted Friday night. *Did you get home okay?* She'd been home for a day. *Yes, thank you.* On Saturday I said, carefully, that I was going to be free in the afternoon if she was, and she said she'd be at the store until late, and thanked me for asking, and every one of them had a period, and I began to believe that there was a bank somewhere in which I'd been running up a balance of periods.
 
-I opened Life OS on Saturday night. It was still the same five sections. The last one said **Relationships,** and under it, from the summer, was a single line. It said *Follow up.* I looked at it for a long while. I wanted to write something beneath it and I found I didn't have a verb.
+I opened Life OS on Saturday night. It was still the same five sections. The last one said **Relationships,** and it was empty, as it had been since a Saturday in the summer when I'd typed *Follow up* under it and deleted it, because Maya would notice. I sat with the cursor under the heading for a long while. I wanted to write something, and I found I didn't have a verb.
 
 ---
 
@@ -165,13 +165,13 @@ He didn't say anything. He took his glove out of his back pocket and held it for
 
 "I kept my options open for a good long time," said Ray. "I'll tell you what they were. They were a drawer. A nice deep drawer with a lot of things in it I never used." He set the mallet against the fence. "You keep your options open until somebody's standing in them. Then they're not options. They're a person, waiting in a hall."
 
-I took my phone out, because something in me wanted to have that, and Ray said, "Don't write that down."
+I didn't ask whose drawer he meant. I took my phone out, because something in me wanted to have that, and Ray said, "Don't write that down."
 
 I put it away.
 
 "How much is enough?" I said. "To be sure. To—I keep thinking there's a number."
 
-"Nobody tells you." He looked at me for the first time since I'd arrived, and his eyes were pale and level and not unkind. "You've got enough. You've had enough since a ballroom. What you're waiting for isn't information."
+"Nobody tells you." He looked at me for the first time since I'd arrived, and his eyes were pale and level and not unkind. "You've got enough. You've had enough since July. What you're waiting for isn't information."
 
 "What is it?"
 
@@ -179,7 +179,7 @@ I put it away.
 
 ---
 
-I slept in the apartment that night without sleeping, and at five-forty on Monday morning I drove to a trail above the preserve and walked up it in the dark.
+I slept in the apartment that night without sleeping, and at five-forty on Monday morning I drove to a trail above a nature preserve and walked up it in the dark.
 
 It's a steep path with a bench at the top, facing east, where the whole bay lies under you in a gray sheet with a few lights left on in it, like a desk after a long night. I sat on the bench. The air was cold and smelled of eucalyptus. A deer, somewhere to my left, had apparently been there before me, and looked at me with the patience of a large animal that has seen people work things out.
 
@@ -209,7 +209,7 @@ She didn't say anything. I heard, from somewhere in the building, a pipe knock t
 
 "Okay," said Maya.
 
-I listened for the period. I want you to know that I stood in a hallway at seven in the morning and listened for punctuation. It wasn't there. It was a different word, made of the same letters.
+I listened for the period. I stood in a hallway at ten to seven in the morning and listened for punctuation. It wasn't there. It was a different word, made of the same letters.
 
 The door closed. I heard the chain. It took a little longer than it had the last time. Then it opened the whole way, and she stood in the light of her apartment with her arms wrapped around her sweater.
 
@@ -267,7 +267,7 @@ I didn't breathe. She said something else in Tamil, and there was a silence at t
 
 "The English one."
 
-She turned. She looked at me across her own small kitchen, with her arms around herself and her hair coming out of its clip. "Person," said Maya. "My person. It's from your thing. You told me about it the morning you slept on my couch. The one you name. They aren't your boyfriend and they aren't your friend. They're the one who'd notice." She shrugged, a little helplessly. "It was the only word that meant what I meant. I've been trying to find it since coffee three."
+She turned. She looked at me across her own small kitchen, with her arms around herself and her hair coming out of its clip. "Person," said Maya. "My person. It's from your thing. You told me about it the morning you slept on my couch." She shrugged, a little helplessly. "It was the only word that meant what I meant. I've been looking for it since coffee three."
 
 "Do I get a title?" I said. I couldn't help it.
 
@@ -275,15 +275,17 @@ She looked at me, and then she laughed, really, for the first time in four days,
 
 "You get the title," said Maya.
 
-She took my phone off the table without asking, and opened the page I'd made in October, the one with the two boxes and the default blue button, and she typed her number in the first box, and mine in the second. "It has to go both ways," I said. "It's a pact. You don't have to—"
+She took my phone off the table without asking, and opened the page I'd made in October, the one with the two boxes and the default blue button, and she typed her number in the first box, and mine in the second. "You don't have to—" I said.
 
-"I read the rules," said Maya. "You told me somebody wrote them on a wall." She pressed the button.
+"The person presses the button herself," said Maya. "You told me that one." She pressed it.
 
 Mine buzzed on the table a second later. The text said, in the plain gray type of a thing built in a hurry, **Maya wants you to be her person. Reply YES.**
 
 I typed it. It took me a long time. My hands weren't good.
 
-"It worked," said Maya, looking at her own phone, where it said the same thing back.
+"It worked," said Maya. Then she held out her own phone, open to the same page. "Now yours. It has to go both ways. It's a pact."
+
+I typed my number in the first box and hers in the second, and pressed the button myself. Her phone buzzed on the table, and she read it, and put her thumb on the screen and typed *YES,* and looked at me over it, with the expression of someone who has just watched a very ugly machine do exactly what it was built to do.
 
 ---
 
@@ -291,7 +293,7 @@ I called Priya at eight that night, from the stairwell of my building, because I
 
 "It's Monday night," she said.
 
-"Draw up the paper."
+"Let's do the paper."
 
 There was a pause on the line. I heard a dish being set down, and a man's voice in the background say something, and Priya say, "It's Nate," and the man say, "Oh, good."
 
@@ -299,11 +301,11 @@ There was a pause on the line. I heard a dish being set down, and a man's voice 
 
 "I said a thing to someone. I think I said it the way you're supposed to." I sat down on the step. "I'm not hedging. I don't want to be liquid. I want it on paper, with all four pages, and both of the places you'd like to change. I'd like to read it tonight."
 
-"It's in my bag," said Priya. "It's been in my bag since Thursday. I wasn't sure which way it would go."
+"It's in my bag," said Priya. "It's been in my bag since Monday. Since the day you said *when.* I wasn't sure which way it would go."
 
-"Thursday?"
+"You kept it in your bag?"
 
-"Sam says I'm very optimistic about you." She let out a short breath that might have been a laugh. "Come by at eight tomorrow. I'll bring the flags."
+"My husband says I'm very optimistic about you." She let out a short breath that might have been a laugh. "Come by at eight tomorrow. I'll bring the flags."
 
 I hung up. I sat on the stairs for a while with my phone in my hand, and then I went upstairs, and Kyle was at the counter, with the mixing bowl.
 
@@ -319,16 +321,16 @@ Kyle put his spoon down. He looked at me with an expression I'd never seen on hi
 
 "So I'm the backup," he said.
 
-"You're the second person."
+"You're the second person. I'll build a second box."
 
-"Huh." He picked the spoon up. "I'd like it noted that I was a first person for twelve weeks."
+"Huh." He picked the spoon up. "Put it on the record that I was a first person for twelve weeks."
 
 ---
 
 **FOUNDER'S NOTE**
 *Optionality is a tax.*
 
-There's a slide for this. It has two lines on it, one rising and one flat, and underneath it says something like *Keeping choices open preserves upside.* I've given it. I gave it at a whiteboard in front of a woman who'd been at half pay for ten months, and she nodded, because she's kind, and went and got her folder anyway.
+There's a slide for this. It has two lines on it, one rising and one flat, and underneath it says something like *Keeping choices open preserves upside.* I've given it. I gave it in January, to a woman who'd been at half pay for ten months, in the form of *after we have customers,* and she said *okay,* and went and sat back down.
 
 I'm not going to show you the slide.
 
@@ -336,4 +338,4 @@ What I'll tell you is what it costs. Every door you keep open has a draft, and s
 
 The odd thing is that Maya had a drawer of her own. I'd been so busy guarding mine that I'd missed hers. It took a man in a sand-colored jacket to let us both see them.
 
-I have a friend who says *okay* four different ways. I've learned all four. There's a neutral one, and a dangerous one, and a very small one that means *I'm still here,* and a fourth that I'd heard only once, in a hallway, at seven in the morning, with the chain still on. It was the one with no period.
+I know two of Maya's okays now. There's the one with the period, which I'd heard on a curb and at a dinner, and which means *you missed it.* And there's the one without, which I'd heard once, in a hallway at ten to seven in the morning with the chain still on.
