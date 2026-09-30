@@ -46,8 +46,7 @@ To apply one: find the paragraph in `chapters/NN-*.md` whose text equals `before
    ambiguous or conflicts with a locked decision, do not guess: leave it `working`, set a
    `claudeNote` with the question, and tell Scott.
 4. Substantive changes (new lines, new references, changed callbacks): run `reference-checker`.
-5. `python3 tools/build_reader.py`, then republish `reader/the-marriage-startup.html`
-   to the same artifact URL. Capabilities carry forward.
+5. Rebuild and publish as in `process/publish-update.md` (build, write the changed chapters and `meta/build` to the database, republish the page).
 6. Set each item `completed` with `updatedAt` and a one-sentence `claudeNote`.
 7. If `threadId` exists, reply on it with `ArtifactComments` and resolve it.
 8. Log anything that changes a locked decision in `decisions.md`, then commit and push.

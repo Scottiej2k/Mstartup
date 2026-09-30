@@ -229,6 +229,11 @@ p.has-edit[data-est="completed"], p.has-edit[data-est="resolved"] { --est: var(-
 .q-diff .now { font-weight: 500; }
 .q-kind { font-family: var(--f-mono); font-size: 0.62rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
 @media (max-width: 560px) { .tbtn .wide { display: none; } }
+.tbtn.has-update { border-color: var(--accent); color: var(--accent); }
+.tbtn.has-update::after { content: ""; position: absolute; top: -4px; right: -4px; width: 10px; height: 10px; border-radius: 50%; background: var(--accent); }
+.tbtn.busy { opacity: .55; }
+.ver { margin-top: 10px; font-family: var(--f-mono); font-size: 0.66rem; letter-spacing: 0.03em; color: var(--muted); line-height: 1.6; }
+.linkbtn { border: 0; background: none; padding: 0; font: inherit; color: var(--accent); text-decoration: underline; cursor: pointer; }
 
 /* selection bar and composer */
 #selbar {
@@ -290,6 +295,7 @@ p.has-edit[data-est="completed"], p.has-edit[data-est="resolved"] { --est: var(-
     <button class="tbtn only-narrow" id="menuBtn" aria-label="Chapters and comment queue" aria-expanded="false">Menu<span class="dot" id="menuDot" hidden>0</span></button>
     <div class="brand">The Marriage Startup <small>Draft manuscript</small></div>
     <div class="tools">
+      <button class="tbtn" id="updBtn" aria-label="Check for the latest text">&#8635;<span class="wide"> Update</span></button>
       <button class="tbtn" id="editToggle" aria-pressed="false" aria-label="Edit the text directly" hidden>Edit<span class="wide"> text</span></button>
       <button class="tbtn" id="fsDown" aria-label="Smaller text">A&minus;</button>
       <button class="tbtn" id="fsUp" aria-label="Larger text">A+</button>
@@ -307,7 +313,8 @@ p.has-edit[data-est="completed"], p.has-edit[data-est="resolved"] { --est: var(-
 
     <div id="panelCh" role="tabpanel" aria-labelledby="tabCh">
       __NAV__
-      <div class="toc-note">__COUNT__ chapters drafted, __TOTAL__ words. Chapters not yet written are not listed.</div>
+      <div class="toc-note" id="tocNote"><span id="tocCount">__COUNT__ chapters drafted, __TOTAL__ words. Chapters not yet written are not listed.</span>
+        <div class="ver" id="verLine" data-build="__BUILD__">Text version <span id="verStamp"></span>. <button class="linkbtn" id="verBtn">Check for updates</button></div></div>
     </div>
 
     <div id="panelEd" role="tabpanel" aria-labelledby="tabEd" hidden>
@@ -329,7 +336,7 @@ p.has-edit[data-est="completed"], p.has-edit[data-est="resolved"] { --est: var(-
     <div class="sheet" id="manuscript">
       <div class="intro" id="intro">
         <h1>The Marriage Startup</h1>
-        <p class="sub">Draft manuscript &middot; Chapters 1&ndash;__COUNT__</p>
+        <p class="sub" id="introSub">Draft manuscript &middot; Chapters 1&ndash;__COUNT__</p>
         <div class="how">
           <b>To change a line or ask a question, select it.</b>
           <ol>
@@ -594,7 +601,7 @@ p.has-edit[data-est="completed"], p.has-edit[data-est="resolved"] { --est: var(-
   /* ---------- direct text editing ---------- */
   var editToggle = document.getElementById('editToggle'), editbar = document.getElementById('editbar');
   var eSend = document.getElementById('eSend'), eDone = document.getElementById('eDone'), eHint = document.getElementById('eHint');
-  var paras = Array.prototype.slice.call(prose.querySelectorAll('.prose p[data-p], .note p[data-p]'));
+  var paras = [], byPara = {};
   function toMd(node) {
     var out = '';
     Array.prototype.forEach.call(node.childNodes, function (c) {
@@ -615,22 +622,29 @@ p.has-edit[data-est="completed"], p.has-edit[data-est="resolved"] { --est: var(-
   function mdHtml(md) {
     return esc(md).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>').replace(/\*([^*\s][^*]*?)\*/g, '<em>$1</em>').replace(/\n/g, '<br>');
   }
-  var byPara = {};
-  paras.forEach(function (p) { p.dataset.md = cleanMd(p); p._base = p.innerHTML; p._cur = p.dataset.md; byPara[p.dataset.p] = p; });
+  function buildParaIndex() {
+    paras = Array.prototype.slice.call(prose.querySelectorAll('.prose p[data-p], .note p[data-p]'));
+    byPara = {};
+    paras.forEach(function (p) { p.dataset.md = cleanMd(p); p._base = p.innerHTML; p._cur = p.dataset.md; byPara[p.dataset.p] = p; });
+  }
+  buildParaIndex();
   function paint(p, md) {
     p.innerHTML = md === p.dataset.md ? p._base : mdHtml(md); p._cur = md;
   }
   function wrapOf(p) { return p.classList.contains('sign') ? 'sign' : p.classList.contains('msg') ? (p.classList.contains('in') ? 'in' : 'out') : ''; }
   function plain(md) { return (md || '').replace(/\*+/g, ''); }
-  function setEditMode(on) {
-    editMode = on; document.body.classList.toggle('editing', on);
-    editToggle.setAttribute('aria-pressed', String(on)); editbar.hidden = !on;
+  function armParas(on) {
     var mode = 'plaintext-only';
     paras.forEach(function (p) {
       if (!on) { p.removeAttribute('contenteditable'); p.removeAttribute('spellcheck'); return; }
       p.setAttribute('contenteditable', mode); if (p.contentEditable !== mode) p.setAttribute('contenteditable', 'true');
       p.setAttribute('spellcheck', 'true');
     });
+  }
+  function setEditMode(on) {
+    editMode = on; document.body.classList.toggle('editing', on);
+    editToggle.setAttribute('aria-pressed', String(on)); editbar.hidden = !on;
+    armParas(on);
     if (on) { bar.hidden = true; activeMark = null; var s = window.getSelection(); if (s) s.removeAllRanges(); if (composerOpen()) closeComposer(false); }
     else if (document.activeElement && document.activeElement.blur) document.activeElement.blur();
     updateEditBar();
@@ -831,6 +845,108 @@ p.has-edit[data-est="completed"], p.has-edit[data-est="resolved"] { --est: var(-
   });
   setInterval(function () { if (!document.hidden && items.length) render(); }, 60000);
 
+  /* ---------- update: pull the latest text from the shared database ---------- */
+  var updBtn = document.getElementById('updBtn'), verBtn = document.getElementById('verBtn');
+  var verLine = document.getElementById('verLine'), verStamp = document.getElementById('verStamp');
+  var shownStamp = verLine.dataset.build, latestStamp = shownStamp, firstMeta = true, checking = false;
+  function fmtStamp(st) {
+    try { var d = new Date(st); if (isNaN(d)) return st; return d.toLocaleString([], { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' }); } catch (e) { return st; }
+  }
+  function showVersion() { verStamp.textContent = fmtStamp(shownStamp); }
+  showVersion();
+  function validDoc(d) {
+    return d && typeof d.n === 'number' && typeof d.title === 'string' && typeof d.hash === 'string' && Array.isArray(d.blocks);
+  }
+  function renderBlocks(container, blocks) {
+    blocks.forEach(function (b) {
+      if (!Array.isArray(b)) return;
+      if (b[0] === 'hr') { container.appendChild(mk('hr', 'scene')); return; }
+      var p = document.createElement('p'); p.dataset.p = String(b[1] || '');
+      var cls = b[0] === 'in' ? 'msg in' : b[0] === 'out' ? 'msg out' : b[0] === 'sign' ? 'sign' : b[0] === 'principle' ? 'principle' : '';
+      if (cls) p.className = cls;
+      p.innerHTML = mdHtml(String(b[2] || ''));
+      container.appendChild(p);
+    });
+  }
+  function buildSection(d) {
+    var sec = mk('section', 'chapter'); sec.id = 'ch' + d.n; sec.dataset.n = String(d.n); sec.dataset.words = String(d.words || 0);
+    sec.dataset.hash = d.hash; sec.dataset.title = d.title;
+    var head = mk('header', 'chap-head');
+    head.appendChild(mk('div', 'eyebrow', 'Chapter ' + d.n)); head.appendChild(mk('h2', '', d.title));
+    var meta = mk('div', 'chap-meta'); meta.appendChild(mk('span', '', Number(d.words || 0).toLocaleString('en-US') + ' words'));
+    var st = String(d.status || 'Draft'); meta.appendChild(mk('span', 'pill ' + st.toLowerCase().replace(/[^a-z]/g, ''), st));
+    head.appendChild(meta); sec.appendChild(head);
+    var prose2 = mk('div', 'prose'); renderBlocks(prose2, d.blocks); sec.appendChild(prose2);
+    if (Array.isArray(d.note) && d.note.length) {
+      var note = mk('aside', 'note'); note.setAttribute('aria-label', "Founder's Note");
+      note.appendChild(mk('div', 'note-label', "Founder's Note")); renderBlocks(note, d.note); sec.appendChild(note);
+    }
+    return sec;
+  }
+  function buildNavLink(d) {
+    var a = mk('a', 'ch'); a.href = '#ch' + d.n; a.dataset.n = String(d.n);
+    a.appendChild(mk('span', 'n', String(d.n))); a.appendChild(mk('span', 't', d.title));
+    a.appendChild(mk('span', 'm', Number(d.words || 0).toLocaleString('en-US') + ' words · ' + String(d.status || 'Draft')));
+    return a;
+  }
+  function placeByNumber(parent, node, n, selector, attr) {
+    var after = null, kids = parent.querySelectorAll(selector);
+    for (var i = 0; i < kids.length; i++) { if (Number(kids[i].dataset[attr]) > n) { after = kids[i]; break; } }
+    if (after) parent.insertBefore(node, after); else if (parent === panelCh) parent.insertBefore(node, document.getElementById('tocNote') || null); else parent.appendChild(node);
+  }
+  function reindex(changedNs) {
+    chapters = Array.prototype.slice.call(document.querySelectorAll('.chapter'));
+    links = {}; Array.prototype.forEach.call(document.querySelectorAll('#panelCh a.ch'), function (a) { links[a.dataset.n] = a; });
+    buildParaIndex();
+    loadH().forEach(function (h) { for (var i = 0; i < changedNs.length; i++) { if (h.p.indexOf('c' + changedNs[i] + '-') === 0) { applyH(h); break; } } });
+    if (editMode) armParas(true);
+    applyOverlays();
+    var words = 0; chapters.forEach(function (c) { words += Number(c.dataset.words || 0); });
+    document.getElementById('tocCount').textContent = chapters.length + ' chapters drafted, ' + words.toLocaleString('en-US') + ' words. Chapters not yet written are not listed.';
+    document.getElementById('introSub').innerHTML = 'Draft manuscript &middot; Chapters 1&ndash;' + chapters.length;
+    onScroll();
+  }
+  function applyDocs(docs) {
+    var active = document.activeElement, changed = [];
+    docs.sort(function (a, b) { return a.n - b.n; });
+    docs.forEach(function (d) {
+      var old = document.getElementById('ch' + d.n);
+      if (old && active && old.contains(active) && active._start != null) return;   // do not clobber a paragraph being typed
+      var sec = buildSection(d);
+      if (old) old.replaceWith(sec); else placeByNumber(document.getElementById('manuscript'), sec, d.n, '.chapter', 'n');
+      var link = buildNavLink(d), oldLink = panelCh.querySelector('a.ch[data-n="' + d.n + '"]');
+      if (oldLink) oldLink.replaceWith(link); else placeByNumber(panelCh, link, d.n, 'a.ch', 'n');
+      changed.push(d.n);
+    });
+    if (changed.length) reindex(changed);
+    return changed;
+  }
+  function checkUpdates(manual) {
+    if (!db) { if (manual) toast('Updates need the shared database, which is not available in this view.'); return Promise.resolve(); }
+    if (checking) return Promise.resolve();
+    checking = true; updBtn.classList.add('busy');
+    return db.collection('chapters').get().then(function (snap) {
+      var docs = snap.docs.map(function (s) { return s.data(); }).filter(validDoc);
+      var stale = docs.filter(function (d) { var sec = document.getElementById('ch' + d.n); return !sec || sec.dataset.hash !== d.hash; });
+      var changed = stale.length ? applyDocs(stale) : [];
+      if (changed.length) {
+        shownStamp = latestStamp; showVersion(); updBtn.classList.remove('has-update');
+        toast('Updated to the latest text (chapter' + (changed.length === 1 ? ' ' : 's ') + changed.join(', ') + ').');
+      } else if (stale.length) { toast('Finish the paragraph you are editing, then press Update again.'); }
+      else { shownStamp = latestStamp; showVersion(); updBtn.classList.remove('has-update'); if (manual) toast('You already have the latest text.'); }
+    }).catch(function () { if (manual) toast('Could not check for updates. Try again.'); }).then(function () { checking = false; updBtn.classList.remove('busy'); });
+  }
+  updBtn.addEventListener('click', function () { checkUpdates(true); });
+  verBtn.addEventListener('click', function () { checkUpdates(true); });
+  function watchBuild() {
+    db.doc('meta/build').onSnapshot(function (snap) {
+      var d = snap.exists ? snap.data() : null; if (!d || typeof d.stamp !== 'string') return;
+      latestStamp = d.stamp;
+      if (firstMeta) { firstMeta = false; if (latestStamp !== shownStamp) checkUpdates(false); return; }
+      if (latestStamp !== shownStamp) { updBtn.classList.add('has-update'); toast('New text is ready. Press Update.'); }
+    }, function () {});
+  }
+
   /* ---------- capabilities (arrive later; the page reads fine without them) ---------- */
   function unavailableQueue() {
     document.getElementById('qEmpty').innerHTML = '';
@@ -842,7 +958,7 @@ p.has-edit[data-est="completed"], p.has-edit[data-est="resolved"] { --est: var(-
     window.claude.use('db').then(function (d) {
       db = d || null;
       if (!db) { unavailableQueue(); return; }
-      edits = db.collection('edits'); editToggle.hidden = false;
+      edits = db.collection('edits'); editToggle.hidden = false; watchBuild();
       edits.orderBy('createdAt').onSnapshot(function (snap) {
         items = snap.docs.map(function (s) { var x = s.data() || {}; x.id = s.id; return x; });
         render();

@@ -2,18 +2,25 @@
 """Build the manuscript reader page from chapters/*.md.
 
 Usage: python3 tools/build_reader.py
-Output: reader/the-marriage-startup.html  (publish this with the Artifact tool)
+Outputs:
+  reader/the-marriage-startup.html   publish this with the Artifact tool
+  reader/db/cNN.json, meta.json      one doc per chapter plus a build stamp; write these into the
+                                     artifact database (collections `chapters` and `meta`, doc `build`)
+                                     so the reader's Update button can pull the latest text without a republish.
 
 Chapter status labels live in STATUS below; update them as chapters are approved.
 """
+import hashlib
 import html
 import json
 import re
+from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CHAPTERS = sorted((ROOT / "chapters").glob("[0-9][0-9]-*.md"))
 OUT = ROOT / "reader" / "the-marriage-startup.html"
+DB_OUT = ROOT / "reader" / "db"
 
 STATUS = {1: "Approved"}  # anything else shows as "Draft"
 
@@ -23,6 +30,13 @@ def inline(text):
     t = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", t)
     t = re.sub(r"(?<!\*)\*(?!\s)(.+?)(?<!\s)\*(?!\*)", r"<em>\1</em>", t)
     return t.replace("\n", "<br>")
+
+
+def block_html(kind, pid, md):
+    if kind == "hr":
+        return '<hr class="scene">'
+    cls = {"in": ' class="msg in"', "out": ' class="msg out"', "sign": ' class="sign"', "principle": ' class="principle"'}.get(kind, "")
+    return f'<p{cls} data-p="{pid}">{inline(md)}</p>'
 
 
 def parse(path):
@@ -39,57 +53,71 @@ def parse(path):
         story.pop()
 
     words = len(re.findall(r"\S+", body))
-    out, idx = [], 0
+    idx = 0
 
     def pid():
         nonlocal idx
         idx += 1
         return f"c{num}-p{idx}"
 
+    story_blocks = []  # [kind, id, markdown]
     for b in story:
         if b == "---":
-            out.append('<hr class="scene">')
+            story_blocks.append(["hr", "", ""])
             continue
         m_bold = re.fullmatch(r"\*\*(.+)\*\*", b, flags=re.S)
         m_ital = re.fullmatch(r"\*([^*].*)\*", b, flags=re.S)
         if m_bold and "**" not in m_bold.group(1):
             txt = m_bold.group(1)
             letters = re.sub(r"[^A-Za-z]", "", txt)
-            cls = "sign" if letters and letters.upper() == letters and len(letters) > 6 else "msg in"
-            out.append(f'<p class="{cls}" data-p="{pid()}">{inline(txt)}</p>')
+            kind = "sign" if letters and letters.upper() == letters and len(letters) > 6 else "in"
+            story_blocks.append([kind, pid(), txt])
         elif m_ital and "*" not in m_ital.group(1):
-            out.append(f'<p class="msg out" data-p="{pid()}">{inline(m_ital.group(1))}</p>')
+            story_blocks.append(["out", pid(), m_ital.group(1)])
         else:
-            out.append(f'<p data-p="{pid()}">{inline(b)}</p>')
+            story_blocks.append(["p", pid(), b])
 
-    note_html = ""
+    note_blocks = []
     if note:
         rest = note[1:]
-        principle = ""
         if rest and re.fullmatch(r"\*[^*].*\*", rest[0], flags=re.S):
-            principle = f'<p class="principle" data-p="{pid()}">{inline(rest[0].strip("*"))}</p>'
+            note_blocks.append(["principle", pid(), rest[0].strip("*")])
             rest = rest[1:]
-        paras = "".join(f'<p data-p="{pid()}">{inline(p)}</p>' for p in rest)
+        for p in rest:
+            note_blocks.append(["p", pid(), p])
+
+    status = STATUS.get(num, "Draft")
+    digest = hashlib.sha1(json.dumps([title, status, story_blocks, note_blocks], sort_keys=True).encode()).hexdigest()[:12]
+    return {
+        "n": num, "title": title, "words": words, "status": status, "hash": digest,
+        "blocks": story_blocks, "note": note_blocks,
+    }
+
+
+def section_html(c):
+    note_html = ""
+    if c["note"]:
+        paras = "".join(block_html(*b) for b in c["note"])
         note_html = (
             '<aside class="note" aria-label="Founder\'s Note">'
             '<div class="note-label">Founder\'s Note</div>'
-            f"{principle}{paras}</aside>"
+            f"{paras}</aside>"
         )
-
-    status = STATUS.get(num, "Draft")
-    section = (
-        f'<section class="chapter" id="ch{num}" data-n="{num}" data-title="{html.escape(title, quote=True)}">'
-        f'<header class="chap-head"><div class="eyebrow">Chapter {num}</div>'
-        f'<h2>{html.escape(title)}</h2>'
-        f'<div class="chap-meta"><span>{words:,} words</span>'
-        f'<span class="pill {status.lower()}">{status}</span></div></header>'
-        f'<div class="prose">{"".join(out)}</div>{note_html}</section>'
+    prose = "".join(block_html(*b) for b in c["blocks"])
+    return (
+        f'<section class="chapter" id="ch{c["n"]}" data-n="{c["n"]}" data-words="{c["words"]}" '
+        f'data-hash="{c["hash"]}" data-title="{html.escape(c["title"], quote=True)}">'
+        f'<header class="chap-head"><div class="eyebrow">Chapter {c["n"]}</div>'
+        f'<h2>{html.escape(c["title"])}</h2>'
+        f'<div class="chap-meta"><span>{c["words"]:,} words</span>'
+        f'<span class="pill {c["status"].lower()}">{c["status"]}</span></div></header>'
+        f'<div class="prose">{prose}</div>{note_html}</section>'
     )
-    return {"n": num, "title": title, "words": words, "status": status, "html": section}
 
 
 def main():
     chapters = [parse(p) for p in CHAPTERS]
+    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
     nav = "".join(
         f'<a class="ch" href="#ch{c["n"]}" data-n="{c["n"]}"><span class="n">{c["n"]}</span>'
         f'<span class="t">{html.escape(c["title"])}</span>'
@@ -99,12 +127,22 @@ def main():
     total = sum(c["words"] for c in chapters)
     page = TEMPLATE
     page = page.replace("__NAV__", nav)
-    page = page.replace("__CHAPTERS__", "\n".join(c["html"] for c in chapters))
+    page = page.replace("__CHAPTERS__", "\n".join(section_html(c) for c in chapters))
     page = page.replace("__TOTAL__", f"{total:,}")
     page = page.replace("__COUNT__", str(len(chapters)))
+    page = page.replace("__BUILD__", stamp)
     OUT.parent.mkdir(exist_ok=True)
     OUT.write_text(page)
-    print(f"Built {OUT} ({len(chapters)} chapters, {total:,} words, {len(page) // 1024} KB)")
+
+    DB_OUT.mkdir(exist_ok=True)
+    for old in DB_OUT.glob("*.json"):
+        old.unlink()
+    for c in chapters:
+        doc = dict(c)
+        doc["stamp"] = stamp
+        (DB_OUT / f"c{c['n']:02d}.json").write_text(json.dumps(doc, ensure_ascii=False))
+    (DB_OUT / "meta.json").write_text(json.dumps({"stamp": stamp, "count": len(chapters), "total": total}))
+    print(f"Built {OUT} ({len(chapters)} chapters, {total:,} words, {len(page) // 1024} KB, stamp {stamp})")
 
 
 TEMPLATE = (Path(__file__).with_name("reader_template.html")).read_text()
