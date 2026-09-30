@@ -127,13 +127,13 @@ On the way out, Mr. Abernathy shook my hand with both of his. "Good luck, son," 
 
 ---
 
-I sent the text at 5:40 that evening, sitting on the curb outside the clinic's parking lot, where Priya and I had spent the afternoon trying to reproduce the crash, with a laptop on my knees.
+I sent the text at 5:40 that evening, sitting on the curb outside the clinic's parking lot, where Priya and I had spent the afternoon waiting on a support ticket from our cloud provider, with a laptop on my knees.
 
 I'd known since the night before that I was supposed to be somewhere at 7:30. Maya's oldest friend Jules, the one who tells stories with sound effects, was turning twenty-eight, and there was a dinner, in a restaurant in the Mission with a table for seven, reserved for 7:30, and Maya had said, when she told me, looking at her phone instead of at me, "You don't have to come. You can just come, though, if you want. If you'd like to be the seventh."
 
 I'd said yes before she finished the sentence. I'd written it on my hand. I'd bought a card.
 
-*I'm so sorry,* I typed. *The demo broke and Priya and I have to fix it tonight, the clinic starts signing people up Tuesday. I know it's Jules's birthday. I'll make it up to you.*
+*I'm so sorry,* I typed. *The demo broke, the whole system is down, and Priya and I have to get it back up tonight. The clinic starts signing people up Tuesday. I know it's Jules's birthday. I'll make it up to you.*
 
 I pressed send, and I sat on the curb and watched the little word under it say *Delivered.* Then it said *Read.* Then nothing, for four minutes, which I spent looking at a parking meter.
 
@@ -151,13 +151,15 @@ I showed her.
 
 "That's not *okay,*" said Priya. "That's a period." She peeled the clementine, and looked at the parking meter too.
 
-We fixed the bug at 2:15 in the morning. It had been a typo in a number field, one character, the kind of mistake that's invisible to the person who made it and obvious to everyone else. I'd like to say I felt triumph. What I felt was the flat, enormous quiet of a room where a thing has finally stopped being broken, and there's nothing in it to say.
+It wasn't a bug. Priya had worked that out by noon, from the error logs: the cloud account had been suspended. The month's prepaid credits had run out, the card on file had expired in August, and the billing notice was sitting in an inbox I hadn't opened since the ninth. I was the one who'd said *I'll handle the bill.* The AI that had written most of our code in an afternoon could not have caught it, because there was nothing wrong with the code. The code was fine. It was just running on a computer we'd stopped paying for.
+
+That is the kind of mistake that's invisible to the person who made it and obvious to everyone else. It took a new card, a support ticket, a fraud review on a payment of three hundred and twelve dollars, and a human being in a time zone where it was already Sunday, and it was 2:15 in the morning before the account came back and our database came up after it, every row intact. I'd like to say I felt triumph. What I felt was the flat, enormous quiet of a room where a thing has finally stopped being broken, and there's nothing in it to say.
 
 ---
 
 I spent most of Sunday trying to write the good apology.
 
-I'd like you to picture the drafts. There was the formal one, which began *Dear Maya,* like a complaint to a landlord. There was the funny one, which I deleted in the first ten words because it was a joke about a *server.* There was the one that explained, at length, what a 500 error is, which I wrote to its last sentence before I understood that I'd just written her a document about my day. By four o'clock I had six drafts. I had, to be clear, nothing.
+I'd like you to picture the drafts. There was the formal one, which began *Dear Maya,* like a complaint to a landlord. There was the funny one, which I deleted in the first ten words because it was a joke about a *server.* There was the one that explained, at length, how prepaid cloud credits work, which I wrote to its last sentence before I understood that I'd just written her a document about my day. By four o'clock I had six drafts. I had, to be clear, nothing.
 
 Kyle found me at the counter, looking at a blank page.
 
@@ -209,7 +211,7 @@ I hadn't known I was going to say it until I said it. "I can't— I don't have t
 
 "The good version of what?"
 
-"The apology." The bag crackled. "I've been writing it since nine. There's six drafts. I can't get it right, and I've just decided that I'm not going to, because I've spent my whole life waiting until I have the right one, and the right one always arrives on Tuesday." I looked at her through the four inches. "So this is the ugly version. I'm sorry. I picked the thing I could fix over the thing I couldn't, and I've done it my whole life, and it's a bad reason. I should've been at the dinner. I should've called at eleven, when it broke, instead of five-forty. I brought the wrong wine. I didn't ask you what you drink."
+"The apology." The bag crackled. "I've been writing it since nine. There's six drafts. I can't get it right, and I've just decided that I'm not going to, because I've spent my whole life waiting until I have the right one, and the right one always arrives on Tuesday." I looked at her through the four inches. "So this is the ugly version. I'm sorry. I picked the thing that was on fire over the person I'd promised, and I've done it my whole life, and it's a bad reason. I should've been at the dinner. I should've called at eleven, when it broke, instead of five-forty. I brought the wrong wine. I didn't ask you what you drink."
 
 The door didn't move.
 
