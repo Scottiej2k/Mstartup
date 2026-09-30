@@ -5,35 +5,35 @@ The call from the drugmaker lasted nine minutes, and the part I think about last
 
 It was the fifteenth of December, a Monday, two in the afternoon, in the glass conference room at the coworking space, down the hall from the fish and its five-line sign. Priya sat across from me with her laptop closed, which she never did. The phone lay between us on the table in a puddle of speaker.
 
-"I'll be direct," said Dana Whitlock. She was the director of patient engagement at Corvane, a company that made a pill for blood pressure and a second pill for what the first pill did to your ankles. She'd been sent our one-page description by a wholesaler who'd been sent it by Ruben Castellanos, the pharmacist in Milpitas, who had apparently been showing it to people like a photo of a grandchild. "I like what you're doing. I'd like to support it. Forty thousand dollars, twelve months, no control over the product. All we ask is a line at the bottom of each message. *Support provided by Corvane.* Small. Gray."
+"I'll be direct," said Renata Whitlock. She was the director of patient engagement at Corvane, a company that made a pill for blood pressure and a second pill for what the first pill did to your ankles. She'd been sent our one-page description by a wholesaler who'd been sent it by Ruben Castellanos, the pharmacist in Milpitas, who had apparently been showing it to people like a photo of a grandchild. "I like what you're doing. I'd like to support it. Forty thousand dollars, twelve months, no control over the product. All we ask is a line at the bottom of each message. *Support provided by Corvane.* Small. Gray."
 
 I should tell you what we had. We had fourteen thousand two hundred dollars, which I knew to the dollar because the money was my department, and a co-founder on half salary, and a prototype that was a web page with two boxes. In October a billing account tied to an expired card had taken us offline for a weekend. I'd like that on the record as context, not as an excuse.
 
-"Can I ask about traction?" said Dana. (Traction, in my business, is proof that somebody wants what you're making. It's also what tires lose on ice.)
+"Can I ask about traction?" said Renata. (Traction, in my business, is proof that somebody wants what you're making. It's also what tires lose on ice.)
 
-"Five patients," I said. "Forty-one days. One catch."
+"Five patients," I said. "Eight weeks. One catch." (Dr. Okafor had extended the four weeks without being asked, which I took as the only review I'd get.)
 
 Priya winced, without moving her face. I'd learned to tell.
 
 "One catch?"
 
-"A man missed a morning, and his granddaughter called, and he was on the bathroom floor. He's fine. He says he'd rather we didn't put it in a deck."
+"A man named Mr. Abernathy missed a morning, and we texted his granddaughter, and she called him, and he was on the bathroom floor. He's fine. He says he'd rather we didn't put it in a deck."
 
-"Hm," said Dana, in the voice of someone who was going to put it in a deck. "Take a minute, if you need one."
+"Hm," said Renata, in the voice of someone who was going to put it in a deck. "Take a minute, if you need one."
 
 It went very quiet. I looked at the whiteboard behind Priya's head, where it still said **ASKS. LISTENS. SHIPS.** I looked at the table. I looked at Priya, who was looking at her own hands, and I understood, slowly, that she was not going to help me. It was the most generous thing she'd ever done to me.
 
-Forty thousand dollars. I thought about it in units. It was a year of Priya's half salary, and then some. It was the cloud bill, forever. It was a place to sit that wasn't a folding chair. It was a line at the bottom of a text, small and gray, and every text would go out into the world to a woman in a kitchen at nine in the morning who'd be wondering, for one extra second, what the pill company wanted.
+Forty thousand dollars. I thought about it in units. It was most of a year of Priya's half salary. It was the cloud bill, forever. It was a room with a door. It was a line at the bottom of a text, small and gray, and every text would go out into the world to a woman in a kitchen at six in the morning who'd be wondering, for one extra second, what the pill company wanted.
 
 "No," I said. "Thank you."
 
-I heard how it sounded, in the room: too loud, too thin. Dana waited.
+I heard how it sounded, in the room: too loud, too thin. Renata waited.
 
 "May I ask why? It's a very standard—"
 
-"If the message says *Corvane* at the bottom, then a person reading it at nine a.m. is wondering who's asking. It has to be from somebody who only wants to know if she's okay." I looked at the phone as if it had a face. "I think that's all it has. I think if we put anything else on it, it stops having that."
+"If the message says *Corvane* at the bottom, then a person reading it at six a.m. is wondering who's asking. It has to be from somebody who only wants to know if she's okay." I looked at the phone as if it had a face. "I think that's all it has. I think if we put anything else on it, it stops having that."
 
-There was a short silence on the line. "That's a real point," said Dana Whitlock, and meant it, which I hadn't expected. "Good luck. Call me if you change your mind."
+There was a short silence on the line. "That's a real point," said Renata Whitlock, and meant it, which I hadn't expected. "Good luck. Call me if you change your mind."
 
 The call ended. The phone's little screen went dark.
 
@@ -49,9 +49,9 @@ The call ended. The phone's little screen went dark.
 
 ---
 
-I'd called the county nurse because of the five patients, and because of a rule I'd been given by a woman at a taqueria, which was to ask about the last time.
+I'd called the county nurse because Dr. Okafor's five patients were all old, and I wanted to hear from someone who met people at the other end of life, and because of a rule I'd been handed in the back seat of Priya's car, which was to ask about the last time.
 
-Marisol Vega met us on the Friday before Christmas in the cafeteria of a county building, at a table by a vending machine that was selling nothing. She was in her forties, tired in a particular way, like a person who has been standing for a living for twenty years. She'd been the nurse who sees each new mother on day three and day ten. "Between those I'm a phone number," she'd said, in October, and I hadn't forgotten it.
+Marisol Vega met us on the Friday before Christmas in the cafeteria of a county building, at a table by a vending machine that was selling nothing. She was in her forties, tired in a particular way, like a person who has been standing for a living for twenty years. She was the nurse from the September interviews, the one who sees each new mother on day three and day ten. "Between those I'm a phone number," she'd said, and I hadn't forgotten it.
 
 I asked her what I'd been taught to ask. "Tell me about the last time somebody went quiet."
 
@@ -67,13 +67,13 @@ Nobody said anything. The vending machine hummed at its empty shelves. I didn't 
 
 "You didn't say *wow,*" said Marisol. "Everyone says *wow.*"
 
-"I don't have a *wow,*" I said. "I think it's a bad one."
+"I don't have a *wow,*" I said. "I think *wow* is the wrong word."
 
 "I'd like to know," she said, "whether your thing would have worked."
 
 It was Priya who answered, which surprised me. She'd closed the laptop. "Not unless he'd turned it on," she said. "And he wouldn't have. Nobody turns it on before. You'd have to ask him at the hospital. The day he took the baby home. When he was still scared enough to say yes."
 
-"The day the baby comes home," said Marisol. She nodded, slowly, at the cup. "That's when they'll say yes. That's when they'd say yes to anything." She looked up. "Don't waste it."
+"The day the baby comes home," said Marisol. She nodded, slowly, at the cup. "That's when they'll say yes and mean it." She looked up. "Ask them then, and ask them honestly."
 
 We thanked her. In the parking lot, Priya unlocked the car and stood there with the door open, the way she does. She said, to the roof, "We're not building this for a man who picks it. We're building it for the day he's too frightened not to." Then she got in. She didn't start the engine for a full minute.
 
@@ -83,7 +83,7 @@ The pharmacy was open on Christmas.
 
 It's open every year, Maya told me, from nine to three, because everyone else's is closed and someone's prescription doesn't care what day it is. I arrived at 9:10 with four steel tins, which I'd returned clean on each of the five Saturdays since November, and which Lakshmi had, each time, without comment, refilled. She took them at the counter. She weighed them in her hands. She said something in Tamil to Maya, who didn't translate it.
 
-At 10:40, the door opened, and a young woman pushed a wheelchair in backward, with her hip, and in the wheelchair was a man in a zipped-up cardigan with a plastic hospital bracelet still on his wrist, who looked at the store as if he'd been away for years.
+At 10:40, the door opened, and a young woman pushed a wheelchair in backward, with her hip, and in the wheelchair was a man in a zipped-up cardigan with a faded wristband from the rehabilitation facility still on his arm, who looked at the store as if he'd been away for years.
 
 "Mr. Alvarez," said Lakshmi. She had a paper bag on the counter before he'd finished turning. "Your pressure."
 
@@ -95,7 +95,7 @@ At 10:40, the door opened, and a young woman pushed a wheelchair in backward, wi
 
 His daughter, Gloria, who'd driven down from Sacramento, had the look of someone who'd been apologizing all morning and hadn't reached the end of it. "We didn't know anyone was looking," she said. "Nobody told us anyone was looking. I'm so sorry."
 
-"It's a fax," said Suresh, from the glass, without turning around. It was the first time I'd heard him speak that morning. "Dr. Lin's office replied on the twelfth. *Patient in skilled nursing since nine twenty. No action needed.*" He filled in a label with his pen. "Eleven weeks. The machine said OK."
+"It's a fax," said Suresh, from the glass, without turning around. It was the first time I'd heard him speak that morning. "Dr. Lin's office replied on December twelfth. *Patient in skilled nursing since nine twenty. No action needed.*" He filled in a label with his pen. "Eleven weeks after the first one. The machine said OK."
 
 Nobody laughed, but it was the kind of silence that comes before a laugh. Mr. Alvarez looked at the laminated sheet taped to the counter, the big cloudy one with the little pencil arrow, and then at Maya, who had gone to the far end of the counter to straighten something that was straight.
 
@@ -103,7 +103,7 @@ Nobody laughed, but it was the kind of silence that comes before a laugh. Mr. Al
 
 "I was sixteen."
 
-"It's on my refrigerator." He raised one hand, slowly, and let it fall on the armrest. "At my daughter's. I asked for it. I had them bring it to Stockton." He looked at her for a second. "I have read it every night. *Two spoons. Not three.*"
+"I had my daughter copy it." He raised one hand, slowly, and let it fall on the armrest. "It's taped up in Stockton." He looked at her for a second. "I have read it every night. *Two spoons. Not three.*"
 
 Maya said nothing. She didn't turn around, either. Her mother, who was at the register, had one hand flat on the counter, and I saw the knuckles, and then I looked somewhere else.
 
@@ -113,7 +113,7 @@ Lakshmi put a lollipop in his hand. He looked at it. He put it in his pocket.
 
 ---
 
-Jules was waiting at a Chinese restaurant called Golden Harvest, which has been open every Christmas since 1989 and has a fish tank and a waitress who has known Suresh for as long as anyone can remember. It's the tradition. Everyone who has somewhere else to be has gone there; the room was full of people who'd decided, all at once, not to be the last ones on earth to eat turkey.
+Jules was waiting at a Chinese restaurant called Golden Harvest, which has been open every Christmas since 1989 and has a fish tank and a waitress who has known Suresh for as long as anyone can remember. It's the tradition. Everyone who has nowhere else to be has gone there; the room was full of people who'd decided, all at once, not to be the last ones on earth to eat turkey.
 
 "Mr. Alvarez," said Maya, when we'd sat. She didn't say more. She reached for the tea and held the cup with both hands.
 
@@ -123,7 +123,11 @@ Jules watched me across the table for some time. She had a look I'd seen on her 
 
 "I was thinking about how it could've—"
 
-"Kind or useful?" said Jules.
+"Kind or useful?" said Jules. (It was the question she'd put to Maya over a burrito, in the summer. Maya had told me. Of course she had.)
+
+"Meaning what?"
+
+"Kind, you felt for him. Useful, you were already filing him."
 
 "Is there a difference?"
 
@@ -145,7 +149,7 @@ I'd given that pitch so many times I'd stopped hearing it. It came out of my mou
 
 I stopped.
 
-"It's a good pitch," she said. "It's a very good pitch. I've heard it four times in a ballroom." She didn't smile. "I asked you a different question."
+"It's a good pitch," she said. "It's a very good pitch. I've heard it from four men in a ballroom." She didn't smile. "I asked you a different question."
 
 I looked at the fish tank. It had a small plastic castle in it. A fish was going in and out of the castle, as if it were trying to remember something.
 
@@ -153,7 +157,7 @@ I looked at the fish tank. It had a small plastic castle in it. A fish was going
 
 She didn't say anything for a while. She pushed the napkin to my side of the table and took a pen out of her coat, because she was in her coat, and set the pen on top of it.
 
-"Three things," said Maya. "That you won't give up. Not what you want. What you won't. Don't show me. Fold it." She took a second napkin for herself. "I'll tell you one of mine, so you know where I stand. I live within forty minutes of that counter. Always. You can be anywhere. I'll be within forty minutes. I'm telling you now so it isn't a surprise later."
+"Three things," said Maya. "That you won't give up. Not what you want. What you won't. Don't show me. Fold it." She took a second napkin for herself. "I'll give you one thing for free, so you know where I stand. It isn't on mine. It's under it. I live within forty minutes of that counter. Always. You can be anywhere. I'll be within forty minutes. I'm telling you now so it isn't a surprise later."
 
 "Okay," I said.
 
@@ -169,9 +173,9 @@ On the ninetieth day, Priya came in at seven with two coffees and wrote a questi
 
 **IN THREE YEARS, WHAT DO YOU WANT?**
 
-She sat down across from me and waited. She'd waited for ninety days. I could see that she had a very specific way of waiting, like a door that's locked from the inside.
+Behind her, the three boxes under **ASKS. LISTENS. SHIPS.** all had checks in them, which she hadn't mentioned. She sat down across from me and waited. She'd waited for ninety days. I could see that she had a very specific way of waiting, like a door that's locked from the inside.
 
-I'd prepared. I'd been up until two. I opened my laptop and turned it toward her. It was a proper deck: a market, a wedge, a team, a "why now." I'd rehearsed a voice for it. I got through slide six before I felt the thing in the room, like a change in pressure, and looked up, and she was looking at me with no expression at all.
+I'd prepared. I'd been up until two. I opened my laptop and turned it toward her. It was a proper deck: a market, a wedge (the small thing you sell first so you can sell the big thing later), a team, a "why now." I'd rehearsed a voice for it. I got through slide six before I felt the thing in the room, like a change in pressure, and looked up, and she was looking at me with no expression at all.
 
 "That's a slide," said Priya.
 
@@ -211,11 +215,11 @@ Then she drew a line under it, and wrote another heading, and I understood that 
 
 **TELL ANYONE WHAT YOU DID. ONLY THAT YOU'VE GONE QUIET.**
 
-She capped the marker. She turned around.
+She capped the marker. She turned around. (The exception was a button she'd drawn on a napkin in November, for the worst night only: it would say where you were, and only because you'd pressed it.)
 
 "I want a line on it from you," she said.
 
-I looked at the list for a long time. I thought about a phone camera on a nursery shelf. I thought of a line Kyle had said, once, in a kitchen, with a spoon. I picked up the marker, and my hand wasn't quite steady, and I wrote the last one in my worse handwriting.
+I looked at the list for a long time. I thought about Kyle's nanny cam for grandma, and Maya's better manners, and how the only difference between a camera and care was which of them had asked. I picked up the marker, and my hand wasn't quite steady, and I wrote the last one in my worse handwriting.
 
 **NO SECRET MODE.**
 
@@ -244,10 +248,8 @@ She looked at me for a beat longer than the word needed, and I couldn't read it,
 
 I used to believe the best decisions are the fast ones. It was a sentence I liked. I'd read it somewhere and had it stitched, more or less, on the inside of my head.
 
-The trouble with a fast decision is that it's made by whoever you are in the ten seconds. At two on a Monday afternoon I'm someone with fourteen thousand dollars and a co-founder on half pay. I'm a person for whom *small, gray,* and *forty thousand* can be put in one sentence. Priya, it turns out, knew this about me. That's why she counted.
+On the fifteenth I said no to forty thousand dollars in nine seconds, or ten, and I'd like to tell you it was principle. It was a good day. On a worse day, or a bigger number, I'd have said yes, and Priya knew it, which is why she counted, and why two weeks later she wrote the list.
 
-A list of what you won't do is the only thing that's still true at the moment when the number is big. By then you don't have principles. You have a piece of paper, written by an earlier, calmer you, on a whiteboard, in capital letters, under a word like *ANSWER.*
-
-I wrote one of my own that week, on a napkin, at a Chinese restaurant, and folded it into the size of a stamp. I've carried it since. I'll tell you what it says when I've earned the right.
+A list of what you won't do is written by a calmer you, for the later one who can't be trusted with a number. It's a strange kind of kindness to yourself. It works on whiteboards. I wrote one of my own that week, on a napkin, at a Chinese restaurant, and folded it to the size of a stamp, and I've carried it since. I'll tell you what it says when I've earned the right.
 
 Maya put hers in her coat.
