@@ -204,7 +204,7 @@ promised anything yet. The cheap bets are the test.*
 - **R:** Nate cancels on Maya for the build weekend (her friend's birthday dinner). He arrives Sunday with unresearched wine and an unrehearsed apology. "Are you here to fix it or to say it?"
 - **Crossing:** S to R mixed. "Ship the ugly version" works once, on an apology. It becomes a habit he will lean on.
 - **Scenes:** (1) Priya's rule: ship when it's embarrassing; (2) the demo, crash, crash, "So it works when you're standing next to it"; (3) Maya's door, cardamom, bookshelves; (4) the apology, bad, and believed.
-- **Nate's flaw:** perfectionism as fear (the first company died unshipped).
+- **Nate's flaw:** perfectionism as fear (the first company spent eight months hidden from everyone).
 - **Note:** *Ship the ugly version.*
 
 ### Ch 7. Meeting Maya's Parents

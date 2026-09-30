@@ -3,7 +3,7 @@
 
 The first version of Loopback had one page, two boxes, and a button.
 
-The first box said *Your phone number.* The second said *Someone who should know if you go quiet.* The button said SUBMIT, in the default blue, because Priya had said the word *design* would be allowed in the building after Monday. You typed in your number and your person's number and pressed the button. The next morning at six it sent you a text that said *You okay?* If you didn't answer within an hour, it texted your person.
+The first box said *Your phone number.* The second said *Someone who should know if you go quiet.* The button said SUBMIT, in the default blue, because Priya had said the word *design* would be allowed in the building after Monday. You typed in your number and your person's number and pressed the button. Your person got a text asking if they'd be your person, and if they said YES, the next morning at six it sent you a text that said *You okay?* If you didn't answer within an hour, it texted your person.
 
 That was all of it. It was so ugly that a man in the coworking space looked over Priya's shoulder, said "Is that a *tax form*?" and walked away a little faster than he'd come.
 
@@ -15,11 +15,11 @@ That was all of it. It was so ugly that a man in the coworking space looked over
 
 I should explain why the button took three days. There were four versions of it. There was the blue one, the gray one, a rounded one with a soft shadow that I'd spent most of a Tuesday night on, and a version that said *Send* instead of SUBMIT, which I'd thought was warmer. Priya deleted the last three while I was at the bathroom, and left me a sticky note on the monitor that said **BLUE**.
 
-I've never been able to explain this to anyone who doesn't do it. My first company died unshipped, and what I took from it wasn't *ship sooner.* It was *never let anyone see it until it's finished.* It's a lesson that sounds like discipline and works like fear.
+I've never been able to explain this to anyone who doesn't do it. My first company spent eight months hidden from everyone, and what I took from it wasn't *show people sooner.* It was *never let anyone see it until it's finished.* It's a lesson that sounds like discipline and works like fear.
 
 ---
 
-Priya had one condition for the prototype, and she set it on the whiteboard in the first ten minutes, in capitals.
+On day nineteen of Priya's ninety, Priya had one condition for the prototype, and she set it on the whiteboard in the first ten minutes, in capitals.
 
 **THE PERSON PRESSES THE BUTTON HERSELF.**
 
@@ -29,7 +29,7 @@ Priya had one condition for the prototype, and she set it on the whiteboard in t
 
 "Then it's an ugly prototype that asks."
 
-I didn't argue. I want to say that was wisdom. It was that she'd already written it on the wall and I'd stopped arguing with the wall around 2017.
+I didn't argue. I want to say that was wisdom. It was that she'd already written it on the wall and I'd stopped arguing with the wall around year two.
 
 I tested it on myself, at the apartment, at ten o'clock Friday night. I signed myself up with Kyle as my person, and Kyle, at the counter with the mixing bowl, looked at his phone when it buzzed, and then at me.
 
@@ -69,6 +69,8 @@ I worked until four. The last thing I remember is Priya, asleep sitting up on ou
 
 "It worked."
 
+Under the table, where I'd dropped it, my own phone said, in the same plain type, *We told Kyle you've been quiet. Tap if that's wrong.* It had been saying so for twenty minutes.
+
 "Reply DONE," Priya said, to no one, and Kyle did, and somewhere a server in Virginia recorded that a man had been checked on. It was four minutes past seven-twenty, and it was the best morning I'd had in a year.
 
 ---
@@ -81,7 +83,7 @@ The front desk was a woman named Lupe, who looked at the clementines, looked at 
 
 We sat. I counted the pamphlets. I'd stopped myself from practicing the pitch in the car, which took real effort.
 
-The first patient was a Mr. Abernathy, seventy-eight, in a good jacket buttoned wrong, with a plastic hospital bracelet still on his wrist and a granddaughter's number written on the back of his hand in ballpoint. He'd been discharged on Thursday. He lived alone. He was the exact person Dr. Okafor had described at her desk, in the interview, and he was looking at the phone Priya held out to him as if it were a snake that had been taught manners.
+The first patient was a Mr. Abernathy, seventy-eight, in a good jacket buttoned wrong, with a plastic hospital bracelet still on his wrist and a granddaughter's number written on the back of his hand in ballpoint. He'd been discharged on Thursday. He lived alone. He was the exact person Dr. Okafor had been describing at her desk: alone, and likely to go quiet. He was looking at the phone Priya held out to him as if it were a snake that had been taught manners.
 
 "You type your number," Priya said. "Then the number of someone who'd want to know if you didn't answer."
 
@@ -115,19 +117,19 @@ I opened my mouth to say something. Nothing I could have said was going to be be
 
 I looked at her.
 
-"I watched from the door. You asked him for *his* number, before anybody else's. Everything else I've been sold, somebody calls the family and tells them." She took her glasses off. "I'm not going to tell you it's ready. It's not. I have seen ready. I've seen it once a year for twenty years and it always costs a fortune." She turned to Lupe. "Five patients. The ones who go home alone. Tuesdays and Fridays, you sit with them while they sign themselves up, patient holding the phone. It's free. Four weeks. We'll see what's left."
+"I watched from the door. You asked him for *his* number, before anybody else's. Everything else I've been sold, somebody calls the family and tells them." She took her glasses off. "I'm not going to tell you it's ready. It's not. I have seen ready. I've seen it twice a year for twenty years and it always costs a fortune." She turned to Lupe. "Five patients. The ones who go home alone. Tuesdays and Fridays, you sit with them while they sign themselves up, patient holding the phone. It's free. Four weeks. We'll see what's left."
 
 "Why?" said Priya.
 
-"Because nobody has ever asked me what I'd want it to do." She put her glasses back on. "Go fix your wheel."
+"Because nobody has ever asked me what I'd want it to do before they built it." She put her glasses back on. "Go fix your wheel."
 
 On the way out, Mr. Abernathy shook my hand with both of his. "Good luck, son," he said. "I'd hate to be found late."
 
 ---
 
-I sent the text at 5:40 that evening, sitting on the curb outside the clinic's parking lot with a laptop on my knees.
+I sent the text at 5:40 that evening, sitting on the curb outside the clinic's parking lot, where Priya and I had spent the afternoon trying to reproduce the crash, with a laptop on my knees.
 
-I'd known since seven the night before that I was supposed to be somewhere at 7:30. Maya's oldest friend Jules, the one who tells stories with sound effects, was turning twenty-eight, and there was a dinner, in a restaurant in the Mission with a reservation for seven, and Maya had said, when she told me, looking at her phone instead of at me, "You don't have to come. You can just come, though, if you want. If you'd like to be the seventh."
+I'd known since the night before that I was supposed to be somewhere at 7:30. Maya's oldest friend Jules, the one who tells stories with sound effects, was turning twenty-eight, and there was a dinner, in a restaurant in the Mission with a table for seven, reserved for 7:30, and Maya had said, when she told me, looking at her phone instead of at me, "You don't have to come. You can just come, though, if you want. If you'd like to be the seventh."
 
 I'd said yes before she finished the sentence. I'd written it on my hand. I'd bought a card.
 
@@ -158,6 +160,12 @@ I spent most of Sunday trying to write the good apology.
 I'd like you to picture the drafts. There was the formal one, which began *Dear Maya,* like a complaint to a landlord. There was the funny one, which I deleted in the first ten words because it was a joke about a *server.* There was the one that explained, at length, what a 500 error is, which I wrote to its last sentence before I understood that I'd just written her a document about my day. By four o'clock I had six drafts. I had, to be clear, nothing.
 
 Kyle found me at the counter, looking at a blank page.
+
+"It texted me again this morning," he said. "Seven o'clock. Said you'd gone quiet."
+
+"I was asleep."
+
+"I replied DONE. I've never lied to a robot before."
 
 "What are you writing?"
 
@@ -191,7 +199,7 @@ She looked at me through the gap. It was a long look. I thought about a door she
 
 "I know."
 
-"I told *Jules.*" Her voice didn't rise. It did something lower, which was worse. "I don't tell my friends somebody's coming. I don't do that. I said your name to a table of people who have heard me say nothing about anyone for three years, and I left a chair. Jules put a fork on your plate. At nine she took the fork back and said, 'Is he dead or just busy?'"
+"I told *Jules.*" Her voice didn't rise. It did something lower, which was worse. "I talk about you. That's different. I don't tell my friends *he'll be there.* I don't do that. I said it to a table of people, and I left a chair. Jules put a fork on your plate. At nine she took the fork back and said, 'Is he dead or just busy?'"
 
 "Just busy."
 
@@ -209,7 +217,7 @@ The door didn't move.
 
 I thought about it. It took longer than it should have. It's the only question anyone's ever asked me that I've had to answer twice.
 
-"Say it," I said. "I can't fix it. It's already Saturday."
+"Say it," I said. "I can't fix it. Saturday's over."
 
 She stood there. She shut the door.
 
@@ -233,7 +241,7 @@ The apartment smelled of cardamom and something with lentils. There were books o
 
 "I can't cook."
 
-"I know," said Maya. "I've seen you with a coffee." She filled a pot. She didn't look at me. "And don't make it a habit, the ugly version. It works once. After that it's just a bad apology."
+"I know," said Maya. "I've seen you with a sandwich." She filled a pot. She didn't look at me. "And don't make it a habit, the ugly version. It works once. After that it's just a bad apology."
 
 I wrote that down in my head, where I keep the things I'd rather not have to write down.
 
@@ -255,11 +263,11 @@ I didn't say anything. I couldn't, really. She took her hand back, and then, aft
 
 "I understand."
 
-"You don't, yet." She stayed where she was. "That's fine."
+"You will." She stayed where she was. "Eventually."
 
 I fell asleep on her couch at ten, in my clothes, with a blanket that smelled of her, and I slept like someone put down after a very long carry.
 
-At 6:02 in the morning my phone buzzed on the arm of the couch. I opened one eye. The screen said, in the plain gray type of a thing that had been built over a weekend:
+At 6:02 in the morning my phone buzzed on the arm of the couch. I opened one eye. The screen said, in the plain gray type of a thing that had been built in a hurry:
 
 **You okay?**
 
@@ -279,7 +287,7 @@ Maya was standing in the doorway of her kitchen in a sweater, with two cups, loo
 
 She handed me a cup. She sat on the arm of the couch, and read it again, slowly, the way she reads things she's deciding about. "It asks you first," she said. "Good."
 
-"Dr. Okafor said that too."
+"Dr. Okafor said something like that. About the sign-up."
 
 "Then she's smarter than you." She drank her tea. "Are you?"
 
@@ -298,8 +306,6 @@ I thought about it. I'd slept on her couch under her blanket and there was a cha
 
 A minimum viable product, which is what founders call the first version, is the ugliest thing that still does its job. The idea is that you learn more from one real person using a bad version than from a month of polishing a good one in private. It's the most repeated piece of advice in my business, and I'd have told you I believed it.
 
-The first version of Loopback crashed twice in front of the one person whose opinion I'd wanted most. It was the best thing that could have happened to us. Dr. Okafor didn't need it to work. She needed to see whether it would ask first, and it did.
+The first version of Loopback crashed twice in front of Dr. Okafor, the one person whose opinion we'd needed. It was the best thing that could have happened to us. She didn't need it to work. She needed it to ask.
 
-I did the same thing with an apology, on a doorstep, in the dark, with the wrong wine. It was the only version I had. It worked, and I've spent a lot of time since then wondering why I'd believed it about software and never about a person.
-
-Maya would tell you the rule has a catch. It works once. After that, it's just a bad apology.
+I did the same thing with an apology, on a doorstep, in the dark, with the wrong wine. It was the only version I had. It worked. Once. I've spent a lot of time since then wondering why I'd believed it about software and never about a person.
