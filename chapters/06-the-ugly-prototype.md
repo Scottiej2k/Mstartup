@@ -189,11 +189,11 @@ I want it on the record that I did not research the wine. I went to the grocery 
 
 ---
 
-Maya lives on the fourth floor of a building in Glen Park, on a street so steep the sidewalk has stairs. I had never been upstairs. There was a buzzer with a name taped next to it, in her handwriting, in pen: **RAMAN,** spelled right.
+Maya lives on the fourth floor of a building in Glen Park, on a street so steep the sidewalk has stairs. I had never been upstairs. There was a buzzer with a name taped next to it, in her handwriting, in pen: **RAMAN,** spelled right. I pressed it once.
 
-She didn't buzz me up. She came down. I heard her on the stairs and then the lock, and then the door opened, four inches, and stopped, because there was a chain on it.
+She buzzed me in without a word. I took that as a good sign for about four flights. On the fourth floor there was a hallway with a worn green runner and a radiator ticking to itself, and, at the end of it, her door, which opened four inches and stopped, because there was a chain on it.
 
-She looked at me through the gap. It was a long look. I thought about a door she'd described to me over coffee, and the chain I'd imagined on it. I thought: *she's looking me over to see if I'm the kind of person she should let in.* I stood there with a bottle of wine in a paper bag and I waited to be let.
+She looked at me through the gap. It was a long look. I thought about a door she'd described to me over coffee, and the chain I'd imagined on it. I thought: *she's looking me over to see if I'm the kind of person she should let in.* I stood in her hallway with a bottle of wine in a paper bag, and somewhere below us a neighbor's television laughed at something, and I waited to be let.
 
 "I'm not going to say I'm fine," said Maya. She was in a gray sweater and socks and she didn't look angry. She looked like someone holding something very still. "I told them you'd be there."
 
@@ -221,7 +221,7 @@ I thought about it. It took longer than it should have. It's the only question a
 
 She stood there. She shut the door.
 
-I heard the chain. It's a small sound, like a coin dropped in a dish. Then the door opened all the way, and there she was, with the stairwell light on her face.
+I heard the chain. It's a small sound, like a coin dropped in a dish. Then the door opened all the way, and there she was, with the light of the apartment behind her.
 
 "I don't drink wine," said Maya.
 
