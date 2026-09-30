@@ -17,19 +17,19 @@ She looked at me for a long time.
 
 "I've been so busy doing it that I haven't—" She pressed her lips together. "I don't know."
 
-"Take your time," I said. I heard it as I said it, and I heard that it wasn't a technique. It was what Mr. Abernathy had said to me, in a waiting room, about a wheel that wouldn't stop spinning: *I've got nowhere to be.* I hadn't, in fact. I'd canceled two meetings on the way in.
+"Take your time," I said. I heard it as I said it, and I heard that it wasn't a technique. It was what Mr. Abernathy had said to me, in a waiting room, about a wheel that wouldn't stop spinning: *I've got nowhere to be.* I hadn't, in fact; I'd canceled two meetings on the way in.
 
 It took her forty-five minutes.
 
-She talked, and I sat, and I didn't open a laptop. At about the tenth minute I found that I'd put my hands under my thighs, like a child in a church. At about the twentieth she got up and went to the whiteboard, the tall one we'd wheeled in from the open floor, and she wiped away a diagram of something I'd never understood, and uncapped the marker, and began to draw, in the small, decisive capitals, a table with three columns. She wrote **DECIDES** at the top of the first, and **ASKED FIRST** at the second, and **TOLD AFTER** at the third.
+She talked, and I sat, and I didn't open a laptop. At about the tenth minute I found that I'd put my hands under my thighs. At about the twentieth she got up and went to the whiteboard, the tall one on wheels, and she wiped away a diagram of something I'd never understood, and uncapped the marker, and began to draw, in the small, decisive capitals, a table with three columns. She wrote **DECIDES** at the top of the first, and **ASKED FIRST** at the second, and **TOLD AFTER** at the third.
 
-It turned out to be what she'd wanted for a year. It was a list of who could do what without a meeting. Under *DECIDES* she put, in a column by herself: the servers, the release, security, engineering hires, what to build next. Under mine she put customers, money, and the story we told. Under *ASKED FIRST,* in the middle, she wrote the things we'd have to do together, and underlined one word: *before.* Under *TOLD AFTER,* she wrote, after some thought, *Tessa.*
+It turned out to be what she'd wanted for a year. It was a list of who could do what without a meeting. Under *DECIDES* she made two rows, P and N. In P she put the servers, the release, security, engineering hires, what to build next. In N she put customers, money, and the story we told. Under *ASKED FIRST,* in the middle, she wrote the things we'd have to do together, and underlined one word: *before.* Under *TOLD AFTER,* she wrote, after some thought, *Tessa,* and I understood that I'd have been told before, if I'd asked.
 
 "She's good," said Priya. "I looked. I'll keep her. She should be support, and she should report to me, and it should have been my call." She looked at the board. "That's the part you fixed. The part I want you to know about is the nights."
 
 "The nights."
 
-"I don't want to be on call because nobody else will." She capped the marker. "I like it. I like answering the phone when it's a real one. I like being the one who can fix it. I just don't want it to be the *only* reason I'm in the company." She sat down, for the first time, on the edge of the desk, with her arms folded. "I want a second person who can be on call. Not a contractor. An engineer. I want to choose them."
+"I don't want to be on call because nobody else will." She capped the marker. "I like it. I like answering the phone when it's a real one. I like being the one who can fix it. I just don't want it to be the *only* reason I'm in the company." She sat down, for the first time, on the edge of the desk, with her arms folded. "I want a second engineer who can be on call. Not a contractor. Theo's still learning the servers, and I'm not going to let him carry a night he isn't ready for. I want somebody who's already been through a bad one. And I want to choose them."
 
 "Who?"
 
@@ -39,9 +39,9 @@ It turned out to be what she'd wanted for a year. It was a list of who could do 
 
 "You don't know what it is."
 
-"I've got a column that says *DECIDES,*" I said. "It's not mine."
+"I've got a row that says *P: engineering hires,*" I said. "It's not mine."
 
-She looked at me for a long while, and there was something in her face I'd seen once on a driveway, on a man in a flannel shirt, for about half a second.
+She looked at me for a long while, and there was something in her face I'd seen once at an airport curb, on a man in a flannel shirt, for about half a second.
 
 "Good," said Priya, and turned back to the screen. "That's not a slide."
 
@@ -49,7 +49,7 @@ She looked at me for a long while, and there was something in her face I'd seen 
 
 Maya sits in the car.
 
-I hadn't known that. It was the Saturday, the twenty-sixth, and I was driving her to the store because her own car was in the shop. (It was the replacement Corolla, the one that was the same color as the old one and smelled exactly the same, and which had developed, as everything she owns eventually does, a cough.) It was a quarter to nine, and the morning had the wet, gray look of a thing that hasn't made up its mind. We were on Mission Boulevard, in front of the strip mall with the nail salon and the UPS Store, and the red letters of **RAMAN** were a hundred yards away, in a window, where someone had turned on the lights.
+I hadn't known that. It was the Saturday, the twenty-sixth, and I was driving her to the store because her own car was in the shop. (It was the replacement, the one that was the same color as the old one and smelled exactly the same, and which had developed, as everything she owns eventually does, a cough.) It was a quarter to nine, and the morning was wet and gray. We were on Mission Boulevard, in front of the strip mall with the empty suite that used to be the nail salon, and the UPS Store, and the red letters of **RAMAN** were a hundred yards away, in a window, where someone had turned on the lights.
 
 "Stop here," said Maya.
 
@@ -61,13 +61,13 @@ She didn't get out. She sat with both hands in her lap and her bag on her knees,
 
 "Okay."
 
-"I've done it since I was fifteen. Before I go in. It's ten minutes." She spoke to the glass. "My father drives me in at seven on a Saturday, and I say *I'll be right in,* and I sit here, and I don't do anything. I listen to the engine tick. And then I go in and it's Saturday." She turned her head, finally. "You can come, or not. I'm not asking you to do anything. I'm only telling you."
+"I've done it since I was fifteen. Before I go in. It's a quarter of an hour." She spoke to the glass. "My father used to drive me in on a Saturday, and I'd say *I'll be right in,* and I'd sit here, and I don't do anything. I listen to the engine tick. And then I go in and it's Saturday." She turned her head, finally. "You can come, or not. I'm not asking you to do anything. I'm only telling you."
 
 I turned off the engine.
 
-I'd like to tell you what happened in the next ten minutes, and I can't, because nothing did. A woman in a bathrobe walked a small dog past the car. The UPS Store's sign flickered on. A man in a hooded jacket carried a box of something, slowly, from a van to the door of the nail salon, and set it down, and stood with his hands on his hips, looking at the sky. I counted, at first. I counted the lane markers, and then the bricks. After a while, I stopped. I don't know exactly when. I was only sitting in a car, in a parking lot, at a quarter to nine in the morning, with a person whose breathing I could hear, and I understood that there was no point at which anything was going to be required of me.
+I'd like to tell you what happened in the next fifteen minutes, and I can't, because nothing did. A woman in a bathrobe walked a small dog past the car. The UPS Store's sign flickered on. A man in a hooded jacket carried a box of something, slowly, from a van to the door of the UPS Store, and set it down, and stood with his hands on his hips, looking at the sky. I counted, at first. I counted the lane markers, and then the bricks. After a while, I stopped. I don't know exactly when. I was only sitting in a car, in a parking lot, at a quarter to nine in the morning, with a person whose breathing I could hear, and I understood that there was no point at which anything was going to be required of me.
 
-It's the strangest thing I've ever done. It was also the first time I understood what it was for.
+It was one of the strangest things I've ever done. It was also the first time I understood what it was for.
 
 At some point, she put her hand on the console, palm up. I looked at it. I put mine in it, and she closed her fingers, and we sat.
 
@@ -77,7 +77,7 @@ I stayed in the car for a while longer. I didn't know what to do with my hands. 
 
 ---
 
-I went up the mountain that afternoon, and I took a hypothetical, because I wasn't ready to go without one.
+I went up the mountain that afternoon, and I took a hypothetical, because I wasn't ready to go without one. I'd done the right thing on Monday without knowing it, and I wanted someone to tell me whether it counted.
 
 "Hypothetically," I said, at the fence post, "a person has a co-founder who's pulling away. She's tired. She says it's not the money, and I think I believe her. I handled it badly. I offered her a title and a number." I picked up the mug. "I'm wondering what a person does in that case."
 
@@ -91,19 +91,19 @@ Ray didn't answer for some time. He was on his knees at the edge of the pond, wh
 
 I sat on the low stone wall he'd built along the side of the flagstones. He didn't sit. He went into the house, and I heard the kitchen door, and a drawer, and then another one, and he came back out with a coffee pot and an envelope.
 
-"I had a partner," said Ray. "You know about Walt."
+"I had a partner," said Ray. "Walt Pruitt. You know the name, not the rest."
 
 "Steadyline. You started it together."
 
-"I started it with Walt Pruitt, and we were thirty-one, and I couldn't have done it without him." He set the pot on the wall, and sat on the far end of it, with the envelope on his knee. "He did the half of the company that nobody sees. The nights. The phone. The man who calls when the hospital's out of gauze at two in the morning and someone has to decide what to do. That was Walt, for nine years. He was very good at it. He liked it." He turned the envelope over. "And then he said he was tired."
+"We were thirty-one, and I couldn't have done it without him." He set the pot on the wall, and sat on the far end of it, with the envelope on his knee. "He did the half of the company that nobody sees. The nights. The escalations. The call when a hospital's out of gauze at two in the morning and somebody has to decide what to do. That was Walt, for eleven years. He was very good at it. He liked it." He turned the envelope over. "And then he said he was tired."
 
 I didn't say anything.
 
-"He said it at a Tuesday board meeting. Quietly. In the middle of a sentence about something else. I said thank you, I remember, like it was an item." He looked at the hole. "I gave him a title, that week. A bigger number. A man to help. I felt very good about it. I thought I'd been a generous partner." He said it with no particular expression. "He took it. He stayed three more years."
+"He said it at a Tuesday board meeting. Quietly. In the middle of a sentence about something else. I said thank you, I remember, like it was an item." He looked at the hole. "I gave him a title, that week. A bigger number. A man to help. I felt very good about it. I thought I'd been a generous partner." He said it with no particular expression. "He took it. He stayed until the sale."
 
 "What happened?"
 
-"I'll tell you some of it." Ray poured coffee into two mugs. "I found out a long time after that he'd been looking for another job for two years. I found out from a man in an accountant's office. I was the last one to know. He hadn't been tired of the work. He'd been tired of being thanked." He handed me a mug. "I don't know if that's the whole of it. There's a part about the sale, and a part about Denise, and I don't do those."
+"I'll tell you some of it." Ray poured coffee into two mugs. "I found out after the sale, from a man in an accountant's office, that he'd been looking for another job for the last two years. I was the last one to know. He hadn't been tired of the work. He'd been tired of being thanked." He handed me a mug. "I don't know if that's the whole of it. There's a part about the sale, and a part about Denise, and I don't do those."
 
 I held the mug.
 
@@ -155,7 +155,7 @@ I didn't say anything.
 
 It was said quietly. It took me a moment to understand that it had been rehearsed, and that she'd rehearsed it, as I had, in front of something, for a long time.
 
-"Not ours. Not yours." She pointed the spoon, not at me, but at the window, at the fence, at everything beyond it. "You have a company and she will help. She will listen to you, at eleven, at night, for three hours, on a telephone. She did this in February. She did it with her eyes closed. And then she comes here on Saturday and she does the inventory and the vaccines. It is a great deal for one person. She will not say so. She is like her father."
+"Not ours. Not yours." She pointed the spoon, not at me, but at the window, at the fence, at everything beyond it. "You have a company and she will help. She will listen to you, at eleven, at night, for three hours, on a telephone. She did this in February. She did it with her eyes closed. And then she comes here on Saturday and she does the inventory and the flu shots. It is a great deal for one person. She will not say so. She is like her father."
 
 "I know."
 
@@ -167,15 +167,11 @@ It was said quietly. It took me a moment to understand that it had been rehearse
 
 "Not one word."
 
-"Good." She turned back to the pot. After a while, without looking round, she said, in a different voice, "She chose you. I did not choose. I would have chosen somebody boring. A dentist." She stirred. "But she did not sit in the car."
-
-"What?"
-
-"When she was with the other one. The one before you. The founder." She tapped the spoon on the rim, twice. "She sat in the car alone, always. Yesterday I watched from the window, at nine. You sat with her." She looked at me at last, with the expression from the register, the attention, the long addition of a column. "I noticed."
+"Good." She turned back to the pot. After a while, without looking round, she said, in a different voice, "She chose you. I did not choose. I would have chosen somebody boring. A dentist." She stirred. "When she was with the other one. The one before you. Adrian. The founder." She tapped the spoon on the rim, twice. "She sat in the car alone, always, and he drove away. Yesterday I watched from the window, at nine. You sat with her." She looked at me at last, with the expression from the register, the attention, the long addition of a column. "I noticed."
 
 ---
 
-It was a quarter to seven. The table was set. Suresh had come home at six, and eaten nothing, and sat.
+It was a quarter to seven. The table was set. We ate late that night; Suresh had waited, which he never does. He'd come home at six, and eaten nothing, and sat.
 
 Maya came in at ten to. She came in without her coat. She looked at the table, and at her mother, and at me, and sat down across from her father, and folded her hands on the cloth.
 
@@ -183,7 +179,7 @@ Maya came in at ten to. She came in without her coat. She looked at the table, a
 
 He looked at her. He put down his fork.
 
-"I can't do both." She said it in a small, clear voice, and her hands didn't move. "I'm not saying I won't. I'm saying I can't. The store and my work. The weekends, the Thursday nights, the vaccinations. If there's a second suite, it's another thing, and it comes to me, and it comes at the same hours, and I'm—" She took a breath. She said a word, in Tamil, and I knew it, this time, from her mouth, on a couch: *aayasam.* "I'm tired in a way that I can't rest from. I'm not asking you to hire a manager."
+"I can't do both." She said it in a small, clear voice, and her hands didn't move. "I'm not saying I won't. I'm saying I can't. The store and my work. The weekends, the inventory, the flu shots. If there's a second suite, it's another thing, and it comes to me, and it comes at the same hours, and I'm—" She took a breath. She said a word, in Tamil, and I knew it, this time, from her mouth, on a couch: *aayasam.* "I'm tired in a way that I can't rest from. I'm not asking you to hire a manager."
 
 "I will not hire a manager," said Suresh. He said it quietly, without heat, and with a kind of effort, like a man picking up something heavy. "Sixteen years ago, we did. You were twelve. He was a good man, for a year. He took from the register, a little at a time, for six months. I found it on a Tuesday. I nearly closed the store. I did not sleep for a month." He looked at his hands. "I do not hire."
 
@@ -215,9 +211,9 @@ He turned to his daughter. He sat back, slowly. I saw his shoulders come down ha
 
 ---
 
-I deleted the reminder in the parking lot afterward.
+I deleted the reminder at the curb afterward.
 
-It was dark. Maya was in the passenger seat, with her head against the window and her eyes closed, and I had my phone in my hand, under the dome light, with my thumb over a small gray box I'd made in August. It said **Maya check-in. Ask open questions. Listen. Don't fix.** It said **Repeats: every Sunday.** I looked at it for a while. I thought about a rule Priya had written on a wall a year ago, in capitals: the person presses the button herself. I'd set a check-in for a person who had never pressed anything.
+It was dark. Maya was in the passenger seat, with her head against the window and her eyes closed, and I had my phone in my hand, under the dome light, with my thumb over a small gray box I'd made in August. It said **Maya check-in. Ask open questions. Listen. Don't fix.** It said **Repeats: every Sunday.** I looked at it for a while. I thought about a rule Priya had written on a wall a year ago, in capitals: the person presses the button herself. I'd set a check-in for a person who hadn't asked for one.
 
 I pressed **Delete.** A small box asked, *Delete this and all future events?*
 
@@ -243,9 +239,9 @@ I was in the kitchen in my socks. I hadn't slept, in any useful way. It lit the 
 
 **Cliff: passed. Don't make it weird.**
 
-I read it four times. I didn't make it weird. I didn't call. I didn't send a cake, a card, or a bouquet with a spreadsheet in it. I typed a single word, and looked at it, and deleted it, and typed it again. I sent it.
+I read it four times. I didn't make it weird. I didn't call. I didn't send a cake, a card, or a bouquet with a spreadsheet in it. I typed a single word, and looked at it, and deleted it, and typed it again, without the period. I sent it.
 
-*Okay.*
+*Okay*
 
 The reply came in nine seconds. It said, **Good.** And then, a moment later, in a second bubble, the thing that I've kept, in a screenshot, on my desktop, where I can see it on bad days:
 
@@ -255,7 +251,7 @@ The reply came in nine seconds. It said, **Good.** And then, a moment later, in 
 
 On Saturday, Kyle helped me move a desk.
 
-It was for Maya. It was a small, old, scarred thing in pale wood that we'd found in a shop in Mountain View, with a drawer that stuck, and I'd had an idea for where to put it, in the second room, by the window, where there'd be morning light. I'd called Kyle on Friday night. I'd said, *I need a second pair of hands.* I hadn't said anything else. He'd said, *When?*
+It was for Maya. It was a small, old, scarred thing in pale wood that we'd found in a shop in Mountain View, with a drawer that stuck, and I'd had an idea for where to put it, in the living room, by the window, where there'd be morning light. I'd called Kyle on Friday night. I'd said, *I need a second pair of hands.* I hadn't said anything else. He'd said, *When?*
 
 He arrived at nine, in the cereal T-shirt, without a hand truck. We carried it up the stairs, with me on the bottom and him on the top, and set it down under the window, and stood back.
 
@@ -286,8 +282,8 @@ I stood in the room with the desk. It was a Saturday, and the light was coming i
 
 There's a kind of story, in my business, in which the hard part is the break, and the repair is a montage. It's a good story, and I can't tell it. It didn't happen that way.
 
-What happened was that I sat in a car for ten minutes. And on a stone wall, for another ten. And in a chair by a desk, with my hands under my legs, for forty-five. I can't describe what I did in them, because I didn't do it. I want to say that this is the skill. I don't think it's a skill. I think it's the thing you do when you've run out of skills, and it turns out to be most of the job.
+What happened was that I sat in a car for ten minutes. And on a stone wall, for another ten. And in a chair by a desk, with my hands under my legs, for forty-five. I can't describe what I did in them, because I didn't do it. It isn't a skill. It's what you do when you've run out of them, and it turns out to be most of the job.
 
 Ray has a letter in a drawer. I've thought about it more than I'd like.
 
-Priya's message is on my desktop. Maya's hand is on my knee, in a car, in a parking lot, and will be, I hope, for some number of Saturdays that I'm not going to count.
+Priya's message is on my desktop. Maya's hand is in mine, in a car, in a parking lot, and will be, I hope, for some number of Saturdays that I'm not going to count.

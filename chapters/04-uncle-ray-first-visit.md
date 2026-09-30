@@ -13,7 +13,7 @@ Ray is my father's older brother. Seven years older. He left Dayton at twenty-tw
 
 Dan runs maintenance for a hospital system. Ray spent most of a quarter century building software for hospitals. This has never come up. (I had not yet told Ray that my new company was, more or less, his old industry in a smaller hat. Hypothetically, I was working up to it.)
 
-His company was called Steadyline Systems, and it did inventory for hospital supply closets: gauze, syringes, the dull, life-critical arithmetic of whether there's enough of something. He started it at thirty-one with a friend. He sold it at fifty-five to a bigger company, thirteen years ago, and has not, in the sense the Valley uses the word, worked since. What he does is take phone calls and drink coffee with people. He doesn't charge. He accepts pie.
+His company was called Steadyline Systems, and it did inventory for hospital supply closets: gauze, syringes, the dull, life-critical arithmetic of whether there's enough of something. He started it at thirty-one with a friend named Walt. He sold it at fifty-five to a bigger company, thirteen years ago, and has not, in the sense the Valley uses the word, worked since. What he does is take phone calls and drink coffee with people. He doesn't charge. He accepts pie.
 
 Yes, inventory. When I told him my first company had been an inventory tool, he was quiet for a moment and said, "Well. That's a hard way to learn it," and poured me a coffee, and I have never been sure whether I was being consoled or diagnosed.
 
