@@ -7,11 +7,13 @@ It was the third of February, a Tuesday, in her office at the clinic, at a desk 
 
 "I've signed things that were thirty pages long," said Dr. Okafor, "and understood none of them and been robbed by all of them." She uncapped the pen. "This one I understand. It's a pity. I feel I'm cheating."
 
-It was the first money anyone had ever paid Loopback. I'd expected a rush. What I felt was the small, specific weight of a thing I'd have to keep doing. She gave the pen a little shake, signed in a looping hand that took up three lines, and slid the page across the desk, and said, "Now. I'll tell you what I told you in September."
+It was the first money anyone had ever paid Loopback. I'd expected a rush. What I felt was the small, specific weight of a thing I'd have to keep doing. She gave the pen a little shake, signed in a looping hand that took up three lines, and slid the page across the desk, and said, "Now. I'll tell you what I told you in October."
 
-"It works great on my machine," I said.
+"Come back in flu season," I said.
 
-"Come try it in flu season." She looked over her glasses at me. "It's February. Try it in February. I'm going to put forty more of them on this before the end of the month, the ones I can't reach on Sundays, and if it breaks I'm going to find out before you do." She capped the pen. "I'm not saying that to frighten you. I'm saying it because that's when a thing is actually a thing. It should make my Tuesday easier. If it doesn't, I'll tell you on Wednesday."
+"It's February." She looked over her glasses at me. "This is flu season. I'm going to put the rest of my discharges on this before the end of the month, the ones I can't reach on Sundays, and if it breaks I'm going to find out before you do." She capped the pen. "I'm not saying that to frighten you. I'm saying it because that's when a thing is actually a thing. It should make my Tuesday easier. If it doesn't, I'll tell you on Wednesday."
+
+It was Maya's test, in a different mouth: *does it make somebody's Tuesday easier?* I'd never heard anyone else say it.
 
 "Why Tuesday?" said Priya.
 
@@ -21,9 +23,9 @@ It was the first money anyone had ever paid Loopback. I'd expected a rush. What 
 
 It broke on the twelfth.
 
-It was a Thursday, in the middle of the worst flu month in six years, and I was on the phone with Maya, which by then was a thing we did. We'd started in January, without discussing it: at about eleven each night, she called me, from her couch or her bed, and we talked for some number of minutes about nothing in particular, and then one of us said *okay* in a particular way and hung up. That night we were at twelve minutes. She was telling me about a woman who'd come into the pharmacy with a prescription in a language Suresh read but couldn't pronounce, and I was sitting on my bed with the laptop open, looking at a dashboard I wasn't supposed to be looking at, when the third cheap phone on my desk began to ring.
+It was a Thursday, in the middle of the worst flu month in six years, and I was on the phone with Maya, which by then was a thing we did. We'd started in January, without discussing it: at about eleven each night, she called me, from her couch or her bed, and we talked for some number of minutes about nothing in particular, and then one of us said *okay* in a particular way and hung up. That night we were at twelve minutes. She was telling me about a woman who'd come into the pharmacy with a prescription in a language Suresh read but couldn't pronounce, and I was sitting on my bed with the laptop open, looking at a dashboard I'd promised Priya I'd stop watching, when the third cheap phone on my desk began to ring.
 
-I should explain the third cheap phone. It was the one with the crack across the screen, and since October it had been the number at the bottom of every text we sent: *Questions, or something wrong? Call Nate.* I'd put my own number on it in a fit of something I couldn't name, and Priya had made me get a second phone so it would ring separately from my own. In four months it had rung nine times, and eight were a man in Milpitas who wanted to know if Ruben was open.
+I should explain the third cheap phone. It was the last of the demo phones from the waiting room, the one with the crack across the screen, and since December I'd bought it a SIM card and put its number at the bottom of every check-in text, in gray, with no name, in a fit of something I couldn't name: *Something wrong? Call this number.* Priya had insisted on the separate phone. ("If it's going to ring at three in the morning, it doesn't ring on your real one.") In two months it had rung nine times, and eight were the same man in Milpitas, who wanted to know if Ruben's was open on Sundays and had decided I was the person to ask.
 
 "I'll call you back," I said.
 
@@ -33,7 +35,7 @@ I should explain the third cheap phone. It was the one with the crack across the
 
 "Put me on speaker," she said. "I'm not going anywhere."
 
-I hadn't thought about it. I put her on the desk and picked up the other one.
+I hadn't thought about it. I put her on speaker, and carried both phones and the laptop into the kitchen, because the table was bigger, and picked up the crack one.
 
 "Hello, this is Nate."
 
@@ -43,17 +45,17 @@ I looked at the dashboard. I felt it happen. It's hard to describe the feeling o
 
 "I'm going to find out," I said. "Hold on. One minute. Please tell me your mother's name."
 
-She told me. I looked her up. She'd answered at 6:04 that morning. She had answered every morning for eleven weeks.
+She told me. I looked her up. She'd answered at 6:04 that morning. She was one of Dr. Okafor's November ones, and she had answered every morning since.
 
 "She did answer," I said. "She answered at 6:04 this morning. The message you got was wrong. It was our mistake. I'm sorry. I'm so sorry. Is she there?"
 
-"She's—" The voice did a thing. "I don't know. I'm in Sacramento. I'm getting in the car."
+"She's—" The voice did a thing. "I don't know. I'm in Modesto. I'm getting in the car."
 
 "Don't get in the car," I said. "Please. Call her. If she doesn't pick up in five minutes, call me back, and I'll—" I didn't know what. "I'll stay on the phone."
 
-The other phone, the real one, buzzed on the desk. It was Priya. The crack phone rang again in my hand before I'd hung up the first call.
+A message lit up the laptop. It was Priya: *I see it. Coming.* The crack phone rang again in my hand before I'd hung up the first call.
 
-"Keep going," said Maya, from the desk. "I'll stay on."
+"Keep going," said Maya, from the table. "I'll stay on."
 
 ---
 
@@ -61,13 +63,13 @@ I'll tell you what had happened, because it's an embarrassingly small thing, and
 
 That afternoon, Priya had moved us to a new computer. A bigger one, in a room somewhere, for the flu-season load. It was her job, and she'd done it carefully, and she'd checked everything she knew to check. What she hadn't known, because no one had told her and it wasn't a thing you'd think to ask, was that the new computer believed it was in a different place. It kept its clock eight hours from where we were. Its seven in the morning, the moment each day when the system says *nobody's answered yet; tell their person,* was our eleven at night.
 
-So at 11:05 p.m., on a Thursday, in February, the new computer looked at fifty-eight people who had not yet been asked how they were, and decided that every one of them had gone quiet.
+So at 11:05 p.m., on a Thursday, in February, the new computer looked at fifty-eight people who had not yet been asked how they were, and decided that every one of them had gone quiet, skipped the asking, and went straight to the telling. It even sent each patient her own note, *we told your person,* which most of them had silenced or slept through. That was the only part that worked as designed.
 
 That's it. A clock in the wrong country.
 
-Priya arrived at 11:40 in an Uber, in flannel pajama pants and her husband's parka, with her laptop in a canvas bag and a face like a locked door. She didn't say hello. She came in and sat at the kitchen table and opened the machine, and I went on talking to a man in Fresno about his wife.
+Priya arrived at 11:40 in an Uber, because she'd been too shaky to drive and would never have admitted it, in flannel pajama pants and her husband's parka, with her laptop in a canvas bag and a face like a locked door. She didn't say hello. She came in and sat at the kitchen table and opened the machine, and I went on talking to a man in Fresno about his wife.
 
-Kyle came out of his room at 11:55 in a T-shirt that said something about a marathon he hadn't run. He stood in the hallway and looked at the two of us, at the crack phone, at the mixing bowl on the counter, and at Maya's voice, coming through a speaker on my desk, saying, quietly, *It's all right. Keep going.*
+Kyle came out of his room at 11:55 in a T-shirt that said something about a marathon he hadn't run. He stood in the hallway and looked at the two of us, at the crack phone, at the mixing bowl on the counter, and at Maya's voice, coming through the speaker on the table, saying, quietly, *It's all right. Keep going.*
 
 "Should I," said Kyle.
 
@@ -87,13 +89,13 @@ She had it fixed at 12:06. It took twenty-six minutes. I watched her do it, betw
 
 There were thirty-four calls, and I answered all of them.
 
-I kept a tally on the back of an envelope, in pencil, in strokes, the way you'd count days on a wall. I could tell you what they said, but I'd rather tell you who they were. A man in Fresno. A teenager, who said *I'm the person on my grandma's thing, did it say she's okay,* in a voice that cracked on the last word, and whom I told, *yes, she's okay, she's fine, you did everything right.* A woman from the county who'd been at a dinner and said, *I don't know what to do with a wrong message that sounds so right.* A man who shouted for four minutes, about his mother, about the ambulance he'd nearly called, and then, without any change in his voice, said *I'm sorry, I'm not shouting at you, I've been awake since five,* and I said *you're allowed.*
+I kept a tally on the back of an envelope, in pencil, in strokes, the way you'd count days on a wall. I could tell you what they said, but I'd rather tell you who they were. A man in Fresno. A teenager, who said *I'm the person on my grandma's thing, did it say she's okay,* in a voice that cracked on the last word, and whom I told, *yes, she's okay, she's fine, you did everything right.* A woman from the county who'd been at a dinner and said, *I don't know what to do with a wrong message that sounds so right.* A man who began, when I said *this is Nate,* with "Oh. A person," in a voice from which something had gone, and then shouted anyway, for four minutes, about his mother, about the ambulance he'd nearly called, and then, without any change in his voice, said *I'm sorry, I'm not shouting at you, I've been awake since five,* and I said *you're allowed.*
 
 An old woman, who was a patient, and who had answered the phone when her son called her, and who had then called the number at the bottom of the text, herself, on her own telephone, to say, with enormous clarity, "Young man, I'm right here. I'm watching Jeopardy. Somebody sent my son a message that said I hadn't answered. I haven't *been* asked. Do you know the category? It's Potent Potables. I'd like to be left alone." I apologized to her for eleven minutes. She stayed on for the whole thing. At the end she said, "You sound tired," and hung up.
 
 Each time, I said the same thing. I hadn't decided to. It came out on the third call and stayed: *This was our mistake. It wasn't yours. They're fine. I'm sorry. What would help?* I said it in my own voice, without a script, and I noticed somewhere around the twentieth call that it wasn't a technique. It was only true.
 
-At ten to one, there was a silence on the desk, and a voice that wasn't on the phone said, quietly, from the speaker: "You're saying the same thing to everyone."
+At ten to one, there was a silence on the table, and a voice that wasn't on the crack phone said, quietly, from the speaker: "You're saying the same thing to everyone."
 
 "Is it wrong?"
 
@@ -111,7 +113,7 @@ The last call came at 2:10, and it was Dr. Okafor.
 
 "How do you—"
 
-"A woman's voice said *that's the clock,* in the background of my fifth call," said Dr. Okafor. "I've been a doctor for twenty-six years. I listen to the background." She hung up.
+"I called once at seven past midnight, and you picked up, and a woman in the background said *that's the clock,*" said Dr. Okafor. "I've been a doctor for twenty-six years. I listen to the background." She hung up.
 
 Priya was at the table with her hands around a mug that Kyle had put there, which she had not touched. She was looking at the screen, at the little column that now said **NOT ANSWERED: 0.**
 
@@ -121,7 +123,7 @@ Priya was at the table with her hands around a mug that Kyle had put there, whic
 
 "It was mine, Nate."
 
-"I put my number on the text," I said. "If I hadn't, it would have rung nowhere, and nobody would have found out until morning, and forty people would have lain awake thinking someone was dead." I sat down across from her. "You built it so that a person finds out. I built it so that a person picks up. That's two jobs. It was the company's night."
+"I put a phone number on the text," I said. "If I hadn't, it would have rung nowhere, and nobody would have found out until morning, and dozens of people would have lain awake thinking someone was dead." I sat down across from her. "You built it so that a person finds out. I built it so that a person picks up. That's two jobs. It was the company's night."
 
 She looked at me for a long time. Then she picked up the tea, and drank some of it, and made a face.
 
@@ -131,9 +133,9 @@ She looked at me for a long time. Then she picked up the tea, and drank some of 
 
 "It's the best cold tea I've ever had." She put her head down on her folded arms, on the table, next to the laptop, and said into her sleeve, "Don't tell anyone I did this."
 
-I picked up the crack phone. I put it in the drawer, face down, where it couldn't ring unobserved, and sat with her until her Uber came.
+I picked up the crack phone. I put it in a drawer, face down, where it couldn't ring unobserved, and sat with her until her Uber came.
 
-At the desk in my room, when I went back for my own phone, the speaker was still open, and the little timer on it said 3 hours, 14 minutes.
+My own phone was still face up on the table, where I'd left it, with the speaker open, and the little timer on it said 3 hours, 41 minutes.
 
 "Are you still there?" I said.
 
@@ -149,7 +151,7 @@ It was a Saturday at the pharmacy. There was a line of nine, and a man arguing p
 
 "Did he answer?" she said.
 
-She said it to Maya. Maya was stocking something, at the far end of the counter, with her coat on the hook and her sleeves rolled. She didn't turn around.
+She said it to Maya. (Maya had told them on Friday. I hadn't known she'd told anyone.) Maya was stocking something, at the far end of the counter, with her coat on the hook and her sleeves rolled. She didn't turn around.
 
 "Thirty-four times."
 
@@ -173,7 +175,7 @@ Lakshmi put down the tins. She took a pencil from behind her ear. Behind her, on
 
 It was the following Wednesday that Maya's car died on the 101.
 
-It was ten to one in the morning, on the shoulder, south of the airport, in the stretch where the freeway runs flat and lit and lonely between two hills that aren't there. She'd been at the store doing the inventory, which her parents had asked her to do, because the family does the work, and because it was the end of the month. I was in bed in Mountain View, and my phone buzzed on the nightstand, and I picked it up at the first ring. I've thought since about why, and what I think is this: that I'd had thirty-four calls, and I'd learned what it does to a person when the phone is answered.
+It was ten to one in the morning, on the shoulder, south of the airport, in the stretch where the freeway runs flat and lit and lonely between two hills that aren't there. She'd been at the store doing the inventory, which her parents had asked her to do, because the family does the work, and because the wholesaler's delivery was due Thursday. I was in bed in Mountain View, and my phone buzzed on the nightstand, and I picked it up at the first ring. I've thought since about why, and what I think is this: that I'd had thirty-four calls, and I'd learned what it does to a person when the phone is answered.
 
 "Hi," said Maya. "I'm not calling to be fixed."
 
@@ -183,13 +185,13 @@ It was ten to one in the morning, on the shoulder, south of the airport, in the 
 
 "I'm coming."
 
-"It's forty minutes."
+"It's thirty-five minutes."
 
-"It's thirty-one if I speed a little."
+"It's thirty if I speed a little."
 
 "Nate—"
 
-"Stay on the phone," I said, and I heard my voice do a thing, and I put on the closest pair of pants.
+"Stay on the phone," I said, and I heard my voice catch, and I put on the closest pair of pants.
 
 She stayed on the phone. I drove with it on the dash, and she told me, in a low, dry voice, about a patient who'd asked whether the pharmacy could put the pills in an envelope shaped like a heart, for his wife, who was in the hospital, and I said yes, and she said *I know you don't know that,* and I said *I'm learning,* and she didn't answer. At one point, somewhere near Burlingame, she said, without any warning, "I called you first. Before my father. Before Jules." She let the trucks go by. "I want you to know that I noticed."
 
@@ -220,8 +222,8 @@ I kept the envelope. I still have it. The tally, in pencil, goes down the back i
 
 Thirty-four people called. Eleven wanted to know if someone was all right. Nine wanted to know who they were talking to. Six wanted to know how it could happen. And eight, which is the number I've thought about most, said some version of *Oh. A person.*
 
-I'd put my own number at the bottom of the text because of a line on an index card: *Ask what happens when it breaks.* I'd thought of it as a policy. I didn't know that the first time a company fails anyone, the failure is the easy part. What they remember is whether somebody picked up.
+I'd put a number at the bottom of the text in a fit of something I couldn't name. I've since found the name for it, and it's on an index card: *Ask what happens when it breaks.* I'd thought of it as a policy. I didn't know that the first time a company fails anyone, the failure is the easy part. What they remember is whether somebody picked up.
 
-I'll spare you the rest. The other one happened on the 101, with two different shoes, and you've already guessed it, and I'd rather keep it.
+There was a second hard thing that week, and it happened on the 101, in two different shoes. I'd rather keep that one.
 
 Under the tally, in my own writing, is a sentence I didn't think of. *What do you need?*

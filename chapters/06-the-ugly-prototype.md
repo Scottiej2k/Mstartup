@@ -121,7 +121,7 @@ I looked at her.
 
 "Why?" said Priya.
 
-"Because nobody has ever asked me what I'd want it to do before they built it." She put her glasses back on. "Go fix your wheel."
+"Because nobody has ever asked me what I'd want it to do before they built it." She put her glasses back on. "Go fix your wheel. And come back in flu season, when the waiting room's full and the phones don't stop. That's when a thing is actually a thing."
 
 On the way out, Mr. Abernathy shook my hand with both of his. "Good luck, son," he said. "I'd hate to be found late."
 
