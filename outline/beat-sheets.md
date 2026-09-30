@@ -154,12 +154,14 @@ Balance check: wrong transfers appear in every part (2, 5, 7, 9 | 11, 12, 13, 14
 - **Plants:** The quarter-turned cup; Denise's photo; the landline; "Keep inviting her to your interviews."
 - **Note:** *The best feedback comes from someone who isn't buying.*
 
-### 0.5 Rewrites needed in Ch 1-4 (proposed, small)
+### 0.5 Rewrites to Ch 1-4 for the new arc (DONE 2026-09-30)
 | Where | Change | Why |
 |---|---|---|
-| Ch 2, the weekly call scene | One or two lines: Priya "hasn't signed anything" and says "let's see" about joining properly | The search for a co-founder is live, not assumed |
-| Ch 2 or Ch 3 | **Cole's offer (optional, ~500 words):** Cole proposes folding Nate's idea into his company with Nate as "a sort of CTO." Nate is tempted. Priya doesn't say anything. He says no | Makes the co-founder search concrete (glossy option vs. the right one), and rhymes with the apps |
-| Ch 3, final scene | Priya: "I'm in. For ninety days. Then we talk about paper." | Sets up Ch 8 and the founder agreement |
+| Ch 1 | Nate wears green but is really orange (seeking); Priya has agreed to nothing in writing; Founder's Note widens to "everyone wears the color of what they'd settle for" | Both searches are live from page one |
+| Ch 2, the weekly call scene | Priya: "I haven't signed anything, Nate, because there's nothing to sign yet" | The search for a co-founder is live, not assumed |
+| Ch 3 | **Cole's offer (added):** rooftop drinks; Cole offers "Head of Healthcare" at Northbeam and a third more for Priya. Nate says "let me think about it," then declines by text next morning. Cole had also called Priya, who waited to see what Nate would do | Makes the co-founder search concrete (glossy option vs. the right one), and rhymes with the apps |
+| Ch 3, final scene | Priya: "I'm in. For ninety days. Starting October first... For both of us." "You didn't think you were the only one being interviewed?" | Sets up Ch 8 and the founder agreement |
+| Ch 4 | Nate's second hypothetical: a co-founder who says yes for ninety days. Ray: "That's not a hypothetical. That's a calendar... She's interviewing you back." Founder's Note gains a line about the person deciding whether to stay | Ray answers both searches |
 | Ch 2 Founder's Note | None. "Follow up" still fits | |
 
 ---
@@ -308,7 +310,7 @@ and the go-live are the same weekend.*
 ### Ch 19. Text Me When You Get There
 **~4,800 words · Sep, Y3**
 - **S:** Go-live, 9 a.m., all forty stores. The ceremony is at 11. Priya runs launch. Nate hands her the keys the night before. His phone is off at city hall. One text arrives, afterward: **They're all green.**
-- **R:** The ceremony (Suresh, Lakshmi, Arjun, Dan, Carol, Annie, Ray, with Priya and Jules as witnesses). Lakshmi presses something into Maya's hand. Dan gives Nate a toolbox with a note: *Text me when you get there.* The party at Ray's: the big yard, the pond finally dug, string lights, Lakshmi's cousins cooking. Kyle's badly timed toast. Theo, Margo, Cole alone. Maya's Tamil word slips out and Nate doesn't pretend to understand it. Ray tells him quietly what his something is: **a nursing fellowship in Denise's name** (the night nurse who saw her fear and stayed). Sunday morning: Ray at the mailbox, dropping in the Walt letter. Neither says a word.
+- **R:** The ceremony (Suresh, Lakshmi, Arjun, Dan, Carol, Annie, Ray, with Priya and Jules as witnesses). Lakshmi presses something into Maya's hand. Dan gives Nate a toolbox with a note: *Text me when you get there.* The party at Ray's: the big yard, the pond finally dug, string lights, Lakshmi's cousins cooking. Kyle's badly timed toast. Theo, Margo, Cole alone. Maya's Tamil word slips out and Nate doesn't pretend to understand it. Ray tells him quietly what his something is: **the Denise Calloway Scholarship Fund (a nursing fellowship in her name)** (the night nurse who saw her fear and stayed). Sunday morning: Ray at the mailbox, dropping in the Walt letter. Neither says a word.
 - **Crossing:** S to R right (delegate so you can be there).
 - **Note:** *Culture is what you keep doing.* (Slide, warm.)
 
@@ -369,10 +371,10 @@ This part should feel quieter and more ordinary than the rest, on purpose.*
 
 ## Open items for Scott
 1. **Part and chapter titles:** proposed in `stage-map.md`; Ch 10 ("When It Breaks"), Ch 11 ("The Cliff"), Ch 12 ("Two Offers") and Ch 17-19 are new.
-2. **Priya's cliff:** her start date is Oct 1, Y1, so the cliff is Oct 1, Y2. Is "she nearly walks three weeks before it" the right size of crisis?
-3. **Suresh's scare (Ch 23):** a mild one, he recovers, and works fewer hours. Too heavy for a grind chapter?
-4. **Cole's offer (Ch 2/3, optional):** add it to make the co-founder search concrete?
-5. **Lakshmi's item (Ch 19):** what does she press into Maya's hand? Still open.
+2. **Priya's cliff: CONFIRMED** (Scott). Her start date is Oct 1, Y1, so the cliff is Oct 1, Y2; she nearly walks three weeks before it.
+3. **Suresh's scare (Ch 23): CONFIRMED** (Scott). A mild one; he recovers and works fewer hours.
+4. **Cole's offer:** added to Ch 3 (see 0.5). Flag if you'd rather cut it.
+5. **Lakshmi's item (Ch 19):** what does she press into Maya's hand? **Deferred** (Scott): decide once more of the book exists.
 6. **Where they live:** Sunnyvale (proposed).
-7. **Ray's fellowship name:** still open.
+7. **Ray's fellowship name: DECIDED.** The Denise Calloway Scholarship Fund.
 8. **Ch 24 product:** living alone first (proposed), new parents left for the sequel.

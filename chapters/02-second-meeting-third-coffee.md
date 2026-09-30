@@ -111,7 +111,7 @@ Then she stopped joking, which she does about once a quarter, and it always feel
 
 "The other thing."
 
-"I have a rent check and a husband who teaches middle school." Her voice had the level, careful tone she uses on days when something might break. "We have until December to find something worth being at half salary for. I'm not asking for a plan. I'm asking for a person with a problem. Any person."
+"I have a rent check and a husband who teaches middle school." Her voice had the level, careful tone she uses on days when something might break. "We have until December to find something worth being at half salary for. I haven't signed anything, Nate, because there's nothing to sign yet. I'm not asking for a plan. I'm asking for a person with a problem. Any person."
 
 "I have a person with a problem."
 

@@ -125,6 +125,32 @@ She wiped the word off the whiteboard with the flat of her hand. I said, "What a
 
 ---
 
+Cole's drinks happened the following Tuesday, on a rooftop in SoMa with heat lamps that cost more than my rent. I told myself I'd gone to be polite, which is what I tell myself before I do things I want to do.
+
+I ordered water. Cole ordered for me anyway, and a cocktail arrived with an orange peel curled on the rim like a question mark. I held it the way I hold every drink, as a prop.
+
+"So I hear pharmacies," said Cole. He hadn't asked what I was working on. Someone had told him. That's how information moves at his altitude: downhill.
+
+"Healthcare," I said. "We're early. We've done fourteen interviews and—"
+
+"Love it. Listen. I'm going to say something and you're going to say *let me think about it,* and that's the right answer, so go ahead." He leaned in, and the heat lamp gave him a halo he hadn't earned. "Northbeam is doing healthcare next year. I've got nobody for it. I've got a slide. You come in under us: Head of Healthcare, a real title, real money. Your stuff becomes our stuff, and we take the rent off the table. If it's working in six months, we make it its own company. Everyone wins."
+
+"And Priya?"
+
+"Bring her! Senior engineer. I'd go a third above what she's making." He said it the way you hand someone a coat they didn't ask for. "You don't have to decide anything. That's the beauty. You'd be *inside* something while you kept your options open."
+
+"Stay liquid," I said.
+
+"*Exactly,*" said Cole, delighted, like a man whose dog has finally fetched.
+
+I want to be honest about the next few seconds, because I'd like credit for what I did after them. My stomach did a small, warm, traitorous thing. I wouldn't be the inventory guy anymore. I'd be Nate, Head of. Priya could stop being at half salary. No more *whatever this is.* Somebody else would carry the weight, and all I'd have to do was not put it down.
+
+"Let me think about it," I said.
+
+"Perfect answer," said Cole, and clinked my untouched glass. "Think fast, though. Companies move."
+
+---
+
 Coffee number nine wasn't coffee. It was dumplings, in the Sunset, on a Sunday, at a place with nine tables and a hand-lettered menu, which is the sort of place Maya says you can trust.
 
 Coffees four through eight had been coffee, a movie Maya rated "competent," and a Saturday at a bookstore where we bought nothing and she counted it anyway. By then her count had reached eight. I'd stopped hearing her say the number somewhere around five, which she claimed was because she'd stopped counting and I claimed was because she'd started counting silently. She hung her coat on the back of the chair, which she had not done at any of the coffees. I noticed. I said nothing. It's a thing I've learned to do: notice something and leave it alone.
@@ -173,7 +199,7 @@ I typed the last two sentences into a note, word for word. She watched me do it.
 
 "Good," said Maya. "It goes last. Kind first, then the backup."
 
-"There's a bigger problem," said Maya. "You're going to text them."
+She set the chopsticks down. "There's a bigger problem. You're going to text them."
 
 "That's the plan. If they haven't picked it up in three days, the system sends a message."
 
@@ -181,7 +207,7 @@ I typed the last two sentences into a note, word for word. She watched me do it.
 
 "Yes."
 
-"Then a machine has noticed that you're missing, and told you so." She set the chopsticks down again, parallel to the edge of the plate. "When my mother calls someone, they pick up. Because it's her. A voice. When a text arrives from a number, the person thinks: *they're tracking me.*" She shook her head slowly. "A machine can notice. But a person has to be the one who says it."
+"Then a machine has noticed that you're missing, and told you so." She lined the chopsticks up, parallel to the edge of the plate. "When my mother calls someone, they pick up. Because it's her. A voice. When a text arrives from a number, the person thinks: *they're tracking me.*" She shook her head slowly. "A machine can notice. But a person has to be the one who says it."
 
 I didn't say anything. I had a horrible, exhilarating sense that the product I'd been describing to myself for a month had just been turned upside down and set on its feet.
 
@@ -227,6 +253,36 @@ It took fourteen interviews, one bad sandwich, and a great deal of dumpling. I'd
 
 ---
 
+I wrote to Cole the next morning. It took three drafts, which for me is a personal best. The first thanked him at length. The second had a footnote. The third said: *Thank you. No. We're going to build it ourselves.* I sent it before I could add anything, and I felt the day tilt, slightly, toward the thing I'd chosen.
+
+Priya was already at her desk under the fish sign, headphones around her neck, which means available. I told her everything: the rooftop, the title, the third more, *let me think about it,* and that I had thought about it, and said no, and wanted her to know I'd felt the pull.
+
+"I know," said Priya.
+
+"You know what?"
+
+"He called me on Tuesday. After your drinks. Before you'd finished not drinking your drink." She didn't look up from her screen. "Senior engineer. A third more. He said I'd be 'part of the team.'"
+
+"You didn't say—"
+
+"I said I'd think about it." She took the headphones off. "Then I thought about it. Then I waited to see what you'd do."
+
+"That's a test."
+
+"It's a reference check." She said it gently. "I've been at half salary since March with nothing on paper, Nate. I'm not putting the next four years into someone who says *let me think about it* to a man with a halo." She looked at me at last. "You said it too. But you said no by Monday."
+
+"So what does that mean?"
+
+"It means I'm in. For ninety days. Starting October first, because I'd like a start date and an end date. On day ninety we sit down and talk about paper." She turned back to her screen. "Until then it's a trial. For both of us."
+
+"Both of us?"
+
+"You didn't think you were the only one being interviewed?" said Priya.
+
+It hadn't occurred to me. I've come to think it was the most useful thing anyone told me that year, and she said it with her back half turned, like a woman mentioning the weather.
+
+---
+
 **FOUNDER'S NOTE**
 *The best ideas come from someone else's pain.*
 
@@ -235,3 +291,5 @@ I've been in rooms where founders talk about their ideas as if they'd been struc
 Maya's mother keeps a list on the back of a receipt roll. A doctor in Oakland makes calls on Sunday nights, badly. A neighbor of Priya's found out about a man on a kitchen floor after two days. None of them said *you should build this.* They said what happened.
 
 The job, if there is one, is to hear it as information instead of conversation. I'd like to say I was listening for that. I was listening for a market. It took someone with no interest in my market to make me hear the rest.
+
+There's a second lesson in that month, which I only saw later. An idea is easy to sell. Cole would have bought mine by Friday. What was harder to find was someone willing to be in the room with it while it was still a question mark, and who'd check that I was willing too.

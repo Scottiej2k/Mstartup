@@ -91,7 +91,7 @@ I would like it noted that I changed pronouns mid-sentence, like a man swapping 
 
 "How's the new thing been, so far?"
 
-I thought about it. It took longer than I liked. Loopback, at that point, had a name, fourteen interviews, and a growing number of people who'd said "love it" when I described the idea to them afterward. Nobody had been asked to pay for anything. "People say they love it," I said. "It's been nice."
+I thought about it. It took longer than I liked. Loopback, at that point, had a name, fourteen interviews, a co-founder on a ninety-day trial that began in a week, and a growing number of people who'd said "love it" when I described the idea to them afterward. Nobody had been asked to pay for anything. "People say they love it," I said. "It's been nice."
 
 "Nice." He said it the way you'd say the name of a town you'd driven through. "Has anyone paid you yet?"
 
@@ -113,7 +113,25 @@ I said it with the confidence of a man who had already lost.
 
 "Whichever."
 
-He poured me a second coffee from the thermos, which I hadn't finished the first of, and looked out at the string. "Want to see where the pond's going?"
+I had one more, and I asked it before I could stage it. "Second hypothetical. A co-founder says yes. For ninety days. Starting in October."
+
+"That's not a hypothetical," said Ray. "That's a calendar."
+
+"Hypothetically, it's a calendar."
+
+He turned the mug another quarter turn. "Ninety days is a real yes. It's the kind that's still deciding." He looked at the string. "She's interviewing you back."
+
+"She said that."
+
+"Smart woman." He drove a stake. "Do you know what she's deciding?"
+
+"Whether I'm worth four years."
+
+"Then don't answer that for her. Ask what worth looks like to her, and write down what she says."
+
+"That's not advice."
+
+"It's coffee," said Ray, and poured me a second one from the thermos, which I hadn't finished the first of, and looked out at the string. "Want to see where the pond's going?"
 
 ---
 
@@ -211,7 +229,7 @@ I looked at that for a minute. Then I put the car in gear, and drove down the mo
 
 Buyers are generous. They say "looks good," because they want the meeting to be over, or because they like you, or because saying no takes a kind of energy they'd prefer to spend on lunch. I had a spreadsheet full of buyers who liked me. It was the most dangerous document I owned.
 
-The person who isn't buying has no reason to be nice. She'll tell you the label is unreadable. She'll ask what happens after the demo. If you can stand it, she is the only real product manager you'll ever have.
+The person who isn't buying has no reason to be nice. She'll tell you the label is unreadable. She'll ask what happens after the demo. If you can stand it, she is the only real product manager you'll ever have. The other person not buying is the one deciding whether to stay. Priya had told me I was being interviewed. Ray agreed, in his way, which is to pour more coffee.
 
 I've thought since about how carefully I'd arranged my life so that the people around me said "looks good." Kyle was the exception. He told me the truth with a mixing bowl of cereal.
 
