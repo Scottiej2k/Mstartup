@@ -5,7 +5,7 @@ Theo found the bug in an afternoon. It had taken me a week to lose it.
 
 It was a Thursday in July, in the glass room, and the bug was a very small one: nine patients in a row had been reported to their people as having gone quiet, although every one of them had answered. I had spent the week on it. I'd built a dashboard. I'd built a second dashboard to look at the first one. I'd concluded, with the confidence of a man who has read a number of blog posts, that it was a *business* problem, having to do with carrier delays, and I had a call scheduled with a man at a telecommunications company.
 
-Theo had been with us for three weeks. He sat next to Priya in the hoodie, in the chair we'd bought with the second monitor, and he said nothing for about four hours, and then he turned around.
+Theo had been with us for three weeks. The crack phone had gone home in Priya's bag in June, "just for the first month," and neither of us had brought it up since. He sat next to Priya in the hoodie, in the chair we'd bought with the second monitor, and he said nothing for about four hours, and then he turned around.
 
 "It's the *a,*" said Theo.
 
