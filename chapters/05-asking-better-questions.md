@@ -95,7 +95,7 @@ Priya drives a gray hatchback with a box of tissues in the cup holder and a rule
 
 Priya looked in the mirror. "Please."
 
-"I'm not consulting." Maya had her hands folded on her knees. "I'm in a car. Anyone can say things in a car." She paused. "She said yes four times, and I couldn't tell you one thing about her Tuesday."
+"I'm not consulting." Maya had her hands folded on her knees. "I'm in a car. Anyone can say things in a car." She paused. "She said yes four times, and I couldn't tell you one thing about her Tuesday. And she said it for her patients, who weren't in the room."
 
 "She said it'd be great."
 
@@ -177,7 +177,7 @@ The next interview was the following Tuesday, in Milpitas, with a pharmacist nam
 
 And then I shut up.
 
-It's hard to describe how long ten seconds is, if you're a person who explains. I looked at a poster about shingles. I looked at my hands. I heard Priya, to my right, not breathing, the way you don't breathe near something that might hatch.
+It's hard to describe how long ten seconds is, if you're a person who explains, and on purpose. In September, the silences had been accidents. I looked at a poster about shingles. I looked at my hands. I heard Priya, to my right, not breathing, the way you don't breathe near something that might hatch.
 
 "Last Tuesday," said Ruben.
 
@@ -255,7 +255,7 @@ She looked at me for a long moment. Then she laughed, not the polite laugh, the 
 
 "I don't have one," I agreed, and abandoned the funnel in that same breath. (I did not. I used it again in March.)
 
-She wiped her eyes with a napkin, carefully, like someone cleaning a lens. The laughing had worked something loose. "No, really," she said. "Why? You ask everyone everything. You asked a pharmacist what he did last Tuesday, and the man practically cried. You got me to tell you about my mother's list in the first ten minutes. And then you did something on Tuesday I'd only seen you do once before."
+She wiped her eyes with a napkin, carefully, like someone cleaning a lens. The laughing had worked something loose. "No, really," she said. "Why? You ask everyone everything. You asked a pharmacist what he did last Tuesday, and the man practically cried. You got me to tell you about my mother's list in the first ten minutes. And then you did something on Tuesday I'd only seen you do once before, on a bench in Dolores Park."
 
 "What thing?"
 

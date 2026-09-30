@@ -63,7 +63,7 @@ I thought about it. I thought about the spiral notebook, and Dr. Okafor's Sunday
 
 "So it isn't healthcare."
 
-"It is, first. It's where missing someone costs the most, and it's where I have real people I can ask." I opened my laptop and typed the man's story into a new page, a short one, at the bottom. "Healthcare first," I said.
+"It is, first. It's where missing someone costs the most, and it's where I have real people I can ask." I opened my laptop and typed the man's story into a new page, a short one, at the bottom. "Healthcare first," I said. "It starts at the pharmacy counter, where somebody already knows your name. You sign up there, you name your person, and your phone does the noticing."
 
 "First," said Priya, and let the word sit there. She has a way of repeating one of my words back to me, without changing anything about it, that makes me hear it.
 
@@ -87,6 +87,10 @@ I gave Kyle the one-sentence version on a Wednesday, at the counter, with the mi
 
 I hadn't thought about what Dana would think. I'd only thought about Dana's daughter. I let it go by, which is a thing I'd like to say I've stopped doing.
 
+"Starting where?" said Kyle. "With the pharmacy lady?"
+
+"With pharmacies and clinics. Healthcare first."
+
 Kyle pointed his spoon at me. "Regulated," he said. "Healthcare. You know that's the most regulated thing there is? You'll die in compliance. You'll spend a year writing a document about a document." He chewed. "Also, if it's really just about noticing when people go quiet, why is it only pharmacies? Why not everybody?"
 
 "One thing at a time."
@@ -101,7 +105,7 @@ The naming happened on a Thursday, at the whiteboard, at a quarter to midnight.
 
 By then Priya and I had a description. It took us a month of interviews to be able to say it in one breath: *a check-in that notices when someone goes quiet, and tells a person they trust.* What we lacked was a word for it.
 
-The whiteboard filled up with rejected names, and it looked like a graveyard designed by a committee. *Nudge* (taken). *Hellr,* without the o (Priya put a line through it without speaking). *Pulse* (six companies). And, in my handwriting, *Notice,* which was the truest name and sounded like something a landlord slides under your door.
+The whiteboard filled up with rejected names, and it looked like a graveyard designed by a committee. *Nudge* (taken). *Hellr,* which is *hello* with a vowel removed, the way the Valley does it, and sounded like a place in a fantasy novel (Priya put a line through it without speaking). *Pulse* (six companies). And, in my handwriting, *Notice,* which was the truest name and sounded like something a landlord slides under your door.
 
 "It has to be one word," said Priya. "And it has to work as a website." She had also pointed out, earlier that week, that our email addresses still ended in the name of the dead inventory company, which was sad in a specific and searchable way.
 
@@ -193,25 +197,27 @@ She typed. I watched her hands, the way you watch someone who's better at someth
 
 *Hi, it's Loopback. You've been quiet today, which is probably nothing, and we wanted to check you're okay. Reply A if you are, or U to stop these. If we don't hear back this afternoon, we'll let Sam know, and we'll tell you when we do.*
 
+(Sam was a placeholder. She'd typed it the way you'd type a name you might one day need.)
+
 I read it. I read it again. It was exactly what a person would say, if that person were kind and slightly worried and weren't trying to prove anything to a compliance department.
 
 "That's it," I said. "That's the whole thing."
 
 "It's three changes," said Maya. "'We have detected an absence of activity' becomes 'you've been quiet today.' 'Acknowledge' becomes 'check you're okay.' And 'failure to respond will result in' becomes 'if we don't hear back.' It's the same fact. One of them is a threat." She picked up her chopsticks again. "The last part is mine. 'We'll tell you when we do.' Nobody likes being talked about behind their back." She ate a dumpling. "People don't need to be told they're in trouble. They already know. They need to know someone noticed."
 
-I typed the last two sentences into a note, word for word. She watched me do it.
+I typed the last part into a note, word for word. She watched me do it.
 
 "Sam's the product," I said. "You name one person you trust, a daughter, a neighbor, whoever. If you go quiet, they get a message. That's the part nobody builds."
 
 "You name them."
 
-"You do. Or whoever's worried about you signs you up."
+"Well. We'd start by asking the people who worry."
 
-"Whoever's worried." She set the chopsticks down. "Did she say yes? The woman on the floor, in 4B. Did she ever say *watch me*?"
+"Whoever's worried." She set the chopsticks down. (I'd told her about 4B on a bench in Dolores Park, the week before.) "Did he say yes? The man on the floor. Did he ever say *watch me*?"
 
 "No."
 
-"Then you're building it for the person who's worried and selling it to the person who's watched." She said it mildly, like a woman pointing out a stain. "She'd have to say yes herself. Or it's a nanny cam with better manners."
+"Then you're building it for the person who's worried and pointing it at the person who's watched." She said it mildly, like a woman pointing out a stain. "He'd have to say yes himself. Or it's a nanny cam with better manners."
 
 "That's what Kyle said."
 
@@ -225,7 +231,7 @@ I didn't say anything. I had a horrible, exhilarating sense that the product I'd
 
 "Whoever's closest."
 
-"Whoever's closest," said Maya, "is nobody." She didn't look up. "That's the sentence from the ballroom. Nobody's job. It's what my mother does with a receipt roll and her own phone. Somebody has to be the somebody, and she should get to say who."
+"Whoever's closest," said Maya, "is nobody." She didn't look up. "That's the sentence from the ballroom. Nobody's job. It's what my mother does with a receipt roll and her own phone. Somebody has to be the somebody, and the person on the floor should get to say who."
 
 I wrote it down. I didn't understand it yet.
 
@@ -257,7 +263,7 @@ It took fourteen interviews, one bad sandwich, and a great deal of dumpling. I'd
 
 ---
 
-I wrote to Cole that Monday, the third one in September. It took three drafts, which for me is a personal best. The first thanked him at length. The second had a footnote. The third said: *Thank you. No. We're going to build it ourselves.* I sent it before I could add anything, and I felt the day tilt, slightly, toward the thing I'd chosen.
+I wrote to Cole that Monday, the third Monday in September. It took three drafts, which for me is a personal best. The first thanked him at length. The second had a footnote. The third said: *Thank you. No. We're going to build it ourselves.* I sent it before I could add anything, and I felt the day tilt, slightly, toward the thing I'd chosen.
 
 Priya was already at her desk under the fish sign, headphones around her neck, which means available. I told her everything: the rooftop, the title, the third more, *let me think about it,* and that I had thought about it, and said no, and wanted her to know I'd felt the pull.
 
@@ -277,7 +283,7 @@ Priya was already at her desk under the fish sign, headphones around her neck, w
 
 "What did you tell him?"
 
-"No. Monday afternoon. After yours." She looked almost pleased. "I wanted to know I wasn't the only one who'd say it."
+"No. This afternoon. After yours." She looked almost pleased. "I wanted to know I wasn't the only one who'd say it."
 
 "So what does that mean?"
 

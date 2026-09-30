@@ -107,7 +107,7 @@ Cole had raised eighteen million dollars at twenty-six and wore it lightly, the 
 
 "I heard about the shutdown," he said, with sincere warmth. "Rough one. But honestly? Respect. Most people never ship anything. You *tried.*"
 
-"We shipped it," I said. "Nobody used it."
+"We shipped it," I said. "Almost nobody used it."
 
 "That's called learning." He squeezed my arm. "Listen. What's next?"
 
