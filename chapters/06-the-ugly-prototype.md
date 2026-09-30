@@ -127,7 +127,7 @@ On the way out, Mr. Abernathy shook my hand with both of his. "Good luck, son," 
 
 ---
 
-I sent the text at 5:40 that evening, sitting on the curb outside the clinic's parking lot, where Priya and I had spent the afternoon waiting on a support ticket from our cloud provider, with a laptop on my knees.
+I sent the text at 5:40 that evening, sitting on the curb outside the clinic's parking lot, where Priya and I had spent the afternoon trying to get the billing account back, with a laptop on my knees.
 
 I'd known since the night before that I was supposed to be somewhere at 7:30. Maya's oldest friend Jules, the one who tells stories with sound effects, was turning twenty-eight, and there was a dinner, in a restaurant in the Mission with a table for seven, reserved for 7:30, and Maya had said, when she told me, looking at her phone instead of at me, "You don't have to come. You can just come, though, if you want. If you'd like to be the seventh."
 
@@ -151,9 +151,7 @@ I showed her.
 
 "Uh oh," said Priya. "Okay with a period. Sorry for whatever you have to go through to fix that one." She peeled the clementine, and looked at the parking meter too.
 
-I haven't said what broke, because I didn't want to. It wasn't a bug. It was a billing account tied to an old credit card that had expired, and the notices had been going to an inbox I never opened. Priya had worked it out by noon. The day she'd set the account up she'd asked who would watch the billing, and I'd said *I'll handle it,* in the voice of a man volunteering for the only job he couldn't fail. The code was fine. It was just running on something we'd stopped paying for.
-
-That is the kind of mistake that's invisible to the person who made it and obvious to everyone else. I kicked myself for it from noon on, in a parking lot, in front of a woman who'd brought clementines. Fixing it meant a new card and a payment review that would only talk to the cardholder, who was me, which is why I couldn't leave the curb. The call came at 1:40 in the morning, from a man named Dennis who wanted my mother's maiden name, and at 2:15 the account came back with everything in it intact. I'd like to say I felt triumph. What I felt was the flat, enormous quiet of a room where a thing has finally stopped being broken, and there's nothing in it to say.
+I haven't said what broke, because I didn't want to. It wasn't a bug. It was a billing account tied to an old credit card that had expired, and the notices had been going to an inbox I never opened. Priya had worked it out by noon. The day she'd set the account up she'd asked who would watch the billing, and I'd said *I'll handle it.* The code was fine. It was just running on something we'd stopped paying for. By the time it came back, at 2:15 in the morning, I had lost a whole Saturday, and a birthday dinner, to an email I could have read in a minute. I'd like to say I felt triumph. What I felt was the flat, enormous quiet of a room where a thing has finally stopped being broken, and there's nothing in it to say.
 
 ---
 
