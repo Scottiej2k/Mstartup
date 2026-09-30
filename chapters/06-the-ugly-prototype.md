@@ -149,7 +149,7 @@ That was the whole message.
 
 I showed her.
 
-"Okay with a period," said Priya. "Sorry for whatever you have to go through to fix that one." She peeled the clementine, and looked at the parking meter too.
+"Uh oh," said Priya. "Okay with a period. Sorry for whatever you have to go through to fix that one." She peeled the clementine, and looked at the parking meter too.
 
 I haven't said what broke, because I didn't want to. It wasn't a bug. Priya had worked that out by noon, from the error logs: the cloud account had been suspended. The month's prepaid credits, which work like a phone card for computers, had run out. The card on file was the dead company's, and it had expired in August, and the billing notice had gone to an old company inbox I hadn't opened since the ninth. The day Priya opened the account she'd asked who would watch the billing, and I'd said *I'll handle it,* in the voice of a man volunteering for the only job he couldn't fail. The code was fine. It was just running on a computer we'd stopped paying for.
 
