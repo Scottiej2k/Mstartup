@@ -1,59 +1,45 @@
-# Founder's Note rewrite samples (not applied to the chapters)
+# Founder's Note rewrite samples, v2 (not applied to the chapters)
 
-Brief from Scott: each Note should have Nate reflect on what he learned from the startup that applies to the relationship, and vice versa. He never says it, but he imagines someday telling this story to his child (it is the story of how the child came to be). Four samples: Ch 1, 6, 11, 21.
+Direction from Scott: strictly one way. What Nate learned running the startup, and how he applies it to building a successful partnership with Maya. No lesson runs the other direction. The "you" (his unborn child) appears only in Ch 24; the other Notes avoid second-person address. 150-230 words each. Principle lines kept.
 
 ---
 
 ## Ch 1: *Ask what's actually wrong.*
 
-Every founder is told to fall in love with the problem, not the solution. What nobody mentions is that the problem is never the first thing people say. The first thing is what they say to vendors. Maya said *inventory.* So had every pharmacist I'd interviewed for eight months, and I built them an inventory tool, and almost nobody used it.
+The first thing a customer tells a founder is the answer for vendors. Maya said *inventory.* So had every pharmacist I'd interviewed for eight months, and I built them an inventory tool, and almost nobody used it. What she said second, after I'd stopped selling, was a man named Mr. Peralta who didn't pick up his prescription, and a mother with a list on a receipt roll. That was the real problem. It took one more question and the willingness to be quiet while she decided to answer it.
 
-What she said second, after I'd stopped selling, was a man named Mr. Peralta who didn't pick up his prescription, and a mother with a list on a receipt roll. That was the real one. It took a question, and then the willingness to hear the answer.
+Everything I learned about running Loopback comes back to that. The first answer is polite, complete, and built to end the conversation. The second is where the company is.
 
-People do this with everything. They say *fine.* They say *busy.* They say *nothing urgent.* Each one is the answer for a vendor: polite, complete, built to end the conversation. In business I learned to ask again, and then to stay quiet. It took me three more years to find out that this is most of what it means to be married to someone. At the time I only knew that a woman by a door had given me the safe answer, that I'd been rude enough to say so, and that she'd stayed four more minutes.
-
-That's about what it costs. Ask the second question. Then be quiet long enough for the real one.
+I took the habit home. Maya says *fine,* and *busy,* and, in a language I learned slowly, *nothing urgent.* Those are the vendor answers, said by a woman who has been taught not to be a bother. A customer interview doesn't work on someone you love, and I've tried to say that to myself before I forget it. But the discipline carries over exactly: ask the second question, then stop talking. It took me three years to start. A woman by a door gave me the safe answer, I said so out loud, and she stayed four more minutes.
 
 ---
 
 ## Ch 6: *Ship the ugly version. Ship it that night.*
 
-Founders have a rule for the first version of a product: ship it when it's embarrassing. Loopback's had two boxes and a button in default blue. It failed twice in front of the one doctor whose opinion we needed, and she signed up anyway, because before it asked anyone else's number it asked the patient for his own. Nobody had polished that. It was just what the thing did.
+A founder's rule for the first version of anything: ship it when it's embarrassing. Loopback's had two boxes and a button in default blue. It failed twice in front of the one doctor whose opinion we needed, and she signed up anyway. The rule isn't really about courage. Version one is only a way of finding out what the real person does with it, and what she does is version two.
 
-I'd believed the rule about software for years and never once about people. For eight months I'd waited until I had the right apology, and the right apology always arrived on Tuesday. On a Sunday I stood in a hallway with the wrong wine and six unsent drafts and said the version I had. It worked.
+I'd believed that about software for years. The first time I used it on a person was a Sunday night in a hallway in Glen Park, with the wrong wine and six unsent drafts. I'd spent a day trying to write the right apology, the one with no gaps in it, and what I brought instead was the one I had. It wasn't good. It worked, because it arrived while the thing it was about was still warm, and because it was a beginning, not a verdict.
 
-Maya added the amendment at her kitchen counter: it works once. After that it's just a bad apology. The ugly version is a way of arriving. It's not an excuse for why you were late.
-
-So, from the company: the first version is only the start of the conversation, so send it before you're ready. From the marriage: stay for the second one.
+What I'd learned at the company, and what Maya got, was the second half of the rule. An ugly first version earns you one conversation. What counts afterward is what changes: the thing you do differently the next time she mentions it.
 
 ---
 
 ## Ch 11: *Say the unwritten part out loud.*
 
-A founders' agreement is nine pages of things two people hope they'll never have to say to each other. Priya made me sign it so that we'd have said them. It took me months to understand that this wasn't distrust. It was a way of being kind in advance.
+A founders' agreement is nine pages of things two people hope they'll never have to say to each other: who owns what, what happens if one leaves, who can say no. Priya made me sign it so we'd have said them while we still liked each other. I resisted for three months. What I took from the signing is that these conversations get easier the earlier they happen, and impossible after the first real argument.
 
-Three days later, at my parents' table, I made a joke about a one-year cliff in a marriage, and my whole family stopped chewing. I'd had the word ready. I'd been carrying it in one pocket, next to Maya's, and had never noticed they were the same word.
+Three days later I made a joke at my parents' table about a one-year cliff in a marriage, and my whole family stopped chewing. I'd tried to carry the company's instrument into the house, and it was the wrong one. A cliff and a vesting schedule are fair between business partners, who are strangers who've chosen to trust each other in installments. Maya wasn't afraid I'd leave in a year. She was afraid there was a schedule.
 
-A company can run on a schedule for earning your place. Four years of vesting and a cliff at one is fair; it protects strangers. A marriage can't, because what Maya feared wasn't that I'd leave in a year. It was that there was a schedule at all.
-
-So I took two things away. From the company: write down what you'd rather not say, and say it on Friday, not Monday. From the marriage: the part that holds is the part you can't write down. I told Priya something plain on a Monday and Maya something plain on a back step, and neither sentence is in any document. *You're in.* It's the only clause I'd put in a child's hands.
-
-*(That last sentence is the only direct trace of the child; cut it if you want none.)*
+What transferred was the habit, not the form. On a back step in Ohio I said the unwritten terms aloud: no schedule, no vesting, no backup. *You're in.* It's the same conversation Priya made me have, with the paper taken out. I should have had it on Friday. I had it on Saturday night, which was still early.
 
 ---
 
 ## Ch 21: *Listening isn't finished until something changes.*
 
-Two women told me the same thing in one winter, from opposite directions, and I needed both to hear it.
+Two lessons from the company arrived in the same winter, and I needed Carla's to understand Maya's.
 
-Carla said, in a coffee shop, that I always listened and nothing changed. I'd written her complaint in a notebook twice and underlined it both times. Maya said, at a kitchen table, that she didn't need me to fix anything; she needed me to ask what she wanted. One said *do something* and the other said *don't,* and it took me until March to see that they wanted the same thing: for the change to match what had been said. Carla needed a card in a bag. Maya needed me on a stool on Wednesdays, not a spreadsheet.
+The first was the blameless post-mortem. When something breaks, we write the times down the left side, we ask what each person knew, and we ask what made it hard. We never ask who. It's the most useful tool I own, and for months I never thought to use it at home. The night a message that said *nothing urgent* sat unanswered for six hours, I used it at the kitchen table out of desperation. It found no villain. It found a polite code, two decent people using it to leave each other alone.
 
-The tool for both was the one I'd used on outages. Write the times down the left side. Ask what made it hard. Never ask who. At work it found the Saturday line. At the table it found a polite code, *nothing urgent,* that two decent people had been using to leave each other alone.
+The second was Carla in a coffee shop: *You listened. Nothing changed.* Customers don't feel heard until something ships. I'd written her complaint in a notebook and underlined it, twice, and I'd thought that was service.
 
-I used to think the choice was between fixing and listening. It isn't. You listen to learn the size of the change, then you make that one, and no larger. I've gotten a little better at the size.
-
----
-
-## How the child is handled
-
-Never stated. It shows up as register (plain, patient, concrete, the kind of thing you could read aloud), as a steady unnamed "you," and as objects that could become keepsakes (the napkin, the envelope, the stool). Dial options: (a) none at all; (b) one oblique line per few Notes, as in Ch 11; (c) all Notes sharpen toward "what I'd want known"; Ch 24 could close the loop with a single unspoken-child line.
+I applied it to Maya the same week. She asked for no fixing; she asked me to sit on a stool on Wednesdays. The size of the change matters, and so does making one. Listen to learn the size, make that change, and make it where she can see it.
