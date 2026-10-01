@@ -237,6 +237,18 @@ I looked at the icon. It was the dating app. It had sixty-one matches in it, in 
 
 "I'm not. I mean—" She almost laughed. "I'm sorry, and I'm not. I needed to know what it looked like from the other side."
 
+"I'll take that," I said. It surprised me, how level it came out. "I'll take the app, and I'll take that I earned some of the three days. But I need one thing from you, and I'd like to say it out loud, so it isn't a surprise later." She looked up at her own phrase. "If you're angry with me, say *I'm angry.* I can stand angry. I can't do *thank you for driving* for three days. I don't know what it means, and I start guessing, and I'm a very bad guesser."
+
+She was quiet for a while. "My family doesn't say it," said Maya. "We say *thank you.* That's how you know someone's furious."
+
+"Then I'll learn the translation. But I'm asking you to meet me halfway. Say it in English."
+
+"Angry," said Maya slowly, as if trying on a coat. She laughed, once, startled. "I'm angry. I was. On Thursday."
+
+"Thank you."
+
+"That's the first time you've asked me for something," she said. "Not what I want. For something." She looked at me for a moment longer than the sentence needed. "I didn't hate it."
+
 She pressed the icon. A little cross appeared in the corner of it. She pressed it. A box came up and asked her if she was sure. She pressed yes.
 
 It was gone. I watched it go, and the screen rearranged itself, and there were three things in the folder, and a space where the fourth had been.
@@ -334,8 +346,6 @@ Note to self.
 
 At work, "stay liquid" is good advice. Don't commit until you have to, because you keep options open to gather information. Cole said it at dinner. The company had fourteen thousand dollars and no customers, so he was right.
 
-At home it's wrong, and I did it anyway. A woman at Cole's table asked who Maya was and I said *friend.* I told myself I was respecting her rule about naming things. I wasn't. I knew what I wanted. Nothing I could learn in the next month would change it. That's the test.
+At home it's wrong, and I did it anyway. A woman at Cole's table asked who Maya was and I said *friend.* I told myself I was respecting her rule about naming things. I wasn't. I knew what I wanted, and nothing I could learn in the next month would change it. So before I hedge, I ask: *what would I learn if I waited another week?* If the answer is nothing, it isn't caution. It's a door I'm keeping open, and she's standing in it. She was keeping hers open too, on her phone.
 
-So before I hedge, I ask myself: *what would I learn if I waited another week?* If the answer is nothing, it isn't caution. It's a door I'm keeping open, and she's standing in it. It cost Maya three days of one-word texts. She'd been keeping hers open too, on her phone, so we were both standing in hallways.
-
-Say it out loud on the first day. The cost of waiting is paid by the person who isn't me.
+The second thing I did right, for once, was ask for something. Maya had gone polite for three days, and I'd called my guessing patience. It wasn't. At work we'd call it escalation: nobody can fix what isn't flagged, and nobody should have to guess which *fine* is real. So I told her what I needed: if you're angry, say *angry.* I can stand angry. Say what I need early, in plain words, and ask for it once, kindly.

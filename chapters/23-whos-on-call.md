@@ -229,7 +229,19 @@ I let her. I put my hands on the table, flat, where she could see them, and didn
 
 "You can *sit,*" said Maya. "That's what I said."
 
-"I can sit."
+"I can sit." I kept my hands where they were. "There's one more thing. It's mine."
+
+She waited.
+
+"The first month, you told me you'd live within forty minutes of that counter. Always. You said it so it wouldn't be a surprise later, and I said okay, and in two and a half years I've never said anything else." I made myself go on. "I'm not asking you to change it. I'm asking you not to hand it to me as weather. If something comes (a job, a city, a hospital for your mother in another county) I want us to say it out loud while it's still forty minutes. Not after it's forty-one."
+
+It took her longer than I'd expected. "That's fair," said Maya. "I said it like weather."
+
+"You did."
+
+"I didn't think you minded."
+
+"I didn't. I'm saying it now so I'm not saying it at forty-one."
 
 She put her hand over mine on the table, and I turned mine over, so that the palms met. Her hand was cold from the mug. It took, I think, a minute for it to get warm. Neither of us said anything. It was a problem in my hands, and I did nothing about it. It turns out there's a muscle for that. It aches.
 
@@ -240,8 +252,8 @@ She put her hand over mine on the table, and I turned mine over, so that the pal
 
 Note to self.
 
-At work, the night Meridian's update broke the feed for all forty stores, I wasn't on call. Priya was, with Ines, and the escalation sheet had her name with a second under it. That's the redesign's rule: every named person has a second, and the second has the key. I'd handed the key off in September. That night I was in a waiting room, and the phone rang twice somewhere I'd never been.
+At work, the night Meridian's update broke the feed for all forty stores, I wasn't on call. Priya was, with Ines, and the escalation sheet had her name with a second under it. The redesign's rule: every named person has a second, and the second has the key. I'd handed the key off in September. That night I was in a waiting room, and the phone rang twice somewhere I'd never been.
 
-At home, the hospital was Maya's father. I did the one useful thing, which was nothing. I held her mother's handbag, fetched coffee, and didn't open the laptop. On Sunday she sat at the kitchen table and I asked what she wanted to happen. No spreadsheet. She wanted me on a stool at the pharmacy on Wednesdays at four, to sit.
+At home, the hospital was Maya's father. I did the one useful thing, which was nothing. I held her mother's handbag, fetched coffee, and didn't open the laptop. On Sunday I asked what she wanted to happen, with no spreadsheet. She wanted me on a stool at the pharmacy on Wednesdays at four, to sit. I'm her second.
 
-Rule: Maya is a named person for a lot of people. I'm her second. When her family is in trouble, I ask what she wants to happen before I build anything, and then I go where she asks me to be.
+But a second has limits, and at work we put them in the contract. Section nine exists so nobody finds out at forty-one minutes. So I said mine: I'll keep her forty minutes, and I need to be told before it changes, not handed it as weather. Ask for what I need, early, at the table, and don't save it up.

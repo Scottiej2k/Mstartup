@@ -209,7 +209,13 @@ It was a blood-pressure pill, in a bag, at a quarter past three. The woman had g
 
 "And you *believed* me?"
 
-It was one of those sentences that has no good answer. I stood in the hallway and listened to myself assemble one.
+It was one of those sentences that has no good answer. I stood in the hallway and listened to myself assemble three bad ones: an apology, then a defense, then a defense of the apology. I put them all down.
+
+"Yes," I said. "I believed you." My voice was not quite steady, and I kept going. "You said it, and I'm going to keep believing what you say, every time, because I'm not going to go through your texts looking for the real ones underneath. That would be handling you. I'm not saying it's your fault. I'm saying I can't be the one who works out which *nothing* is a real nothing. I need you to be able to say the other one to me. Badly. In all capitals. I'll take it badly."
+
+She didn't say anything. Her jaw did something very small, and I understood that I'd said a thing she had been waiting to hear and hoping not to.
+
+And then, because I'm me, and I'd run out of courage about forty seconds earlier, I picked up the phone.
 
 "I could set a reminder," I said. "For your texts. If it says *call,* it goes to—"
 
@@ -352,6 +358,6 @@ At work, after anything breaks, we do a post-mortem. Times down the left. What e
 
 Tuesday night, after her *nothing urgent* sat unread for six hours, I used it at the kitchen table out of desperation. It found no villain. It found a code, two decent people using it to leave each other alone. Fix: when she tells me something, I ask, *do you want to tell me, or do you want it fixed?*
 
-Carla taught me the other rule. I'd written her Saturday-line complaint in my notebook twice and underlined it, and I'd thought that was listening. It isn't. If I've written the same complaint down twice, the third time I owe a change, not a note.
+The harder half took longer. She'd asked, *and you believed me?* I used to think the answer was to stop believing her. It isn't. At work I don't audit what customers say; I make it cheap to say the true thing. That's section nine. So I told her I'd keep believing her, and that I needed the real one said, badly, in capitals, if that's what it took.
 
-For Maya it was a stool, Wednesdays at four. Show up. Sit. That's the change.
+Carla taught me the other rule. If I've written the same complaint down twice, the third time I owe a change, not a note.
