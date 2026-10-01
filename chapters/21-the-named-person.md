@@ -55,7 +55,7 @@ I told her all of it. She stood in front of the whiteboard, with her arms folded
 
 She uncapped the marker.
 
-"Okay. Right now." She drew a circle on the left. She wrote *HAROLD* in it. "He goes quiet." She drew a line to a second circle, on the right. She wrote *DANA.* "We tell Lena. One person. And what do we know about Lena?"
+"Okay. Right now." She drew a circle on the left. She wrote *HAROLD* in it. "He goes quiet." She drew a line to a second circle, on the right. She wrote *LENA.* "We tell Lena. One person. And what do we know about Lena?"
 
 "She said OK."
 

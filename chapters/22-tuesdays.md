@@ -27,9 +27,9 @@ It was a very good week, she said, and a bad Monday. She talked for eleven minut
 
 "My name," said Dr. Okafor. "Obviously."
 
-I changed it at 11:50. It took a line of configuration and a second line to see whether I'd broken anything. From that Tuesday on, on every phone in her clinic's patient list, the gray box said **DR. OKAFOR'S OFFICE.** Theo, who was in on Tuesdays now, looked at my screen over my shoulder and said, "Don't push that at four," and I didn't; it was the first thing he'd said to me about the work without first checking my face. The nights column on the rota had one name in it, Ines's, and under it, a service. I called Dr. Okafor back at 4:40 to tell her. She said, "That was quick," in a tone I'd later learn meant she had expected it to be forgotten. Then she said, "Same time next week?"
+I told Priya, which is now what I do, and changed it at 11:50. It took a line of configuration and a second line to see whether I'd broken anything. From that Tuesday on, on every phone in her clinic's patient list, the gray box at the top said **DR. OKAFOR'S OFFICE.** (Priya's wall said no company's name at the bottom of a message. This was the top, and it was the clinic's own.) Theo, who was in on Tuesdays now, looked at my screen over my shoulder and said, "Don't deploy that at four," and I didn't; it was the first thing he'd said to me about the work without first checking my face. The nights column on the rota had one name in it, Ines's, and under it, a service. I called Dr. Okafor back at 4:40 to tell her. She said, "That was quick," in a tone I'd later learn meant she had expected it to be forgotten. Then she said, "Same time next week?"
 
-I hadn't meant it as a standing thing. It stood anyway. It was the least important call of my week, and it was the first one I'd have put in a document.
+I hadn't meant it as a standing thing. It stood anyway. It was the least important call of my week, and the one I kept.
 
 ---
 
@@ -43,7 +43,7 @@ It was like being handed the biggest thing in the world, on a plate, and finding
 
 "Don't tell me yet," said Ms. Adeyemi. "I'm only asking whether I should ask again."
 
-I turned toward the wall. There was a whiteboard, with five circles on it. I'd been told, by two women, in two different tones, to stop at the question.
+I went back into the glass room, where the whiteboard still had its five circles on it. I'd been told, by Maya, and by Carla in a different tone, that a question was not a plan.
 
 "Ask me again in September," I said.
 
@@ -51,7 +51,7 @@ I turned toward the wall. There was a whiteboard, with five circles on it. I'd b
 
 "Because I haven't finished the first one."
 
-She laughed, short, in surprise. "That's the first honest answer I've gotten from a vendor in years," she said, and gave me a date. I wrote it on my hand. It said *9/12.* I went back into the glass room, and Priya, who had heard none of it, looked up from her screen and said, "You've got a face."
+She laughed, short, in surprise. "That's the first honest answer I've gotten from a vendor in years," she said, and gave me a date. I wrote it on my hand. It said *9/12.* Priya, who had heard none of it, looked up from her screen and said, "You've got a face."
 
 "Somebody asked me a very good question."
 
@@ -65,9 +65,9 @@ She laughed, short, in surprise. "That's the first honest answer I've gotten fro
 
 Margo asked her two questions on the twentieth.
 
-She asked them as she always did, once a quarter, at the end of the meeting, with her pen down. She had, by then, asked them four times. The first time I'd answered with a slide. The second time I'd answered at length, and she'd said, *That's an answer to a different question.* The third time I'd sat for ten seconds and said, *I don't know,* and she'd said, *Good, that's the first true one.*
+She asked them as she always did, once a quarter, at the end of the meeting, with her pen down. She'd asked them every quarter for two years. The first time I'd answered with a slide. The second time I'd answered at length, and she'd said, *That's an answer to a different question.* In January I'd sat for ten seconds and said, *I don't know,* and she'd said, *Good, that's the first true one.*
 
-We were above the hardware store, with the door that stuck. The stairs still smelled of twine. She'd been talking about a Series A, which was a round of money, from her and some others, to make the company larger, and which she'd said she wanted to lead. I'd been listening to the number, which was a good one. Priya sat beside me with her laptop closed and the clause from the founders' agreement open in her head, in the place where she keeps things that matter: *neither of us can take money without the other.* She'd already told me she'd read the whole term sheet twice, once for sense and once for traps. She hadn't found a trap. This worried her.
+We were above the hardware store, with the door that stuck. The stairs still smelled of twine. She'd been talking about a Series A, which was a round of money, from her and some others, to make the company larger, and which she'd said she wanted to lead. I'd been listening to the number, which was a good one. Priya sat beside me with a printed copy of the term sheet face down in front of her. It had a line in it that mirrored her own clause from the founders' agreement, *neither of us can take money without the other,* which Margo had put in herself, unasked. Priya had read it twice, once for sense and once for traps. She hadn't found a trap. This worried her.
 
 "Two questions," said Margo.
 
@@ -77,23 +77,23 @@ We were above the hardware store, with the door that stuck. The stairs still sme
 
 "I'd shut it down," I said, "if the named person couldn't be reached and nobody called the man himself. If we built a thing that told a family about a failure and then had no one to say *I'm coming.* I mean the version of it, not the idea. I wouldn't know how to keep running a product that does that and call it care." I looked at my hands. "And I'll know I'm wrong when someone on a floor is alone, and I read about it in a report the next morning, and it's a green row."
 
-Margo said nothing for a moment. She looked at Priya, and then at me, and then at the window, where there was a view of a parking lot and a eucalyptus.
+Margo said nothing for a moment. She looked at Priya, and then at me, and then at the window, where a man on the hardware store roof was eating a sandwich.
 
 "Last time you told me you didn't know," she said.
 
 "I didn't."
 
-"And now you do." She picked up the pen. "That isn't why I'm leading it. I want that clear. I'd have led it anyway, I like the numbers. But I wrote that answer down, and I'll hold you to it." She put the pen in a drawer, which I understood to mean the meeting was over. "Priya. The clause stays. Don't read it a third time."
+"And now you do." She picked up the pen. "That isn't why I'm leading it. I want that clear. I'd have led it anyway, I like the numbers. But I wrote that answer down, and I'll hold you to it." She put the pen in a drawer, which I understood to mean the meeting was over. "Priya. Your veto stays in. Don't read it a third time."
 
 "I wasn't going to," said Priya.
 
-She read it a third time, on the stairs. I heard her, behind me, going down, turning a page.
+She read it a third time, on the stairs. I heard her behind me, going down, turning a page.
 
 ---
 
 The Tuesday dinners began without being announced, the way the good things in my life have, and after about three weeks I noticed they had a shape.
 
-It was Maya's doing. She'd said it in April, at the sink, after my third Tuesday in a row of being home at six. "You're here on Tuesdays," she'd said. "Not every day. Tuesdays. I like that you're here on Tuesdays." She dried a glass. "Fridays are for the date. You have to do something about it. Tuesday you just come home."
+It was Maya's doing. She'd said it in April, at the sink, after my third Tuesday in a row of being home at six. "You're here on Tuesdays," she'd said. "Not every day. Tuesdays. I like that you're here on Tuesdays." She dried a glass. "Fridays are for the date. I like that one. Tuesday you just come home."
 
 "On purpose?"
 
@@ -123,19 +123,19 @@ I looked at the road for a while.
 
 Cole called on a Tuesday, at 11:20 at night.
 
-It was the ninth of May, and I was in bed, with the lamp off, and Maya asleep with a book open on her chest. The phone buzzed on the nightstand. It said *COLE.* I took it into the hallway and stood on the green runner with my back against the wall, and said, "Hey."
+It was the ninth of May, and I was in bed, with the lamp off, and Maya asleep with a book open on her chest. The phone buzzed on the nightstand. It said *COLE.* I took it into the hallway and stood in the hallway with my back against the wall, and said, "Hey."
 
 "It's me," said Cole. It was a car; I could hear the particular quiet of a car in a parking structure with the engine off. "I'm sorry. It's late. I was going to text and then I thought—"
 
 "It's fine."
 
-"It's nothing." That was what he said. "I just closed a thing. A good one. It's going to be a very good quarter. I sat in the car for a minute after, to feel it, and I thought, I should call someone, and I scrolled." He laughed, without much. "I got to the C's. I'd have called you at the A's, but I've never put you under A."
+"It's nothing." That was what he said. "I just closed a thing. A good one. It's going to be a very good quarter. I sat in the car for a minute after, to feel it, and I thought, I should call someone, and I scrolled." He laughed, without much. "I got to the C's. I scrolled to the C's. Calloway. If you'd been under A, I'd have called an hour ago."
 
 "Cole."
 
 "I'm fine." The word had no period. It was not a warm one. "Optionality's a very lonely word, Nate. I said that at your wedding. I thought I was being clever."
 
-I put my back to the wall. In the bedroom, Maya turned over. I understood, in the hallway, what I could do, and that I was standing in a house in which, a few months before, I'd learned to ask one question.
+I put my back to the wall. In the bedroom, Maya turned over. I understood, in the hallway, what I could do, and that I was standing in a home in which, a few months before, I'd learned to ask one question.
 
 "Do you want me to tell you something, or do you want me to be on the phone?" I said.
 
@@ -163,7 +163,7 @@ On the Tuesday after that, I asked him to dinner. He said he'd think about it. O
 
 The pharmacy's new rooms opened on a Saturday, the third of June, with a ribbon.
 
-It was a real one, red, from the party store, and it was strung across a door that had been, until February, the entrance to a nail salon. A sign had been put up above it, a hand-lettered one, on a board, in the capital letters of a man in Dayton who had printed it, on a label machine the size of a suitcase, and mailed it in a tube. **CONSULTATION. VACCINATIONS. TUESDAYS 4–7 NO APPOINTMENT.** Beneath it, smaller, in someone else's marker: **THIS MEANS MAYA.**
+It was a real one, red, from the party store, and it was strung across a door that had been, for a year and a half, the entrance to an empty nail salon. A sign had been put up above it, a long white one, on a board, by my father, who had printed it on a label machine the size of a suitcase and mailed it in a tube. **CONSULTATION. VACCINATIONS. TUESDAYS 4–7 NO APPOINTMENT.** Beneath it, smaller, in Lakshmi's marker: **THIS MEANS MAYA.** Tuesday had been Maya's choice. It was the day, she said, that nobody calls anyone back.
 
 I'll tell you who came. Mr. Alvarez came, in a jacket and tie, with his daughter Gloria, who'd put a lollipop in his breast pocket, where it stuck out like a pen. Mrs. Chen came, in a good coat, with Kevin, who'd been given the task of holding the scissors and was holding them like a surgical instrument. Dr. Okafor came with her glasses on a cord and said she'd be looking at the room's ventilation. There were sixty or so people on the sidewalk, in the Fremont sun, on a Saturday, which for a pharmacy is something like a mob. Lakshmi stood at the edge in a cardigan, with her arms folded, being unmoved.
 
@@ -175,7 +175,7 @@ I'd been watching Maya. She stood at the ribbon in her white coat with the sciss
 
 He cut the ribbon. It took him two tries.
 
-Lakshmi, at the edge, had her hand over her mouth. It was, I understood, the only time in the whole day that she did anything with her hand. She was crying and was, as far as one could tell, entirely furious about it.
+Lakshmi, at the edge, had her hand over her mouth. She was crying and was, as far as one could tell, entirely furious about it.
 
 ---
 
@@ -183,7 +183,7 @@ My father texted on a Tuesday evening in June, the sixth, at 9:42.
 
 *Did you get there?*
 
-I was on the couch, with Maya's feet in my lap and a bowl of the green beans we'd brought home from Fremont. I looked at the phone. I'd gotten, in my life, a number of these from him. It's a message with a single grammar. It had been *text me when you get there,* and then, after the wedding, *did you get there,* and I'd always answered *yes,* and then, after a pause, *Thanks.* I'd answered it that way for thirty years. It had never occurred to me that it was a question.
+I was on the couch, with Maya's feet in my lap and a bowl of the green beans we'd brought home from Fremont. I looked at the phone. It was 12:42 in Dayton. He'd stayed up; my father has been asleep by ten every night of his life. It was the third one since the wedding. For thirty years it had been *text me when you get there,* said at airports, and I'd said *Okay, Dad* and never once texted. Since the wedding it had come as a question. I'd answered the first two with *Yes,* and then, after a pause, *Thanks.* It hadn't occurred to me that either of us was asking.
 
 I held the phone.
 
@@ -193,9 +193,9 @@ I held the phone.
 
 "Where?"
 
-"I don't know. It's just the sentence." I looked at the screen. "He's never asked me anything else."
+"Wherever it is," I said. "After." I looked at the screen. "He's never asked me anything else."
 
-She took her feet off my lap and sat up. She didn't say anything. She waited, which is a thing she does, and which I have come to think of as the most generous act I've seen a person perform.
+She took her feet off my lap and sat up. She didn't say anything. She waited, which is a thing she does.
 
 I typed: *Long week. Cole's doing better. Theo's back. Maya's good. I'm tired, but okay.*
 
@@ -213,15 +213,15 @@ The phone was quiet for four minutes. I watched them. Then the three little dots
 
 And then, a long time after, long enough that I'd put the phone on the arm of the couch: *Your mother says you sound tired.*
 
-And then, at 10:03, from a phone in Dayton, in a kitchen I could see in my mind, with a man at a table and a mug: *Good night.*
+And then, at 10:03, from a phone in Dayton, in a kitchen I could see in my mind, with a man at a table and a mug at one in the morning: *Good night.*
 
 I sat there with it. I didn't know what it meant. I know now that it was the longest conversation we'd ever had by text, and that it had two questions in it, and that one of them was mine.
 
 ---
 
-My sister flew in from Dayton for Kyle's birthday, which she'd decided was a family event.
+My sister Annie flew in from Dayton for Kyle's birthday, which she'd decided was a family event.
 
-It was on a Saturday in the middle of June, the seventeenth, in the yard of a restaurant that Kyle had chosen because it had a very large bowl of something on the menu. Annie is four years younger than I am, and has been my sister since before I could read, and she'd arrived at the San Jose airport the night before in a green jacket, with a bag of Ohio buckeye candies for the whole table, and the expression of a woman who has been told she may speak to someone in authority. She'd taken Kyle's side in everything since the wedding. At one point she took his phone away and read his messages aloud, to the table, in a voice.
+It was on a Saturday in the middle of June, the seventeenth, in the yard of a restaurant that Kyle had chosen because it had a very large bowl of something on the menu. Annie had arrived at the San Jose airport the night before in a green jacket, with a bag of buckeye candies for the whole table and the expression of a woman who has been told she may speak to someone in authority. She'd taken Kyle's side in everything since the wedding. At one point she took his phone away and read his messages aloud, to the table, in a voice.
 
 "He's got a woman," said Annie, on the first night.
 
@@ -229,17 +229,17 @@ It was on a Saturday in the middle of June, the seventeenth, in the yard of a re
 
 "He's got a *Divya.*"
 
-Divya was there. She was Maya's cousin, a graduate student in public health, small and precise, with a laugh that appeared without warning, like a bird out of a bush. She sat next to Kyle with her chin on her hand. She was, I could see from the way she looked at the bowl, exceedingly patient. Jules sat on her other side, in black, with a glass of wine, observing the two of them with the interest of a public defender watching a plea go through.
+Divya was there, small and precise, with a laugh that appeared without warning, like a bird out of a bush. She sat next to Kyle with her chin on her hand. She was, I could see from the way she looked at the bowl, exceedingly patient. Jules sat on her other side, in black, with a glass of wine, observing the two of them with the interest of a public defender watching a plea go through.
 
-"She's very good for him," Jules said to me, at the bar, in a whisper. "He's stopped talking about equity."
+"She's very good for him," Jules said to me, at the bar, in a whisper. "He's stopped advising people."
 
 "That fast?"
 
-"He asked her one question," said Jules. "I counted. It was a real one. And then he waited, for the whole answer." She sipped. "I'd say it was a miracle. I'd say it was a *you.*"
+"He asked her one question," said Jules. "I counted. It was a real one. And then he waited, for the whole answer." She sipped. "I'd call it a miracle."
 
 I looked across the yard. Kyle had his hand flat on the table next to Divya's, not touching it, an inch apart. She'd told him something, and he was listening to it with his whole face. Annie, on his other side, had her head turned toward him as if hearing a ball game. And I thought of the armchair he'd given me, and how long he'd waited, in his way, for me to ask him anything. He was doing for her what he'd done for me. It was a good thing to watch a person do for someone else.
 
-He blew out the candles. There was one, for the two of them, in the shape of a bowl. He made a wish, and I saw him look at Divya before he did, and I saw him decide not to tell.
+He blew out the candles. There was one candle, in the shape of a cereal bowl. He made a wish, and I saw him look at Divya before he did, and I saw him decide not to tell.
 
 ---
 
@@ -290,4 +290,4 @@ It's a call to the first customer. It's an hour at the sink. It's a text to a ma
 
 I don't know what a Tuesday is for. I know what it did. The day I stopped treating them as the time between the important things, I began to be someone it was possible to be married to.
 
-The rule is the shortest in this book: *Do it on the day nobody's watching.*
+The rule is one of the shortest in this book: *Do it on the day nobody's watching.*
