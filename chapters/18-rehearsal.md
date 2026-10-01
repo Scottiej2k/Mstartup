@@ -3,7 +3,7 @@
 
 "I'm Nate, I'm with Loopback," I said to a man holding a bag of insulin syringes. "One question while you wait. If you went quiet for a day, who would you want to know?"
 
-It was a quarter past eight on a Thursday in August, in the pickup line of Meridian's Store 9, on Stevens Creek Boulevard in San Jose, and I was wearing a green lanyard that said **GUEST.** The store had a high bright ceiling, and a long counter with six registers, and a speaker that played, at a volume intended to be forgotten, a soft-rock song I almost knew. There were fourteen people in line. I had been in it for forty minutes. I'd asked twenty-three of them.
+It was a quarter past eight on a Thursday in August, the dress rehearsal, in Carla's phrase, in the pickup line of Meridian's Store 9, on Stevens Creek Boulevard in San Jose, and I was wearing a green lanyard that said **GUEST.** The store had a high bright ceiling, and a long counter with six registers, and a speaker that played, at a volume intended to be forgotten, a soft-rock song I almost knew. There were fourteen people in line. I had been in it for forty minutes. Carla had let me spend one morning in a technician's job, so I'd know what I was asking of two hundred people. I'd asked twenty-three of them.
 
 "I'm sorry?" said the man.
 
@@ -23,7 +23,7 @@ I want you to know what I'd been told to do with that, because it was the hardes
 
 "A person who's been pushed says yes and turns it off in a week. Then she's a person who's been pushed." I'd heard myself. It was a very Maya sentence, and I'd said it in my own voice. "We want the ones who mean it."
 
-By nine o'clock I had asked thirty-one, and nine had said yes.
+By nine o'clock I had asked thirty-four, and nine had said yes.
 
 The others, in order. A woman said, "I'm fine," with a laugh, and I said, "I hope so. This only speaks up if you aren't," and she stopped laughing, and looked at me, and said, "Huh," and took a card. A man in a golf shirt said, "I don't want to be tracked," and I said, "We don't know where you are. The phone only says *quiet* or *not quiet,*" and he said, "That's what they all say," and I said, "I know," and he said, after a moment, "Okay," and walked away with the card in his hand. A woman with a stroller said her kids would worry, and I said she'd decide who got told and see every message, and she said, "My kids would *love* that," in a tone that I didn't understand until I'd walked six feet. An old man in a fishing hat said, "I like being left alone, son," and I said, "Then we won't bother you," and stepped back.
 
@@ -35,9 +35,9 @@ It was Esperanza Villanueva, the technician at Register Three, who'd been at the
 
 "It's on page twelve."
 
-"I read page twelve." She handed a customer a paper bag without looking. "I didn't think you'd do it. Everybody who comes in here from a company pushes. They've got a number." She looked at me, finally. "What's the fifth one?"
+"I read page twelve." She handed a customer a paper bag without looking. "I didn't think you'd do it. Everybody who comes in here from a company pushes. They've got a number." She looked at me, finally. She tapped the card. It was a small laminated one, on every counter, in a plastic stand next to the pen. It had five lines on it, in large, plain type. Maya had designed it, at her kitchen table, in an afternoon, on the back of a pharmacy receipt. *Only you can turn it on. We only say whether you've gone quiet. You choose who's told. You see everything we send. You can stop whenever you like.*
 
-She meant the card. It was a small laminated one, on every counter, in a plastic stand next to the pen. It had five lines on it, in large, plain type. Maya had designed it, at her kitchen table, in an afternoon, on the back of a pharmacy receipt. *Only you can turn it on. We only say whether you've gone quiet. You choose who's told. You see everything we send. You can stop whenever you like.*
+"What's the fifth one?" said Esperanza.
 
 "You can stop whenever you like," I said. "Even before you start."
 
@@ -57,7 +57,7 @@ And then the phone on the desk lit, and Theo's name was on it, and I knew before
 
 "What happened?"
 
-"I don't know yet. I'm going to tell you what I know. It sent the welcome text." He said it in a voice I'd only heard once, on a night with a clock in it. "It was supposed to go to the nine. It went to everybody in the store's file."
+"I don't know yet. I'm going to tell you what I know. It sent the welcome text." He said it in a voice I'd only heard once, from Priya, on a night with a clock in it. "It was supposed to go to the nine. It went to everybody in the store's file."
 
 I looked at the dashboard, which I'd had open all day, in a corner of the screen. I'd watched nine enrollments, slowly, like a kettle. Now the number at the top said **1,412.**
 
@@ -65,7 +65,7 @@ I looked at the dashboard, which I'd had open all day, in a corner of the screen
 
 It had been sent to everyone who'd picked up a prescription at Store 9 in the last month. It hadn't asked them. It had told them they were in.
 
-I want to describe what it looks like, because it's slow, and in a way a kindness. It came in as a rising line, on a graph, in blue. At 2:56 it said **A: 7.** At 3:02 it said **A: 31.** At 3:15 it said **STOP: 214.** And on the chair beside me, my own phone, the real one, began to ring in a pattern I'd never heard: Carla, from the floor, on the other side of a wall.
+I want to describe what it looks like, because it's slow, and in a way a kindness. It came in as a rising line, on a graph, in blue. At 2:56 it said **A: 7.** At 3:02 it said **A: 29.** At 3:15 it said **STOP: 214.** And on the chair beside me, my own phone, the real one, began to ring in a pattern I'd never heard: Carla, from the floor, on the other side of a wall.
 
 She was at the counter when I came out. She was in a green blazer, with her lanyard, and she stood with a landline receiver at her ear and her other hand, I saw, clasped in front of her, tight, the way you'd hold something that was trying to leave. A man in a golf shirt was at the register, speaking to Esperanza in a low, furious voice. A woman was reading her phone aloud to someone behind her. The soft-rock song kept playing.
 
@@ -85,9 +85,11 @@ It wasn't an accusation. I want to be clear. She was asking, in earnest, in a pl
 
 I'll give it to you in the order I got it.
 
-By 3:20, Priya was on the phone from the glass room. By 3:40, she was at the store, in a gray hatchback, having left a launch review and four engineers in a state of cheerful panic. She came in through the glass doors at a pace somewhere between a walk and a run, with her laptop against her chest, and she didn't say hello. She sat on an upturned crate in the back office and opened it, and Theo came in on the screen, with his hoodie, from a kitchen table in San Mateo, and the two of them began to talk in a fast, low shorthand I couldn't follow and didn't try to.
+By 3:20, Priya was on the phone from the glass room, with Ines and Theo on the line and Tessa holding the support queue. By 3:40, she was at the store, in a gray hatchback, having left a launch review and four engineers in a state of cheerful panic. She came in through the glass doors at a pace somewhere between a walk and a run, with her laptop against her chest, and she didn't say hello. She sat on an upturned crate in the back office and opened it, and Theo came in on the screen, with his hoodie, from a kitchen table in San Mateo, and the two of them began to talk in a fast, low shorthand I couldn't follow and didn't try to.
 
-It took them forty minutes. It was a small, stupid, honest thing: the part of the program that reads the store's computer, to know who's in the file, had been taught to read a column called **LAST PICKUP,** and it had read it as **ENROLLED.** That was all. The welcome message had been built to go to the enrolled. For a bug, it was a very compact one.
+It took them forty minutes. It was a small, stupid, honest thing: the part of the program that reads the store's computer, to know who's in the file, had been taught to read a column called **LAST PICKUP,** and it had read it as **ENROLLED.** That was all. The welcome message had been built to go to the enrolled. For a bug, it was a very compact one. (Each store's file has a box the technician ticks when someone signs up. Our program was supposed to read the box. It read the column beside it, the date of the last prescription pickup, and treated any date as a tick.)
+
+I took the first half of it to Carla at 4:25, at her counter: what it was, that it was ours, that it was being fixed. She nodded without moving her hands. "And the rest?" she said. "I don't know the rest yet." "Then come back when you do."
 
 "And the A's," said Priya, without looking up.
 
@@ -97,7 +99,7 @@ It took them forty minutes. It was a small, stupid, honest thing: the part of th
 
 I stood very still.
 
-"They're enrolled," said Priya. "As of about four minutes ago. Sixty-seven people who thought they were being polite are in our system as having consented." She set her jaw. "It's rule one, Nate. It's the one on the wall. The person presses the button herself. We built a button that she can press by being nice."
+"They're enrolled," said Priya. "As of about four minutes ago, with no person named. Tomorrow at six we'd have asked sixty-seven strangers if they were okay, and told nobody. Sixty-seven people who thought they were being polite are in our system as having consented." She set her jaw. "It's rule one, Nate. It's the one on the wall. The person presses the button herself. We built a button that she can press by being nice."
 
 I hadn't thought of it. It was the most obvious thing in the world, and I hadn't, because in four hundred meetings we'd always discussed the person who *wanted* to press it.
 
@@ -105,7 +107,7 @@ I hadn't thought of it. It was the most obvious thing in the world, and I hadn't
 
 "Theo's doing it now. All sixty-seven. And we'll send each one an apology, from a person, and we'll say what happened and that nothing will go to anyone." She was typing. "The ones who said STOP, we've already honored. It's the polite ones I'm worried about."
 
-It was a quarter to six. Carla had been at the counter for two hours. A pharmacist in a white coat had come out from behind the glass, an older man with a gray mustache, and had said something to her, and she'd nodded, and gone on nodding, and I'd seen her put her hand to her mouth.
+It was a quarter to six. Carla had been at the counter for two hours. A pharmacist in a white coat had come out from behind the glass, an older man with a gray mustache, and had said something to her about the complaint calls, and she'd nodded, and gone on nodding, and I'd seen her put her hand to her mouth.
 
 I went to Priya's crate. "Is that it?"
 
@@ -128,6 +130,8 @@ Nobody said anything.
 "Why?" I said. I hadn't meant to say it aloud.
 
 "It's a free-text field," said Theo. "Mostly it's *hates calls.* Or *deaf.* Or *prefers mail.*" He swallowed. "Some of them aren't. I looked at four. One says *estranged son.* One says *no contact, court order.* And one—" He stopped. He looked at me through the screen, in his gray hoodie, with a face I'd never seen on him. "One of them says *DV. Do not call. Do not text. Do not leave messages.* It's from a pharmacist, in March."
+
+"Domestic violence," said Priya, very quietly.
 
 I felt it go through the room like a temperature drop. Priya, on the crate, put her hand flat on the lid of the laptop, and her lips went white.
 
@@ -193,9 +197,9 @@ I told her. We'd pull the thirty-one, and hand every name to Meridian, not to us
 
 "Whatever you want. Whatever the pharmacist who wrote the note would want."
 
-It was half past seven when she went out to the counter and spoke to the pharmacist with the gray mustache, whose name was Gerald, and who had written the note in March. I stayed at the folding table with my hands flat. When she came back, she was holding a sheet of paper from Theo's printer, and she sat down.
+It was half past seven when she went out to the counter and spoke to the pharmacist with the gray mustache, whose name was Gerald, and who had written the note in March. I stayed at the folding table with my hands flat. When she came back, she was holding a sheet of paper from the back-office printer, and she sat down.
 
-"She changed her number in April," said Carla. "She told Gerald. Gerald never updated the file; it's a free-text field. Nobody reads it." She put the sheet on the table. "She's fine. She's fine." She said it twice, in the same level voice. "The old number belongs now to a man in Fresno. Theo found his reply, from 3:09. It says *wrong number.* He went to bed."
+"She changed her number in April," said Carla. "She told Gerald. Gerald never updated the file; it's a free-text field. Nobody reads it." She put the sheet on the table. "She's fine. She's fine." She said it twice, in the same level voice. "The old number belongs now to a man in Fresno. Theo found his reply, from 3:09. It says *wrong number.* As far as anyone can tell, he went back to his afternoon."
 
 I put my face in my hands. I sat there, in a stockroom, among cases of cough drops, and I didn't speak.
 
@@ -207,25 +211,25 @@ I put my face in my hands. I sat there, in a stockroom, among cases of cough dro
 
 I looked up.
 
-"I'm not saying it as a complaint," said Carla. "I'm saying it as an observation. I've been thinking it since the first Thursday in January." She put her hand on the back of the chair. "Tonight you told me the truth, and you told me early, and I'm grateful. I'd like you to think about what you do with the rest."
+"I'm not saying it as a complaint," said Carla. "I'm saying it as an observation. I've been thinking it since our first Thursday call." She put her hand on the back of the chair. "Tonight you told me the truth, and you told me early, and I'm grateful. I'd like you to think about what you do with the rest."
 
-I didn't understand her. I said, "Okay," and she nodded, and picked up her bag, and went out through the stockroom door, and I sat there with a feeling that she'd said something larger than the thing she'd said.
+I didn't understand her. I'd spent a year learning to listen without fixing, and I couldn't see what she wanted changed. I said, "Okay," and she nodded, and picked up her bag, and went out through the stockroom door, and I sat there with a feeling that she'd said something larger than the thing she'd said.
 
 ---
 
-I told Priya in the Honda, in the parking lot, in the dark.
+I told Priya in her gray hatchback, in the parking lot, in the dark.
 
 "She's fine," I said. "The woman. She moved. It was a man in Fresno."
 
 Priya didn't say anything. She sat with both hands on the wheel, looking through the windshield at the lit sign of a Meridian, with her jaw set. After a very long time she said, "I had a cousin."
 
-I waited.
+I had known her five years and had not known she had a cousin. I waited.
 
 "It doesn't matter." She wiped her face, once, with the heel of her hand. "I wrote that rule on a wall. In capitals. It was the first one. And I let a bug I didn't catch break it in front of thirty-one people." Her voice was thin. "I've been thinking about what would have happened if you'd waited."
 
 "Nothing, probably. She changed her number."
 
-"It doesn't matter *probably.*" She looked at me. "You called Carla in ten minutes. That's what mattered. I'd like to remember that you did that."
+"It doesn't matter *probably.*" She looked at me. "You told Carla within twenty minutes of knowing. That's what mattered. I'd like to remember that you did that."
 
 "You said we had to."
 
@@ -235,7 +239,7 @@ I waited.
 
 I wasn't quick to see the connection. I saw it a full three weeks afterward, on a balcony, in the dark.
 
-It was the night of the families' dinner, the first Saturday of September, in a long upstairs room of a restaurant on Clement Street, with a table for fourteen. Maya had planned it, down to the soup. It was the first time all of them had been in the same room, and I'd been braced, as one braces for turbulence. The Ramans were at one end. The Calloways were at the other. Ray was somewhere in the middle, in a jacket I'd never seen, with a glass of water, looking at the ceiling as if estimating its load.
+It was the night of the families' dinner, the first Saturday of September, in a long upstairs room of a restaurant on Clement Street, with a table for fourteen. Maya had planned it, down to the soup. It was the first time all of them had been in the same room. The Calloways had flown in for the weekend, in a state of matched alarm, and I'd been braced, as one braces for turbulence. The Ramans were at one end. The Calloways were at the other. Ray was somewhere in the middle, in a jacket I'd never seen, with a glass of water, looking at the ceiling as if estimating its load.
 
 It went better than I'd feared and worse than I'd hoped, in about equal parts, as these things do.
 
@@ -247,9 +251,9 @@ And then Lakshmi cleared her throat.
 
 Nobody had known there was a Friday. I saw my mother look up from her plate with the precise expression of a dental scheduler who has been told that a patient is coming in an hour early.
 
-"A small ceremony," said Lakshmi. "At the house. The day before. For the family. A priest from the temple, an hour. It is not necessary. It is what we do." She folded her napkin. "Then the next day, the city, the paper. Then the party. Two days. It is a little bigger."
+"A small ceremony," said Lakshmi. "At the house. The day before. For the family. A priest from the temple, an hour. We cook in the morning, she and I, and the priest comes at four. It is not necessary. It is what we do." She folded her napkin. "Then the next day, the city, the paper. Then the party. Two days. It is a little bigger."
 
-"A little?" said my mother, as if to herself. "It's another hotel night. For eleven people. It's the flights, I booked the Thursday—" She stopped. "I'm only thinking of the cost."
+"A little?" said my mother, as if to herself. "It's another hotel night. For eleven people. It's the flights, I booked your father for the Friday—" She stopped. "I'm only thinking of the cost."
 
 "I will pay," said Lakshmi.
 
@@ -285,11 +289,11 @@ It was a narrow iron one, over the street, with two chairs and a potted plant th
 
 "Do you want to do Friday?"
 
-"I don't know." She said it to the rail. "That's the thing. That's what I came out here to say. I've been trying to say it for three weeks. I don't know if I can do both days."
+"I don't know." She said it to the rail. "That's the thing. That's what I came out here to say. I've been trying to find a way to say *I'm tired* for three weeks. Friday's just where it landed. I don't know if I can do both days."
 
 I didn't answer. I stood next to her, at the rail, and put my hands on the cold iron. I felt the thing come up in me, the whole apparatus of the thing: *I'll talk to your mother. We'll make Friday shorter. I'll build a run of show.* It was extremely strong. It was warm, and large, and it had a spreadsheet in it.
 
-I'd called Carla at 6:31. I thought of that. I thought: *she's telling me early. This is the early.* It struck me, standing at a rail on Clement Street, that I'd spent three weeks being grateful to a woman in a green blazer for the quickness of a bad-news call, and that the woman beside me had just done the same for me, with no spreadsheet, at a worse time, and that I'd nearly met it with a plan.
+I'd told Carla at 6:31. I thought of that. I thought: *she's telling me early. This is the early.* It struck me, standing at a rail on Clement Street, that I'd spent three weeks being grateful to a woman in a green blazer for the quickness of a bad-news call, and that the woman beside me had just done the same for me, with no spreadsheet, at a worse time, and that I'd nearly met it with a plan.
 
 "Thank you," I said, "for telling me now."
 
@@ -299,7 +303,7 @@ She turned her head.
 
 She looked at me for a very long time. A bus went by. The light in it moved across her face and was gone.
 
-"Small," said Maya. "An hour. Twenty people. I want to sit down for it. I want it to be for me, a little bit, and not only for her." Her voice caught. "I want to say that to my mother. I don't know how."
+"Small," said Maya. "An hour. Twenty people. I want to sit down for it." (At every family event, Maya was the one standing, carrying, refilling.) "I want it to be for me, a little bit, and not only for her." Her voice caught. "I want to say that to my mother. I don't know how."
 
 "Do you want to practice?"
 
@@ -341,7 +345,7 @@ It went up into the dome and came down again.
 
 She stopped. She put her hand over her mouth. She said it again, louder, to the empty room, to the marble and the light.
 
-"*I need Friday to be small.*" Her voice shook, and then steadied. "*An hour. Twenty people. I want to sit.*" She took a breath. "*I want it to be for me, a little bit. I love you, Amma. I'm sorry. I've never said it. I should have said it a long time ago.*"
+"*I need Friday to be small.*" Her voice shook, and then steadied. "*An hour. Twenty people. I want to sit.*" She took a breath. "*I want it to be for me, a little bit. I love you, Amma. I'm sorry. I've never told you what I need. I should have said it a long time ago.*"
 
 It came down out of the dome in pieces. *Sorry. Said it. Ago.* She stood in the gold light with her hand over her mouth, and I stood on a brass plate, and neither of us spoke. It was the quietest I've ever heard a room that large.
 
@@ -366,10 +370,10 @@ She told her mother on Sunday, in the kitchen of the cream stucco house, with th
 **FOUNDER'S NOTE**
 *Bad news doesn't age well.*
 
-I told Carla at 6:31 p.m. on a Thursday, about twenty minutes after I knew. I told Maya on a balcony, about three weeks after she'd known, which is a different sort of early, and I'll tell you what I learned about it.
+I told Carla at 6:31 p.m. on a Thursday, about twenty minutes after I knew. Maya told me on a balcony, within the hour, which is a different sort of early, and I'll tell you what I learned from it.
 
-Bad news is like milk. It's fine for about an hour. Then it begins to change into other things: into a plan, a cover story, a *we're looking into it,* a version in which you come out better. By morning it has a smell, and by Monday it's a different substance altogether, and the person you didn't tell has to find out what it is by drinking it.
+Bad news is like milk. It's fine for about an hour. Then it begins to turn into other things: into a plan, a cover story, a *we're looking into it,* a version in which you come out better. By morning it has a smell, and by Monday it's a different substance altogether, and the person you didn't tell has to taste it.
 
-I called Carla before it turned. Maya told me before it turned. I've thought a great deal about the fact that the two of them did the same thing for me in the same month, at different tables, with no knowledge of each other, and that I nearly missed the second one because I was busy being proud of the first.
+I told Carla before it turned. Maya told me before it turned. I've thought a great deal about the fact that the two of them did the same thing for me in the same month, at different tables, with no knowledge of each other, and that I nearly missed the second one because I was busy being proud of the first.
 
-Carla said one more thing that night. I filed it under *gratitude.* It belonged somewhere else, and it took me until winter to find out where.
+Carla said one more thing that night. I filed it under *confusion.* It belonged somewhere else, and it took me until winter to find out where.
