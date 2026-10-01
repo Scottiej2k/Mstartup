@@ -57,7 +57,7 @@ Maya had her coat on. She'd kept it on at the coat rack, where a man in a vest h
 
 "It's what we're doing."
 
-"What you're doing *now.*" Cole leaned back. A man to his left laughed without being told anything. "Look. I'll give you one piece of advice, and then I'll shut up, and then I'll give you another. Stay liquid. Don't sign anything you don't have to. Not a co-founder agreement, not a lease, not a term sheet, not anything. Every signature is a door you've closed." He raised his glass at me. "Optionality, man."
+"What you're doing *now.*" Cole leaned back. A man to his left laughed without being told anything. "Look. I'll give you one piece of advice, and then I'll shut up, and then I'll give you another. Stay liquid. Don't sign anything you don't have to. Not a co-founder agreement, not a lease, not an offer, not anything. Every signature is a door you've closed." He raised his glass at me. "Optionality, man."
 
 I'd heard it in July. It had sounded different in July. It had sounded like a dare.
 

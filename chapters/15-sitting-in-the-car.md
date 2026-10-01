@@ -107,7 +107,7 @@ I didn't say anything.
 
 I held the mug.
 
-"We haven't spoken in thirteen years," said Ray.
+"We haven't spoken in fourteen years," said Ray.
 
 "I know. You told me once." I looked at the envelope. "Is that—"
 
@@ -115,7 +115,7 @@ I held the mug.
 
 "Why don't you send it?"
 
-"Because it's a speech." He said it flatly. "It's a very good one. I've had thirteen years." He put the envelope back on his knee. "You don't rebuild trust with a speech, Nate. You can't say enough. You do it the dull way, which is that the next time he says he's tired, you sit there." He took a swallow of coffee. "I never got another time."
+"Because it's a speech." He said it flatly. "It's a very good one. I've had fourteen years." He put the envelope back on his knee. "You don't rebuild trust with a speech, Nate. You can't say enough. You do it the dull way, which is that the next time he says he's tired, you sit there." He took a swallow of coffee. "I never got another time."
 
 It was very quiet. A redwood, somewhere behind us, dropped something on the roof of the shed.
 

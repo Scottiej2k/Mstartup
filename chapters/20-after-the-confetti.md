@@ -43,7 +43,7 @@ Here is the first month, in numbers, because I was a person who still counted.
 
 In the thirty-two days after launch, Meridian's forty stores asked a little over nine thousand people the question at the counter: *If you went quiet for a day, who would you want to know?* Of those, 3,912 said a name. More than half said *no, thank you,* and Carla's training said that was a complete answer, and a Meridian technician at Store 31 in Hollister, a man named Lucho, wrote on the store's feedback form that he'd never once, in nineteen years, been taught to hear a *no* as a success. He'd said, in the box marked *Comments,* that it was the first time the sign on the counter agreed with him.
 
-In the first month, eleven enrolled people stopped answering for more than a day. Nine of them were reached by the person they'd named, inside the ninety minutes the system gives a named person, with a text, or a call, or in two cases a knock on a door. There were eight reasons. One was a phone in a lake. One was a man, seventy-one, who'd gone fishing and forgotten to say so. One was an accident, a fall in a bathroom, a woman's sister who got there at 8:40 with a key, and I'm not going to write anything more about that one because I don't have the right.
+In the first month, eleven enrolled people stopped answering for more than a day. Nine of them were reached by the person they'd named, inside the ninety minutes the system gives a named person (after the hour the enrolled person gets first), with a text, or a call, or in two cases a knock on a door. There were eight reasons. One was a phone in a lake. One was a man, seventy-one, who'd gone fishing and forgotten to say so. One was an accident, a fall in a bathroom, a woman's sister who got there at 8:40 with a key, and I'm not going to write anything more about that one because I don't have the right.
 
 Two of the eleven were not reached inside the ninety minutes.
 
@@ -79,7 +79,7 @@ There was a pharmacy to run, too, and for the first time in a year it wasn't min
 
 Kevin Chen started on the fourth of October.
 
-He was the boy from City Hall, who'd come with his mother, Mrs. Chen, and a pair of glasses that he adjusted with the back of a knuckle. He was twenty-two. He'd finished a pharmacy technician certificate in the summer and been turned down, he told me later, by three chains, one of them Meridian, who'd said he lacked *customer-facing experience.* Maya had noticed that he'd stayed behind to help the clerk fold the programs, without being asked, and had gone to look for her own mother afterward and found him at the clerk's counter, wiping up a spilled coffee with his own handkerchief.
+He was the boy from City Hall, who'd come with his grandmother, Mrs. Chen, and a pair of glasses that he adjusted with the back of a knuckle. He was twenty-two. He'd finished a pharmacy technician certificate in the summer and been turned down, he told me later, by three chains, one of them Meridian, who'd said he lacked *customer-facing experience.* Maya had noticed that he'd stayed behind to help the clerk fold the programs, without being asked, and had gone to look for her own mother afterward and found him at the clerk's counter, wiping up a spilled coffee with his own handkerchief.
 
 "You wanted a part-timer," said Suresh, over dinner. "You hired a person with a handkerchief."
 
@@ -87,7 +87,7 @@ He was the boy from City Hall, who'd come with his mother, Mrs. Chen, and a pair
 
 I'd been waiting for her to say something about it. I think it was the first time she'd made a decision about her father's pharmacy, her father's shelves and her father's computer, without anyone's permission, in front of her father, who looked at her for a moment across the dal. He nodded once. It was a nod I knew, from the other end of the same table, from the other father. It said *that'll hold.*
 
-She began to come home at six.
+She'd dropped to three days a week at the clinic-forms job, which she mentioned the way she mentions the weather. She began to come home at six.
 
 That's an exaggeration; she came home at 6:20. The pharmacy closed at seven, and for ten years a Raman had locked the door, and now Kevin did it, on Mondays and Wednesdays, with a key on a green lanyard, the same kind I'd given Priya. She'd walk in, and put her bag on the hook (she'd taken off her coat at the pharmacy, which I understood by then to be the best indicator I had), and stand in the kitchen for about four minutes, doing nothing. I stopped asking what she was doing. She said, the third week, *This is when I come home,* and I understood that it was a thing that took four minutes, and that I'd been counting the minutes, and that what she needed from me was to stop counting.
 

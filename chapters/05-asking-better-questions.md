@@ -291,7 +291,7 @@ I counted to three and didn't need the rest.
 
 She looked at the ceiling. There was a long silence. The tortilla machine hummed. Somewhere behind us, a man argued with a radio about a game.
 
-"A woman came in on Thursday," Maya said. "Fifty-something. She'd been given the discharge instructions for her husband, and I went through them with her out loud, one line at a time, the way I do. And at the end she read the last line back to me. Correctly. For the first time. She had this look." Her hands had come up, on their own, to make the shape of it. "It was like she'd set something heavy down. She apologized to me, in the hallway, for crying. I told her it was the nicest thing that happened to me all week, and I meant it." She looked at me. "It was a Thursday."
+"A woman came to the clinic on Thursday," Maya said. "Fifty-something. She'd been given the discharge instructions for her husband, and I went through them with her out loud, one line at a time, the way I do. And at the end she read the last line back to me. Correctly. For the first time. She had this look." Her hands had come up, on their own, to make the shape of it. "It was like she'd set something heavy down. She apologized to me, in the hallway, for crying. I told her it was the nicest thing that happened to me all week, and I meant it." She looked at me. "It was a Thursday."
 
 "A Thursday."
 

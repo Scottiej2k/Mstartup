@@ -314,7 +314,7 @@ I looked at Priya. She nodded once, barely. It was the first time she'd ever agr
 **FOUNDER'S NOTE**
 *Take money from people who'll still be in the room the week after you're wrong.*
 
-I had two term sheets on my desk that month. (A term sheet is the short document in which an investor puts a number on you.) One was for three million dollars, in a beautiful typeface, with a globe. The other was for a million two, on what looked like a single sheet of copy paper, and the ink had run a little at the corner.
+I had two offers on my desk that month, each a short document in which an investor puts a number on you. One was for three million dollars, in a beautiful typeface, with a globe. The other was for a million two, on what looked like a single sheet of copy paper, and the ink had run a little at the corner.
 
 The difference wasn't the number. It wasn't the twenty percent or the twelve. In one room I'd been someone who could say *ambient,* and in the other I'd had nothing to say but what had happened, and only one of those men could be reached at one in the morning.
 

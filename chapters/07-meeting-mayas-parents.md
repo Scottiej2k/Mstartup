@@ -159,7 +159,7 @@ I stood in the stockroom door for a long while, looking at a dead fax machine wi
 
 ---
 
-I hadn't heard him come up behind me. Suresh Raman was a man who seemed to have trained himself out of noise. He was about sixty, narrow and upright, in a white coat with a pen in the pocket and a second pen in the other pocket, in case the first one had feelings. He had come from the counter, where he must have seen what I'd seen.
+I hadn't heard him come up behind me. Suresh Raman was a man who seemed to have trained himself out of noise. He was about sixty-three, narrow and upright, in a white coat with a pen in the pocket and a second pen in the other pocket, in case the first one had feelings. He had come from the counter, where he must have seen what I'd seen.
 
 "She put her coat on," he said.
 

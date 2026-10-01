@@ -223,7 +223,7 @@ I told Priya in her gray hatchback, in the parking lot, in the dark.
 
 Priya didn't say anything. She sat with both hands on the wheel, looking through the windshield at the lit sign of a Meridian, with her jaw set. After a very long time she said, "I had a cousin."
 
-I had known her five years and had not known she had a cousin. I waited.
+I had known her seven years and had not known she had a cousin. I waited.
 
 "It doesn't matter." She wiped her face, once, with the heel of her hand. "I wrote that rule on a wall. In capitals. It was the first one. And I let a bug I didn't catch break it in front of thirty-one people." Her voice was thin. "I've been thinking about what would have happened if you'd waited."
 

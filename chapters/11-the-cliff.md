@@ -51,7 +51,7 @@ Somewhere over Nevada, she put down her book. She had the window. I had the aisl
 
 It was the old trick, of course, hers. It was the last time I'd have expected her to use it.
 
-"Four years ago. I was in Columbus, and I flew out for Ray's wife's funeral. I was twenty-four." I heard my own voice go level, which it does. "I flew in for three days, and it became permanent, for reasons I never said out loud, and I didn't go back to Columbus. Somebody mailed me my things."
+"Five years ago. I was in Columbus, and I flew out for Ray's wife's funeral. I was twenty-four." I heard my own voice go level, which it does. "I flew in for three days, and it became permanent, for reasons I never said out loud, and I didn't go back to Columbus. Somebody mailed me my things."
 
 "And your parents?"
 
