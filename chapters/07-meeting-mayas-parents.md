@@ -51,7 +51,7 @@ There was a stool behind the counter, and I was put on it. Lakshmi lifted the li
 
 "He reads things," said Maya, from the far end of the counter, to a shelf of bandages.
 
-"Hm," said Lakshmi, and set the box by the register, unopened, where she could keep an eye on it. There was a stack of steel tins, four high, with a clip holding them together, and I was given them. Idli, sambar, coconut chutney, and a fourth tin of rice with lemon and something that crackled when I bit it, which I ate all of, including the part I couldn't identify. Lakshmi watched me do it, from the register, without seeming to.
+"Hm," said Lakshmi, and set the box by the register, unopened, where she could keep an eye on it. Beside the register, held shut with a rubber band, there was a spiral notebook with a strip of masking tape across the cover that said **NEAR MISS. DON'T SIGN.** There was a stack of steel tins, four high, with a clip holding them together, and I was given them. Idli, sambar, coconut chutney, and a fourth tin of rice with lemon and something that crackled when I bit it, which I ate all of, including the part I couldn't identify. Lakshmi watched me do it, from the register, without seeming to.
 
 The counter ran the whole length of the store, and everything happened at it. A man came to pick up something for his wife and left with a lollipop for his son. A teenager in a school hoodie picked up an inhaler and was asked, by name, about a chemistry test. "It was fine," he said. "It was *fine,*" said Lakshmi, like a woman logging an answer that would be checked.
 

@@ -7,21 +7,21 @@ It was a Thursday in January, the thirteenth, at a Peet's across the street from
 
 "I'll start with the numbers," said Carla, "because you'll want them."
 
-They were good. In the ninety days since launch, a little over twenty-two thousand people had been asked the question at a counter. Eight thousand and some had named someone. All forty stores were up, including the one in Hollister where Lucho had become something of a celebrity, and Meridian's regional vice president had asked her, in a hallway, whether it could go to the other hundred and ten. She told me this without a smile. Then she turned the cup a quarter turn on the table.
+They were good. In the three and a half months since launch, a little over twenty-two thousand people had been asked the question at a counter. Eight thousand and some had named someone. All forty stores were up, including the one in Hollister where Lucho had become something of a celebrity, and Meridian's regional vice president had asked her, in a hallway, whether it could go to the stores in Meridian's other regions. She told me this without a smile. Then she turned the cup a quarter turn on the table.
 
 "On the twenty-ninth of December," she said, "a man named Harold Beck, who is seventy-nine, and who enrolled at Store 17 in Modesto in October, didn't answer his morning check-in."
 
 I knew the name. I'd seen it on a report, on a Tuesday, in a row, and moved on.
 
-"His daughter was the person he named. Dana. She's a respiratory therapist at Doctors Hospital. She got the alert at 9:12 in the morning, at work, during a double shift. Her phone was in a locker, because that's where phones go." Carla's voice was quite level. "She saw it at 10:40 that night. A neighbor had found him at a quarter to seven, because his porch light was off. He'd fallen in the kitchen. He'd been on the floor nine and a half hours. A broken wrist. Dehydration. He's home now. He's fine."
+"His daughter was the person he named. Lena. She's a respiratory therapist at Doctors Hospital. She got the alert at five past seven in the morning, at work, at the start of a double shift. Her phone was in a locker, because that's where phones go." Carla's voice was quite level. "She saw it at 10:40 that night. A neighbor had found him at a quarter to seven, because his porch light was off. He'd fallen in the kitchen, early. He'd been on the floor close to twelve hours. A broken wrist. Dehydration. He's home now. He's fine."
 
-"I read the—" I said. "The report said two in the window, in December. I didn't—"
+"I read the—" I said. "The report said two outside the ninety minutes, in December. I didn't—"
 
-"It said two." She nodded. "That was him, and a woman in Salinas." She unfolded one hand and laid it flat on the table. "Dana came in to the store, afterward, and talked to the technician who'd enrolled her father. She said that when the welcome text came, in October, she'd replied *OK* and not read past the first line. She said that when the alert came it said *Harold has not responded,* and she thought it was a notice, to whoever. She said she'd thought someone else would see it."
+"It said two." She nodded. "Not your October two, who were asleep and in a car. That was him, and a woman in Salinas." She unfolded one hand and laid it flat on the table. "The name we had for Store 17 was a technician called Mateo Ibarra. Mateo was in Guadalajara for the holidays. The report went to his queue, and it was read on the third of January." She said it in the voice of someone reading a form. "Lena came in to the store, afterward, and talked to whoever was at the counter. She said that when the text came, in October, asking if she'd be her father's person, she'd replied *OK* and not read past the first line. She said that when the alert came she thought it was a notice, to whoever. She said she'd thought someone else would see it."
 
 "Who else?"
 
-"That's what she said to the technician. *Who else?*" Carla's mouth moved slightly. "I wanted to ask you the same thing. And I wanted to do it here, not on the phone."
+"That's what she said. *Who else?*" Carla's mouth moved slightly. "And I want to ask you the other one. When is Mateo supposed to look? Between which two customers? Nobody gave him an hour. I didn't, and you didn't. I wanted to say that here, not on the phone."
 
 I said, "In October you told me the Saturday lines were a problem."
 
@@ -55,11 +55,11 @@ I told her all of it. She stood in front of the whiteboard, with her arms folded
 
 She uncapped the marker.
 
-"Okay. Right now." She drew a circle on the left. She wrote *DAD* in it. "He goes quiet." She drew a line to a second circle, on the right. She wrote *DANA.* "We tell Dana. One person. And what do we know about Dana?"
+"Okay. Right now." She drew a circle on the left. She wrote *HAROLD* in it. "He goes quiet." She drew a line to a second circle, on the right. She wrote *DANA.* "We tell Lena. One person. And what do we know about Lena?"
 
 "She said OK."
 
-"To a text she didn't read. What do we not know?" She wrote under the circle, in a smaller hand: *when is she reachable? is she working? who covers? does she know it's on her?* "We know her number. That's all we ever asked." She turned. "A notification is not a person. Carla said that in the spring. Then we built a notification and called it a person. We asked, *who would you want to know?* We never asked Dana."
+"To a text she didn't read. What do we not know?" She wrote under the circle, in a smaller hand: *when is she reachable? is she working? who covers? does she know it's on her?* "We know her number. That's all we ever asked." She turned. "A notification is not a person. Carla said that in the spring. Then we built a notification and called it a person. We asked, *who would you want to know?* We never asked Lena."
 
 "Okay."
 
@@ -69,29 +69,29 @@ She uncapped the marker.
 
 Priya stood very still, with the marker held out to her side. She was trying, I could tell, not to do the thing she'd have done a year before, which was to tell me.
 
-"I think it takes four things," she said, slowly. "One: a *time.* She picks when she's reachable. If she's on a shift, she says so, and we don't count her as there. Two: a *second* person. She picks someone who'll be there when she's not. Three: somebody has to *answer.* A person on our side, in the store, who looks at it. Esperanza. A name, with an hour in her day that's hers, and a person who covers when she's out."
+"I think it takes four things," she said, slowly. "One: *hours.* She says when she can be reached. If she's on a shift, she says so, and we don't count her as there. Two: a *second* person. *He* names two, at the counter, and each of them says yes for herself. Lena can tell him who she'd trust, but he decides. Three: the store. We gave every store one person, Mateo, Esperanza, and then a report to read the next morning. So Mateo gets an hour that's his, twice a shift, and someone covering when he's out. And if neither of the people Harold named has answered in the window, Mateo calls *Harold.* Not his family. Harold. And he's asked at the counter if that's all right."
 
 "And four?"
 
-"The man on the floor." She drew a line from Dana's circle back to Dad's. It had an arrowhead, on his end. "He gets a text. *Dana has seen this. She's coming.* Or *Dana's in surgery, and Marcus has seen it. He's coming.* Not that we sent it. That someone *has it.*" She capped the marker. "He doesn't know anyone's coming. That's the worst part. He was on a floor, and he didn't know."
+"The man on the floor." She drew a line from Lena's circle back to his. It had an arrowhead, on his end. "He gets a text. *Lena has seen this. She's on her way.* But only if she taps *I'm on my way.* If nobody taps, he gets nothing. A false *coming* is worse than quiet." She capped the marker. "He doesn't know anyone's coming. That's the worst part. He was on a floor, and he didn't know."
 
 I looked at the drawing. It was the ugliest drawing I'd ever loved. There were five circles on a whiteboard, each with a name in it, and lines between them, and an arrow with a person at the end.
 
 "Who covers Esperanza?" I said.
 
-"Good question." She wrote it on the board. Then she capped the marker. "Before any of that, call Dana. Nobody's called Dana."
+"Good question." She wrote it on the board. Then she capped the marker. "Before any of that, call Lena. Nobody's called Lena."
 
 ---
 
-I called Dana Beck on Saturday morning from the parking lot of the Raman Pharmacy in Fremont, with the engine off, at nine, because that was a time she'd given the store.
+I called Lena Beck on Saturday morning from the parking lot of the Raman Pharmacy in Fremont, with the engine off, at nine, because that was when she'd said she'd be off.
 
 It took her a minute to understand who I was. I said I was the person who'd built the thing. She said, "Oh," and then, "I was going to write to you," and then nothing for a bit.
 
 "I'm not calling to explain," I said. "I'd like to ask. What would have made it easy?"
 
-It was Maya's question, mostly, from a coffee a long time ago. There was a long silence, and then Dana Beck said, in a voice that had been awake for a number of weeks: "Nobody's asked me that."
+It was Maya's question, mostly, from a coffee a long time ago. There was a long silence, and then Lena Beck said, in a voice that had been awake for a number of weeks: "Nobody's asked me that."
 
-She talked for twenty-five minutes. I wrote on the back of an envelope. She said she'd have answered if she'd known it was *her.* She said the text had said *Harold has not responded,* and it had no verb for her in it. She said *Are you okay?* is a thing people send each other, and that she'd gotten a dozen of them from her father that month about nothing. She said, "I keep thinking, if there'd been another name. If it'd said *and her brother has been asked.* I'd have thought, someone's got it. I'd have *gone* anyway." She said, "I was on a ventilator, at ten in the morning, with a man who had a name on a wristband and nobody coming." She asked what I was going to do. I said I didn't know yet, and that I knew what I wouldn't do. She said, "That's honest," and then, a little later, "My dad would like you."
+She talked for twenty-five minutes. I wrote on the back of an envelope. She said she'd have answered if she'd known it was *her.* She said the text had said *Harold has not responded,* and it had no verb for her in it, because Meridian's template had cut our second sentence to fit the screen. She said her father sent her a dozen texts a month that said *you okay?* about nothing, so an alert about him had looked like one more. She said, "I keep thinking, if there'd been another name. If it'd said *and her brother has been asked.* I'd have thought, someone's got it. I'd have *gone* anyway." She said, "I was on a ventilator, at ten in the morning, with a man who had a name on a wristband and nobody coming." She asked what I was going to do. I said I didn't know yet, and that I knew what I wouldn't do. She said, "That's honest," and then, a little later, "My dad would like you."
 
 I sat in the car for some time, with the envelope.
 
@@ -105,7 +105,7 @@ It had come back. It was a new machine, secondhand, with a green light on the fr
 
 "I'd like to ask you something."
 
-"Ah." He set the folder on the shelf. A slip of paper was coming out of the side of the machine, with a small whirr, and he tore it off and held it in his palm without looking at it. "A long time ago, I told you something. I said, *I would like to be asked what it costs the person who notices.* You said you would think about it." He said it without any malice. "I have been waiting for your question."
+"Ah." He set the folder on the shelf. A slip of paper was coming out of the side of the machine, with a small whirr, and he tore it off and held it in his palm without looking at it. "A long time ago, I said that nobody asks what it costs the person who notices. I said I would like to be asked." He said it without any malice. "You asked about the fax. You asked about my daughter. You did not ask this. I have been waiting for your question."
 
 "What does it cost?"
 
@@ -113,15 +113,15 @@ He took his time.
 
 "A person who notices," said Suresh, "has a dinner on the stove. She has a boss. She has a child. When the message comes, she must decide, in one second, whether this is *a thing* or whether she is making a fuss. If she is wrong, she has lost a night, and she is a fool. If she is right, it is a gift; but you do not thank someone for a gift she was afraid to give." He turned the slip over. "The cost is: courage, and an hour. You do not have forty hours. I said so. You have not asked for the hour."
 
-"A window," I said. "She picks it."
+"Hours," I said. "She says when she can."
 
-"She *picks* it. Yes. And another person, for when it is Thursday and the first person is at her mother's." He nodded. "And you must tell the man. When someone is coming, he must know. The worst thing is that you wait on the floor and you do not know."
+"She *says* it. Yes. And another person, for when it is Thursday and the first person is at her mother's." He nodded. "And you must tell the man. When someone is coming, he must know. The worst thing is that you wait on the floor and you do not know."
 
 "How do you know that's the worst thing?"
 
 He didn't answer for a moment. He held up the slip. It was the confirmation, the strip the machine prints. *Transmission OK.* It had a time, and a number, and a little row of dots.
 
-"For seventeen years," he said, "I called doctors' offices. I did not ask *did you get my fax.* I asked, *who is holding it.*" He put the slip into his pocket, with the others. "It is a different question. It has a name in the answer."
+"For seventeen years, at the chain," he said, "I called doctors' offices. I did not ask *did you get my fax.* I asked, *who is holding it.*" He put the slip into his pocket, with the others. "It is a different question. It has a name in the answer."
 
 I wrote on my hand. It said *who is holding it.*
 
@@ -129,7 +129,7 @@ I wrote on my hand. It said *who is holding it.*
 
 "Okay."
 
-"Ask more than one. Dana is one. You must ask twelve." He held up a finger, and I understood that this was, from Suresh, an enormous speech. "Then you will know which is the person, and which is the story."
+"Ask more than one. Lena is one. You must ask twelve." He held up a finger, and I understood that this was, from Suresh, an enormous speech. "Then you will know which is the person, and which is the story."
 
 ---
 
@@ -163,7 +163,7 @@ I'd known. I'd put myself in the third column in September. I'd looked at it, in
 
 "You texted *great catch!* with an exclamation point." He looked at the table. "And I said *np.* I say *np* when I'm drowning, Nate. I thought you'd know that. Maya would've."
 
-I'd had a thing to say. I'd written it, in my head, in the car. It was a list of options, in order. Money. A day off. A fourth name. A title. Underneath, in a smaller font, a comment, *he's twenty-five, he'll come around.*
+I'd had a thing to say. I'd written it, in my head, in the car. It was a list of options, in order. Money. A day off. A fifth name. A title. Underneath, in a smaller font, a comment, *he's twenty-five, he'll come around.*
 
 I put it down. I didn't, I think, do it well. I sat on the chair across from him, in the glass room, with my hands flat on the wood, and I said:
 
@@ -197,13 +197,13 @@ It was a Tuesday, the first of February, and it began at 3:40 in the afternoon, 
 
 I was in a room with Margo's accountant. I read it on the phone under the table. I thought: *nothing urgent.* It was a phrase with an off switch built in. I put the phone face down. I was a person who'd just learned to ask twelve people two questions, and I took her at her word. I didn't call. There was a dinner with Margo, and then the office, and I got home at 9:40.
 
-She was in the kitchen. The light was on over the stove. She was not crying. She was standing very upright, with the coat on, which I'd learned, by then, to read.
+She was in the kitchen. The light was on over the stove. She was not crying. She was standing very upright, with her own coat still on, which I'd learned, by then, to read.
 
 Kevin had given a woman the wrong strength.
 
 It was a blood-pressure pill, in a bag, at a quarter past three. The woman had gone. Maya had caught it on the second check, as she does, and run out into the parking lot in her white coat and found the woman at her car, with the door open, and swapped the bag. Nothing happened. She'd checked it three times. She'd called the woman at home, that evening, to be sure. She'd stayed until seven. She had not told her father.
 
-"I hired him," said Maya, "and it was the first thing I decided on my own, in my father's pharmacy, with my father looking. And at three-fifteen—" She stopped. "I wrote to you at 3:40. I'd just got her bag back. My hands were still going." Her voice was very quiet. "And I wrote *nothing urgent.* Because I didn't want to be the person who—" She stopped again. "And you believed me."
+"I hired him," said Maya, "and it was the first thing I decided on my own, in my father's pharmacy, with my father looking. And at three-fifteen—" She stopped. "I wrote to you at 3:40. I'd just got her bag back. My hands were still going." Her voice was very quiet. "I stood up in a rotunda in front of twenty-three people and said I wouldn't do this. And I wrote *nothing urgent.* Because I didn't want to be the person who—" She stopped again. "And you believed me."
 
 "You said it wasn't."
 
@@ -227,7 +227,7 @@ Maya looked at me for a long moment.
 
 "Fine." She took off the coat. She hung it on the hook, slowly. "Get a pen."
 
-We sat at the kitchen table, at ten at night, with an envelope from the electric company and a pen from the cup. She took the pen. She wrote the times down the left side, in her neat pharmacist's hand: *3:15. 3:40. 7:00. 9:40.* Next to each, one of us said what we'd known, and what we'd thought, and what it had cost. It took forty minutes. We were scrupulous. I said, at one point, *I should have called at 3:41,* and she said, *That's not allowed, that's a blame,* and I said, *It's a regret,* and she said, *Put it on the other side.*
+We sat at the kitchen table, at ten at night, with an envelope from the electric company and a pen from the cup. She took the pen. She wrote the times down the left side, in her neat hand: *3:15. 3:40. 7:00. 9:40.* Next to each, one of us said what we'd known, and what we'd thought, and what it had cost. It took forty minutes. We were scrupulous. I said, at one point, *I should have called at 3:41,* and she said, *That's not allowed, that's a blame,* and I said, *It's a regret,* and she said, *Put it on the other side.*
 
 At the end of the page, we found something neither of us had expected.
 
@@ -267,7 +267,7 @@ She almost laughed. She was tired, and a little wet around the eyes, and she put
 
 Ray called on the twentieth, a Sunday.
 
-I told him the design. I told it badly, standing in the yard of the apartment complex in my socks, with the phone against my shoulder, in the order I'd thought of it. A time; a second person; a person at the store; a text to the man on the floor. I'd got to the end before I noticed that he hadn't said anything.
+I told him the design. I told it badly, standing in the yard of the apartment complex in my socks, with the phone against my shoulder, in the order I'd thought of it. Hours; a second person; a person at the store with an hour of her own; a text to the man on the floor. I'd got to the end before I noticed that he hadn't said anything.
 
 "Say the last part again," said Ray.
 
@@ -275,7 +275,7 @@ I told him the design. I told it badly, standing in the yard of the apartment co
 
 "What does it say, exactly?"
 
-"*Dana has seen this. She's on her way.*"
+"*Lena has seen this. She's on her way.*"
 
 There was a long pause. In it, I thought I could hear the little pump in the pond.
 
@@ -356,7 +356,7 @@ The practice works because it moves the question. You stop asking who failed and
 
 What we found out that night is written on the back of an electric bill, which I still have. She had said it too small. I had taken her at her word. Neither of us was wrong, and both of us had been left alone with a polite code.
 
-There's a second finding, and it's mine, and it came two weeks earlier from a woman in Modesto whose phone had been in a locker. It's that *listening* and *changing* are two different jobs. A person can do the first for years and be loved for it and have nothing, at the end, to show. Carla had said it in a coffee shop in a sentence I've never forgotten. Maya had said it in a different one. I'd been given both, in one winter, from opposite directions, and it took me until March to see that they were the same sentence.
+There's a second finding, and it's mine, and it came in January in a coffee shop in San Jose, from a woman with her hands folded. It's that *listening* and *changing* are two different jobs. A person can do the first for years and be loved for it and have nothing, at the end, to show. Carla said it in a sentence I've never forgotten. Maya said it in a different one. I'd been given both, in one winter, from opposite directions, and it took me until March to see that they were the same sentence.
 
 I think the sentence is *Be the one who answers.*
 
