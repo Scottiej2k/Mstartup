@@ -46,7 +46,7 @@ The question I ask now before I hedge: *what would I learn if I waited another w
 
 ## Ch 11: *Say the unwritten part out loud.*
 
-In business: a founders' agreement is for questions nobody wants to ask while they still like each other. Who owns what. What if one of us leaves. What if someone offers one of us money. Who can say no. Priya made me answer all four on paper, in April, and I haven't had a fight with her about any of them since, because we already had the fight.
+In business: a founders' agreement is for questions nobody wants to ask while they still like each other. Who owns what. What happens if either of us leaves. What happens if we take money. Priya made me answer all three on paper, in April, and added a line of her own: neither of us can take investment without the other. We had the argument over paper, while we liked each other, which is the cheapest time to have it.
 
 With Maya: I tried to carry the company's tools in the door. A vesting cliff is fair between business partners: trust earned in installments. I made a joke at my parents' table about a one-year cliff in a marriage, and nobody laughed. Maya wasn't afraid I'd leave in a year. She was afraid there was a schedule.
 
