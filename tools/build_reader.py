@@ -80,7 +80,10 @@ def parse(path):
     note_blocks = []
     if note:
         rest = note[1:]
-        if rest and re.fullmatch(r"\*[^*].*\*", rest[0], flags=re.S):
+        head = note[0].split("\n")[1:]  # the principle line usually sits right under the label
+        if head and re.fullmatch(r"\*[^*].*\*", head[0].strip(), flags=re.S):
+            note_blocks.append(["principle", pid(), head[0].strip().strip("*")])
+        elif rest and re.fullmatch(r"\*[^*].*\*", rest[0], flags=re.S):
             note_blocks.append(["principle", pid(), rest[0].strip("*")])
             rest = rest[1:]
         for p in rest:
