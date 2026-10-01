@@ -3,7 +3,7 @@
 
 I gave Priya the keys at ten o'clock on Friday night, in the glass room, with the lights off.
 
-There was one key. It was small and black, on a green lanyard, and it opened nothing in the physical world. It opened a door in a computer, a door that most of the company had never seen, and behind it were all forty stores. She stood on the other side of the table with her hands at her sides, in the dark, with the fish sign glowing faintly in the hall, and I held it out to her across the wood.
+There was one key. It was small and black, on a green lanyard, and it opened nothing in the physical world. It opened a door in a computer, a door that most of the company had never seen: the pause switch for all forty stores. (Priya's table had filed the servers under P. This had gone under N, because it was customers.) On the wall of the glass room, on a screen, there were forty rows. Green meant somebody had picked up. Red meant nobody had. She stood on the other side of the table with her hands at her sides, in the dark, with the fish sign glowing faintly in the hall, and I held it out to her across the wood.
 
 "It's yours," I said. "Tomorrow, at nine. I'll be at City Hall. I'll turn my phone off."
 
@@ -13,7 +13,7 @@ There was one key. It was small and black, on a green lanyard, and it opened not
 
 She took it. She held it up, on its lanyard, in the light from the hall, and it turned a little, and caught it.
 
-"There's a runbook," I said. "Ines wrote it. It's twelve pages."
+"There's a runbook," I said. (The manual for the worst night.) "Ines wrote it. It's twelve pages."
 
 "I've read it. I made her cut it from twenty." She hung the lanyard around her neck, over her sweater, with a small, formal motion, like a woman receiving a medal she'd decided to wear ironically. "Nate. Go get married."
 
@@ -27,13 +27,13 @@ I went home. I turned the phone off in the car, in the parking lot of the buildi
 
 I should say what happened on the Friday, because it was the first of the two days, and because I nearly missed it by being nervous about the second.
 
-Maya cooked with her mother. It was the thing she'd asked for, in the winter, on a couch, with her feet up: to be in the kitchen, the day before, with her mother, with the door shut. I was sent away. I was given a cup of tea and a chair in the living room, with a magazine about pill counters, and I heard through the wall, for four hours, a sound I'd never heard in that house, which was two women not saying anything while they worked.
+Maya cooked with her mother. It was the thing she'd asked for, in January, at a table, with her tea going cold: to be in the kitchen, the day before, with her mother, with the door shut. I was sent away. I was given a cup of tea and a chair in the living room, with a magazine about pill counters, and I heard through the wall, for four hours, a sound I'd never heard in that house, which was two women not saying anything while they worked.
 
 I looked in once, at about eleven. I'd gone for the tea. Lakshmi stood at the stove, small and straight, with a wooden spoon, and Maya stood beside her, at the stove, which I had never seen her do. There was a pot of something between them, on a low flame, and Lakshmi had a small steel dish of spices in one hand, and she held it out, and Maya took a pinch, and put it in.
 
 She didn't say *Amma.* Lakshmi didn't say *no.* They looked at each other, for about a second, and Lakshmi nodded, once, and turned back to the pot, and I understood that I'd just seen a woman be allowed, at twenty-nine, to season.
 
-The ceremony was at four. It was small, as she'd asked. There were twenty-one people on folding chairs in the living room, which had been cleared of everything but the couch and a low brass lamp, and a priest from the temple, a small bright-eyed man in a white cloth with a bicycle helmet at his feet, who spoke for about fifty minutes in a language I couldn't follow and explained, in English, the parts I needed. Maya sat. That was the point. She sat on a low stool, in a green and gold sari that had been her grandmother's, with her hands in her lap and her eyes on the flame, for the whole hour, and nobody asked her to get up and carry a thing. I watched her mother watch her do it. I watched Lakshmi's face. It was a long, complicated face, and I'd never been able to read it, and I read it then: it said *I didn't know it would be this easy. I should have asked.*
+The ceremony was at four. It was small, as she'd asked. There were twenty-one people on folding chairs in the living room, which had been cleared of everything but the couch and a low brass lamp, and a priest from the temple, a small bright-eyed man in a white cloth with a bicycle helmet at his feet, who spoke for about fifty minutes in a language I couldn't follow and explained, in English, the parts I needed. Maya sat. That was the point. She sat on a low stool, in a marigold sari that had been her grandmother's, with her hands in her lap and her eyes on the flame, for the whole hour, and nobody asked her to get up and carry a thing. I watched her mother watch her do it. I watched Lakshmi's face. It was a long, complicated face, and I'd never been able to read it, and I read it then: it said *I didn't know it would be this easy. I should have asked.*
 
 I met her brother on the back step, afterward.
 
@@ -67,7 +67,7 @@ I didn't answer for a moment.
 
 On Saturday morning, my father gave me a toolbox.
 
-It was ten past nine, in a small paneled room off the rotunda at City Hall that smelled of old paper and floor wax, where a card on the door said **PARTY,** and a clerk with a lanyard had told me, kindly, that I could wait there. I'd been there twenty minutes. I was in a gray suit that my mother had had altered over a video call, and I was sitting on a bench, with my phone off in my breast pocket, feeling its small dead weight against my ribs.
+It was ten to nine, in a small paneled room off the rotunda at City Hall that smelled of old paper and floor wax, where a card on the door said **PARTY,** and a clerk with a lanyard had told me, kindly, that I could wait there. I'd been there since half past eight. I was in a gray suit that my mother had had altered over a video call, and I was sitting on a bench, with my phone off in my breast pocket, feeling its small dead weight against my ribs.
 
 I'd never been without it, at nine in the morning, on a day on which anything could break.
 
@@ -79,7 +79,7 @@ It was a toolbox. It was a small red steel one, the one from his garage, with a 
 
 "Open it," said my father.
 
-I undid the clasps. Inside, on the top tray, were his flat screwdriver and his level and a tape measure, each in its place, in the slots that had been worn to their shapes. Lying across them was a sheet of paper, folded once. It was an index card. It was Carol's, I thought, by the lines; and across it, in my father's block capitals, in ballpoint, were six words.
+I undid the clasps. Inside, on the top tray, were his flat screwdriver and his level and a tape measure, each in its place, in the slots that had been worn to their shapes. Lying across them was a sheet of paper, folded once. It was an index card, unfolded, and across it, in my father's block capitals, in ballpoint, were six words.
 
 **TEXT ME WHEN YOU GET THERE.**
 
@@ -111,11 +111,11 @@ I'd asked. I'd telephoned the office in August and said, *is it possible to requ
 
 He stood at the top of the white stairs, under the dome, in a gray suit and a mustache and a lanyard, with a small black book in one hand, in the gold light, and the rotunda was full.
 
-There were twenty-three of us. It had gone up by two. The room was a little too big for it, so that we stood in a loose, warm half-circle on the marble, with the sound of our shoes going up into the dome and coming back. Maya's parents were in the front, on the left. Suresh was in a dark suit with the top button done, standing very straight, looking at nothing, with the face of a man who's decided in advance not to be moved. My mother held my father's arm. Annie had her phone in her hand, with the screen off, like a vet tech with a thermometer. Ray stood a little apart, by a pillar, in the jacket from the dinner, with his hands folded, looking at the dome as though checking it for load. Arjun, tall and tired and clean-shaven, stood beside his mother. Kyle, in the back, in a tie, held up a speaker like a bomb.
+There were twenty-three of us, which was Maya's forty with the cousins cut. The room was a little too big for it, so that we stood in a loose, warm half-circle on the marble, with the sound of our shoes going up into the dome and coming back. Maya's parents were in the front, on the left. Suresh was in a dark suit with the top button done, standing very straight, looking at nothing, with the face of a man who's decided in advance not to be moved. My mother held my father's arm. Annie had her phone in her hand, with the screen off, like a vet tech with a thermometer. Ray stood a little apart, by a pillar, in the jacket from the dinner, with his hands folded, looking at the dome as though checking it for load. Arjun, tall and tired and clean-shaven, stood beside his mother. Kyle, in the back, in a tie, held up a speaker like a bomb.
 
-And there were people I hadn't expected. There was Dr. Okafor, in a lilac cardigan, with her glasses on a cord, in the third row, looking at the ceiling with an expression of mild clinical interest. There was Mr. Alvarez, in a wheelchair, in a jacket buttoned wrong, with his daughter Gloria standing behind him and one hand on his shoulder; he'd come, I learned later, against the advice of two doctors, because he'd said he'd been found late once and he'd be damned if he'd be late for this. Mrs. Chen was beside him in a good wool coat. Her grandson, Kevin, who'd passed his driving test on the fourth try and would start at the pharmacy in October, Maya's pick, approved by Suresh in a single syllable, stood behind her in a tie, with the stricken look of a young man who'd been told to hold a purse.
+And there were people I hadn't expected. There was Dr. Okafor, in a lilac cardigan, with her glasses on a cord, looking at the ceiling with an expression of mild clinical interest. There was Mr. Alvarez, in a wheelchair, in a cardigan zipped to the chin, with his daughter Gloria standing behind him and one hand on his shoulder, and a lollipop, I'd later learn, in his pocket; he'd come against the advice of two doctors, because he'd said he'd been missed once and he'd be damned if he'd miss this. Mrs. Chen was beside him in a good wool coat. Her grandson, Kevin, who'd passed his driving test on the fourth try and would start at the pharmacy in October, Maya's pick, approved by Suresh in a single syllable, stood behind her in a tie, with the stricken look of a young man who'd been told to hold a purse.
 
-Priya stood on my left, in a dark green dress, with the lanyard still round her neck. I'd seen it. I hadn't said anything. Jules stood on Maya's right, in black, with the expression of a public defender who has been told she's allowed to cry and hasn't decided.
+Priya stood on my left, in a dark blue dress, with the lanyard still round her neck. I'd seen it. I hadn't said anything. Jules stood on Maya's right, in black, with the expression of a public defender who has been told she's allowed to cry and hasn't decided.
 
 And Maya came in.
 
@@ -123,7 +123,7 @@ I'll tell you how she came in, because I've told it eleven times and it's always
 
 I've been looked at by her many times. I've been looked at in a ballroom, in a coffee shop, through four inches of door. I'd never, until that moment, been looked at by her with nothing in the way: no chain, no coat, no window, no polite. It was the plainest look I've ever received. I remember that I stopped breathing, and I remember that I didn't mind.
 
-She came up the steps. She stood next to me on the landing. She looked at the gold light on the floor, and then at the dome, and then at Winston.
+She came across the marble to the foot of the stairs, where I stood on a small brass plate, and took her place beside me. Winston stood on the landing above us, in the gold light. She looked at the light, and then at the dome, and then at him.
 
 "It's a good echo," said Winston gently, to both of us.
 
@@ -143,7 +143,7 @@ Winston looked at me over the book.
 
 "It's in ours," said Maya.
 
-She said it quietly. She turned to me, on the landing, with the whole room behind her, and put her hand in mine. It was small and warm and dry. She'd taken off her rings, I saw, the few she wears; her hand was bare.
+She said it quietly. She turned to me, on the landing, with the whole room behind her, and put her hand in mine. It was small and warm and dry. Her hand was bare. The bands were in Winston's breast pocket; she'd picked them in the spring, from a jeweler on Valencia.
 
 "I choose you," said Maya. "And I'll tell you when I'm scared. Not by being polite." She stopped. Her voice shook, and steadied. "And you'll answer."
 
@@ -153,7 +153,9 @@ She said it quietly. She turned to me, on the landing, with the whole room behin
 
 "That's all I've got."
 
-Winston closed the book on his thumb. He looked at us for a moment, and at the room, and I saw his mouth move under the mustache.
+Winston took the two plain bands from his pocket, and we put them on each other's hands, hers steady, mine not.
+
+He closed the book on his thumb. He looked at us for a moment, and at the room, and I saw his mouth move under the mustache.
 
 "Then by the authority of the City and County of San Francisco," he said, "I'd like to say that I've done this thirty-one years, and that was the fastest and best one." He took a breath. "You're married. Take your time."
 
@@ -169,13 +171,13 @@ I never saw what it was, until the evening. I'll tell you when.
 
 I turned on the phone in the rotunda, on the steps, in the sun, with a petal in my hair.
 
-I'd planned to wait until the party. I'd planned a number of things. But we'd come out through the big doors onto the plaza, into a cold, bright, windy noon, with forty people throwing rice at us, or, in the Raman family's case, flowers, and somewhere in the noise I felt my hand go to my pocket on its own. I took out the phone. I held the button down.
+I'd planned to wait until the party. I'd planned a number of things. But we'd come out through the big doors onto the plaza, into a cold, bright, windy noon, with twenty-three people throwing rice at us, or, in the Raman family's case, flowers, and somewhere in the noise I felt my hand go to my pocket on its own. I took out the phone. I held the button down.
 
 It lit. It took a moment, as it does, to be itself. Then it began, in my palm, to shake.
 
-There were forty-one notifications. I looked at all of them, in one swift pass, with the part of my mind that had been trained to. None of them was from Meridian. None was from Carla. Thirty-eight were from a group chat, which turned out to be my sister, and my mother, and a cousin, and a man in a hospital in Seattle. Two were from Kyle.
+There were forty-two notifications. I looked at all of them, in one swift pass, with the part of my mind that had been trained to. None of them was from Meridian. None was from Carla. Thirty-nine were from a group chat, which turned out to be my sister, and my mother, and a cousin, and Arjun, who had been standing eleven feet from me. One was from Kyle.
 
-One was from Priya. It had arrived at 9:14 in the morning, in a plain gray bubble, with no greeting and no sticker, in the flat grammar of a woman who uses her words like money.
+Two were from Priya. The first had arrived at 9:14 in the morning, in a plain gray bubble, with no greeting and no sticker.
 
 **They're all green.**
 
@@ -209,7 +211,7 @@ I'll give you the yard. It's the one that everything in the book happens in. The
 
 And there was a pond.
 
-It was finished. It lay at the far end of the lawn, a wide, irregular kidney of dark water, perhaps fifteen feet across, with a ring of flat gray stones around it and a small, smooth, shallow ledge on one side where someone had put a bench. It had a black liner, and a pump with a little fall of water at one end, and a single lily pad, which a cousin of Ray's wife, he told me, had brought from Oregon in a jar. The kidney shape was the same. I recognized it. It had been, at the beginning, a curved line of string.
+It was finished. It lay at the far end of the lawn, a wide, irregular kidney of dark water, perhaps fifteen feet across, with a ring of flat gray stones around it and a small, smooth, shallow ledge on one side where someone had put a bench. It had a black liner, and a pump with a little fall of water at one end, and a single lily pad, which one of Denise's cousins, he told me, had brought in a jar. The kidney shape was the same. I recognized it. It had been, at the beginning, a curved line of string.
 
 He was standing at the edge of it in his jacket with a mug of coffee, looking at the water, when I went down.
 
@@ -217,9 +219,9 @@ He was standing at the edge of it in his jacket with a mug of coffee, looking at
 
 "I had help," said Ray. He didn't turn his head. "Dan came up in October, last year. He didn't ask. I never learned who told him. He arrived with a shovel and a thermos and started in on the east side." He took a sip. "We didn't say anything for nine days."
 
-I looked at him.
+I'd been up the mountain twice since. Nobody had said a word. My mother, it later emerged, had kept it secret for eleven months.
 
-"It was the best nine days I've had in thirteen years," said Ray.
+"It was the best nine days I've had since Denise," said Ray.
 
 We stood there. The light was going down through the redwoods. Behind us the party went on in its enormous, sprawling, joyful way, with a cousin shouting something in Tamil about rice, and a speaker, somewhere, that Kyle had finally been allowed to turn on.
 
@@ -231,7 +233,7 @@ We sat, on the bench on the ledge, with the water at our feet. He put the mug do
 
 I didn't say anything.
 
-"It's a fellowship. In her name." He said it plainly, to the water. "The Denise Calloway Scholarship Fund. I've given to the hospitals for years, scholarships, the usual. This is different. It's for night nurses. On the pediatric wards, to start. A year's pay for a nurse who wants to stay on nights, and to spend part of every shift sitting." He stopped. "With the ones who are frightened. That's all it is. It pays for the hours."
+"It's a fellowship, though the paperwork says *Scholarship Fund.* In her name." He said it plainly, to the water. "The Denise Calloway Scholarship Fund. I've given to the hospitals for years, scholarships, the usual. This is different. It's for night nurses. On the pediatric wards, to start. A year's pay for a nurse who wants to stay on nights, and to spend part of every shift sitting." He stopped. "With the ones who are frightened. That's all it is. It pays for the hours."
 
 I looked at the water.
 
@@ -243,11 +245,11 @@ I looked at the water.
 
 I couldn't speak.
 
-"Nobody's job was to notice," said Ray. "She made it hers. That's what I'd like to pay for. I'd like to give someone the forty minutes." He looked at me, finally, in the gold light, a long, pale, level look. "You wrote a page once. *Healthcare, something.* I thought, I'm too old. I've got a hole in a lawn. And then you kept coming up the mountain with people who'd gone quiet, and I thought, well. There's a something."
+"Nobody's job was to notice," said Ray. "She made it hers. That's what I'd like to pay for. I'd like to give someone the forty minutes." He looked at me, finally, in the gold light, a long, pale, level look. "You said *something* to me once, about healthcare. I thought, I'm too old. I've got a hole in a lawn. And then you kept coming up the mountain with people who'd gone quiet, and I thought, well. There's a something."
 
-"I asked you about nurses," I said. "In May."
+"You asked me about nurses," I said. "In May."
 
-"I wanted it to work." He said it without embarrassment. "I wanted to know what a night shift really is. Who calls. How many." He looked at the water. "You're a good boy to ask. Never ask me why I didn't say."
+"I wanted it to work." He said it without embarrassment. "I wanted to know what a night shift really is. Who calls. How many." He looked at the water. "You're a good boy not to ask. Never ask me why I didn't say."
 
 "Ray."
 
@@ -267,7 +269,7 @@ There was a silence.
 
 He did. He stood at the head of a trestle table, in a tie, and wept, with great sincerity, while my sister, from the back, called out, "Kyle, sit *down,* you're ruining the sweets," and Jules, beside her, put a handkerchief in his hand. It was the best toast I've ever heard. I'd say that to anyone. It was the worst-timed in recorded history, and I wouldn't have changed a word.
 
-Cole came alone. I'd noticed it at the ceremony, in a way I hadn't named. He was at the edge of the lawn at dusk, in the jacket the color of wet sand, on the far side of the pond, with a plate he wasn't eating.
+Cole came alone. I'd invited him in August, which had surprised us both. He was at the edge of the lawn at dusk, in the jacket the color of wet sand, on the far side of the pond, with a plate he wasn't eating.
 
 "I came without a plus-one," said Cole, when I went over. He said it lightly. It wasn't. "I wanted to see what it looked like."
 
@@ -319,19 +321,19 @@ She had something in her hand. She'd had it all day, in a loose fist, in a fold 
 
 It was a pencil. It was about two inches long, a stub, sharpened with a kitchen knife, with a flat, brown, worn-smooth end where a thumb had been, and a little cap of teeth marks, and on the barrel, in worn gold, the remains of a name. I couldn't read it. It was the sort of pencil you get free from a hardware store.
 
-"That's hers," said Maya. "It's the one from behind her ear. For thirty years. She wrote the roll with it. She wrote *Nate. Cup.*" She turned it over on her palm. "She said, *Now you keep the list.*"
+"That's hers," said Maya. "It's the one from behind her ear. For thirty years. She wrote the roll with it. She wrote *Nate. Cup.*" She turned it over on her palm. "She said, *When you want it.*"
 
 "Do you want it?"
 
 "No." She said it quickly. And then, more slowly: "I don't want the list. I've had it since I was nine. She knows. That's why she gave it to me." She closed her fingers over the pencil. "It's for when I do."
 
-I put my arm around her. We sat there, in the late light, with a pond at our feet and a hundred people eating in the dark behind us and a pencil in her hand. Somewhere across the water, Kyle, who'd been given back his speaker, put on a song. I didn't know it. It was slow. It had, as I learned later, a title, a number of verses, and not one of the nine she hated.
+I put my arm around her. We sat there, in the late light, with a pond at our feet and sixty people eating in the dark behind us and a pencil in her hand. Somewhere across the water, Kyle, who'd been given back his speaker, put on a song. I didn't know it. It was slow. It had, as I learned later, a title, a number of verses, and not one of the nine she hated.
 
 ---
 
-I texted my father at 11:52 that night, from a bed in a hotel in the Mission, with the red toolbox on the chair.
+I texted my father at 11:52 that night, from the guest room at Ray's, with the red toolbox on the chair.
 
-I'd been looking at it for some time. The card was beside it, on the table. We'd left Ray's at ten, and driven back through the dark, with the windows open and rice in the back seat, and Maya had fallen asleep against the door at the first light. I held the phone. I thought of a plane, and a wind, and a hand held out at an airport. I didn't plan it. I typed it with my thumbs.
+I'd been looking at it for some time. The card was beside it, on the table. We'd gone up to the guest room at ten, and Maya had fallen asleep against the headboard before she'd finished taking out her pins. I held the phone. I thought of a plane, and a wind, and a hand held out at an airport. I didn't plan it. I typed it with my thumbs.
 
 *We got here.*
 
@@ -347,7 +349,9 @@ I put the phone down on the table, face up, by the card. I lay there, for a long
 
 I was up at six on Sunday, and I went out to the mailbox with Ray.
 
-It was a gray, cold morning, with mist in the redwoods. We'd stayed at the house, in the end, in the guest room that he'd kept made. I found him in the kitchen, in his flannel, at the table, with his hands around a mug. He didn't say good morning. He stood up, slowly, and went to the drawer with the batteries, and took out an envelope. It was white, a little gray at the edges, with a single word on the front in a careful block hand, and under it an address in Oregon. There was a stamp on it.
+It was a gray, cold morning, with mist in the redwoods. I found him in the kitchen, in his flannel, at the table, with his hands around a mug. He didn't say good morning. He stood up, slowly, and went to the drawer with the batteries, and took out an envelope. It was white, a little gray at the edges, with a single word on the front in a careful block hand, and under it an address in Oregon. There was a stamp on it.
+
+"It's one page," said Ray. "It asks him to help with the fellowship. It isn't a speech."
 
 He looked at me. I nodded.
 
@@ -369,7 +373,7 @@ He held it there. The bubble moved, and settled. He didn't say anything. He look
 
 Ray looked at him.
 
-I don't know how to describe what passed between them. It lasted perhaps three seconds. It had no words in it, and nothing was said, and my father and my uncle, who had talked at Christmas about the weather for thirty years, stood on either side of a mailbox post on a gravel road in the mist, with a level between them, and I understood that it was an entire conversation, conducted in a language the two of them had invented, in a kitchen, as boys, in Dayton, out of nouns.
+It lasted perhaps three seconds. My father and my uncle, who had talked about the weather at Christmas for thirty years, stood on either side of a mailbox post in the mist, with a level between them, and I understood that it was an entire conversation, in a language the two of them had invented as boys, in Dayton, out of nouns.
 
 "That'll hold," said my father.
 
@@ -382,10 +386,10 @@ I don't know how to describe what passed between them. It lasted perhaps three s
 
 There's a slide for this one, too. It says: *Culture is what people do when you're not in the room.* I've given it a hundred times. It has a photograph of a lighthouse. I never believed a word of it, and I'd have told you so, if you'd asked me in the right voice.
 
-I believe it now, for a reason I can give you in three words. They're from a text message. I'd been standing in a paneled room, with my father, holding a toolbox. I'd handed over a key. The phone was off. And at 9:14 in the morning, a company I'd spent three years building did the thing it does: it answered. Nobody told it to. There wasn't a person in the building who could have said who'd decided.
+I believe it now, for a reason I can give you in three words. They're from a text message. I'd been standing in a paneled room, with my father, holding a toolbox. I'd handed over a key. The phone was off. And at 9:14 in the morning, a company I'd spent two years building did what it was built to do. Nobody told it to. There wasn't a person in the building who could have said who'd decided.
 
 That's all the culture I've seen. It isn't the lanyards. It's what happens on the morning you're not there, and it turns out to be exactly what you'd have done, if you'd been braver and a little more tired.
 
 It isn't different at home. My father didn't change the sentence. He wrote it on a card, and put it in a box with the tools, and said, in a paneled room, what it meant. It took him thirty years. It took him exactly one second to hear that it had always been heard.
 
-I texted him from the hotel that night. I'm told it's the first time in my life I've answered it on time.
+I texted him that night. It's the first time in my life I've answered it on time.

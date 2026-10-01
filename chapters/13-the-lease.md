@@ -177,7 +177,7 @@ At 8:05 in the morning there was a knock on the door, and there he was in the ha
 
 I didn't say anything.
 
-"Also I'm sorry." He looked at the hand truck, carefully, like a man reading the instructions on it. "I've been writing this for thirteen days. I was going to do it in a speech, and then I remembered the thing you said. About the speech." He set the doughnuts on the counter. "I said it because I thought you'd stop needing me. The thirteen-months thing. That's the whole sentence. I took a long time to get to it."
+"Also I'm sorry." He looked at the hand truck, carefully, like a man reading the instructions on it. "I've been writing this for thirteen days. I was going to do it in a speech, and then I remembered the thing you said. About the speech." He set the doughnuts on the counter. "I said it because I thought you'd stop needing me. The thing I said about the thirteen months. That's the whole sentence. I took a long time to get to it."
 
 "Kyle—"
 
@@ -219,7 +219,7 @@ It was the first thing he'd said since he sat down. He was at the head of the ta
 
 "It's double the hours. Arjun could—"
 
-"Arjun is in Seattle," said Suresh. (Arjun was her older brother, an ER resident, the one who'd gone away and succeeded. I had never met him.) "He is saving people." He said it with pride and no apology. "I have a daughter."
+"Arjun is in Seattle," said Suresh. (Arjun was her older brother, an ER doctor, the one who'd gone away and succeeded. I had never met him.) "He is saving people." He said it with pride and no apology. "I have a daughter."
 
 The room was absolutely silent. A clock ticked in the hall. I looked at Maya, and I saw her do it. I watched her receive it, the way you receive a parcel you've known for years was coming, and she didn't move at all. She looked at her father. Her face went polite.
 
