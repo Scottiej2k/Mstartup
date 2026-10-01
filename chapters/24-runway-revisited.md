@@ -19,15 +19,15 @@ I put the cap on the pen. The arrow stopped halfway to the man. I left it there.
 
 I should say what I'd noticed.
 
-I'd noticed it in pieces. It's a thing I do now; I can't help it. I'd noticed first the coffee, at Ray's, on a Tuesday in the middle of August. Ray's coffee had been drinkable since the spring, which he considered a personal victory, and he'd poured her a cup, and she'd put her hand over it without looking and asked for water. She was not a coffee drinker. She was a tea person, with a mug in her hand every morning of her adult life, the way another person has a face. But she liked the *smell* of mine, she'd always said, and in the second week of September she began to leave the kitchen when I made it. She said it smelled *loud.* She said it with her hand over her nose, quite calmly, as if reporting a fact about the weather.
+I'd noticed it in pieces. It's a thing I do now; I can't help it. I'd noticed first the coffee, at Ray's, on a Tuesday in the middle of August. Ray's coffee had been drinkable since the spring, which he considered a personal victory, and he'd poured her a cup, and she'd put her hand over it without looking and asked for water. She was not a coffee drinker. She was a tea person, with a mug in her hand every morning of her adult life, the way another person has a face. But she liked the *smell* of mine, she'd always said, and in the second week of September she began to leave the kitchen when I made it. She said it smelled *loud.* She said it with her hand over her nose, quite calmly, as if reporting a fact about the weather. I asked her about it once, lightly, at the counter: *you okay?* She said the smell was loud, and she'd been sleeping badly, and she was fine. It was a reasonable answer. Probably it was even true, as far as it went. I decided, on purpose, to take it.
 
 I noticed a banana in her bag. I noticed a nap, on a Tuesday, at four, on the couch in the room behind the pharmacy, with her white coat folded under her head. I noticed that she'd turned down a second helping, at her mother's table. Nobody in the Raman family has ever turned down a second helping. Lakshmi had noticed, too. I'd seen her notice, across the table, and say nothing, and write nothing, and put a second portion in a container for Maya to take home.
 
 I noticed that on Saturdays she slept until nine. I counted six things. I did not add them.
 
-I'd learned, in a kitchen in February, with an envelope, what I was supposed to do about a thing like that. It was the thing I'd been told, and had agreed to, and had written on the refrigerator. *Don't fix. Just be the one I tell.* That's the part about the telling, and it has a second part, which nobody mentions, which is that you have to leave room for it. You can't go in and get it. You stand in a doorway, and you wait to be told.
+I'd learned, in a kitchen in February, with an envelope, what I was supposed to do about a thing like that. It was the thing I'd been told, and had agreed to, and had written on the refrigerator. *Don't fix. Just be the one I tell.* That's the part about the telling, and it has a second part, which nobody mentions, which is that you have to leave room for it. You can't go in and get it. It's her news, and she gets to decide when it becomes ours. I'd asked once and been answered, and that was the end of my part. You stand in a doorway, and you wait to be told.
 
-It was the hardest thing I did that year. I'd built a company out of the idea that you notice, and tell a person, and I stood in my own kitchen with six pieces of evidence and said nothing. I caught myself, on the eighteenth, in the bathroom mirror, rehearsing the face I'd make. It was a good face. It was *surprised.* Then I heard it, over the faucet, and I stopped, and washed my hands, and went back out.
+It was the hardest thing I did that year. I'd built a company out of the idea that you notice, and tell a person, and I stood in my own kitchen with six pieces of evidence and let her keep them. I caught myself, on the eighteenth, in the bathroom mirror, rehearsing the face I'd make. It was a good face. It was *surprised.* Then I heard it, over the faucet, and I stopped, and washed my hands, and went back out.
 
 ---
 
@@ -240,14 +240,14 @@ There was nothing around it.
 ---
 
 **FOUNDER'S NOTE**
-*Notice, then wait to be told.*
+*Notice, ask once, then let her tell it.*
 
 Note to self, and to you, whoever you turn out to be.
 
-At work, noticing is the whole product. Loopback notices when someone goes quiet and tells the person they chose. I've spent three years getting good at it: the second ring, the named person, the text that says someone has it.
+At work, noticing is the whole product. Loopback notices when someone goes quiet and tells the person they chose. I've spent three years getting good at it: the second ring, the named person, the text that says someone has it. And the first rule of the product is the one I almost forgot at home: the person presses the button herself. We never told anyone anything she hadn't agreed to.
 
-At home it's the opposite move. For five weeks I noticed things and said nothing: the coffee, a banana in her bag, a nap on a Tuesday. It was the hardest thing I did all year, because everything in me wanted to tell her what I'd seen. But the first rule of the product is the first rule of her: the person presses the button herself. At work, you tell. At home, you leave room and wait.
+At home I noticed six things in five weeks, and I did the one thing the product allows. I asked once, lightly. *You okay?* Maya gave me an answer that made sense: the coffee smelled loud, she'd been sleeping badly. It was plausible. It was probably even true, as far as it went. And I decided, on purpose, to take it. That was the hard part. Noticing is easy; I'm built for it. Choosing to believe a reasonable answer, when some part of me suspects a bigger one, is respect. She was allowed to have something that was hers before it was ours. I wasn't owed it on my schedule.
 
-How to tell which: ask who chose me. A customer chooses a named person, so I tell the named person. Maya chose me to be the one she tells. That's all it means, and it's most of the job.
+Rule: notice, ask once, accept the answer, and leave a door open on my side. If it's something she wants me to know, she'll say it. If I go in and get it, I've taken the one thing she gets to give.
 
-I don't know much about you yet. I know the first rule. You'll be the one who tells us, and we'll wait.
+I've been rehearsing what I want you to know about me. You'll never meet the first version of me, the one with the spreadsheet and the funnel and the joke about a cliff. I shipped that one to your mother, and she was kind enough to use it anyway. Everything in this book is what he learned by being wrong in front of people who loved him. I hope it was enough. I'm going to be the dad who asks the second question and waits. The one who answers on the first ring, and who loves you, and says so before you ask.
