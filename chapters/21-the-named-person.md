@@ -261,7 +261,7 @@ I looked at the sentence.
 
 "In my head," I said. "I'll put it in my head."
 
-She almost laughed. She was tired, and a little wet around the eyes, and she put her hand over mine, on the envelope, and left it there. We sat for a long time, without saying anything, and nothing needed to be fixed. It was past eleven. It was, I think, the first time I'd ever done a post-mortem on a thing that was still alive. In the morning she told her father about Kevin. He listened, and opened the notebook by the register, and wrote it in himself.
+She almost laughed. She was tired, and a little wet around the eyes, and she put her hand over mine, on the envelope, and left it there. We sat for a long time, without saying anything, and nothing needed to be fixed. It was past eleven. It was, I think, the first time I'd ever done a post-mortem on a thing that was still alive. We woke at ten to six the next morning, without an alarm, and lay in the blue light, and told each other one small true thing apiece. Hers was that she hated my shirt. Mine was that I'd known. Later that day she told her father about Kevin. He listened, and opened the notebook by the register, and wrote it in himself.
 
 ---
 

@@ -189,6 +189,8 @@ I put the lanyard on. It sat against my sternum, light as a coin.
 
 ---
 
+On Saturday at six in the morning my phone said *A.* It was Suresh, from a hospital bed. It came again on Sunday. He'd said he'd ask me properly, and he was telling me instead, in one letter, and I understood that this was the version he could do.
+
 On Sunday night, we sat at the kitchen table.
 
 Suresh was home. He'd been told: four days a week at the store, then three; no lifting for a week; a pill in the morning and one at night, in a plastic box with the days on it, which Lakshmi had taken from him on the first evening and now held. He'd said, in the car, to the windshield, "I am not retired." Lakshmi had said, "No," in the way that means *yes.* He'd said that he would be at the store on Monday at nine, and she'd said that was fine, and that she'd be there at eight.
