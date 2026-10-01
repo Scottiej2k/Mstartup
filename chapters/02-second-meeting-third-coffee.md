@@ -444,10 +444,10 @@ It was the best follow-up of my life, and it wasn't on a list. She was still the
 **FOUNDER'S NOTE**
 *Follow up.*
 
-The most reliable predictor of whether a company survives its first year isn't the idea. Investors will tell you it's the team, and the team will tell you it's the timing, and both are true in the way a weather report is true. What I've watched, over and over, is smaller than either. It's whether someone sent the second email.
+Note to self.
 
-Most deals don't die in the room. They die in the gap between the meeting and the reply, when everyone leaves warm and nobody writes. Priya calls it *the gap*, and she says a company is mostly a set of decisions about who crosses it.
+At work, deals don't die in the meeting. They die in the gap after it, when everyone leaves warm and nobody writes. My rule now: the second message goes out within a day, and it says one real thing. The week I finally wrote to Ruth in Petaluma, five months late, three customers wrote back. One said, "Better late." Late was fine. Silence wasn't.
 
-I built a spreadsheet to cross it with Maya. Priya saw it on a screen share. No one has ever been more gracious about a tab.
+At home I took the rule too literally. After Maya gave me her number I built a spreadsheet: touchpoint, objective, ask. Priya saw it on a screen share. A person isn't a pipeline, and the tab said so out loud. What worked was a photograph of a bad sandwich, sent on a Sunday with no objective at all.
 
-What worked, in the end, was a photograph of a bad sandwich.
+So: follow up fast, because silence reads as a no. But the message has to be about her, not about the follow-up. If I can fit it in a column, I'm doing sales.

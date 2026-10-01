@@ -382,14 +382,12 @@ It lasted perhaps three seconds. My father and my uncle, who had talked about th
 ---
 
 **FOUNDER'S NOTE**
-*Culture is what you keep doing.*
+*Hand it over so you can be there.*
 
-There's a slide for this one, too. It says: *Culture is what people do when you're not in the room.* I've given it a hundred times. It has a photograph of a lighthouse. I never believed a word of it, and I'd have told you so, if you'd asked me in the right voice.
+Note to self.
 
-I believe it now, for a reason I can give you in three words. They're from a text message. I'd been standing in a paneled room, with my father, holding a toolbox. I'd handed over a key. The phone was off. And at 9:14 in the morning, a company I'd spent two years building did what it was built to do. Nobody told it to. There wasn't a person in the building who could have said who'd decided.
+At work, the day that mattered was also the day that could break the company, and I couldn't be in both places. So on Friday night I gave Priya a small black key, the pause switch for forty stores, and a runbook written by someone else. Then I turned my phone off. The rule I gave her: if I leave it on, I'll look; if I look, I'll help; and then it's mine on the morning she should have had it.
 
-That's all the culture I've seen. It isn't the lanyards. It's what happens on the morning you're not there, and it turns out to be exactly what you'd have done, if you'd been braver and a little more tired.
+At home, the same rule is what let me stand at City Hall at eleven o'clock and be married. Not half there with a phone in my pocket. Dan gave me a red toolbox with a card in it, *TEXT ME WHEN YOU GET THERE,* and I answered it, for the first time in my life, that night.
 
-It isn't different at home. My father didn't change the sentence. He wrote it on a card, and put it in a box with the tools, and said, in a paneled room, what it meant. It took him thirty years. It took him exactly one second to hear that it had always been heard.
-
-I texted him that night. It's the first time in my life I've answered it on time.
+Before a day that matters to Maya: pick the person who holds the key, write down what they do, and turn the phone off. Then the company has to run without me, and I have to let it.

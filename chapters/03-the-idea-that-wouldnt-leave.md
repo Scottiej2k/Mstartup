@@ -304,12 +304,12 @@ It hadn't occurred to me. I've come to think it was the most useful thing anyone
 ---
 
 **FOUNDER'S NOTE**
-*The best ideas come from someone else's pain.*
+*Say it the way the person on the other end would want to hear it.*
 
-I've been in rooms where founders talk about their ideas as if they'd been struck by lightning. In my experience, ideas don't strike. They get handed over, usually by someone who has no idea they're handing anything over, usually in the middle of complaining.
+Note to self.
 
-Maya's mother keeps a list on the back of a receipt roll. A doctor in Oakland makes calls on Sunday nights, badly. A neighbor of Priya's found out about a man on a kitchen floor after two days. None of them said *you should build this.* They said what happened.
+At work, my first draft of the message Loopback would send was: *We have detected an absence of activity on your device for fourteen hours.* Maya rewrote it in four minutes. *You've been quiet today. We wanted to check you're okay. If we don't hear back.* Same facts, no threat. The rule: write the message from the seat of the person who gets it, and read it out loud.
 
-The job, if there is one, is to hear it as information instead of conversation. I'd like to say I was listening for that. I was listening for a market. It took someone with no interest in my market to make me hear the rest.
+At home, I talk like the first draft. I say *bandwidth* and *prioritize* and *circle back.* I've noticed that when I'm scared, my words get more technical. So before I say anything that matters to Maya, I say it the way I'd text a woman who lives alone. *I miss you,* not *I've been underinvesting.* *I'd like more time with you,* not *let's revisit our schedule.*
 
-There's a second lesson in that month, which I only saw later. An idea is easy to sell. Cole would have bought mine by Friday. What was harder to find was someone willing to be in the room with it while it was still a question mark, and who'd check that I was willing too.
+The whole company started with three people describing what happened to them, and not one of them was talking to me. Write down what they say, in their words, before I do anything clever with it. That goes for her, too.

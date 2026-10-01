@@ -200,29 +200,12 @@ He'd have come to Ray's if I'd asked. I'd told him, in November, that he was wel
 ---
 
 **FOUNDER'S NOTE**
-*Scale what works.*
+*Before you scale it, find out what made it work.*
 
-**TO:** All founders
-**FROM:** A person who has read the memo
-**RE:** Scaling the thing that works
+Note to self.
 
-Everything you were told is correct. When a thing works once, you should do it ten times. A good dinner is a recipe; a good meeting is a standing meeting; a good week is a template, and the template should have a link. If you've found a thing that works, put it on a calendar, give it an owner, and remove the part where it depends on someone feeling like it.
+At work, when something works once, put it on a calendar and give it an owner. A good meeting becomes a standing meeting. I've done it a hundred times and it's right. Scale the process, not the heroics.
 
-Please note the following exceptions, which apply to almost everything.
+At home, Fridays with Maya had worked for months: a walk, then the Thai place on Murphy. Nobody planned it. Then we missed two, and I opened the calendar and made a recurring *Date Night — Maya + Nate,* with a reminder, a *Leave now?* and a video link. Maya read it aloud in the kitchen. "It's in my calendar. With a link." Fridays worked because we'd each chosen them. The moment I scheduled it, it became a meeting.
 
-You may scale a process. You may not scale a person's wanting to be there. Those look identical for about three weeks, from the outside, on a dashboard, and then they stop looking identical, and the first one to notice is never the one who built the calendar.
-
-Please also note that the thing that worked on Fridays was not Friday. It was that nobody had asked. The moment you ask, it becomes a different thing, and sometimes a better one. But it isn't the same thing. Do not report it as the same thing.
-
-Some other findings from the first two months:
-
-1. A customer who says *no, thank you* has given you the most useful sentence you'll hear all year.
-2. A *great catch!* is not a thank-you.
-3. When a good person, on a good week, types *np* with a period on it, the period is the message.
-
-I wish I could tell you I knew the third one then. I knew it in the bathroom, with the toothbrush in my mouth; I filed it with the first two. The pattern, I've since learned, is that I always knew. It's what I did with it.
-
-Regards,
-N.
-
-*P.S. The reason the Thai place works, by the way, isn't the food.*
+Rule: before I scale anything with Maya, I write down why it worked. If the answer is *because he wanted to,* it doesn't go on a calendar. I deleted the series that night. On Friday I came home with a bag of Thai and no plan. Two misses in a month is a Friday problem, not a systems problem.

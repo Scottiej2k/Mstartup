@@ -368,12 +368,12 @@ She told her mother on Sunday, in the kitchen of the cream stucco house, with th
 ---
 
 **FOUNDER'S NOTE**
-*Bad news doesn't age well.*
+*Tell bad news within the hour.*
 
-I told Carla at 6:31 p.m. on a Thursday, about twenty minutes after I knew. Maya told me on a balcony, within the hour, which is a different sort of early, and I'll tell you what I learned from it.
+Note to self.
 
-Bad news is like milk. It's fine for about an hour. Then it begins to turn into other things: into a plan, a cover story, a *we're looking into it,* a version in which you come out better. By morning it has a smell, and by Monday it's a different substance altogether, and the person you didn't tell has to taste it.
+At work, I told Carla about the bug about twenty minutes after I knew. Bad news is like milk. It's fine for about an hour. Then it turns into a plan, a cover story, a *we're looking into it,* a version where I come out better. By morning the person I didn't tell has to taste it.
 
-I told Carla before it turned. Maya told me before it turned. I've thought a great deal about the fact that the two of them did the same thing for me in the same month, at different tables, with no knowledge of each other, and that I nearly missed the second one because I was busy being proud of the first.
+At home, Maya told me on a balcony, within the hour, that she didn't know if she could do both days of a wedding. I nearly missed what she'd done, because I was busy being proud of what I'd done for Carla. So the rule works both ways at home. When I have bad news for her (a missed dinner, a money problem, a demo that broke) I set a clock. One hour. No cover story, no plan first.
 
 Carla said one more thing that night. I filed it under *confusion.* It belonged somewhere else, and it took me until winter to find out where.

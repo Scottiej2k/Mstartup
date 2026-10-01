@@ -312,12 +312,12 @@ I looked at Priya. She nodded once, barely. It was the first time she'd ever agr
 ---
 
 **FOUNDER'S NOTE**
-*Take money from people who'll still be in the room the week after you're wrong.*
+*Take advice from people who'll still be there the week after you're wrong.*
 
-I had two offers on my desk that month, each a short document in which an investor puts a number on you. One was for three million dollars, in a beautiful typeface, with a globe. The other was for a million two, on what looked like a single sheet of copy paper, and the ink had run a little at the corner.
+Note to self.
 
-The difference wasn't the number. It wasn't the twenty percent or the twelve. In one room I'd been someone who could say *ambient,* and in the other I'd had nothing to say but what had happened, and only one of those men could be reached at one in the morning.
+At work, Margo's test. I had two offers: three million dollars, with a globe, and a million two, on copy paper. Margo said she'd judge me by how I behave the week after I'm wrong, and she asks two questions every quarter. *What would make you shut it down? How will you know you're wrong?* One of those rooms loved a market. Only one of those people could be reached at one in the morning.
 
-Margo's line is the one I'd give to anyone who's ever pitched a fund. *You'll be judged, by me, by how you behave the week after you're wrong.* She meant it about me. It turned out to be a good test for anyone you plan to sit across a table from for years.
+At home, I run the same test on advice about Maya. Cole told me to keep the girlfriend quiet until the round closed, and to say *healthcare infrastructure* instead of *pharmacy.* Cole is good company. He won't be in the room the week after. Kyle will. Priya will. Ray will. Rule: before I act on anyone's advice about my marriage, I ask whether they'd still be there when it goes wrong.
 
-Maya asks her question still. *Who did you just talk to?* I've learned to tell her first.
+And at her parents' table, Maya asked, "Who did you just talk to?" It was the pitch voice. When I hear it, I stop, say the plain version, and tell her first.

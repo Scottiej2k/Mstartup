@@ -284,12 +284,12 @@ I looked at it. I felt, I'm sorry to report, proud. I thought: *I've learned som
 ---
 
 **FOUNDER'S NOTE**
-*Fight, repair, then move.*
+*Don't build what nobody asked for.*
 
-We moved on a Saturday in August, and it was the third thing I did in the right order that month. I'll name the other two. First there was a fight, which I'd been avoiding for a year, and which I won in a way that cost me. Then there was a repair, which happened at eight in the morning in a doorway with a hand truck, and which I didn't deserve, and which I've been trying to earn since. The move came after.
+Note to self.
 
-It would have been a simple thing to do in the reverse order. I've seen people do it. You move in, and then the fight happens in a kitchen that's too small, and you don't have a doorway to stand in.
+At work, I know this rule. Eight months on an inventory tool nobody asked for taught me: before I build anything, find out whether anyone asked. Theo found the bug in an afternoon, after I'd spent a week on it, and he waited to see if I'd ask him for help.
 
-I should say something about Kyle, because I've never said it to his face. He'd been giving me the same piece of advice for a decade, and I'd been hearing it as a speech, and what it was, all along, was a man standing in a room that was about to be empty. He asked before he advised. It took him thirteen days. It cost him the only armchair he'd ever half-owned. I'll tell you what he's since told me: that it's the best thing he ever gave away.
+At home, I broke the rule inside a month. I put a row in the lease spreadsheet that said *Maya (50%).* I built a staffing spreadsheet for her family's pharmacy that nobody asked for, and Maya said, "That's very thoughtful," which is a door closing. Then I set a reminder on my phone, Sundays at seven: *Maya check-in. Ask open questions. Listen. Don't fix.* It was the inventory tool, with a person as the customer.
 
-I'm told the armchair is ugly. I've stopped letting people say so.
+Rule: before I build anything for Maya or her family (a spreadsheet, a reminder, a plan) I ask, *did you ask for this?* If I can't say yes, I don't build it. Kyle asked before he advised. It took him thirteen days to give away an armchair. I can wait thirteen minutes.

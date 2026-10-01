@@ -270,19 +270,14 @@ The sign on the door said *CLOSED 6 P.M.* in red. Somebody had crossed out the *
 ---
 
 **FOUNDER'S NOTE**
-*Don't treat a customer like a lead.*
+*She isn't a lead and neither is her mother.*
 
-A lead, in my business, is a person who might buy something, with the person taken out. It's a row. It has a name, a company, and a number beside it that says how warm. It is an extremely useful thing to have. I've kept spreadsheets of them that I'd have run into a fire to save.
+Note to self.
 
-The trouble is that it isn't a tool you can put down. I'd been trained to see the row for six years, and it worked on a pharmacy, and on a family, and on a Saturday, the way a tune does after you've heard it too often. I'd had a hundred and forty names in front of me, in pencil, in a woman's hand, each with a note about a husband or a visa, and I saw a network. She saw a night's worth of phone calls.
+At work, when a person already has a hundred and forty people's trust, I want to know how to reach them. Good founders count that. Fine.
 
-I learned more in the thirty steps to the UPS Store than in the four months before them. The man who taught me said almost nothing.
+At home it nearly cost me. I stood in Maya's stockroom, looked at her mother's receipt roll, and said *network.* She said, "Those are people. Not leads." I'd taken a rule that works on a market and used it on her family, her father's store, the names she grew up reading off a wall. I wasn't being unkind, which is the worst part.
 
-I haven't stopped seeing rows. Ask Maya. Ask her about the coat.
+Rule: anything Maya loves isn't a resource on my project. When I catch myself doing business math on it, I stop and ask what it is to her before I ask what it's worth. The quick check is this: would I say it in front of her mother? If not, I don't say it to her, either.
 
-TO: Me
-FROM: Me, Saturday, 12:41 p.m., the stockroom
-RE: The list
-PAGES: 1
-
-PLEASE CONFIRM RECEIPT.
+It's a good habit at work, too. It slows me down. That's fine.

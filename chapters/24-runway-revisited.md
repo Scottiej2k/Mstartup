@@ -240,4 +240,14 @@ There was nothing around it.
 ---
 
 **FOUNDER'S NOTE**
-*[RESERVED. To be written last, with Scott.]*
+*Notice, then wait to be told.*
+
+Note to self, and to you, whoever you turn out to be.
+
+At work, noticing is the whole product. Loopback notices when someone goes quiet and tells the person they chose. I've spent three years getting good at it: the second ring, the named person, the text that says someone has it.
+
+At home it's the opposite move. For five weeks I noticed things and said nothing: the coffee, a banana in her bag, a nap on a Tuesday. It was the hardest thing I did all year, because everything in me wanted to tell her what I'd seen. But the first rule of the product is the first rule of her: the person presses the button herself. At work, you tell. At home, you leave room and wait.
+
+How to tell which: ask who chose me. A customer chooses a named person, so I tell the named person. Maya chose me to be the one she tells. That's all it means, and it's most of the job.
+
+I don't know much about you yet. I know the first rule. You'll be the one who tells us, and we'll wait.

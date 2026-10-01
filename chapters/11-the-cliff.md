@@ -258,16 +258,12 @@ She looked at me for a long moment. She put the other side of the headphones dow
 ---
 
 **FOUNDER'S NOTE**
-*A cliff is a promise with a price.*
+*Say the unwritten part out loud.*
 
-**cliff,** *n.* (1) In a founders' agreement, the first year, during which nothing belongs to you, and at the end of which the first year's worth does, all at once. Designed to protect a company from a person who leaves early. Reasonable.
+Note to self.
 
-(2) In my experience, the place where someone stops answering.
+At work: a founders' agreement is for the questions nobody wants to ask while they still like each other. Who owns what. What happens if either of us leaves. What happens if we take money. Priya made me answer them on paper in April, and added one of her own: neither of us can take investment without the other. We had the argument while we liked each other. That's the cheapest time.
 
-I had the first meaning in one pocket and the second in the other, and I took them both to Dayton, and I found out at a dinner table that I'd never put them next to each other. The joke was a bad one. What I couldn't get past was how ready it was. You can only say a thing like that, in that light, to that woman, if the word has been sitting under your tongue, waiting for a chance.
+At home, I tried to carry the same tools through the door. A cliff, a vesting schedule. I joked about a one-year cliff at my parents' dinner table and my whole family stopped chewing. Those tools are fair between business partners, who earn trust in installments. Maya isn't a partner I'm vesting. She wasn't afraid I'd leave in a year; she was afraid there was a schedule.
 
-(3) My father's, which I'm still learning. *Text me when you get there.* It was the only sentence he had, and I'd been filing it under logistics since I first left for college.
-
-I haven't stopped mistaking one kind of cliff for another. Priya would say I've improved. Annie would say I'm a work in progress. Maya would say that she'd noticed, and that it was a beginning.
-
-She texted my father when we landed, by the way. I hadn't asked her to. It said: *We got here.*
+Keep the habit, drop the instrument. Say the hard terms early and out loud. On the back step I said it: *There's no schedule. You're in.* I should have said it on Friday.

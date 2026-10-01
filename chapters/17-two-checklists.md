@@ -296,12 +296,12 @@ I stood at the counter, with my hands at my sides. I didn't write it down. I und
 ---
 
 **FOUNDER'S NOTE**
-*Lists are for remembering. People are for doing.*
+*Put a name and a time next to every line.*
 
-I've been asked what I'd tell a founder who's about to launch. I'd say: write a good list. Put a green header on it. Make it a little too long.
+Note to self.
 
-And then look at it, on a slow afternoon, and ask who's next to each line. Not a team. Not a role. A name, and what that person will be doing at ten past nine on a Saturday. I had eighty-three items, and a risk register for forty-one guests, and they were all true, and none of them could have picked up a telephone.
+At work, Carla's checklist had eighty-three items and every one began with a verb. It said *Loopback to provide 24/7 response contact.* It didn't say who. So I put a name beside each of forty stores, a person and not a role, and what that person would be doing at ten past nine on a Saturday. Lists are for remembering. A name is for picking up the phone.
 
-I took the idea from a strip of paper on a wall, from the wrong side of a counter. It took me until a Saturday in July to see it. I'd like to say thank you, in print, to Lakshmi Raman, who will say it was nothing.
+At home, I did the same thing to the wedding, and it failed. I built a Master Plan: three hundred and six tasks and a Deconfliction Matrix. Maya said, "It's a wedding, not a migration." She crossed it out with a ruler and left three lines: City Hall, Ray's yard, People. Her mother had done it better, on a strip of paper on a wall, with one person per job.
 
-Maya's plan, the real one, is still in a drawer. It has three lines, and a box around them, and eleven pages of crossings-out in a clean, straight hand.
+Rule: a plan for a day that's about people needs names and nothing else. If the plan is longer than the room, I'm managing the wedding instead of attending it.

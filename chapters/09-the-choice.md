@@ -328,14 +328,14 @@ Kyle put his spoon down. He looked at me with an expression I'd never seen on hi
 ---
 
 **FOUNDER'S NOTE**
-*Optionality is a tax.*
+*Optional is not free.*
 
-There's a slide for this. It has two lines on it, one rising and one flat, and underneath it says something like *Keeping choices open preserves upside.* I've given it. I gave it in January, to a woman who'd been at half pay for ten months, in the form of *after we have customers,* and she said *okay,* and went and sat back down.
+Note to self.
 
-I'm not going to show you the slide.
+At work, "stay liquid" is good advice. Don't commit until you have to, because you keep options open to gather information. Cole said it at dinner. The company had fourteen thousand dollars and no customers, so he was right.
 
-What I'll tell you is what it costs. Every door you keep open has a draft, and somebody is standing in it. I kept Priya's paper in a drawer for a week and Maya's word in a drawer for half a year, and I paid for both in the same coin, which was that the person on the other side of the door had to stand in a hallway and wait to learn what they were. They didn't complain. That's what made it so expensive.
+At home it's wrong, and I did it anyway. A woman at Cole's table asked who Maya was and I said *friend.* I told myself I was respecting her rule about naming things. I wasn't. I knew what I wanted. Nothing I could learn in the next month would change it. That's the test.
 
-The odd thing is that Maya had a drawer of her own. I'd been so busy guarding mine that I'd missed hers. It took a man in a sand-colored jacket to let us both see them.
+So before I hedge, I ask myself: *what would I learn if I waited another week?* If the answer is nothing, it isn't caution. It's a door I'm keeping open, and she's standing in it. It cost Maya three days of one-word texts. She'd been keeping hers open too, on her phone, so we were both standing in hallways.
 
-I know two of Maya's okays now. There's the one with the period, which I'd heard on a curb and at a dinner, and which means *you missed it.* And there's the one without, which I'd heard once, in a hallway at ten to seven in the morning with the chain still on.
+Say it out loud on the first day. The cost of waiting is paid by the person who isn't me.

@@ -232,12 +232,12 @@ It's a strange thing. It felt, for about a minute, like the dishes.
 ---
 
 **FOUNDER'S NOTE**
-*I don't have a principle for this chapter.*
+*Don't schedule it. Sit down.*
 
-I've tried. I've written it six times. There's a version that says *listening isn't a step before solving,* and a version with a line about how advice is a form of leaving. They're all true enough. I've deleted every one.
+Note to self.
 
-What I have is a sentence that two women said to me in the same week, and a third said years ago, in a car. They didn't compare notes; they live in different houses, and they've met twice. They weren't being clever. They said it to me in a glass room and in a kitchen, in two different voices, about two very different things, and the sentence was the same.
+At work, Priya shut the glass-room door and said, "You listened, and then you fixed." I'd offered her a title, a raise, a contractor. It's my reflex: anything wrong becomes a package of resources. It's how I run a company, and for a long time it was the only thing I knew how to do.
 
-I didn't learn a lesson on the floor of that living room. What I learned is that I'd been good at something for a very long time, and that it had been a way of not being in the room. I'm still not sure what to do about it. I haven't found the rule. I did find that there are nights when the right thing to do with a laptop is nothing at all.
+At home, Maya read the reminder that told me to listen and asked, "Am I a project?" I'd turned being present into a recurring task. A person who needs an alarm to listen isn't listening; he's managing. She said I listen like I'm taking minutes, and then I circulate them.
 
-It isn't a lesson. It's a Sunday.
+Rule: if I catch myself scheduling a feeling, I delete the schedule and sit down. That night I kept the laptop shut until two in the morning, and nothing broke. There isn't a cleverer version. Delete the reminder. Sit down. Keep the laptop shut.

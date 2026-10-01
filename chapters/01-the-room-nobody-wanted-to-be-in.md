@@ -385,12 +385,10 @@ I didn't know that I'd just written the mission statement of a company. I only k
 **FOUNDER'S NOTE**
 *Ask what's actually wrong.*
 
-Every founder gets the same advice, usually from someone with a podcast: fall in love with the problem, not the solution. I'd heard it a hundred times. I'd even said it once, out loud, to a room of people who wrote it down.
+Note to self.
 
-What I hadn't done, until a woman by the exit gave me the safe answer and I said it was the one she gave vendors, was ask a question and be willing to hear the real one. That's the whole trick. Not the asking. The willingness. Most of us ask the way we hold a cup of water at a party: for something to do with our hands.
+At work, the first answer is never the real one. It's the answer people give every vendor. Eight months of pharmacists told me *inventory,* and I built them an inventory tool, and nobody used it. Maya said *inventory* too, at the mixer, and I said, "That's the answer you give vendors," and she stayed four more minutes. That's the entire skill. Notice the answer you'd get from anyone. Ask a second question. Then shut up.
 
-Kyle had told me the room was speed dating, and, crude as his version was, he was right about the shape of it: two hundred people trying to be chosen, and almost nobody doing any choosing. Every one of us was looking for something, a co-founder, a customer, a check, and each of us wore the color of the thing we'd settle for. I'd pinned on green and spent two hours ignoring the orange underneath. The orange, it turned out, was already being answered, by someone who texted me *Status?* and did not yet know she was saying yes. The person I wasn't looking for didn't have a sticker.
+Do the same thing at home. When Maya says *fine,* or *busy,* or *nothing urgent,* that's her vendor answer. She isn't lying. She was raised not to be a bother. So don't ask *how was your day.* Ask what the part was that she'd skip. Then count to ten, out loud if I have to, in my head if I'm in company.
 
-Maya told me about the people the pharmacy never hears from. I didn't know I'd been handed a company. I knew only that for about twenty minutes nobody in that ballroom was performing, and I wanted to stay in it.
-
-I've thought since about what I'd have missed if I'd had a better pitch. It's a short list. It has one item on it.
+Don't use it as a technique. I did that with customers and they could tell. If I'm asking so I can fix it, or so I can get a yes, I'm back to selling.

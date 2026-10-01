@@ -246,10 +246,12 @@ She looked at me for a beat longer than the word needed, and I couldn't read it,
 **FOUNDER'S NOTE**
 *Write down what you won't do.*
 
-I used to believe the best decisions are the fast ones. It was a sentence I liked. I'd read it somewhere and had it stitched, more or less, on the inside of my head.
+Note to self.
 
-On the fifteenth I said no to forty thousand dollars in nine seconds, or ten, and I'd like to tell you it was principle. It was a good day. On a worse day, or a bigger number, I'd have said yes, and Priya knew it, which is why she counted, and why two weeks later she wrote the list.
+At work: write the list on a calm day, for the later you who can't be trusted with a number. Priya's went on the whiteboard. WE WILL NOT track where you are, sell what we know, put a name at the bottom of the message. I said no to forty thousand dollars in about ten seconds, and she counted. That was a good day. The list is for the other days.
 
-A list of what you won't do is written by a calmer you, for the later one who can't be trusted with a number. It's a strange kind of kindness to yourself. It works on whiteboards. I wrote one of my own that week, on a napkin, at a Chinese restaurant, and folded it to the size of a stamp, and I've carried it since. I'll tell you what it says when I've earned the right.
+At home, Maya asked me for three things I wouldn't give up, and told me hers up front, one for free: she lives within forty minutes of that counter, always, "so it isn't a surprise later." That's what I'd have missed. State the fixed point out loud and early, before it costs somebody something.
+
+So I wrote mine on a napkin and folded it to the size of a stamp, and it lives in my wallet behind my license, where I'll see it. Rule: write it when I'm calm, say the big one to her early, and read it before any decision with a large number on it. I'll tell you what it says when I've earned the right.
 
 Maya put hers in her coat.

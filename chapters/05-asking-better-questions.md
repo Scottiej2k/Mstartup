@@ -312,12 +312,10 @@ I started to say *the interview with Ruben,* and heard how it would sound, at a 
 **FOUNDER'S NOTE**
 *There are two kinds of questions.*
 
-There are the ones you ask to learn something, and the ones you ask so you can hear yes. Interviews get ruined by the second kind, and so, I'm told, do first dates.
+Note to self.
 
-"Wouldn't it be great if you had a tool that...?" isn't a question. It's a proposal in a trench coat. I asked it a dozen times a day. People are kind, and they said yes, and I wrote it down as data.
+At work, *wouldn't it be great if…?* isn't a question. It's a pitch with a question mark on it. Rosalind said yes four times, I wrote *validated* four times, and Priya slid a sticky note across the table that said STOP. The test: if the only polite answer is yes, it's not a question. The other kind is *tell me about the last time,* followed by ten seconds of nothing.
 
-I did it to Maya, too, at a taqueria, in the form of a funnel. She didn't say yes. She said, quite clearly, that she wasn't in it. It was the first useful feedback I'd had in a month, and I nearly missed it because it arrived as a laugh.
+At home, I did it to Maya, at a taqueria, with a funnel. *You're at the very top.* She said, "I am not in your funnel." I'd been interviewing her like a customer, with the answer I wanted already picked out.
 
-The other kind of question has a smaller shape. *Tell me about the last time.* Then you wait. The silence isn't the tool's failure. It's the tool.
-
-I'd like to say I changed that week. I changed about forty percent. Maya would say thirty. I still use the funnel when I'm nervous. Ask Priya, who keeps a list of the times.
+So before I ask her anything, I check: would I be fine with any answer? *Don't you think we should…* and *wouldn't it be nice if we…* are proposals. If I mean a proposal, I say it as one. If I want to know, I ask what she thinks, and I stop talking. I still reach for the funnel when I'm nervous. Priya keeps a list.

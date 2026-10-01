@@ -282,12 +282,10 @@ She took the plate out of my hand. She dried it carefully, both sides, and set i
 **FOUNDER'S NOTE**
 *Show up on the boring day.*
 
-Nobody tells you how much of it is Tuesday.
+Note to self.
 
-They show you the launch, which is a Saturday at nine in the morning, and the wedding, which is a Saturday at eleven. They show you the board meeting, the round, the ribbon. These are the days that get a photograph. In all of the years I've spent in rooms where people talk about what makes a company or a marriage last, I've not once heard a person say that it's a call to the first customer, on a Tuesday at ten, for eleven minutes, about a gray box.
+At work, I call one customer every Tuesday at ten and ask how the week went. Then I change one thing by the end of the day. Dr. Okafor's call took eleven minutes, and the change was a gray box at the top of a text: it says her name now. Small, regular, finished. It beats the big gesture I'd have saved up for.
 
-It's a call to the first customer. It's an hour at the sink. It's a text to a man in Dayton that has the word *you* in it. A company is mostly Tuesdays. So is a marriage; so, I've come to think, is whatever it is we mean when we say that someone has been *there.* Nobody can say what happened on any of them. That's the point of them. They're the ones that nobody remembers, and the trust you've built on all of them is what's standing when the Saturday comes.
+At home, same shape. Tuesday, I'm home by six, no plan, no link. Maya's rule: Fridays are for the date, and Tuesday you just come home. It took me three Tuesdays to stop narrating it. If I'm only good on Saturdays, I'm a guest.
 
-I don't know what a Tuesday is for. I know what it did. The day I stopped treating them as the time between the important things, I began to be someone it was possible to be married to.
-
-The rule is one of the shortest in this book: *Do it on the day nobody's watching.*
+Rule: pick one small thing. Do it on the dull day. Don't turn it into an event, and don't put it on the calendar. The trust shows up on the Saturday, but it's built on the Tuesdays.

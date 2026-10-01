@@ -344,20 +344,14 @@ He said it with no period. It was a warm one. I noticed, and didn't say so.
 ---
 
 **FOUNDER'S NOTE**
-*Repair without blame.*
+*If you've written it down twice, change something.*
 
-Here is a thing you can do with an outage. You gather everyone in a room. You write down the times, down the left side. You ask what each person knew, and what they thought, and what made it easy to do the wrong thing, and you do not, under any circumstances, ask *who.* If someone says *I should have,* a person with a marker says, *That's a regret. Put it on the other side.*
+Note to self.
 
-It is a good practice. It is the most useful single thing I know. It had never occurred to me to use it in my kitchen, with the woman I'd married, on a Tuesday in February, until I had no other tool left. I used it because it was the only one I trusted. I said it out loud in the hallway, and she looked at me, and said, *That's a very Nate way to put it.*
+At work, after anything breaks, we do a post-mortem. Times down the left. What each person knew. What made it hard. Never write who. Then change one thing, no bigger than the problem. I'd run a hundred of them and never once thought of using one at home.
 
-It was. It was also the first time a Nate way of putting it had been of any use.
+Tuesday night, after her *nothing urgent* sat unread for six hours, I used it at the kitchen table out of desperation. It found no villain. It found a code, two decent people using it to leave each other alone. Fix: when she tells me something, I ask, *do you want to tell me, or do you want it fixed?*
 
-The practice works because it moves the question. You stop asking who failed and begin to ask what made it hard, and the second question has an answer that is a thing, not a person. You can fix a thing. You cannot fix a person, and it's worth finding out, early, that the person was never what needed fixing.
+Carla taught me the other rule. I'd written her Saturday-line complaint in my notebook twice and underlined it, and I'd thought that was listening. It isn't. If I've written the same complaint down twice, the third time I owe a change, not a note.
 
-What we found out that night is written on the back of an electric bill, which I still have. She had said it too small. I had taken her at her word. Neither of us was wrong, and both of us had been left alone with a polite code.
-
-There's a second finding, and it's mine, and it came in January in a coffee shop in San Jose, from a woman with her hands folded. It's that *listening* and *changing* are two different jobs. A person can do the first for years and be loved for it and have nothing, at the end, to show. Carla said it in a sentence I've never forgotten. Maya said it in a different one. I'd been given both, in one winter, from opposite directions, and it took me until March to see that they were the same sentence.
-
-I think the sentence is *Be the one who answers.*
-
-Maya's version is shorter. It's on the back of the envelope, and the envelope is on the refrigerator, under a magnet, in her hand. I'm not allowed to put it on a card. I've asked.
+For Maya it was a stool, Wednesdays at four. Show up. Sit. That's the change.

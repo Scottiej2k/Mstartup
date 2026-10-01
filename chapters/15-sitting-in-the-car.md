@@ -280,12 +280,12 @@ I stood in the room with the desk. It was a Saturday, and the light was coming i
 ---
 
 **FOUNDER'S NOTE**
-*Repair is the work.*
+*Ask first. Then sit.*
 
-There's a kind of story, in my business, in which the hard part is the break, and the repair is a montage. It's a good story, and I can't tell it. It didn't happen that way.
+Note to self.
 
-What happened was that I sat in a car for ten minutes. And on a stone wall, for another ten. And in a chair by a desk, with my hands under my legs, for forty-five. I can't describe what I did in them, because I didn't do it. It isn't a skill. It's what you do when you've run out of them, and it turns out to be most of the job.
+At work, I asked Priya what she wanted her job to be and sat for forty-five minutes without fixing a thing. Then she drew a table on the whiteboard with three columns: DECIDES, ASKED FIRST, TOLD AFTER. Every decision goes in one of them, so nobody finds out by surprise.
 
-Ray has a letter in a drawer. I've thought about it more than I'd like.
+At home, Maya sits in the car for fifteen minutes before she goes into her parents' pharmacy. She has since she was fifteen. I sat with her, with her hand in mine, and said nothing. Later, at her mother's kitchen window, Lakshmi told me I would not speak. I didn't.
 
-Priya's message is on my desktop. Maya's hand is in mine, in a car, in a parking lot, and will be, I hope, for some number of Saturdays that I'm not going to count.
+Steal Priya's table for Maya. Everything about her family goes in ASKED FIRST. My spreadsheet of options goes in TOLD AFTER, which means never. And when I ask the question, I wait as long as it takes. Fifteen minutes is short. Forty-five is shorter than it feels.

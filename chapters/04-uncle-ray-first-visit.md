@@ -227,12 +227,10 @@ I looked at that for a minute. Then I put the car in gear, and drove down the mo
 **FOUNDER'S NOTE**
 *The best feedback comes from someone who isn't buying.*
 
-Buyers are generous. They say "looks good," because they want the meeting to be over, or because they like you, or because saying no takes a kind of energy they'd prefer to spend on lunch. I had a spreadsheet full of buyers who liked me. It was the most dangerous document I owned.
+Note to self.
 
-The person who isn't buying has no reason to be nice. She'll tell you the label is unreadable. She'll ask what happens after the demo. If you can stand it, she is the only real product manager you'll ever have. The other person who isn't buying is the one deciding whether to stay: a co-founder on a trial. Priya had told me I was being interviewed. Ray agreed, in his way, which is to pour more coffee.
+At work, buyers say *looks good.* They want the meeting over, or they like me, or no takes energy they'd rather spend on lunch. I had a spreadsheet full of people who liked the idea, and it was the most dangerous document I owned. The person who isn't buying has no reason to be nice. Ray's version: keep inviting the one who asks the question you can't answer.
 
-I've thought since about how carefully I'd arranged my life so that the people around me said "looks good." Kyle was the exception. He told me the truth with a mixing bowl of cereal.
+At home, I'd arranged my life so the people around me said *looks good.* Kyle was the exception, with his cereal. So I keep a short list of people who will tell me I'm wrong: Priya, Ray, Kyle, Maya. Rule: when one of them goes quiet, that's the alarm, not good news.
 
-The relationship version isn't hard to guess. I'll spare you.
-
-Ray poured me a second coffee before I'd finished the first. I took it as a compliment to the coffee.
+And Ray's other piece of coffee advice, which he swore wasn't advice: don't answer for her. Ask Maya what *good* looks like to her, then write down what she says. I'd been guessing. She's been interviewing me back from the first coffee.

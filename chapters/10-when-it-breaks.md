@@ -216,14 +216,12 @@ The tow truck came at ten to two. It turned out to be forty minutes early, which
 ---
 
 **FOUNDER'S NOTE**
-*The first hard thing you do for someone.*
+*When it breaks, pick up.*
 
-I kept the envelope. I still have it. The tally, in pencil, goes down the back in rows of five.
+Note to self.
 
-Thirty-four people called. Eleven wanted to know if someone was all right. Nine wanted to know who they were talking to. Six wanted to know how it could happen. And eight, which is the number I've thought about most, said some version of *Oh. A person.*
+At work, when something breaks, three things, in order. Pick up. Say what happened, with no cover story. Ask what they need. I kept the tally of thirty-four calls on an envelope, and eight people said some version of *Oh. A person.* Nobody remembered the clock being wrong. They remembered a voice at midnight. By the third call I had a script: *This was our mistake. It wasn't yours. They're fine. I'm sorry. What would help?*
 
-I'd put a number at the bottom of the text in a fit of something I couldn't name. I've since found the name for it, and it's on an index card: *Ask what happens when it breaks.* I'd thought of it as a policy. I didn't know that the first time a company fails anyone, the failure is the easy part. What they remember is whether somebody picked up.
+At home, Maya called from the shoulder of the 101 at ten to one and said she wasn't calling to be fixed. I answered on the first ring. I didn't say *it's okay.* I didn't say *you don't have to.* I said, "Where are you?" and "Stay on the phone," and put on two different shoes.
 
-There was a second hard thing that week, and it happened on the 101, in two different shoes. I'd rather keep that one.
-
-Under the tally, in my own writing, is a sentence I didn't think of. *What do you need?*
+The home version is shorter. Pick up. Ask where she is. Go. When she calls late, don't ask what I can do. Say I'm coming.

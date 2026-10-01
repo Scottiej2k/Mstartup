@@ -236,10 +236,12 @@ She put her hand over mine on the table, and I turned mine over, so that the pal
 ---
 
 **FOUNDER'S NOTE**
-*The best thing a founder builds is a company that runs without him on the day it matters.*
+*Every named person needs a second.*
 
-I didn't build it. I wrote the first version in a rented room, and I've spent every year since learning that a company is the people who answer the phone.
+Note to self.
 
-On the night my father-in-law went gray at a table, a company I'd started handled the worst failure in its history, and I wasn't in it. I was in a waiting room, holding a woman's handbag. The thing I'd built had a name on a sheet. When a computer in a building I'd never visited said *zero,* the name rang twice.
+At work, the night Meridian's update broke the feed for all forty stores, I wasn't on call. Priya was, with Ines, and the escalation sheet had her name with a second under it. That's the redesign's rule: every named person has a second, and the second has the key. I'd handed the key off in September. That night I was in a waiting room, and the phone rang twice somewhere I'd never been.
 
-That's what you're for. Not the pitch, not the round, not the slide with the lighthouse. You build the thing that picks up on the second ring. And then, on the one night when it matters, you do the hardest work of your career. You go to the hospital.
+At home, the hospital was Maya's father. I did the one useful thing, which was nothing. I held her mother's handbag, fetched coffee, and didn't open the laptop. On Sunday she sat at the kitchen table and I asked what she wanted to happen. No spreadsheet. She wanted me on a stool at the pharmacy on Wednesdays at four, to sit.
+
+Rule: Maya is a named person for a lot of people. I'm her second. When her family is in trouble, I ask what she wants to happen before I build anything, and then I go where she asks me to be.

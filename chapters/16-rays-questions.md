@@ -288,17 +288,12 @@ The deer, about thirty feet away, lowered its head, and began, without any fuss,
 ---
 
 **FOUNDER'S NOTE**
-*The questions you'd rather not answer honestly.*
+*Ask what would make them walk.*
 
-Ray gave me four. I've kept them on an index card, in a wallet, behind a driver's license and a folded napkin.
+Note to self.
 
-*What would you do if she said no?*
-*What does she do that you'd never tell her you like?*
-*What would make you walk?*
-*How will you know when you're wrong?*
+At work, before Meridian signed, I asked Carla, "What would make you walk?" She answered by writing section nine: an exit clause, with a review at ninety days. It's the best clause in the contract, because it makes bad news cheap to say out loud. Margo asks me her two questions every quarter for the same reason.
 
-I asked the third one, on a bench, because it was the only one I could stand to hear the answer to. I'm going to give you Maya's, exactly as she said it, because I've decided I'd rather not improve it.
+At home, Ray gave me four questions to ask about Maya. I asked the third, on a bench, before I proposed. Her answer: *If I found out you'd decided something about me, and you'd been right, and you hadn't asked. If you fixed it, and it was perfect, and I never got to say what I wanted.* It's the thing I do at work every day. I keep the four questions on an index card behind my license.
 
-*If I found out you'd decided something about me, and you'd been right, and you hadn't asked. If you fixed it, and it was perfect, and I never got to say what I wanted.*
-
-I've never been asked a harder thing, and I've never been given a clearer one.
+Rule: ask it while things are good, take the second answer, not the polite one, and write it down somewhere I'll see it. Section nine is in the contract. Hers is in my wallet.

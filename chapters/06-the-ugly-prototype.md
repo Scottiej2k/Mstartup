@@ -312,10 +312,14 @@ I thought about it. I'd slept on her couch under her blanket and there was a cha
 ---
 
 **FOUNDER'S NOTE**
-*Ship the ugly version.*
+*Ship the ugly version. Ship it that night.*
 
-A minimum viable product, which is what founders call the first version, is the ugliest thing that still does its job. The idea is that you learn more from one real person using a bad version than from a month of polishing a good one in private. It's the most repeated piece of advice in my business, and I'd have told you I believed it.
+Note to self.
 
-The first version of Loopback failed twice in front of Dr. Okafor, the one person whose opinion we'd needed. It was the best thing that could have happened to us. She didn't need it to work. She needed it to ask.
+At work: put the first version in front of one real person this week, while it's embarrassing. Loopback's was two boxes and a button, and it broke in front of Dr. Okafor, and she signed up anyway. The first version isn't the product. It's how you find out what the second one should be.
 
-I did the same thing with an apology, on a doorstep, in the dark, with the wrong wine. It was the only version I had. It worked. Once. I've spent a lot of time since then wondering why I'd believed it about software and never about a person.
+At home I'd never once believed that. I missed Jules's birthday for a billing account, then spent all of Sunday writing the perfect apology. Six drafts, none sent. What worked was walking up four flights with the wrong wine and saying the bad one, the next day, while it still mattered.
+
+Then do version two. Mine was a cake, baked from a video in Kyle's mother's pan, for the friend I'd stood up. Jules called it structurally honest. That's the rule. Say sorry badly and quickly. Then change one thing she can see.
+
+Don't treat the ugly version as a habit. Maya said that, too. It works once.
