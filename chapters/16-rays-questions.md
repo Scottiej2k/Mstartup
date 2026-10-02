@@ -91,7 +91,7 @@ Suresh looked at me. He looked at me the way he'd looked at the machine in the U
 
 He said it quietly. I think it was the first time in my life I'd heard a man say yes and mean the whole of the word.
 
-"We are hoping," said Lakshmi, from the couch. She put one hand flat against her chest. "I said so in May. I do not have time to hope quietly." She took a breath, and let it out, and did something I'd never seen her do, which was to look at something in her own lap. "She has a list."
+"We are hoping," said Lakshmi, from the couch. She put one hand flat against her chest. "I said so in May. I don't have time to hope quietly." She took a breath, and let it out, and did something I'd never seen her do, which was to look at something in her own lap. "She has a list."
 
 "A list?"
 
@@ -99,7 +99,7 @@ He said it quietly. I think it was the first time in my life I'd heard a man say
 
 "Then I'm not going to use any of them."
 
-"Good," said Lakshmi. "Now put down the tins. You are going to drop them."
+"Good," said Lakshmi. "Now put down the tins. You're going to drop them."
 
 ---
 

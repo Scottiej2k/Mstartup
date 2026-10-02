@@ -231,7 +231,7 @@ It had a period on it. It had a whole sentence's worth of period.
 
 I opened my mouth. I'd planned to say *I can help,* and *let's talk about a schedule.* I closed it. I sat there in the quiet of her parents' dining room and did nothing, which I'd learned on a guardrail. Maya reached under the table and found my hand. She held it, tightly, for about ten seconds, and then let go, and passed the rice.
 
-"There is more dal," said Lakshmi. She didn't look at anyone.
+"There's more dal," said Lakshmi. She didn't look at anyone.
 
 ---
 

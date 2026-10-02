@@ -151,7 +151,7 @@ The kitchen was warm and smelled of cumin and something frying. It was a bright,
 
 I didn't say anything.
 
-"I'm going to say something," said Lakshmi, "and you will listen, and you will not answer." She faced me. She was five feet tall, in a kitchen, with a wooden spoon. "She is not the unpaid employee of two families."
+"I'm going to say something," said Lakshmi, "and you will listen, and you will not answer." She faced me. She was five feet tall, in a kitchen, with a wooden spoon. "She's not the unpaid employee of two families."
 
 It was said quietly. It took me a moment to understand that it had been rehearsed, and that she'd rehearsed it, as I had, in front of something, for a long time.
 
@@ -159,7 +159,7 @@ It was said quietly. It took me a moment to understand that it had been rehearse
 
 "I know."
 
-"You do not know. You are starting to." Lakshmi put the spoon on the rest. "You want to fix it. It is your way. It is a good way for a machine." She said it without unkindness. "Tonight she will say something at the table. She will say it to her father. You will sit and you will pass the rice. If you speak, even one word, even to help, then it is *Nate says,* and it is about you. You understand?"
+"You don't know. You're starting to." Lakshmi put the spoon on the rest. "You want to fix it. It is your way. It is a good way for a machine." She said it without unkindness. "Tonight she will say something at the table. She will say it to her father. You will sit and you will pass the rice. If you speak, even one word, even to help, then it is *Nate says,* and it is about you. You understand?"
 
 "Yes."
 
@@ -181,7 +181,7 @@ He looked at her. He put down his fork.
 
 "I can't do both." She said it in a small, clear voice, and her hands didn't move. "I'm not saying I won't. I'm saying I can't. The store and my work. The weekends, the inventory, the flu shots. If there's a second suite, it's another thing, and it comes to me, and it comes at the same hours, and I'm—" She took a breath. She said a word, in Tamil, and I knew it, this time, from her mouth, on a couch: *aayasam.* "I'm tired in a way that I can't rest from. I'm not asking you to hire a manager."
 
-"I will not hire a manager," said Suresh. He said it quietly, without heat, and with a kind of effort. "Sixteen years ago, we did. You were twelve. He was a good man, for a year. He took from the register, a little at a time, for six months. I found it on a Tuesday. I nearly closed the store. I did not sleep for a month." He looked at his hands. "I do not hire."
+"I won't hire a manager," said Suresh. He said it quietly, without heat, and with a kind of effort. "Sixteen years ago, we did. You were twelve. He was a good man, for a year. He took from the register, a little at a time, for six months. I found it on a Tuesday. I nearly closed the store. I did not sleep for a month." He looked at his hands. "I don't hire."
 
 "I know, Appa. I remember."
 
@@ -203,7 +203,7 @@ He was looking at me.
 
 He turned to his daughter. He sat back, slowly. I saw his shoulders come down half an inch, and stay.
 
-"One," said Suresh. "You choose. You train. It is your decision. You tell me the name, and you tell me, in a month, how it is going." He raised one finger, a little stiffly. "If it is bad, you tell me at once. You do not wait until Tuesday."
+"One," said Suresh. "You choose. You train. It is your decision. You tell me the name, and you tell me, in a month, how it is going." He raised one finger, a little stiffly. "If it's bad, you tell me at once. You don't wait until Tuesday."
 
 "I won't," said Maya. She put her hand over her mouth. She was crying, without sound, with her shoulders. Her mother, without a word, reached across the table and put a dumpling on her plate.
 

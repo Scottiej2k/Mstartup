@@ -95,7 +95,7 @@ They'd said one at a time. Maya went first, for ten minutes, and came out with h
 
 I went last. It was after three. The bay smelled of alcohol and clean sheets. Suresh had his eyes closed. I stood at the foot of the bed with my hands at my sides and didn't know what to do with them.
 
-"You are not answering the telephone," said Suresh, without opening his eyes.
+"You're not answering the phone," said Suresh, without opening his eyes.
 
 "No."
 
@@ -115,15 +115,15 @@ I went last. It was after three. The bay smelled of alcohol and clean sheets. Su
 
 I stood still.
 
-"I told you in your first year that nobody asks what it costs the person who notices," said Suresh. "I did not say that nobody asks what it costs the person who is noticed." His voice had gone thin. "It is the same cost. It is *I am a bother.*"
+"I told you in your first year that nobody asks what it costs the person who notices," said Suresh. "I didn't say that nobody asks what it costs the person who's noticed." His voice had gone thin. "It's the same cost. It's *I'm a bother.*"
 
 "You're not a—"
 
-"Nathan." It was the first time he'd used my whole name, and it surprised me enough that I stopped. "Do not tell me. I am telling you." He turned his head on the pillow and looked at me, now, with both eyes, an old man, in a blue gown, tired, with a clear mind. "Put me in the system."
+"Don't." He said it kindly. "Don't tell me. I'm telling you." He turned his head on the pillow and looked at me, now, with both eyes, an old man, in a blue gown, tired, with a clear mind. "Put me in the system."
 
 "What?"
 
-"The thing. The check-in. In the morning, you ask, *Are you okay?* And a person is told. Put me in." He closed his eyes. "You will give me the telephone. I will press it. That is the rule, I think." "I will name Lakshmi. I will name Maya. And a third, for the day they are both at the store. You know which."
+"The thing. The check-in. In the morning, you ask, *Are you okay?* And a person is told. Put me in." He closed his eyes. "You'll give me the phone. I'll press it. That's the rule, I think. I'll name Lakshmi. I'll name Maya. And a third, for the day they're both at the store. You know which."
 
 I looked at the monitor. It had a small green line on it that went up and down, faithfully, without being asked.
 
@@ -169,7 +169,7 @@ She hung up. I stayed at the window. At the end of the corridor, a janitor was r
 
 ---
 
-They put the stent in at 8:20, and Suresh came out of it talking, and by afternoon had asked for his glasses, and a newspaper, and whether anyone had been to the store. Arjun landed at noon. He came through the doors of the cardiac unit in a rumpled shirt with a backpack, and went straight to the bed, and said, in a low voice I couldn't hear, a number of things in Tamil, and then, in English, "You are an idiot, Appa." Suresh said, "I know."
+They put the stent in at 8:20, and Suresh came out of it talking, and by afternoon had asked for his glasses, and a newspaper, and whether anyone had been to the store. Arjun landed at noon. He came through the doors of the cardiac unit in a rumpled shirt with a backpack, and went straight to the bed, and said, in a low voice I couldn't hear, a number of things in Tamil, and then, in English, "You're an idiot, Appa." Suresh said, "I know."
 
 I'd gone home to sleep for three hours and to put on a different shirt. I came back with a bag of clothes for Lakshmi, and a change for Maya, and a book for Suresh, who didn't want it. Priya was sitting in the waiting room, with a paper cup, in the same clothes she'd worn on Thursday. She'd come at eleven in the morning, after a handoff to Ines. She hadn't slept either.
 

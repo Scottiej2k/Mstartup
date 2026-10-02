@@ -63,7 +63,23 @@ She didn't say *Amma.* Lakshmi didn't say *no.* They looked at each other, for a
 
 The ceremony was at four. It was small, as she'd asked. There were twenty-one people on folding chairs in the living room, which had been cleared of everything but the couch and a low brass lamp, and a priest from the temple, a small bright-eyed man in a white cloth with a bicycle helmet at his feet, who spoke for about fifty minutes in a language I couldn't follow and explained, in English, the parts I needed. Maya sat. That was the point. She sat on a low stool, in a marigold sari that had been her grandmother's, with her hands in her lap and her eyes on the flame, for the whole hour, and nobody asked her to get up and carry anything. I watched her mother watch her do it. I watched Lakshmi's face. It was a long, complicated face, and I'd never been able to read it, and I read it then: it said *I didn't know it would be this easy. I should have asked.*
 
-I met her brother on the back step, afterward.
+Afterward, in the kitchen doorway, with a paper plate, an aunt of Maya's whose name I'd been told twice and had lost both times looked me up and down.
+
+"You are not Tamil," she said.
+
+"Ohio."
+
+"Is that near?"
+
+"It's in the other direction."
+
+"Hm." She ate something. "Maya could have married a doctor."
+
+"I'm told there are several."
+
+She considered that. "You are honest," she said, as if reporting a symptom. Behind her, Lakshmi, whom I'd been braced for, said something short in Tamil, and the aunt said, "Aiyo," and moved on with her plate. Maya told me later that it was *He's the one who asked.* She wouldn't translate the rest.
+
+I met her brother on the back step.
 
 I'd gone out for air. He was sitting at the top of the steps in a rumpled blue shirt, with a plate of something on his knee that he wasn't eating: a tall, tired, handsome man of thirty-three, with Maya's eyes and Suresh's jaw and the posture of a person who's slept in a chair. Arjun. He'd flown in from Seattle that morning, on the first flight, from a twenty-four-hour shift.
 
@@ -71,7 +87,7 @@ I'd gone out for air. He was sitting at the top of the steps in a rumpled blue s
 
 "I'm the groom."
 
-"Same thing, in this family." He moved over. I sat. We looked at the lemon tree. "She said you asked my father for his permission."
+"Same thing, in this family." He moved over. I sat. We looked at the lemon tree. "I should tell you I wasn't a fan. Not of you. Of the idea. She's had a store she was supposed to leave for four years and a store she was supposed to inherit, and then a man with a startup walks in with a spreadsheet and feelings about *systems.* I looked you up. Your company sounds like a pastry." He ate nothing off the plate. "She said you asked my father for his permission."
 
 "I did."
 
@@ -89,7 +105,7 @@ I didn't answer for a moment.
 
 "Somebody said that to me already," I said. "Not in those words."
 
-"Then it's two of us." He stood up, stiffly, with the plate, and held out his free hand. I shook it. "Welcome to the family. Don't hold the door for anyone. They'll be offended."
+"Then it's two of us." He stood up, stiffly, with the plate, and held out his free hand. I shook it. "Welcome to the family. I'm still watching you. Don't hold the door for anyone. They'll be offended."
 
 ---
 
@@ -335,21 +351,19 @@ Maya found me at dusk. She'd taken off her shoes, too. She came across the grass
 
 She thought about it. She actually thought about it, with her face turned toward the water. The string lights had come on, one by one, along the fence. A cousin of hers was laughing at something, up by the tables, with her head back.
 
-"*Nimmadhi,*" said Maya.
+"Tired," said Maya. "In a good way. Like when you put down something you've carried a long way and your arms don't know what to do."
 
-I didn't know it. It was a soft, slow, three-part word, and she said it as one says something at the bottom of a long climb.
+"I'd say I understand," I said.
 
-"I don't have it in English," she said. "It's the thing you feel when you set it down. After a long carry." She looked at me. "It isn't happy. It's the quiet after."
+"But?"
 
-I didn't say *I understand.* I'd been about to. I'd had the sentence in my mouth, polished, ready, an entirely sincere lie, and I felt it, and I put it down.
+"But I carried a laptop."
 
-"I don't know that word," I said.
+She laughed through her nose, and looked at the water. "That's honest."
 
-"I know."
+"I'd like to know what it's like."
 
-"I'd like to."
-
-"You will." She looked at the pencil. "It takes about a year."
+"You will." She looked at her hands. "It takes about a year."
 
 She had something in her hand. She'd had it all day, in a loose fist, in a fold of her sari. She opened it, in the dark, between us, on her knee.
 

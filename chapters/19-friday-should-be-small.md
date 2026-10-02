@@ -13,7 +13,7 @@ And then Lakshmi cleared her throat.
 
 Nobody had known there was a Friday. I saw my mother look up from her plate with the precise expression of a dental scheduler who has been told that a patient is coming in an hour early.
 
-"A small ceremony," said Lakshmi. "At the house. The day before. For the family. A priest from the temple, an hour. We cook in the morning, she and I, and the priest comes at four. It is not necessary. It is what we do." She folded her napkin. "Then the next day, the city, the paper. Then the party. Two days. It is a little bigger."
+"A small ceremony," said Lakshmi. "At the house. The day before. For the family. A priest from the temple, an hour. We cook in the morning, she and I, and the priest comes at four. It is not necessary. It is what we do." She folded her napkin. "Then the next day, the city, the paper. Then the party. Two days. It's a little bigger."
 
 "A little?" said my mother, as if to herself. "It's another hotel night. For eleven people. It's the flights, I booked your father for the Friday—" She stopped. "I'm only thinking of the cost."
 

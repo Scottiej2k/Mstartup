@@ -161,7 +161,7 @@ The pharmacy's new rooms opened on a Saturday, the third of June, with a red rib
 
 Sixty or so people stood on the sidewalk in the Fremont sun, which for a pharmacy is something like a mob. Mr. Alvarez wore a jacket and tie, with a lollipop from his daughter in the breast pocket where it stuck out like a pen. Kevin held the scissors like a surgical instrument. Suresh was meant to speak. He looked at the crowd, and at the index card in both hands.
 
-"My daughter," said Suresh, "has made a room. It has a door. It closes." He looked down. "I am not good at this." He turned the card over, saw it was blank, and put it in his pocket. "Please. Have a sweet."
+"My daughter," said Suresh, "has made a room. It has a door. It closes." He looked down. "I'm not good at this." He turned the card over, saw it was blank, and put it in his pocket. "Please. Have a sweet."
 
 Maya stood at the ribbon in her white coat. She didn't cut it. She held the scissors out to her father, handles first, as one does with something sharp, and he looked at them, and at her. He cut the ribbon. It took him two tries.
 

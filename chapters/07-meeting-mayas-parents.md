@@ -229,7 +229,7 @@ I hadn't heard him come up behind me. Suresh Raman was a man who seemed to have 
 
 He didn't ask what. He stood there a moment, and then he looked at the wall clock, and then at his watch, as if the two might have disagreed.
 
-"It is one o'clock," said Suresh. "I go to the UPS. You come."
+"It's one o'clock," said Suresh. "I go to the UPS. You come."
 
 I looked at him.
 
@@ -247,7 +247,7 @@ It was thirty steps. Suresh walked them with a manila folder, in silence, in the
 
 I want that recorded. It was the first real question I asked anyone in that building. Not a leading one, not *wouldn't it be great if.* I simply didn't know.
 
-"Because Dr. Lin's office does not have email," said Suresh. "They have a fax." He opened the door for me. "Ours died in March. A man came. He said four thousand dollars a year for a cloud fax. He installed it on a Monday. It did not work on Tuesday. He did not ask me what I used it for." He held up the folder. "He told me what it does. Then he told me how I would use it. I said no. I have been walking thirty steps since March."
+"Because Dr. Lin's office doesn't have email," said Suresh. "They have a fax." He opened the door for me. "Ours died in March. A man came. He said four thousand dollars a year for a cloud fax. He installed it on a Monday. It did not work on Tuesday. He did not ask me what I used it for." He held up the folder. "He told me what it does. Then he told me how I would use it. I said no. I have been walking thirty steps since March."
 
 The UPS Store smelled of tape and warm paper. A young woman at the counter, who had the name tag **DEVON** and a stud in her nose, looked up and said, "Hi, Mr. Raman, the usual?"
 
