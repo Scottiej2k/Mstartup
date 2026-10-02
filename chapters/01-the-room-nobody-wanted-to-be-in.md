@@ -23,7 +23,7 @@ I objected to the framing, and I spent the next forty minutes unable to unhear i
 
 "What are you hoping to get out of it?" said Kyle.
 
-I thought about lying. I'm not good at it with Kyle; he has no poker face, so he assumes nobody else does either. "A co-founder who's actually a co-founder," I said.
+I thought about lying. It never works with Kyle. He can't hide anything himself, so he assumes I can't either, and he's usually right. "A co-founder who's actually a co-founder," I said.
 
 "You have Priya."
 
