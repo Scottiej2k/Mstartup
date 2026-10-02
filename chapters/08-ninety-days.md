@@ -41,11 +41,11 @@ I didn't know what she meant. I'd learn. She made me write every time in that th
 
 The call from the drugmaker lasted nine minutes, and the part I think about lasted ten seconds.
 
-It was the fifteenth of December, a Monday, two in the afternoon, in the glass conference room at the coworking space, down the hall from the fish and its five-line sign. Priya sat across from me with her laptop closed, which she never did. The phone lay between us on the table in a puddle of speaker.
+It was the fifteenth of December, a Monday, two in the afternoon, in the glass conference room at the coworking space, down the hall from the fish sign and its five markers. Priya sat across from me with her laptop closed, which she never did. The phone lay between us on the table in a puddle of speaker.
 
 "I'll be direct," said Renata Whitlock. She was the director of patient engagement at Corvane, a company that made a pill for blood pressure and a second pill for what the first pill did to your ankles. She'd been sent our one-page description by a wholesaler who'd been sent it by Ruben Castellanos, the pharmacist in Milpitas, who had apparently been showing it to people like a photo of a grandchild. "I like what you're doing. I'd like to support it. Forty thousand dollars, twelve months, no control over the product. All we ask is a line at the bottom of each message. *Support provided by Corvane.* Small. Gray."
 
-I should tell you what we had. We had fourteen thousand two hundred dollars, which I knew to the dollar because the money was my department, and a co-founder on half salary, and a prototype that was a web page with two boxes. In October a billing account tied to an expired card had taken us offline for a weekend. I'd like that on the record as context, not as an excuse.
+I should tell you what we had. We had fourteen thousand two hundred dollars, which I knew to the dollar because the money was my department, and a co-founder on half salary, and a prototype that was a web page with two boxes. In October a billing account tied to an expired card had taken us offline for a Saturday. I'd like that on the record as context, not as an excuse.
 
 "Can I ask about traction?" said Renata. (Traction, in my business, is proof that somebody wants what you're making. It's also what tires lose on ice.)
 
@@ -117,15 +117,15 @@ We thanked her. In the parking lot, Priya unlocked the car and stood there with 
 
 ---
 
-Maya asked me to come on the Monday before Christmas. "As an observer," she said. "Unpaid. Unquoted." It was my own phrase, handed back from October, and I said yes before she'd finished it.
+Maya asked me to come on the Monday before Christmas. "As an observer," she said. "Unpaid. Unquoted." It was my own phrase, handed back from October with her two words stapled to it, and I said yes before she'd finished it.
 
 The clinic was in East San Jose, in a stucco building between a tire shop and a church that had been a Blockbuster. The waiting room smelled of floor wax and oranges. She put me in a plastic chair against the back wall of an exam room, with a paper cup of water, and said, "Hold it in both hands. It helps." The instruction was partly a joke at my expense, and also correct.
 
-The patient was a Mr. Teague, sixty-eight, newly diabetic, who'd been sent home that morning with a plastic bag of vials, a box of needles, a pamphlet in eleven-point type, and a face I recognized from a dumpling restaurant: a man doing arithmetic on a number he didn't want. The nurse, a brisk woman named Wendy, had already given him the speech. He had nodded at each part of it.
+The patient was a Mr. Teague, sixty-eight, newly diabetic, who'd been sent home that morning with a plastic bag of vials, a box of needles, a pamphlet in eleven-point type, and a face I recognized: a man doing arithmetic on a number he didn't want. The nurse, a brisk woman named Wendy, had already given him the speech. He had nodded at each part of it.
 
 Maya came in with a clipboard she never looked at. She sat on the rolling stool, lower than he was, and laid the pamphlet face down on the counter.
 
-"I'm Maya. I'm a pharmacist, but I don't have anything to sell you." She said it exactly as she'd said it to me in a ballroom, and something went through me. "I want to check whether we explained this well. It's not a test for you. It's a test for us. If you can't tell me, that's our mistake."
+"I'm Maya. I'm a pharmacist, but I don't have anything to sell you." She said it the way she'd once told me, in a ballroom, that she was there under protest, and something went through me. "I want to check whether we explained this well. It's not a test for you. It's a test for us. If you can't tell me, that's our mistake."
 
 "I understand," said Mr. Teague.
 
@@ -181,7 +181,7 @@ At 10:40, the door opened, and a young woman pushed a wheelchair in backward, wi
 
 His daughter, Gloria, who'd driven down from Sacramento, had the look of someone who'd been apologizing all morning and hadn't reached the end of it. "We didn't know anyone was looking," she said. "Nobody told us anyone was looking. I'm so sorry."
 
-"It's a fax," said Suresh, from the glass, without turning around. It was the first time I'd heard him speak that morning. "Dr. Lin's office replied on December twelfth. *Patient in skilled nursing since nine twenty. No action needed.*" He filled in a label with his pen. "Eleven weeks after the first one. The machine said OK."
+"It's a fax," said Suresh, from the glass, without turning around. It was the first time I'd heard him speak that morning. "Dr. Lin's office replied on December twelfth. *Patient in skilled nursing since nine twenty. No action needed.*" He filled in a label with his pen. "Four weeks after that Saturday. Eleven after the first one. The machine said OK."
 
 Nobody laughed, but it was the kind of silence that comes before a laugh. Mr. Alvarez looked at the laminated sheet taped to the counter, the big cloudy one with the little pencil arrow, and then at Maya, who had gone to the far end of the counter to straighten something that was straight.
 

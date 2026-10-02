@@ -219,7 +219,7 @@ I typed the last part into a note, word for word. She watched me do it.
 
 "Well. We'd start by asking the people who worry."
 
-"Whoever's worried." She set the chopsticks down. (I'd told her about 4B on a bench in Dolores Park, the week before.) "Did he say yes? The man on the floor. Did he ever say *watch me*?"
+"Whoever's worried." She set the chopsticks down. (I'd told her about 4B over the bookstore coffee, the week before.) "Did he say yes? The man on the floor. Did he ever say *watch me*?"
 
 "No."
 

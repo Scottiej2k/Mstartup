@@ -133,7 +133,7 @@ I poured a coffee from the thermos. It was burnt, on principle. I held it in bot
 
 "It's the same problem."
 
-"It's a lot of them," said Ray, "when you look at the drawer." He drove a stake. "Why didn't you sign?"
+"It's a lot of them," said Ray, "when you look in the drawer where you keep your options." He drove a stake. "Why didn't you sign?"
 
 "Because it isn't real yet. Because if we sign, it's—" I stopped. "Because Cole says every signature is a door you've closed."
 
@@ -211,7 +211,7 @@ She opened a folder. It was labeled **Utilities,** and it had four things in it:
 
 "You said you'd deleted yours. I said I'd had a spreadsheet." She touched the little flame with one finger, and held it there, and the icon began to shiver the way they do. "I didn't say I hadn't deleted mine."
 
-I looked at the icon. It was the dating app. It had sixty-one matches in it, in a spreadsheet somewhere that she'd described as a coping mechanism.
+I looked at the icon. It was the dating app. Somewhere in a spreadsheet she'd called a coping mechanism, it still had sixty-one matches.
 
 "I didn't use it," she said. "Not once, since July. I just didn't delete it. It was a—" She searched for the word, and I watched her not find it, and use another. "It was a door. I told myself it was in case. I'd been standing in it the whole time, in my coat, with my hand on the knob, telling you how I couldn't stand people who did that." She looked up. Her eyes were bright and dry. "You said *friend* on Thursday, and I thought: *well. That's what I'd have said.*"
 
@@ -229,7 +229,7 @@ She was quiet for a while. "My family doesn't say it," said Maya. "We say *thank
 
 "Thank you."
 
-"That's the first time you've asked me for something," she said. "Not what I want. For something." She looked at me for a moment longer than the sentence needed. "I didn't hate it."
+"That's the first time you've asked me for something while I was angry," she said. "Not what I want. For something." She looked at me for a moment longer than the sentence needed. "I didn't hate it."
 
 She pressed the icon. A little cross appeared in the corner of it. She pressed it. A box came up and asked her if she was sure. She pressed yes.
 
@@ -279,7 +279,7 @@ I typed it. It took me a long time. My hands weren't good.
 
 "It worked," said Maya. Then she held out her own phone, open to the same page. "Now yours. It has to go both ways. It's a pact."
 
-I typed my number in the first box and hers in the second, and pressed the button myself. Her phone buzzed on the table, and she read it, and put her thumb on the screen and typed *YES,* and looked at me over it, with the expression of someone who has just watched a ugly machine do exactly what it was built to do.
+I typed my number in the first box and hers in the second, and pressed the button myself. Her phone buzzed on the table, and she read it, and put her thumb on the screen and typed *YES,* and looked at me over it, with the expression of someone who has just watched an ugly machine do exactly what it was built to do.
 
 I put my phone down. She put hers down. There was a moment in which neither of us could think what to do with our hands, which I recognized from a ballroom.
 

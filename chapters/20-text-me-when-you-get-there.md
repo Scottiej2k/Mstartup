@@ -405,7 +405,7 @@ He looked at me. I nodded.
 
 We walked down the gravel drive together, in the mist, in silence. At the bottom, at the road, was the mailbox. It was on a post, as it had always been, and the post leaned two degrees to the left. It had leaned two degrees to the left for as long as I'd known it.
 
-He stopped at the box. He stood there, for a moment, with the letter in his hand. I saw his thumb move on the paper, once, along the edge. It was a old gesture. It was the one a man makes on something he's decided to let go of.
+He stopped at the box. He stood there, for a moment, with the letter in his hand. I saw his thumb move on the paper, once, along the edge. It was an old gesture. It was the one a man makes on something he's decided to let go of.
 
 He opened the little metal door. He put the letter in. He closed it.
 

@@ -65,7 +65,7 @@ I'd prepared a hypothetical in the car, before the phone died. It was a good one
 
 I poured myself a mug from the thermos on the fence post. It was burnt. It is always burnt, on principle. I looked at the yard, and the string, and the man with the mallet, and I heard myself say something completely different.
 
-"Hypothetically," I said, and Ray stopped moving for exactly one second, "say there's a person who keeps showing up to, basically, a problem interview. (That's the kind where you ask questions and try not to sell.) Not a buyer. Not the person who could sign the check. But she, they, keep asking the best questions I've ever had."
+"Hypothetically," I said, and Ray stopped moving for exactly one second, "say there's a person I keep ending up interviewing, basically, who keeps interviewing me back. (That's the kind where you ask questions and try not to sell.) Not a buyer. Not the person who could sign the check. But she, they, keep asking the best questions I've ever had."
 
 I would like it noted that I changed pronouns mid-sentence, like a man swapping license plates.
 
