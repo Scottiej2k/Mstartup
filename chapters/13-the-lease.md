@@ -19,6 +19,10 @@ There was a silence. Priya, without turning her head, took a pen from behind her
 
 "I know," said Theo gently. "Priya told me. She said don't say anything until you've asked." He scratched his beard, which had decided. "I wanted to see if you'd ask."
 
+So I asked, which cost me nothing but the week. "How did you find it?"
+
+"I stopped reading what we meant," said Theo, "and read what the phones sent. It's what I did at the Denny's. You don't ask the customer what they ordered. You look at the ticket." He said it kindly, and I kept it.
+
 I hadn't. I'm still not sure why that has stayed with me. It was a small thing. I had a hundred and twelve patients, now that Margo's money had bought a second clinic, and a co-founder and a salary that was, for the first time, a number with a comma in it, and I'd spent five days building a wall around a lowercase letter because it was easier than saying *I'm stuck.*
 
 It turns out the comma changes everything you're afraid of. That's the thing I hadn't expected: how much money teaches you to be frightened, and of what. I'd been poor for sixteen months, and I'd known how. I hadn't known how to be someone with fourteen months of runway and a free Saturday for the first time in a year.

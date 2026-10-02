@@ -21,6 +21,30 @@ She took it. She held it up, on its lanyard, in the light from the hall, and it 
 
 "Then it breaks, and I answer." She said it without any weight. "That's the whole company. Go."
 
+I got as far as the door.
+
+"Nate."
+
+I turned. She hadn't moved. She was standing in the dark with the key against her sweater, looking at the forty rows.
+
+"The cousin," said Priya. "In the car. I said it didn't matter."
+
+"You don't have to—"
+
+"I'd like to. I'd like somebody to have it." She didn't sit. "Her name was Meera. She was nine years older than me, and the funniest person at every wedding I went to until I was twenty. She married a man who was very good at being liked. It took her six years to leave, and she did it the way you're supposed to, with a friend, in a week, with a new phone and a new number. She told four people. I was one of the four." She looked at the key. "For eleven months he didn't find her. Then somebody in the family, who loved her, who was so happy she was safe, added her new number to a group chat for a baby shower. Two dozen people. Nobody was careless, exactly. Everyone was just being kind."
+
+I didn't say anything.
+
+"He texted her the next day. It was a joke, about a restaurant they'd been to. That's what made it so bad. It was a joke." Her voice was entirely level. "She moved again. She stopped going to weddings. I haven't seen her in nine years."
+
+"Priya."
+
+"That's why the rule's first," she said. "A message that arrives isn't neutral. It tells somebody where somebody is, even if it says nothing at all. That's why the person presses the button herself. That's why the footer has no name." She lifted the lanyard a little, and let it fall. "It's why this has a pause. If the rows go red tomorrow I won't be fixing anything. I'll be deciding who gets a text. I need to be able to stop it, and I need to know I can."
+
+"You can."
+
+"I know I can," said Priya. "That's why I wanted to say it out loud. Go get married."
+
 I went home. I turned the phone off in the car, in the parking lot of the building, at 10:22, and watched the screen go dark. It was the strangest thing I've done with my hands. I sat there for some time, with a black rectangle in my palm, like a man holding a bird he's decided to let go.
 
 ---

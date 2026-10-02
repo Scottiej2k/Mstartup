@@ -325,11 +325,15 @@ I told her about a car, and a table, and a question. She listened to all of it. 
 
 "That's a reason," said Priya. "It's a better one than the number."
 
+She told me later what the number had been at her kitchen table. Her husband had read both offers at eleven at night, with a highlighter, and said, "Three million is a lot of rent." "It's a lot of microphone," Priya had said. He'd capped the highlighter. "I didn't marry you for the proud part," he said. "I'd just like you to sleep." She'd slept eight hours that night, she told me, for the first time since the globe.
+
 "Sable will be upset."
 
 "Sable will be fine. Sable has a globe." She opened her laptop. "I'll call the lawyer. He'll want pizza."
 
 We signed in June. The money came in a wire on the twelfth, which I know because I watched the number appear, and I felt nothing, and then I felt a great deal. I bought a second monitor for Priya, on my own card, before I'd paid anyone else.
+
+Cole didn't text for six weeks. It was the longest silence of our acquaintance, and the introduction to a second pharmacy chain that he'd mentioned in April never came. I noticed I minded less than I'd expected, and that I minded exactly one introduction's worth.
 
 ---
 
