@@ -85,7 +85,7 @@ I want to report that I told her well. I told her accurately. I told her every w
 
 "I said I was trying."
 
-Maya was quiet for a bit. She turned the rice a quarter turn in her bowl, which I'd seen her do on a fence post, and in a taqueria, and somewhere else I couldn't place.
+Maya was quiet for a bit. She turned the rice a quarter turn in her bowl, which I'd seen her do in a taqueria, and had seen once before, on a fence post, done by someone else.
 
 "It sounds like she asked you to ask," she said.
 
@@ -229,7 +229,7 @@ It was in Columbus, in November, in a year I don't count. She was a woman named 
 
 I'd filed it. I'd been twenty-three. I'd put it in a drawer, under *things people say when they leave,* and I'd told myself for six years that it was about her.
 
-Hannah had given me the first half. Maya had given me the whole of it, on Sunday, with her arms around her knees: *and then you circulate them.* It had taken me until two in the morning to hear the rest, and to realize that two women, six years and two rooms apart, had said the same thing to me, and that Priya had said it in a third way, in a glass room, on Thursday.
+Hannah had given me the first half. Maya had given me the whole of it, on Sunday, with her arms around her knees: *and then you send out the action items.* It had taken me until two in the morning to hear the rest, and to realize that two women, six years and two rooms apart, had said the same thing to me, and that Priya had said it in a third way, in a glass room, on Thursday.
 
 *You listened, and then you fixed.*
 

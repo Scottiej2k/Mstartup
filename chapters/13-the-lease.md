@@ -21,9 +21,7 @@ There was a silence. Priya, without turning her head, took a pen from behind her
 
 So I asked, which cost me nothing but the week. "How did you find it?"
 
-"I stopped reading what we meant," said Theo, "and read what the phones sent. It's what I did at the Denny's. You don't ask the customer what they ordered. You look at the ticket." He said it kindly, and I kept it.
-
-I hadn't. It was a small thing, and it has stayed with me. I had a hundred and twelve patients, now that Margo's money had bought a second clinic, and a salary that was, for the first time, a number with a comma in it, and I'd spent five days building a wall around a lowercase letter because it was easier than saying *I'm stuck.* It turns out the comma changes what you're afraid of. I'd been poor for sixteen months and I'd known how. I hadn't known how to be someone with fourteen months of runway and a free Saturday.
+"I stopped reading what we meant," said Theo, "and read what the phones sent. It's what I did at the Denny's. You don't ask the customer what they ordered. You look at the ticket." He said it kindly, and I kept it. It was a small thing, and it has stayed with me. I had a hundred and twelve patients, now that Margo's money had bought a second clinic, and a salary that was, for the first time, a number with a comma in it, and I'd spent five days building a wall around a lowercase letter because it was easier than saying *I'm stuck.* It turns out the comma changes what you're afraid of. I'd been poor for sixteen months and I'd known how. I hadn't known how to be someone with fourteen months of runway and a free Saturday.
 
 That's how I came to be looking at a one-bedroom in Sunnyvale.
 

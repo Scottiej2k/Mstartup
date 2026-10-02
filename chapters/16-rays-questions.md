@@ -155,9 +155,7 @@ I hadn't got an answer. I sat there with the hot mug in both hands, in the heat 
 
 "Two of those are Margo's," I said. "My investor, Margo Bell. She asks them about the company, every quarter. *What would make you shut it down? How will you know you're wrong?*" I looked at him. "They're the same questions. About a company and about a person."
 
-"Is it?" said Ray.
-
-"I've never met her." He picked up the mug and looked into it. "I know that people who've been wrong a few times tend to ask the same questions." He took a sip. "It's a short list. Every important thing you do in your life, you'll be asked it. By a banker. By a doctor. By the man in the robe, at the wedding." He put it down. "Denise would have liked her."
+"Are they?" said Ray. "I've never met her." He picked up the mug and looked into it. "I know that people who've been wrong a few times tend to ask the same questions." He took a sip. "It's a short list. Every important thing you do in your life, you'll be asked it. By a banker. By a doctor. By the man in the robe, at the wedding." He put it down. "Denise would have liked her."
 
 I didn't say anything.
 
@@ -243,7 +241,7 @@ She looked at me. She took a long time. She didn't smile.
 
 "It's Ray's. I'll answer it first, if you'd rather."
 
-"No. I'll go." She looked at the light on the bay. "If I found out you'd decided something about me, and you'd been right, and you hadn't asked." "If you fixed it, and it was perfect, and I never got to say what I wanted. That's what would do it." She turned her head. "And you?"
+"No. I'll go." She looked at the light on the bay. "If I found out you'd decided something about me, and you'd been right, and you hadn't asked. If you fixed it, and it was perfect, and I never got to say what I wanted. That's what would do it." She turned her head. "And you?"
 
 "If I stopped being able to tell you I was wrong."
 
@@ -291,6 +289,8 @@ I listened for the period. It wasn't there. It wasn't the no-period one, either.
 
 The deer, about thirty feet away, lowered its head, and began, without any fuss, to eat the grass.
 
+That night I copied Ray's four questions onto an index card, with her answer to the third written under it, and put it behind my license.
+
 ---
 
 **FOUNDER'S NOTE**
@@ -298,8 +298,8 @@ The deer, about thirty feet away, lowered its head, and began, without any fuss,
 
 Note to self.
 
-At work, before Meridian signed, I asked Carla, "What would make you walk?" She answered by writing section nine: an exit clause, with a review at ninety days. It's the best clause in the contract, because it makes bad news cheap to say out loud. Margo asks me her two questions every quarter for the same reason.
+At work, before Meridian signed, I asked Carla, "What would make you walk?" She said nothing for a long time, and I answered it myself by writing section nine: an exit clause, with a review at ninety days. It's the best clause in the contract, because it makes bad news cheap to say out loud. Margo asks me her two questions every quarter for the same reason.
 
 At home, Ray gave me four questions to ask about Maya. I asked the third, on a bench, before I proposed. Her answer: *If I found out you'd decided something about me, and you'd been right, and you hadn't asked. If you fixed it, and it was perfect, and I never got to say what I wanted.* It's the thing I do at work every day. I keep the four questions on an index card behind my license.
 
-Rule: ask it while things are good, take the second answer, not the polite one, and write it down somewhere I'll see it. Section nine is in the contract. Hers is in my wallet.
+Rule: ask it while things are good, take the second answer, not the polite one, and write it down somewhere I'll see it. Section nine is in the contract. Her answer is in my wallet.

@@ -65,7 +65,7 @@ I'd prepared a diagram. It was a good one, in three colors. The woman at the hea
 
 "I don't want to see what it does," she said. "Tell me what it can't."
 
-I looked at Priya. She was sitting straight, with a single sheet of paper in front of her, and she turned it over so the room could read it. It was the wall from the glass room, typed. WE WILL NOT: *track where you are. Read what you say or write. Sell or share what we know. Put anyone's name at the bottom of the message. Turn it on for someone else. Call the police unless you said we could.*
+I looked at Priya. She was sitting straight, with a single sheet of paper in front of her, and she turned it over so the room could read it. It was the wall from the glass room, typed, minus the doodles. WE WILL NOT: *track where you are. Read what you say or write. Sell or share what we know. Put anyone's name at the bottom of the message. Turn it on for someone else. Call the police unless you said we could.*
 
 "Do you collect audio?" said a man to Okoye's left.
 
@@ -217,9 +217,13 @@ Ray telephoned me on a Tuesday in May, at four-forty, on the landline, which I'd
 
 "I don't know, exactly," I said. "They do rounds. They check on people. They chart. Why?"
 
+"How many patients does one of them have?"
+
 "On a night shift? It depends. Five or six, on a medical floor. Sometimes eight." I stopped. "Ray, what is this?"
 
 "Who calls the family?" said Ray. "If it's bad. At that hour. Is it the nurse, or the doctor, or—" He stopped. I could hear him breathing. "Who does it?"
+
+"I think it's the nurse, often. If there's no doctor. It depends on the—"
 
 "That's what I thought," said Ray. "Thank you." He said it carefully, as if he'd set something down. "That's all. Go back to your list."
 
@@ -332,7 +336,7 @@ I stood at the counter with my hands at my sides. I didn't write it down. I unde
 
 Note to self.
 
-Carla's checklist had eighty-three items and every one began with a verb. *Loopback to provide 24/7 response contact.* It didn't say who. So for each of forty stores I wrote down a person, not a role, and what that person would be doing at ten past nine on a Saturday. Lists are for remembering. A name is for picking up the phone.
+Carla's checklist had eighty-three items and every one began with a verb. *Loopback to provide 24/7 response contact.* It didn't say who. So for each of forty stores I wrote down a person, not a role. I got the names. The *when*, what that person would be doing at ten past nine on a Saturday, took me half a year and a sentence from Carla. Lists are for remembering. A name is for picking up the phone, and a time is for it to be answered.
 
 At home I did the same thing to the wedding, and it failed. Three hundred and six tasks and a Deconfliction Matrix, and Maya said, "It's a wedding, not a migration." She crossed it out with a ruler. Her mother's plan was on a strip of paper on a wall:
 

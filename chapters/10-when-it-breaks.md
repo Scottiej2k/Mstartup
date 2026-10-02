@@ -45,7 +45,7 @@ I looked at the dashboard. I felt it happen. It's hard to describe the feeling o
 
 "I'm going to find out," I said. "Hold on. One minute. Please tell me your mother's name."
 
-She told me. I looked her up. She'd answered at 6:04 that morning. She was one of Dr. Okafor's November ones, and she had answered every morning since.
+She told me. I looked her up. She'd answered at 6:04 that morning. She was one of Dr. Okafor's first ones, and she had answered every morning since.
 
 "She did answer," I said. "She answered at 6:04 this morning. The message you got was wrong. It was our mistake. I'm sorry. I'm so sorry. Is she there?"
 
@@ -89,7 +89,7 @@ She had it fixed at 12:06. It took twenty-six minutes. I watched her do it, betw
 
 There were thirty-four calls, and I answered all of them.
 
-I kept a tally on the back of an envelope, in pencil, in strokes. I could tell you what they said, but I'd rather tell you who they were. A man in Fresno. A teenager, who said *I'm the person on my grandma's thing, did it say she's okay,* in a voice that cracked on the last word, and whom I told, *yes, she's okay, she's fine, you did everything right.* A woman from the county who'd been at a dinner and said, *I don't know what to do with a wrong message that sounds so right.* A man who began, when I said *this is Nate,* with "Oh. A person," in a voice from which something had gone, and then shouted anyway, for four minutes, about his mother, about the ambulance he'd nearly called, and then, without any change in his voice, said *I'm sorry, I'm not shouting at you, I've been awake since five,* and I said *you're allowed.*
+I kept a tally on the back of an envelope, in pencil, in strokes. I could tell you what they said, but I'd rather tell you who they were. A man in Fresno. A teenager, who said *I'm the person on my grandma's thing, did it say she's okay,* in a voice that cracked on the last word, and whom I told, *yes, she's okay, she's fine, you did everything right.* A woman from the county who'd been at a dinner and said, *I don't know what to do with a wrong message that sounds so right.* A man who began, when I said *this is Nate,* with "Oh. A person," in a voice from which something had gone, and then shouted anyway, for four minutes, about his mother, about the ambulance he'd nearly called, and then, without any change in his voice, said *I'm sorry, I'm not shouting at you, I've been awake since five,* and I said *you're allowed.* By the end of the night, eight of them had said some version of *Oh. A person.*
 
 An old woman, who was a patient, and who had answered the phone when her son called her, and who had then called the number at the bottom of the text, herself, on her own telephone, to say, with enormous clarity, "Young man, I'm right here. I'm watching Jeopardy. Somebody sent my son a message that said I hadn't answered. I haven't *been* asked. Do you know the category? It's Potent Potables. I'd like to be left alone." I apologized to her for eleven minutes. She stayed on for the whole thing. At the end she said, "You sound tired," and hung up.
 
@@ -234,4 +234,4 @@ At home, when Maya calls late:
 *3. Stay on the phone.*
 *4. Find two shoes. They don't have to match.*
 
-Thirty-four calls, tallied on the back of an envelope, taught me the first one. Eight people said some version of *Oh. A person.* Nobody remembered the clock being wrong. They remembered a voice at midnight. Maya taught me the second from the shoulder of the 101, when she said she wasn't calling to be fixed. So: don't say *it's okay.* Don't say *you don't have to.* Don't ask what I can do. Say I'm coming.
+Thirty-four calls, tallied on the back of an envelope, taught me the work script. Eight people said some version of *Oh. A person.* Nobody remembered the clock being wrong. They remembered a voice at midnight. Maya taught me the home one from the shoulder of the 101, when she said she wasn't calling to be fixed. So: don't say *it's okay.* Don't say *you don't have to.* Don't ask what I can do. Say I'm coming.

@@ -25,7 +25,7 @@ She'd asked for two changes. The first was a typo. The second was a sentence, ad
 
 "You think I would."
 
-"I think anybody would, at the right number." She looked at me steadily. "I counted to ten once, remember."
+"I think anybody would, at the right number." She looked at me steadily. "I timed you once, remember. Ten seconds."
 
 I signed. I wrote my name in the space with a pen that wasn't mine, and I felt nothing, which is how I know now that I hadn't understood a word of it. She took the page, and looked at my signature for a second, and then she signed hers, and capped the pen, and said, "Good." That was all.
 
@@ -253,7 +253,7 @@ She looked at me for a long moment. She put the other side of the headphones dow
 
 "It was a bad slide."
 
-"It was a good sentence." She turned back to her screen. She didn't turn entirely. I could see, in the side of her face, what I'd seen on the face of a man on a driveway in the wind.
+"It was a good sentence." She turned back to her screen. She didn't turn entirely. I could see, in the side of her face, what I'd seen on the face of a man at an airport curb in the wind.
 
 "Go sit down," said Priya. "I've got a release to ship."
 

@@ -111,6 +111,8 @@ She let me finish. She sat with her hands folded, looking at me, and the man on 
 
 "I know."
 
+She slid a single sheet of copy paper across the desk, with the numbers written on it by hand, like a dentist's estimate.
+
 "I'll fund it." She said it without warmth and without hesitation. "A million two, for twelve percent. It's not what Sable offered, which Cole says was three million. It's not close. You'd get fourteen months of cash, at about eighty-five thousand a month, once you pay people like people. That's what people in this business call runway, because eventually you either take off or you run out." She took a pen from a cup. "Let me tell you why, and then I'll tell you what I want, and then you'll go away and be tempted."
 
 "Tempted?"
@@ -133,7 +135,7 @@ She capped the pen, and uncapped it, and put it down.
 
 "How—"
 
-"Dr. Okafor sits on the advisory board of a patient-messaging company I backed," said Margo Bell. (Dr. Okafor had never mentioned it. She'd called investors a hobby.) "She doesn't tell people things. She told me that."
+"Dr. Okafor sits on the advisory board of a patient-messaging company I backed," said Margo Bell. (Dr. Okafor had never mentioned it.) "She doesn't tell people things. She told me that."
 
 ---
 
@@ -217,7 +219,7 @@ She laughed. It was a short, unwilling laugh, through her nose. "It wasn't a tes
 
 "Why not?"
 
-"Because it's where you say *ambient.*" She said it to the kettle, I think. "I heard you on the phone. You were doing the voice at me, from the other room. I don't want you in the room that makes the voice."
+"Because it's where you say *ambient.*" She said it to the kettle, I think. "I heard you on the phone last night. You were doing the voice at me. I don't want you in the room that makes the voice."
 
 "That's a reason."
 
@@ -235,7 +237,7 @@ She laughed. It was a short, unwilling laugh, through her nose. "It wasn't a tes
 
 Sunday dinner at the Ramans' was at five, because Suresh eats at five, and because Lakshmi had said, on the phone, *you will come. We are hoping.*
 
-It was the house in Fremont, a low cream stucco on a street of identical houses, each with a lemon tree and a small, fierce lawn. I'd been once before, in January, where I'd been handed a plate and then a second plate and then a cousin. I parked across the street. I didn't get out. I'd told Maya about both offers and about San Francisco, the night before, in a call that had gone strangely, and I'd said I would decide by Monday. I hadn't said which way I leaned, because I didn't know.
+It was the house in Fremont, a low cream stucco on a street of identical houses, each with a lemon tree and a small, fierce lawn. I'd been once before, in January, where I'd been handed a plate and then a second plate and then a cousin. I parked across the street. I didn't get out. I'd told Maya about both offers and about San Francisco, two nights before, in a call that had gone strangely, and I'd said I would decide by Monday. I hadn't said which way I leaned, because I didn't know.
 
 I had about seven minutes. I used them.
 
@@ -339,7 +341,7 @@ She told me later what the number had been at her kitchen table. Her husband had
 
 We signed in June. The money came in a wire on the twelfth, which I know because I watched the number appear, and I felt nothing, and then I felt a great deal. I bought a second monitor for Priya, on my own card, before I'd paid anyone else.
 
-Cole didn't text for six weeks. It was the longest silence of our acquaintance, and the introduction to a second pharmacy chain that he'd mentioned in April never came. I noticed I minded less than I'd expected, and that I minded exactly one introduction's worth.
+Cole didn't text for six weeks. It was the longest silence of our acquaintance, and the introductions he'd offered in April never came. I noticed I minded less than I'd expected, and that I minded exactly one introduction's worth.
 
 ---
 
