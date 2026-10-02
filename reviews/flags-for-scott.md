@@ -34,3 +34,19 @@ Priya's cousin Meera; Bernadette (Ray's night nurse); Ines Duarte, Tessa, Espera
 ## E. Style: what to watch for in your read
 
 "Hm" is said by Ray, Lakshmi, Carla and Dr. Okafor (keep it to them). Lakshmi "adding a number to a column" still turns up about six times. "That's a very Nate/Maya way to put it" is down but not gone. The coat motif is heavy in Ch 7. Use the reader's Comment button for any of these and I'll treat it as an edit request.
+
+## F. Second simulated publisher review (`reviews/publisher-review-2.md`)
+
+Verdict: **acquire with revisions** (the first review was a much harder pass). It credits the consent rule joining the work and romance plots, the ending, and the fixes (kiss and both "I love you"s, live catch, Store 9 consequences, the Ch 18 split, product explanation, Meera, Maya's work scene). It does not say the book is shorter: the net cut is only about 180 words, because Ch 7, 8, 12 and 21 grew by roughly 700 to 1,400 words each.
+
+Its five remaining problems, ranked, with my honest read:
+
+1. **Back-half repetition and length.** Ch 20 (the wedding) is about 6,800 words and carries eight payoffs; the romance has no obstacle after Ch 15. *My read: fair. The cleanest next step is to split or cut Ch 20 and trim Ch 8 and 12.*
+2. **Maya and the Ramans serve Nate's growth** (she supplies the product's best ideas unpaid; her arc folds back into the family store; the family tutors Nate). *Fair, and partly structural. Options: give Maya a credited stake or title in Loopback, and a want of her own that isn't about him. This is your call.*
+3. **Every mentor speaks in epigrams; the world is too kind; the competitor threads (Sable, Northbeam) are dropped.** *I'd add one real competitive pressure in Ch 21-23.*
+4. **Founder's Notes recap the chapter and end on a prescription.** *Your standing direction was that they be concrete and practical, so I'd leave this to you; one option is to let a few Notes end on a question instead of a rule.*
+5. **Tics.** It counts "Hm" over 100 times and "Okay" about 94; "a man who..." comparisons still over thirty. *I left "Hm" and "Okay" because they are motifs; I can cut "Hm" to the four characters it belongs to.*
+
+It also notes that Ch 1 is unchanged (waiting on your yes above) and that the Ch 8 SOS exception contradicts "Location? No." in Ch 17 (listed in section D).
+
+**If you want another round, my suggested order:** split or cut Ch 20; trim Ch 8 and 12 back; a "Hm" and "Okay" cut; Maya's stake in the company; one real competitor beat. Tell me which, and I will do them one at a time as before.
