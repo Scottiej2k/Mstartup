@@ -87,6 +87,42 @@ She read it a third time, standing, with the signature page on the desk. Margo w
 
 ---
 
+Priya had one more page.
+
+She put it on Margo's desk after we'd signed, under the pen, and she did not look at me. It was two paragraphs. *Advisory agreement. Maya Raman, Founding Advisor. One percent of the company, fully vested at signing.* "I'd like this added to the round," said Priya.
+
+I read it twice. *Fully vested* was the phrase that did it. I knew exactly who had written *no cliff.*
+
+"I should have done it in March," said Priya, to Margo, not to me. "The message rewrite, four minutes. Teach-back. The Tuesday test. The card in the bag. A no is a complete answer. She's been our advisor for two years, unpaid, and I'm calling it that so your lawyers have a word. She'll call it something else."
+
+"Does Maya know?" I said.
+
+"No. You do." She looked at me then. "You tell her. Not as a present."
+
+I told her that night at the kitchen table, with the page between us. She read it, the way she reads things, once for sense and once for traps. She was quiet for long enough that I heard the refrigerator.
+
+"Nobody asked me," said Maya.
+
+"No."
+
+"If you'd asked, I'd have said no. I'd have said I do it because of you." She put a finger on the line. "That's the part I'm not going to like. That I did it because of you, and it was work, and nobody called it work."
+
+"Priya wants it called work."
+
+"Priya's right. She usually is." She turned the page over, and back. "I'll say yes. Not as a present. Because I did it." She took the pen from the cup. "And I want it in my name only. I'm not putting it in the pharmacy, and I'm not putting it in *us.* When it's worth something, it goes toward the second location. My deposit. My name on the lease."
+
+"That's reasonable."
+
+"It's not reasonable. It's mine." She signed. Then she tapped the words *fully vested* and looked up, and I saw her mouth begin to move. "No cliff?"
+
+"Priya did that."
+
+"Hm," said Maya, which is the sound she makes when she's pleased and trying not to be. "There's no schedule."
+
+"There's no schedule," I said, and she slid the page back across the table, the way you return something you've borrowed and kept in good condition.
+
+---
+
 The Tuesday dinners began without being announced, the way the good things in my life have, and after about three weeks I noticed they had a shape.
 
 It was Maya's doing. She'd said it in April, at the sink, after my third Tuesday in a row of being home at six. "You're here on Tuesdays," she'd said. "Not every day. Tuesdays. I like that you're here on Tuesdays." She dried a glass. "Fridays are for the date. I like that one. Tuesday you just come home."

@@ -110,7 +110,7 @@ I told her all of it. She stood in front of the whiteboard, with her arms folded
 
 "It's *ours.* And you're better at this than I am." Priya looked at me for a second with an expression I'd have called *surprise* if I hadn't known her. She uncapped the marker.
 
-"Okay. Right now." She drew a circle on the left. She wrote *HAROLD* in it. "He goes quiet." She drew a line to a second circle, on the right. She wrote *LENA.* "We tell Lena. One person. And what do we know about Lena?"
+"Right now." She drew a circle on the left. She wrote *HAROLD* in it. "He goes quiet." She drew a line to a second circle, on the right. She wrote *LENA.* "We tell Lena. One person. And what do we know about Lena?"
 
 "She said OK."
 

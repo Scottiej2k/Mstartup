@@ -249,7 +249,7 @@ I'd decided to say *thank you for having me,* and what I said instead, in a voic
 
 "There's a large opportunity. Three million dollars from a fund on Sand Hill Road. The thesis is that every phone on earth is a sensor, and we're positioned as the ambient safety layer for eight billion people, and they'd want us in San Francisco—"
 
-"Hm," said Suresh.
+Suresh said nothing.
 
 "—and of course there's a second offer, which is smaller, but the terms—"
 

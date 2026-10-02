@@ -5,7 +5,7 @@ The families' dinner was the first Saturday of September, in a long upstairs roo
 
 It went better than I'd feared and worse than I'd hoped, in about equal parts, as these things do.
 
-My father and Suresh found each other by the soup. I saw it happen. There's a way that two men who've spent their working lives with their hands in machines will recognize each other in a crowded room, as if by a signal in the blood, and they sat down together at the corner of the table, without a word, and within about nine minutes had taken the label printer from the Ramans' pharmacy to bits, in a conversation consisting, as far as I could hear, of nouns. "Torque," said my father. "Hm," said Suresh. "A thirty-two-thousandth," said my father. "*Ah,*" said Suresh. Annie, across the table, caught my eye and mouthed, clearly, *They're in love.*
+My father and Suresh found each other by the soup. I saw it happen. There's a way that two men who've spent their working lives with their hands in machines will recognize each other in a crowded room, as if by a signal in the blood, and they sat down together at the corner of the table, without a word, and within about nine minutes had taken the label printer from the Ramans' pharmacy to bits, in a conversation consisting, as far as I could hear, of nouns. "Torque," said my father. "Yes," said Suresh. "A thirty-two-thousandth," said my father. "*Ah,*" said Suresh. Annie, across the table, caught my eye and mouthed, clearly, *They're in love.*
 
 And then Lakshmi cleared her throat.
 

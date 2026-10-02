@@ -199,7 +199,7 @@ He was looking at me.
 
 "No, sir," I said.
 
-"Hm." He held my eye for a while. It was the look from the fax machine. "Good."
+He held my eye for a while. It was the look from the fax machine. "Good."
 
 He turned to his daughter. He sat back, slowly. I saw his shoulders come down half an inch, and stay.
 

@@ -67,7 +67,7 @@ Afterward, in the kitchen doorway, with a paper plate, an aunt of Maya's whose n
 
 "It's in the other direction."
 
-"Hm." She ate something. "Maya could have married a doctor."
+She ate something. "Maya could have married a doctor."
 
 "I'm told there are several."
 

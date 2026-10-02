@@ -1,6 +1,6 @@
 # Flags for Scott: checks to do before the full read-through
 
-Status as of 2 October: all 15 tasks from the action plan (`reviews/action-plan.md`) are done. 24 chapters, ~98,100 words, every chapter re-read cold by the reference-checker after the revisions and the flagged problems fixed. The reader is at Version 52 and its database is synced. A second simulated publisher review is saved at `reviews/publisher-review-2.md` once it finishes.
+Status as of 2 October (updated after your answers): all 15 tasks from the action plan (`reviews/action-plan.md`) and the follow-up round (Ch 1 applied, Maya's job and stake, Ch 20 cut, Ch 8 and 12 trimmed, "Hm" trimmed) are done. 24 chapters, ~98,100 words, every chapter re-read cold by the reference-checker after the revisions and the flagged problems fixed. The reader is at Version 52 and its database is synced. A second simulated publisher review is saved at `reviews/publisher-review-2.md` once it finishes.
 
 ## A. Decisions only you can make
 
@@ -50,3 +50,9 @@ Its five remaining problems, ranked, with my honest read:
 It also notes that Ch 1 is unchanged (waiting on your yes above) and that the Ch 8 SOS exception contradicts "Location? No." in Ch 17 (listed in section D).
 
 **If you want another round, my suggested order:** split or cut Ch 20; trim Ch 8 and 12 back; a "Hm" and "Okay" cut; Maya's stake in the company; one real competitor beat. Tell me which, and I will do them one at a time as before.
+
+## G. Round 2 (after your answers to the above)
+
+Done: Ch 1 trim applied with the timing fix; Maya is a licensed pharmacist who becomes the pharmacy's full-time business manager and is negotiating a second location in Union City; she now holds a 1% fully-vested Founding Advisor stake (new scene in Ch 22, with "There's no schedule" as the payoff of the Ch 11 cliff joke); Ch 20 cut from ~6,800 to ~5,400 words; Ch 8 and Ch 12 trimmed by ~700 and ~600; "Hm" limited to Ray, Lakshmi, Carla, Dr. Okafor and Maya; the Ch 8/17 SOS contradiction fixed. Ray's unanswered letter is in Ch 24 (Sept 21). Left alone as you said: sensitivity reads, Founder's Notes, length, competitors.
+
+Notes: the editor's "Hm over 100 times" was an overcount (the real number was about 26); "Okay" is mostly the product's own text ("check you're okay") plus the Maya/Nate motif, so I only trimmed non-owner uses. The book is now about 95,500 words.

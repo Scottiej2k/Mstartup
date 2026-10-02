@@ -41,7 +41,7 @@ It was Esperanza Villanueva, the technician at Register Three, who'd been at the
 
 "You can stop whenever you like," I said. "Even before you start."
 
-"That's why you didn't push." She nodded. "Okay."
+"That's why you didn't push." She nodded. "Good."
 
 She went back to Register Three, and I stood by the pamphlet rack in a green lanyard, with a small, quiet, entirely unreasonable feeling of having been seen.
 

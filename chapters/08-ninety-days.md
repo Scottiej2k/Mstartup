@@ -55,7 +55,7 @@ We had fourteen thousand two hundred dollars, which I knew to the dollar because
 
 "A man named Mr. Abernathy missed a morning, and we texted his granddaughter, and she called him, and he was on the bathroom floor. He's fine. He says he'd rather we didn't put it in a deck."
 
-"Hm," said Renata, in the voice of someone who was going to put it in a deck. "Take a minute, if you need one."
+"Of course," said Renata, in the voice of someone who was going to put it in a deck. "Take a minute, if you need one."
 
 It went quiet. I looked at Priya, who was looking at her own hands, and I understood, slowly, that she was not going to help me. It was the most generous thing she'd ever done to me.
 
