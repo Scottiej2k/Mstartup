@@ -27,7 +27,7 @@ I watched her go to her desk. I wish I'd felt uneasy. What I felt was relieved, 
 
 "Keep it light," said Kyle.
 
-It was Thursday, at 6:40 in the evening, and I was standing in the hallway in my second-best shirt, with a tie in my hand that I'd already decided not to wear. Kyle was at the counter with the mixing bowl. He had been, lately, in a generous mood, which in Kyle takes the form of advice.
+It was a Thursday evening, and I was in the hallway in my second-best shirt, holding a tie I'd already decided not to wear. Kyle was at the counter with the mixing bowl, in a generous mood, which in Kyle takes the form of advice.
 
 "It's a dinner," I said. "Cole's hosting. Maya's coming, Priya's not, it's a room full of people who raised money."
 
@@ -35,7 +35,7 @@ It was Thursday, at 6:40 in the evening, and I was standing in the hallway in my
 
 "She's Maya."
 
-"Dude." He pointed the spoon at me like a man with a sniper rifle. "You're a founder. In six months you might have a company or a divorce from one. You don't know what's going to happen. Don't put a label on something and then have to live inside the label." He ate. "That's not me being a coward. That's me being a *strategist.*"
+"Dude." He pointed the spoon at me like a sniper. "You're a founder. In six months you might have a company or a divorce from one. Don't put a label on something and then have to live inside the label." He ate. "That's not cowardice. That's strategy."
 
 "You have never once in your life been a strategist."
 
@@ -45,9 +45,9 @@ I said I would, and I believed I'd decided it on my own.
 
 ---
 
-Cole's dinner was in a private room above a restaurant in SoMa, with a long wooden table and a chef who came out to explain each course, as though the food were a pitch. There were sixteen of us: ten who had raised money, four who were about to, and two who'd come for the food. Cole sat at the head of the table, lit as usual from an angle I've never been able to locate. He was in a jacket the color of wet sand and no tie, and he had, I noticed, a new ring-shaped tan line on his left hand, from a thing that had been and wasn't. (It was his third engagement. It had ended in September. He wore it the way he wore everything.)
+Cole's dinner was in a private room above a SoMa restaurant, with a long wooden table and a chef who explained each course as though the food were a pitch. Sixteen of us: ten who had raised money, four who were about to, and two who'd come for the food. Cole sat at the head, lit from an angle I've never located, in a jacket the color of wet sand, with a new ring-shaped tan line on his left hand. (His third engagement. It had ended in September.)
 
-Maya had her coat on. She'd kept it on at the coat rack, where a man in a vest had offered to take it, and she'd said, "I'm fine," in the tone of a person declining a kidney. She'd chosen the chair nearest the door, which was also the chair nearest the kitchen, and I'd sat next to her, and I felt the old feeling I'd had in the ballroom: the feeling of a room trying to decide which of us was the exception.
+Maya had her coat on. When a man in a vest offered to take it, she'd said, "I'm fine," in the tone of a person declining a kidney. She'd chosen the chair nearest the door, and I'd sat next to her, and I felt the old feeling from the ballroom: a room deciding which of us was the exception.
 
 "Nate," said Cole, across the table, over a dish of something small and expensive. "How's the healthcare thing?"
 
@@ -57,13 +57,13 @@ Maya had her coat on. She'd kept it on at the coat rack, where a man in a vest h
 
 "It's what we're doing."
 
-"What you're doing *now.*" Cole leaned back. A man to his left laughed without being told anything. "Look. I'll give you one piece of advice, and then I'll shut up, and then I'll give you another. Stay liquid. Don't sign anything you don't have to. Not a co-founder agreement, not a lease, not an offer, not anything. Every signature is a door you've closed." He raised his glass at me. "Optionality, man."
+"What you're doing *now.*" Cole leaned back. A man to his left laughed without being told anything. "One piece of advice. Stay liquid. Don't sign anything you don't have to. Not a co-founder agreement, not a lease, not an offer. Every signature is a door you've closed." He raised his glass. "Optionality, man."
 
 I'd heard it in July. It had sounded different in July. It had sounded like a dare.
 
 A woman beside Cole, a founder of something with a logo, turned to Maya, and then to me, with the smile of a person waiting for the rest of a sentence. "And this is—?"
 
-It's very quiet in your head when it happens. I'd expected a roar. It was a clear room with a single clear sentence in it. I felt Kyle's spoon. I felt Cole's glass. I felt, most of all, a rule the woman beside me had given me over a coffee in the summer: *I don't name things until coffee three.* We were somewhere past coffee thirty. I told myself the rule had gone on existing out of politeness, and that I was respecting it, and that the word was hers to give.
+It's very quiet in your head when it happens. I'd expected a roar. I felt Kyle's spoon. I felt Cole's glass. Most of all I felt a rule the woman beside me had given me over a coffee: *I don't name things until coffee three.* We were somewhere past coffee thirty. I told myself I was respecting the rule, and that the word was hers to give.
 
 "This is my friend Maya," I said.
 
@@ -71,7 +71,7 @@ The woman said, "Lovely."
 
 "Okay," said Maya.
 
-It's a small word. It was a very small word, and it had a period on it, and I heard the period, and I'd like to tell you I understood it at once. I understood it the way you understand a noise in the house at night, which is to say that I sat very still and waited for it to go away.
+It was a very small word, and it had a period on it, and I heard the period. I understood it the way you understand a noise in the house at night, which is to say I sat very still and waited for it to go away.
 
 Somewhere in the second course, Maya asked Cole a question.
 
@@ -87,21 +87,7 @@ The table went quiet in the way a table does when a knife is set down. Cole look
 
 I drove her home. She sat with her hands in her lap and her coat buttoned to the top, in the passenger seat, and watched the road as though it were being read to her.
 
-"It was a good dinner," she said, after the freeway.
-
-"Yes."
-
-"Thank you for having me."
-
-"Thank you for coming."
-
-"Cole's very interesting."
-
-"He is."
-
-"The chef was good." It was the tone. I've spent a long time learning to read it, and she wasn't angry. She'd gone polite. She'd gone all the way around to the other side of it, where the manners are. "Thank you for driving. I know it's out of your way."
-
-"Maya—"
+"The chef was good." She thanked me for driving, which she'd never done before, and I understood from the thanks that she wasn't angry. She'd gone polite, all the way around to the other side, where the manners are.
 
 "I have an early morning."
 
@@ -117,15 +103,15 @@ The door opened. She went in. She closed it, and there was a short silence, and 
 
 That was a Thursday. The next three days were the politest of my life.
 
-I texted Friday morning. *Good morning.* She replied in four minutes. *Good morning.* I texted Friday night. *Did you get home okay?* She'd been home for a day. *Yes, thank you.* On Saturday I said, carefully, that I was going to be free in the afternoon if she was, and she said she'd be at the store until late, and thanked me for asking, and every one of them had a period, and I began to believe that there was a bank somewhere in which I'd been running up a balance of periods.
+I texted Friday morning. *Good morning.* She replied in four minutes. *Good morning.* That night: *Did you get home okay?* She'd been home a day. *Yes, thank you.* On Saturday I said I'd be free if she was, and she said she'd be at the store until late and thanked me for asking. Every one had a period. I began to believe there was a bank somewhere where I was running up a balance of periods.
 
-I opened Life OS on Saturday night. It was still the same five sections. The last one said **Relationships,** and it was empty, as it had been since a Saturday in the summer when I'd typed *Follow up* under it and deleted it, because Maya would notice. I sat with the cursor under the heading for a long while. I wanted to write something, and I found I didn't have a verb.
+I opened Life OS on Saturday night. The last of the five sections said **Relationships,** and it was empty. I sat with the cursor under the heading for a long while. I wanted to write something, and I didn't have a verb.
 
 ---
 
-I drove up the mountain on Sunday morning, before the fog had decided, with no hypothetical. It was the first time in four years that I'd gone to Ray's without a question in the car, and it felt like arriving with my pockets turned out.
+I drove up the mountain on Sunday with no hypothetical. It was the first time in four years I'd gone to Ray's without a question in the car, and it felt like arriving with my pockets turned out.
 
-He was at the far end of the yard, with the stakes and the string, in flannel, in January, and he didn't look up. The curved outline of the pond had grown a second, inner curve. There was a stack of wet flagstones by the shed that hadn't been there before.
+He was at the far end of the yard with the stakes and the string, in flannel, in January, and he didn't look up.
 
 "Coffee's on the post," said Ray. "Don't tell me about the traffic."
 
@@ -165,10 +151,6 @@ He didn't say anything. He took his glove out of his back pocket and held it for
 
 "I kept my options open for a good long time," said Ray. "I'll tell you what they were. They were a drawer. A nice deep drawer with a lot of things in it I never used." He set the mallet against the fence. "You keep your options open until somebody's standing in them. Then they're not options. They're a person, waiting in a hall."
 
-I didn't ask whose drawer he meant. I took my phone out, because something in me wanted to have that, and Ray said, "Don't write that down."
-
-I put it away.
-
 "How much is enough?" I said. "To be sure. To—I keep thinking there's a number."
 
 "Nobody tells you." He looked at me for the first time since I'd arrived, and his eyes were pale and level and not unkind. "You've got enough. You've had enough since July. What you're waiting for isn't information."
@@ -181,9 +163,9 @@ I put it away.
 
 I slept in the apartment that night without sleeping, and at five-forty on Monday morning I drove to a trail above a nature preserve and walked up it in the dark.
 
-It's a steep path with a bench at the top, facing east, where the whole bay lies under you in a gray sheet with a few lights left on in it, like a desk after a long night. I sat on the bench. The air was cold and smelled of eucalyptus. A deer, somewhere to my left, had apparently been there before me, and looked at me with the patience of a large animal that has seen people work things out.
+It's a steep path with a bench at the top, facing east, where the whole bay lies in a gray sheet with a few lights left on, like a desk after a long night. A deer, off to my left, had apparently been there before me, and looked at me with the patience of an animal that has seen people work things out.
 
-I practiced. I'm not proud of it. I said, out loud, in the dark, to the deer, a number of different sentences. *I've been thinking about what I want us to be.* (It had an exit in it.) *I'd like to talk about labels.* (That one had two.) *I want to be clear about the thing I said on Thursday.* I listened to each one. I could hear a small door left open in the back of every sentence, a little gray gap, the place where I'd go if it went wrong.
+I practiced. I'm not proud of it. I said, out loud, to the deer, *I've been thinking about what I want us to be.* (It had an exit in it.) *I'd like to talk about labels.* (That one had two.) I could hear a small door left open at the back of every sentence, the place where I'd go if it went wrong.
 
 It was a stupid thing to do to a deer.
 
@@ -191,7 +173,7 @@ I stopped. I looked at the lights. After a while I said the only sentence I had 
 
 "I don't have a backup."
 
-It sounded like nothing. It sounded like a man on a bench. I said it again, to see if it would change, and it didn't. It was true, and I'd never said a true thing that hadn't had somewhere to go.
+It sounded like nothing. It sounded like a man on a bench. It was true, and I had never said a true thing that didn't have somewhere to go.
 
 I went down the trail in the gray light. I drove to Glen Park without stopping for coffee.
 

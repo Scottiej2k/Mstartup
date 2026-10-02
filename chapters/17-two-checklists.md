@@ -5,7 +5,7 @@ Meridian's first checklist had eighty-three items, in five sections, and every o
 
 It arrived on the eleventh of January, in a spreadsheet with a green header, three days after the contract came back signed. (The three-store pilot had become forty stores in December, on a call in which Carla said *September* and I said *confident.* Section nine had survived, on page thirty-eight, with its ninety-day review. The price was three dollars and fifty cents a month for every person who named someone, which Priya worked out would make us, by the next summer, a company with a payroll.) Carla had attached it with a two-line note. *Here's the list. Tell me what I've left off.* I opened it at the glass table at 7:20 in the morning, with a pencil behind my ear, and read it from top to bottom, and understood, as one understands a change in the weather, that the company had changed.
 
-There were forty stores. They were to go live on the last Saturday in September, all at once, at nine in the morning, which had not been my idea and which I'd agreed to in a tone I'd have called *confident.* I had noticed, on the call, that Maya's ceremony was at eleven that same morning. I noticed it the way you notice a pothole at forty miles an hour. Between a Monday in January and that Saturday there was a **security review,** in which Meridian's people in San Jose would check that we'd never lose a patient's phone number; **training,** at every store, for every technician, which came to some two hundred people and about four hundred hours; **integration,** which was the word for hooking us into the computer in each store so that we'd know who was picking up what; a **pilot store,** where it would all be tried out in August by real people in a real line; and an **on-call plan.**
+There were forty stores. They were to go live on the last Saturday in September, all at once, at nine in the morning, which had not been my idea and which I'd agreed to in a tone I'd have called *confident.* I had noticed, on the call, that Maya's ceremony was at eleven the same morning. I noticed it the way you notice a pothole at forty miles an hour. Between January and that Saturday there was a **security review;** **training** at every store, some two hundred people and four hundred hours; **integration,** which meant hooking us into the computer in each store so we'd know who was picking up what; a **pilot store,** in August; and an **on-call plan.**
 
 I read the last one twice. It said: *Loopback to provide 24/7 response contact for all forty locations.* It didn't say who.
 
@@ -79,7 +79,7 @@ I looked at Priya. She was sitting very straight, with a single sheet of paper i
 
 "We send two sentences. We read one letter back."
 
-Okoye read the page. She read it again. She had a pen, and she put a small check beside each line, and by the fourth line her face had changed from the face of a woman doing her job to the face of a woman enjoying it.
+Okoye read the page twice. She put a small check beside each line, and by the fourth her face had changed from that of a woman doing her job to that of a woman enjoying it.
 
 "Most vendors give me a diagram of everything they hold," she said. "You've given me a list of things you don't. I can audit a negative. It's rare." She turned to a colleague. "This goes under the business associate agreement. That's the paperwork that says what you may do with a patient's data, which is, in your case, almost nothing. It's usually forty pages. Yours is four."
 
@@ -93,13 +93,13 @@ We passed. It took nineteen days, and thirty-four pages, and a clause about rete
 
 It was the wedding that I made a mistake about.
 
-We'd settled the shape of it on a Sunday in January. It had been Maya's, entirely. A civil ceremony, at City Hall in San Francisco, at eleven in the morning, on the last Saturday in September, with the people who mattered, and nobody who'd come out of obligation. Afterward, a party at Ray's, in the yard, in the late afternoon, under whatever the trees would allow. (Ray had said yes on the phone, in one syllable: *Hm.*) "Small," Maya had said. "Forty people. Fifty, if somebody's cousin won't be told no." She'd looked at me across the table. "And I want to cook with my mother, the day before. I've never been allowed. (In that house, Maya had been allowed to chop, never to season.) I'd like to be."
+We'd settled the shape of it on a Sunday in January. It was Maya's, entirely. A civil ceremony at City Hall in San Francisco, at eleven in the morning, on the last Saturday in September, with the people who mattered and nobody who'd come out of obligation. Afterward, a party at Ray's, in the yard. (Ray had said yes in one syllable: *Hm.*) "Small," Maya had said. "Forty people. Fifty, if somebody's cousin won't be told no. And I want to cook with my mother, the day before. I've never been allowed. In that house I was allowed to chop, never to season."
 
 It was a perfect plan. I'd signed it like a document.
 
 I hadn't known, then, that there were two of them.
 
-I found out in March. It turned out that my mother had, in Dayton, without being asked, begun to plan the wedding that Maya had described. She'd done it in color. She'd called me on a Tuesday night and held up, to the camera on her phone, a sheet of graph paper on which she'd ruled a grid, with a column for each of the weeks between March and September, and a row for each of a number of people, and I saw that she had got to forty-one names. There were four colors. Blue was my father, for travel. Green was Annie, for *toasts.* Orange was me, for reasons she didn't explain, and marigold, in a block at the bottom of the page, was a box that said, simply, **MAYA,** with a line through the middle of it that said **ASK.**
+I found out in March that my mother had, in Dayton, without being asked, begun to plan the wedding Maya had described. She did it in color. She called me on a Tuesday night and held up to her phone's camera a sheet of graph paper ruled in a grid, a column for each week between March and September and a row for each person, forty-one names. Blue was my father, for travel. Green was Annie, for *toasts.* Orange was me, for reasons she didn't explain. And in marigold, in a block at the bottom, was a box that said **MAYA,** with a line through the middle that said **ASK.**
 
 "I don't want to interfere," said my mother.
 
@@ -135,7 +135,7 @@ I built the master plan on a weekend in April.
 
 I'd been, I'd thought, very careful. I had asked. I'd said to Maya, on the Thursday, *can I show you a plan, or would you hate it?* and she'd said, after a pause I could have timed, *show me,* and I'd taken it as *build it.* It took me fourteen hours. It was called **WEDDING: MASTER PLAN (v1),** and it was a beauty.
 
-It had four tabs. There was a timeline, with bars, running backward from a date in September; there was a list of tasks, three hundred and six of them, with an owner and a deadline and a status next to every one; there was a risk register, in which I'd assigned each of forty-one guests a probability of arriving late; and there was a tab I'd named **Deconfliction Matrix,** which was a grid of who could not sit near whom, arrived at by combining my mother's calendar, which had no seating, and the thing on the wall in Fremont, which I'd read upside down.
+It had four tabs: a timeline, with bars, running backward from a date in September; a task list, three hundred and six tasks, each with an owner, a deadline and a status; a risk register, in which I'd assigned each of forty-one guests a probability of arriving late; and a tab I'd named **Deconfliction Matrix,** a grid of who could not sit near whom.
 
 I showed it to her on a Sunday, on the couch, on the laptop, with a cup of tea. What I felt was a warm, steady, slightly breathless glow, like a man who has made an excellent soup. She read the first tab in silence. She read the second for a long time, scrolling, with her lips very slightly parted.
 
@@ -167,7 +167,7 @@ The pen stopped. "That's fair," said Maya, after a moment. "I didn't know what I
 
 "Give me a printout."
 
-I printed it. It came to eleven pages. She sat on the couch with the pages on her knees, and the pen, and read each one, and every so often she drew a line through something, one line, straight, with the edge of a ruler she'd got from a drawer. I watched her do it. She crossed out the *RSVP tracker.* She crossed out *Day-of run of show.* She crossed out the probability of each guest's arriving late, all forty-one, in about two seconds, with a single stroke. She crossed out *Deconfliction Matrix,* and looked at it for a moment, and wrote, beside it, in a small, neat hand: *Amma has this.*
+I printed it. It came to eleven pages. She sat on the couch with the pages on her knees and read each one, and every so often she drew a line through something, one straight line, with the edge of a ruler she'd got from a drawer. She crossed out the *RSVP tracker.* She crossed out *Day-of run of show.* She crossed out all forty-one probabilities of arriving late in about two seconds. She crossed out *Deconfliction Matrix,* looked at it, and wrote beside it, in a small neat hand: *Amma has this.*
 
 It took her an hour. When she'd finished, there were three lines left on the last page that she hadn't touched. She drew a box around them with the ruler.
 
@@ -184,8 +184,6 @@ It took her an hour. When she'd finished, there were three lines left on the las
 "What's my job?"
 
 "To show up, and eat, and say *yes, Amma.*" She handed me the printout. "And to hold the pen for the parts where I cross things out."
-
-I looked at eleven pages, with lines through almost all of it, in the clean, straight strokes of a woman who had a ruler. I wasn't stung. What I felt was something more like relief, the kind you feel when you take off a heavy coat in a warm room.
 
 "Okay," I said.
 
@@ -217,17 +215,11 @@ Ray telephoned me on a Tuesday in May, at four-forty, on the landline, which I'd
 
 "I have a question. It isn't hypothetical." He paused. "What do nurses do at night? On a ward. Between two and four in the morning."
 
-I looked at the telephone. I was at the glass table, with the Meridian list open, and I'd been thinking about a store I'd never seen.
-
 "I don't know, exactly," I said. "They do rounds. They check on people. They chart. Why?"
-
-"How many patients does one of them have?"
 
 "On a night shift? It depends. Five or six, on a medical floor. Sometimes eight." I stopped. "Ray, what is this?"
 
 "Who calls the family?" said Ray. "If it's bad. At that hour. Is it the nurse, or the doctor, or—" He stopped. I could hear him breathing. "Who does it?"
-
-"I think it's the nurse, often. If there's no doctor. It depends on the—"
 
 "That's what I thought," said Ray. "Thank you." He said it carefully, as if he'd set something down. "That's all. Go back to your list."
 
@@ -235,7 +227,7 @@ I looked at the telephone. I was at the glass table, with the Meridian list open
 
 "I'm asking a question," said Ray, with great dignity, and hung up.
 
-I sat with the receiver for some time. I thought about a folder, face down, on a kitchen table. I thought about a man who had sold a company, and dug a hole in a lawn, and asked me four questions in a row, slowly, with a coffee. It was a little like watching an old machine being started, some distance away, by someone who didn't want to be seen turning the key.
+I sat with the receiver for some time. I thought about a folder, face down on a kitchen table, and a man who had sold a company, and dug a hole in a lawn, and asked me four questions in a row. It was like watching an old machine being started, some distance away, by someone who didn't want to be seen turning the key.
 
 I didn't ask again. I wrote it on the back of my hand, below *one person per thing.* *Ray. Nurses. Don't ask.*
 
@@ -243,9 +235,9 @@ I didn't ask again. I wrote it on the back of my hand, below *one person per thi
 
 I gave Meridian a name for every store.
 
-It was a Monday in June, and it was my idea, or I thought it was. It came in the shower. It arrived, as they do, whole, and I gave myself full credit, which is what I do with ideas that come in showers. I dried off and went to the glass room and opened the checklist, and looked at the on-call plan, and understood what it had been missing.
+It was a Monday in June, and it was my idea, or I thought it was. It came in the shower, whole, and I gave myself full credit, which is what I do with ideas that come in showers. I went to the glass room and opened the checklist and looked at the on-call plan, and understood what it had been missing.
 
-I'd been planning for an *owner.* I'd been planning an organization chart, in which a screen at each store would buzz, and a role would answer. Loopback would notify *the pharmacy.* It would notify *the on-duty pharmacist.* It would notify a mailbox. I'd been drawing it for weeks in three tones of blue, and when I looked at it, in the light from the window, I saw that in the whole of it, from the first box to the last, there wasn't a single person's name.
+I'd been planning for an *owner.* An organization chart in which a screen at each store would buzz, and a role would answer. Loopback would notify *the pharmacy.* The *on-duty pharmacist.* A mailbox. I'd been drawing it for weeks in three tones of blue, and when I looked at it in the light from the window I saw that, from the first box to the last, there wasn't a single person's name.
 
 I opened a new tab. I wrote the name of every store, one to a row, forty of them. I called Carla.
 
@@ -269,7 +261,7 @@ I didn't know. I opened my mouth, and I found that what came out wasn't mine. "B
 
 "A woman who's running my wedding," I said. It was true, and I filed it under *wedding.* It hadn't occurred to me that a rule could change departments. I wrote it in the margin.
 
-It took me five weeks. I called every store. I spoke to forty people, on a telephone, in a voice I'd worked hard to keep plain. I asked them a single question, which I'd copied, without noticing, from a receipt roll: *Who at your store would be the one?* Some of them said *me.* Some of them laughed. A woman in Modesto, a tech named Dolores Reyes, said, after a long silence, "Nobody's ever asked me that," in a tone I'd heard once, in a waiting room, from a doctor with her glasses on a cord. I wrote *Dolores* in the cell. I underlined it.
+It took me five weeks. I called every store and spoke to forty people, in a voice I'd worked hard to keep plain, and asked each a question I'd copied, without noticing, from a receipt roll: *Who at your store would be the one?* Some said *me.* Some laughed. A tech in Modesto named Dolores Reyes said, after a long silence, "Nobody's ever asked me that." I wrote *Dolores* in the cell, and underlined it.
 
 By mid-July, the sheet had forty names. It didn't look like anything. It looked like a school roster.
 
@@ -281,7 +273,7 @@ I put it on the counter, on its back, a single printed page, at the end of a lin
 
 She stopped.
 
-I've seen her stop perhaps five times in my life. It has a particular quality; it's less like a pause than like a clock that's been taken off a wall. She put down a paper bag. She put both hands flat on the counter, on either side of the page, and she read it for what I'd guess was a full minute, with her lips moving very slightly, like a woman counting.
+I've seen her stop perhaps five times in my life. It's less like a pause than like a clock taken off a wall. She put down a paper bag. She put both hands flat on the counter on either side of the page and read it for a full minute, her lips moving very slightly, like a woman counting.
 
 "What is this?" said Lakshmi.
 
@@ -299,7 +291,7 @@ I've seen her stop perhaps five times in my life. It has a particular quality; i
 
 "I thought of it in the shower."
 
-Lakshmi said nothing. She moved her eyes, once, to the wall behind her, to a long strip of receipt paper that said **WEDDING** at the top, with a name beside every job. I looked. I felt the room tilt, very slightly, the way it had in a UPS Store, over a slip of paper that said **OK.**
+Lakshmi said nothing. Her eyes went once to the wall behind her, to a long strip of receipt paper that said **WEDDING** at the top, with a name beside every job.
 
 "Hm," said Lakshmi.
 
@@ -327,11 +319,11 @@ Behind the glass, at the long counter, Suresh had turned around. He was in his w
 
 "*When,*" said Suresh, very quietly. "That is what she will say. She will say, *yes, I will call. When?*" He took his finger from the page. "You have forty names. You do not have forty hours."
 
-The line at the counter had gone still. A woman with a stroller, at the front, had stopped pretending not to listen. Lakshmi took her hands off the counter. She looked at her husband, and then at me, with the old, patient look of a column being added.
+The line at the counter had gone still. Lakshmi took her hands off the counter and looked at her husband, and then at me.
 
 "He is right," she said. "It is a good list." She picked up a paper bag. "It is half a list."
 
-I stood at the counter, with my hands at my sides. I didn't write it down. I understood only that I'd got something right and something missing, and that both of them were mine. The rest of it, the *when,* was about half a year off, and it came in a coffee shop, in a sentence from Carla.
+I stood at the counter with my hands at my sides. I didn't write it down. I understood only that I'd got something right and something missing, and that both were mine. The rest of it, the *when,* was about half a year off, and it came in a coffee shop, in a sentence from Carla.
 
 ---
 
