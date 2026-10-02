@@ -67,13 +67,13 @@ I turned off the engine.
 
 I'd like to tell you what happened in the next fifteen minutes, and I can't, because nothing did. A woman in a bathrobe walked a small dog past the car. The UPS Store's sign flickered on. A man in a hooded jacket carried a box of something, slowly, from a van to the door of the UPS Store, and set it down, and stood with his hands on his hips, looking at the sky. I counted, at first. I counted the lane markers, and then the bricks. After a while, I stopped. I don't know exactly when. I was only sitting in a car, in a parking lot, at a quarter to nine in the morning, with a person whose breathing I could hear, and I understood that there was no point at which anything was going to be required of me.
 
-It was one of the strangest things I've ever done. It was also the first time I understood what it was for.
+It was one of the strangest things I've ever done.
 
 At some point, she put her hand on the console, palm up. I looked at it. I put mine in it, and she closed her fingers, and we sat.
 
 At nine, exactly, she said, "Okay," and there was no period on it, and she let go and opened the door. She got out. She looked back at me through the window, for a second, with her bag on her shoulder, and went in.
 
-I stayed in the car for a while longer. I didn't know what to do with my hands. I found I'd put them flat on the wheel, like a man who'd been asked to watch something.
+I stayed in the car for a while longer. I didn't know what to do with my hands. I found I'd put them on the wheel, at ten and two, in a parked car.
 
 ---
 
@@ -95,11 +95,11 @@ I sat on the low stone wall he'd built along the side of the flagstones. He didn
 
 "Steadyline. You started it together."
 
-"We were thirty-one, and I couldn't have done it without him." He set the pot on the wall, and sat on the far end of it, with the envelope on his knee. "He did the half of the company that nobody sees. The nights. The escalations. The call when a hospital's out of gauze at two in the morning and somebody has to decide what to do. That was Walt, for eleven years. He was very good at it. He liked it." He turned the envelope over. "And then he said he was tired."
+"We were thirty-one, and I couldn't have done it without him." He set the pot on the wall, and sat on the far end of it, with the envelope on his knee. "He did the half of the company that nobody sees. The nights. The escalations. The call when a hospital's out of gauze at two in the morning and somebody has to decide what to do. That was Walt, for eleven years. He was good at it. He liked it." He turned the envelope over. "And then he said he was tired."
 
 I didn't say anything.
 
-"He said it at a Tuesday board meeting. Quietly. In the middle of a sentence about something else. I said thank you, I remember, like it was an item." He looked at the hole. "I gave him a title, that week. A bigger number. A man to help. I felt very good about it. I thought I'd been a generous partner." He said it with no particular expression. "He took it. He stayed until the sale."
+"He said it at a Tuesday board meeting. Quietly. In the middle of a sentence about something else. I said thank you, I remember, like it was an item." He looked at the hole. "I gave him a title, that week. A bigger number. A man to help. I felt good about it. I thought I'd been a generous partner." He said it with no particular expression. "He took it. He stayed until the sale."
 
 "What happened?"
 
@@ -115,9 +115,9 @@ I held the mug.
 
 "Why don't you send it?"
 
-"Because it's a speech." He said it flatly. "It's a very good one. I've had fourteen years." He put the envelope back on his knee. "You don't rebuild trust with a speech, Nate. You can't say enough. You do it the dull way, which is that the next time he says he's tired, you sit there." He took a swallow of coffee. "I never got another time."
+"Because it's a speech." He said it flatly. "It's a good one. I've had fourteen years." He put the envelope back on his knee. "You don't rebuild trust with a speech, Nate. You can't say enough. You do it the dull way, which is that the next time he says he's tired, you sit there." He took a swallow of coffee. "I never got another time."
 
-It was very quiet. A redwood, somewhere behind us, dropped something on the roof of the shed.
+It was quiet. A redwood, somewhere behind us, dropped something on the roof of the shed.
 
 "I was going to give one," I said. "To Priya. I wrote it, in the car. I had an opening."
 
@@ -181,7 +181,7 @@ He looked at her. He put down his fork.
 
 "I can't do both." She said it in a small, clear voice, and her hands didn't move. "I'm not saying I won't. I'm saying I can't. The store and my work. The weekends, the inventory, the flu shots. If there's a second suite, it's another thing, and it comes to me, and it comes at the same hours, and I'm—" She took a breath. She said a word, in Tamil, and I knew it, this time, from her mouth, on a couch: *aayasam.* "I'm tired in a way that I can't rest from. I'm not asking you to hire a manager."
 
-"I will not hire a manager," said Suresh. He said it quietly, without heat, and with a kind of effort, like a man picking up something heavy. "Sixteen years ago, we did. You were twelve. He was a good man, for a year. He took from the register, a little at a time, for six months. I found it on a Tuesday. I nearly closed the store. I did not sleep for a month." He looked at his hands. "I do not hire."
+"I will not hire a manager," said Suresh. He said it quietly, without heat, and with a kind of effort. "Sixteen years ago, we did. You were twelve. He was a good man, for a year. He took from the register, a little at a time, for six months. I found it on a Tuesday. I nearly closed the store. I did not sleep for a month." He looked at his hands. "I do not hire."
 
 "I know, Appa. I remember."
 
@@ -189,7 +189,7 @@ He looked at her. He put down his fork.
 
 "I'm not asking for a manager." She said it gently. "I'm asking to choose. One person. Part-time. Not a stranger from a list. Someone I trust, who I pick, who I train, who reports to me. You would never have to wonder." She took a breath. "I'd like it to be my decision. I'd like to be the one who's allowed to say *I need help,* and have it be something we just do."
 
-I sat, with my hands under the table. I felt the thing in my chest that wanted to help. It was large and warm and very specific. It had a spreadsheet in it. I thought: *three sentences, it would take me three sentences.* I looked at the rice. I picked up the serving spoon, and I passed it, carefully, with both hands, to Lakshmi, and she took it without looking at me.
+I sat, with my hands under the table. I felt the thing in my chest that wanted to help. It was large and warm and specific. It had a spreadsheet in it. I thought: *three sentences, it would take me three sentences.* I looked at the rice. I picked up the serving spoon, and I passed it, carefully, with both hands, to Lakshmi, and she took it without looking at me.
 
 Nobody said anything for a long time. A clock ticked. In the kitchen, a pot ticked as it cooled.
 
@@ -275,7 +275,7 @@ I'd been going to ask. I had about nine questions, all of them reasonable, about
 
 "Don't." He went to the door. "I'm going to eat your cereal. I brought a better one."
 
-I stood in the room with the desk. It was a Saturday, and the light was coming in at the window, in a long pale slab, across the floor, and the wood of the desk was the color of toast. I thought of a lot of things to say to no one. I didn't say any of them. I found that I'd put a hand on the desk, flat, the way you'd put a hand on a large animal, and I stood there for a while, and I felt it hold.
+I stood in the room with the desk. It was a Saturday, and the light was coming in at the window, in a long pale slab, across the floor, and the wood of the desk was the color of toast. I thought of a lot of things to say to no one. I didn't say any of them. I found that I'd put a hand on the desk, flat, and I stood there for a while, and I felt it hold.
 
 ---
 
@@ -284,7 +284,7 @@ I stood in the room with the desk. It was a Saturday, and the light was coming i
 
 Note to self.
 
-At work, I asked Priya what she wanted her job to be and sat for forty-five minutes without fixing a thing. Then she drew a table on the whiteboard with three columns: DECIDES, ASKED FIRST, TOLD AFTER. Every decision goes in one of them, so nobody finds out by surprise.
+At work, I asked Priya what she wanted her job to be and sat for forty-five minutes without fixing anything. Then she drew a table on the whiteboard with three columns: DECIDES, ASKED FIRST, TOLD AFTER. Every decision goes in one of them, so nobody finds out by surprise.
 
 At home, Maya sits in the car for fifteen minutes before she goes into her parents' pharmacy. She has since she was fifteen. I sat with her, with her hand in mine, and said nothing. Later, at her mother's kitchen window, Lakshmi told me I would not speak. I didn't.
 

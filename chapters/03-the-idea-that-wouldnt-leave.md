@@ -11,15 +11,15 @@ These were problem interviews, which is to say we didn't pitch anything. We aske
 
 What I noticed, somewhere around the fifth one, was that nobody needed prompting.
 
-A pharmacist in Daly City pulled a spiral notebook from under the counter with a rubber band around it. "Missing regulars," she said. It was a list, in pencil, of people who used to come in and had stopped. She showed it to us the way you'd show someone a photo of a person you were worried about.
+A pharmacist in Daly City pulled a spiral notebook from under the counter with a rubber band around it. "Missing regulars," she said. It was a list, in pencil, of people who used to come in and had stopped. She showed it to us quietly, and none of us said anything.
 
 A clinic manager in San Jose told us they had a dashboard. She was proud of it. It had a column for appointments and a column for cancellations and no column at all for the people who simply didn't come back, and when Priya asked where those people were, she looked at the screen for a long moment and said, "Huh."
 
-A home-health scheduler in Hayward began answering the question, stopped in the middle of a sentence, cried for about four seconds, and told us it was allergies. We said of course. Priya passed her a tissue, which is a thing she keeps in the bag she takes to interviews for exactly this reason.
+A home-health scheduler in Hayward began answering the question, stopped in the middle of a sentence, cried for about four seconds, and told us it was allergies. We said of course. Priya passed her a tissue, which she keeps in the bag she takes to interviews for exactly this reason.
 
-A district manager for a pharmacy chain, in a conference room with a very good chair, showed us a slide deck about their "adherence initiative." It was forty-three slides long. The word *patient* appeared on slide thirty-one, in a footnote.
+A district manager for a pharmacy chain, in a conference room with a good chair, showed us a slide deck about their "adherence initiative." It was forty-three slides long. The word *patient* appeared on slide thirty-one, in a footnote.
 
-A nurse who does home visits for new mothers, for the county, told us about her Thursdays. She sees each mother on day three and again on day ten. "Between those," she said, "I'm a phone number." She said it lightly, the way you'd mention that your car has a dent. "Most of them are fine. The ones who aren't are usually the ones who'd never call."
+A nurse who does home visits for new mothers, for the county, told us about her Thursdays. She sees each mother on day three and again on day ten. "Between those," she said, "I'm a phone number." She said it lightly. "Most of them are fine. The ones who aren't are usually the ones who'd never call."
 
 And a doctor named Ngozi Okafor, who ran a small community clinic in Oakland, spent the whole interview looking at my laptop as if it were something a cat had dragged in.
 
@@ -85,7 +85,7 @@ I gave Kyle the one-sentence version on a Wednesday, at the counter, with the mi
 
 "Dana's going to love that."
 
-I hadn't thought about what Dana would think. I'd only thought about Dana's daughter. I let it go by, which is a thing I'd like to say I've stopped doing.
+I hadn't thought about what Dana would think. I'd only thought about Dana's daughter. I let it go by.
 
 "Starting where?" said Kyle. "With the pharmacy lady?"
 
@@ -137,7 +137,7 @@ She typed. It took four seconds. "Loopback dot health," said Priya. "Forty dolla
 
 She made a note of it somewhere in her head, which I took for agreement.
 
-She wiped the word off the whiteboard with the flat of her hand. I said, "What are you doing?" She said, "Making sure we mean it." She waited, and then she wrote it again, the same size, in the same capitals, and I remember thinking that this is what a company is: it's the second time you write the word.
+She wiped the word off the whiteboard with her sleeve. I said, "What are you doing?" She said, "Making sure we mean it." She waited, and then she wrote it again, the same size, in the same capitals, and I remember thinking that this is what a company is: it's the second time you write the word.
 
 ---
 
@@ -169,7 +169,7 @@ I want to be honest about the next few seconds, because I'd like credit for what
 
 Coffee number nine wasn't coffee. It was dumplings, in the Sunset, on a Sunday, at a place with nine tables and a hand-lettered menu, which is the sort of place Maya says you can trust.
 
-Coffees four through eight had been coffee, a movie Maya rated "competent," and a Saturday at a bookstore where we bought nothing and she counted it anyway. By then her count had reached eight. I'd stopped hearing her say the number somewhere around five, which she claimed was because she'd stopped counting and I claimed was because she'd started counting silently. She hung her coat on the back of the chair, which she had not done at any of the coffees. I noticed. I said nothing. It's a thing I've learned to do: notice something and leave it alone.
+Coffees four through eight had been coffee, a movie Maya rated "competent," and a Saturday at a bookstore where we bought nothing and she counted it anyway. By then her count had reached eight. I'd stopped hearing her say the number somewhere around five, which she claimed was because she'd stopped counting and I claimed was because she'd started counting silently. She hung her coat on the back of the chair, which she had not done at any of the coffees. I noticed. I said nothing. I've learned to notice something and leave it alone.
 
 I'd brought my laptop, and she watched it appear on the table the way you'd watch a large animal enter a small room.
 
@@ -191,7 +191,7 @@ She put down her chopsticks.
 
 "I know."
 
-"'An absence of activity.'" She said it the way you'd say the name of a person who'd wronged you. "You're going to text a seventy-year-old woman who lives alone that she has exhibited an absence of activity."
+"'An absence of activity.'" She said it flatly. "You're going to text a seventy-year-old woman who lives alone that she has exhibited an absence of activity."
 
 "It's the technical term."
 
@@ -203,7 +203,7 @@ She typed. I watched her hands, the way you watch someone who's better at someth
 
 *Hi, it's Loopback. You've been quiet today, which is probably nothing, and we wanted to check you're okay. Reply A if you are, or U to stop these. If we don't hear back this afternoon, we'll let Sam know, and we'll tell you when we do.*
 
-(Sam was a placeholder. She'd typed it the way you'd type a name you might one day need.)
+(Sam was a placeholder. She'd typed it carefully, as if she might one day need the name.)
 
 I read it. I read it again. It was exactly what a person would say, if that person were kind and slightly worried and weren't trying to prove anything to a compliance department.
 
@@ -223,7 +223,7 @@ I typed the last part into a note, word for word. She watched me do it.
 
 "No."
 
-"Then you're building it for the person who's worried and pointing it at the person who's watched." She said it mildly, like a woman pointing out a stain. "He'd have to say yes himself. Or it's a nanny cam with better manners."
+"Then you're building it for the person who's worried and pointing it at the person who's watched." She said it mildly. "He'd have to say yes himself. Or it's a nanny cam with better manners."
 
 "That's what Kyle said."
 
@@ -299,7 +299,7 @@ Priya was already at her desk under the fish sign, headphones around her neck, w
 
 "You didn't think you were the only one being interviewed?" said Priya.
 
-It hadn't occurred to me. I've come to think it was the most useful thing anyone told me that year, and she said it with her back half turned, like a woman mentioning the weather.
+It hadn't occurred to me. I've come to think it was the most useful thing anyone told me that year, and she said it with her back half turned.
 
 ---
 

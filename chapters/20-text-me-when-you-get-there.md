@@ -15,7 +15,7 @@ She took it. She held it up, on its lanyard, in the light from the hall, and it 
 
 "There's a runbook," I said. (The manual for the worst night.) "Ines wrote it. It's twelve pages."
 
-"I've read it. I made her cut it from twenty." She hung the lanyard around her neck, over her sweater, with a small, formal motion, like a woman receiving a medal she'd decided to wear ironically. "Nate. Go get married."
+"I've read it. I made her cut it from twenty." She hung the lanyard around her neck, over her sweater, with a small, formal motion, as if accepting a medal. "Nate. Go get married."
 
 "What if it breaks?"
 
@@ -31,7 +31,7 @@ I turned. She hadn't moved. She was standing in the dark with the key against he
 
 "You don't have to—"
 
-"I'd like to. I'd like somebody to have it." She didn't sit. "Her name was Meera. She was nine years older than me, and the funniest person at every wedding I went to until I was twenty. She married a man who was very good at being liked. It took her six years to leave, and she did it the way you're supposed to, with a friend, in a week, with a new phone and a new number. She told four people. I was one of the four." She looked at the key. "For eleven months he didn't find her. Then somebody in the family, who loved her, who was so happy she was safe, added her new number to a group chat for a baby shower. Two dozen people. Nobody was careless, exactly. Everyone was just being kind."
+"I'd like to. I'd like somebody to have it." She didn't sit. "Her name was Meera. She was nine years older than me, and the funniest person at every wedding I went to until I was twenty. She married a man who was good at being liked. It took her six years to leave, and she did it the way you're supposed to, with a friend, in a week, with a new phone and a new number. She told four people. I was one of the four." She looked at the key. "For eleven months he didn't find her. Then somebody in the family, who loved her, who was so happy she was safe, added her new number to a group chat for a baby shower. Two dozen people. Nobody was careless, exactly. Everyone was just being kind."
 
 I didn't say anything.
 
@@ -45,7 +45,7 @@ I didn't say anything.
 
 "I know I can," said Priya. "That's why I wanted to say it out loud. Go get married."
 
-I went home. I turned the phone off in the car, in the parking lot of the building, at 10:22, and watched the screen go dark. It was the strangest thing I've done with my hands. I sat there for some time, with a black rectangle in my palm, like a man holding a bird he's decided to let go.
+I went home. I turned the phone off in the car, in the parking lot of the building, at 10:22, and watched the screen go dark. It was the strangest thing I've done with my hands. I sat there for some time, with a black rectangle in my palm.
 
 ---
 
@@ -57,7 +57,7 @@ I looked in once, at about eleven. I'd gone for the tea. Lakshmi stood at the st
 
 She didn't say *Amma.* Lakshmi didn't say *no.* They looked at each other, for about a second, and Lakshmi nodded, once, and turned back to the pot, and I understood that I'd just seen a woman be allowed, at twenty-nine, to season.
 
-The ceremony was at four. It was small, as she'd asked. There were twenty-one people on folding chairs in the living room, which had been cleared of everything but the couch and a low brass lamp, and a priest from the temple, a small bright-eyed man in a white cloth with a bicycle helmet at his feet, who spoke for about fifty minutes in a language I couldn't follow and explained, in English, the parts I needed. Maya sat. That was the point. She sat on a low stool, in a marigold sari that had been her grandmother's, with her hands in her lap and her eyes on the flame, for the whole hour, and nobody asked her to get up and carry a thing. I watched her mother watch her do it. I watched Lakshmi's face. It was a long, complicated face, and I'd never been able to read it, and I read it then: it said *I didn't know it would be this easy. I should have asked.*
+The ceremony was at four. It was small, as she'd asked. There were twenty-one people on folding chairs in the living room, which had been cleared of everything but the couch and a low brass lamp, and a priest from the temple, a small bright-eyed man in a white cloth with a bicycle helmet at his feet, who spoke for about fifty minutes in a language I couldn't follow and explained, in English, the parts I needed. Maya sat. That was the point. She sat on a low stool, in a marigold sari that had been her grandmother's, with her hands in her lap and her eyes on the flame, for the whole hour, and nobody asked her to get up and carry anything. I watched her mother watch her do it. I watched Lakshmi's face. It was a long, complicated face, and I'd never been able to read it, and I read it then: it said *I didn't know it would be this easy. I should have asked.*
 
 I met her brother on the back step, afterward.
 
@@ -71,7 +71,7 @@ I'd gone out for air. He was sitting at the top of the steps in a rumpled blue s
 
 "I did."
 
-"He told me. He said it in the car." He turned the plate a quarter turn on his knee. "He said it twice. I think it's the longest conversation he's had about a person in a decade."
+"He told me. He said it in the car." He looked at the plate on his knee. "He said it twice. I think it's the longest conversation he's had about a person in a decade."
 
 I laughed, and he did, a short, exhausted, honest bark.
 
@@ -135,11 +135,11 @@ I'd asked. I'd telephoned the office in August and said, *is it possible to requ
 
 He stood at the top of the white stairs, under the dome, in a gray suit and a mustache and a lanyard, with a small black book in one hand, in the gold light, and the rotunda was full.
 
-There were twenty-three of us, which was Maya's forty with the cousins cut. The room was a little too big for it, so that we stood in a loose, warm half-circle on the marble, with the sound of our shoes going up into the dome and coming back. Maya's parents were in the front, on the left. Suresh was in a dark suit with the top button done, standing very straight, looking at nothing, with the face of a man who's decided in advance not to be moved. My mother held my father's arm. Annie had her phone in her hand, with the screen off, like a vet tech with a thermometer. Ray stood a little apart, by a pillar, in the jacket from the dinner, with his hands folded, looking at the dome as though checking it for load. Arjun, tall and tired and clean-shaven, stood beside his mother. Kyle, in the back, in a tie, held up a speaker like a bomb.
+There were twenty-three of us, which was Maya's forty with the cousins cut. The room was a little too big for it, so that we stood in a loose, warm half-circle on the marble, with the sound of our shoes going up into the dome and coming back. Maya's parents were in the front, on the left. Suresh was in a dark suit with the top button done, standing straight, looking at nothing, with the face of a man who's decided in advance not to be moved. My mother held my father's arm. Annie had her phone in her hand, with the screen off, like a vet tech with a thermometer. Ray stood a little apart, by a pillar, in the jacket from the dinner, with his hands folded, looking at the dome as though checking it for load. Arjun, tall and tired and clean-shaven, stood beside his mother. Kyle, in the back, in a tie, held up a speaker like a bomb.
 
 And there were people I hadn't expected. There was Dr. Okafor, in a lilac cardigan, with her glasses on a cord, looking at the ceiling with an expression of mild clinical interest. There was Mr. Alvarez, in a wheelchair, in a cardigan zipped to the chin, with his daughter Gloria standing behind him and one hand on his shoulder, and a lollipop, I'd later learn, in his pocket; he'd come against the advice of two doctors, because he'd said he'd been missed once and he'd be damned if he'd miss this. Mrs. Chen was beside him in a good wool coat. Her grandson, Kevin, who'd passed his driving test on the fourth try and would start at the pharmacy in October if Maya had her way, stood behind her in a tie, with the stricken look of a young man who'd been told to hold a purse.
 
-Priya stood on my left, in a dark blue dress, with the lanyard still round her neck. I'd seen it. I hadn't said anything. Jules stood on Maya's right, in black, with the expression of a public defender who has been told she's allowed to cry and hasn't decided.
+Priya stood on my left, in a dark blue dress, with the lanyard still round her neck. I'd seen it. I hadn't said anything. Jules stood on Maya's right, in black, with the expression of someone who hasn't decided whether to cry.
 
 And Maya came in.
 
@@ -159,7 +159,7 @@ She came across the marble to the foot of the stairs, where I stood on a small b
 
 ---
 
-There's a thing in a civil ceremony where the officiant asks if you have words. They don't need them. They're allowed. Winston said it in a low, kind voice, to the two of us, with the black book open on his palm: "Do you have anything you'd like to say?"
+In a civil ceremony there's a point where the officiant asks if you have words. They don't need them. They're allowed. Winston said it in a low, kind voice, to the two of us, with the black book open on his palm: "Do you have anything you'd like to say?"
 
 I hadn't written anything. I'd decided not to, and had been, for a week, in a state of cold terror about it. I opened my mouth. What I had was true, and had no door in it.
 
@@ -189,11 +189,11 @@ He closed the book on his thumb. He looked at us for a moment, and at the room, 
 
 We kissed. Maya started it, which is one of the few facts about our marriage I'm sure of. It went on long enough that the room, which had been holding its breath, gave up and applauded, and kept applauding, and then began to look at the ceiling. Winston checked his watch. He has since denied this. There is a photograph.
 
-It was somewhere in the noise that Lakshmi came up the steps. I hadn't seen her move. I saw her, suddenly, in a good green sari with her glasses pushed up into her hair, standing in front of her daughter on the landing, a head shorter, very straight. She didn't say anything. She took Maya's right hand, and turned it over, and pressed something into the palm, and folded the fingers closed over it with both of her own.
+It was somewhere in the noise that Lakshmi came up the steps. I hadn't seen her move. I saw her, suddenly, in a good green sari with her glasses pushed up into her hair, standing in front of her daughter on the landing, a head shorter, straight. She didn't say anything. She took Maya's right hand, and turned it over, and pressed something into the palm, and folded the fingers closed over it with both of her own.
 
 Maya looked down. She looked at her closed hand, and then at her mother, and I saw her mouth open, and nothing come out.
 
-"Later," said Lakshmi, very quietly. "Not now. Later." She patted the hand, twice, and stepped back, and put her glasses on.
+"Later," said Lakshmi, quietly. "Not now. Later." She patted the hand, twice, and stepped back, and put her glasses on.
 
 I never saw what it was, until the evening. I'll tell you when.
 
@@ -215,7 +215,7 @@ And beneath it, one minute later, a second:
 
 **Go away.**
 
-I read them twice. I stood on the steps of City Hall, in a gray suit, with my wife's hand in mine, and I read them again. And I felt a thing I'd never had, in all the years I'd been making things. It wasn't pride, exactly. It wasn't relief. It was closer to what you feel when you've thrown something a long way and it's landed.
+I read them twice. I stood on the steps of City Hall, in a gray suit, with my wife's hand in mine, and I read them again. And I felt something I'd never had, in all the years I'd been making things. It wasn't pride, exactly. It wasn't relief. It was closer to what you feel when you've thrown something a long way and it's landed.
 
 "What is it?" said Maya.
 
@@ -267,11 +267,11 @@ I didn't say anything.
 
 I looked at the water.
 
-"There was a woman," said Ray. "Her name was Bernadette. She was the night nurse on the oncology floor, in the spring, the last three months. She was fifty-eight. She had four patients on a quiet night, and eight on a busy one." He turned the mug a quarter turn on his knee. "She came in one night at three. Denise was awake. She hadn't said anything. Bernadette looked at her, from the door, for about a second, and she came in, and she sat down on the edge of the bed, and she didn't do anything. She didn't check the pump. She didn't chart. She sat there for forty minutes."
+"There was a woman," said Ray. "Her name was Bernadette. She was the night nurse on the oncology floor, in the spring, the last three months. She was fifty-eight. She had four patients on a quiet night, and eight on a busy one." He looked at the mug on his knee. "She came in one night at three. Denise was awake. She hadn't said anything. Bernadette looked at her, from the door, for about a second, and she came in, and she sat down on the edge of the bed, and she didn't do anything. She didn't check the pump. She didn't chart. She sat there for forty minutes."
 
 "What did Denise say?"
 
-"Nothing. She held her hand." Ray's voice was very steady. "In the morning Denise told me she'd been terrified, and that nobody had known, because nobody ever came in at three, and then someone had. She said *she saw it from the door.*" He put his glasses on. "I looked up Bernadette's schedule, afterward. She wasn't supposed to be on the floor at three. She'd made it hers."
+"Nothing. She held her hand." Ray's voice was steady. "In the morning Denise told me she'd been terrified, and that nobody had known, because nobody ever came in at three, and then someone had. She said *she saw it from the door.*" He put his glasses on. "I looked up Bernadette's schedule, afterward. She wasn't supposed to be on the floor at three. She'd made it hers."
 
 I couldn't speak.
 
@@ -305,7 +305,7 @@ Cole came alone. I'd invited him in August, which had surprised us both. He was 
 
 "What does it look like?"
 
-"A lot of people holding plates." He smiled, and it was a good smile, and it went out. "Optionality's a very lonely word on a Saturday, Nate."
+"A lot of people holding plates." He smiled, and it was a good smile, and it went out. "Optionality's a lonely word on a Saturday, Nate."
 
 "There's a seat at our table."
 
@@ -335,7 +335,7 @@ She thought about it. She actually thought about it, with her face turned toward
 
 I didn't know it. It was a soft, slow, three-part word, and she said it as one says something at the bottom of a long climb.
 
-"I don't have it in English," she said. "It's the thing you feel when you set it down. After a very long carry." She looked at me. "It isn't happy. It's the quiet after."
+"I don't have it in English," she said. "It's the thing you feel when you set it down. After a long carry." She looked at me. "It isn't happy. It's the quiet after."
 
 I didn't say *I understand.* I'd been about to. I'd had the sentence in my mouth, polished, ready, an entirely sincere lie, and I felt it, and I put it down.
 
@@ -387,7 +387,7 @@ He looked at me. I nodded.
 
 We walked down the gravel drive together, in the mist, in silence. At the bottom, at the road, was the mailbox. It was on a post, as it had always been, and the post leaned two degrees to the left. It had leaned two degrees to the left for as long as I'd known it.
 
-He stopped at the box. He stood there, for a moment, with the letter in his hand. I saw his thumb move on the paper, once, along the edge. It was a very old gesture. It was the one a man makes on a thing he's decided to let go of.
+He stopped at the box. He stood there, for a moment, with the letter in his hand. I saw his thumb move on the paper, once, along the edge. It was a old gesture. It was the one a man makes on something he's decided to let go of.
 
 He opened the little metal door. He put the letter in. He closed it.
 

@@ -19,7 +19,7 @@ She sat down across from me. She set the laptop on the table, closed. She square
 
 I stopped.
 
-"I've been the on-call since June," she said. She said it evenly, like a woman reading from a document. "Since Theo started, and he's been excellent, and he's still new. Since you moved. Since the phone." She didn't look at the crack phone, which she'd set on the table, face down, the way she'd been carrying it for ninety-one days. "It's been in my bag for ninety-one days. I counted. It's rung forty-one times after ten at night. I've answered thirty-eight. Theo's answered three." She let that sit. "You've answered none. I'm not holding it against you. I'm counting it." She took a breath. "I do the support queue. I do the release. I do the servers and the security review and Dr. Okafor's Tuesday reports, which I write by hand every week because nobody ever asked whether she still needs them. I do most of the hiring. I've been doing all of it, and my husband says I've started talking in my sleep in error codes."
+"I've been the on-call since June," she said. She said it evenly, as if reading from a document. "Since Theo started, and he's been excellent, and he's still new. Since you moved. Since the phone." She didn't look at the crack phone, which she'd set on the table, face down, the way she'd been carrying it for ninety-one days. "It's been in my bag for ninety-one days. I counted. It's rung forty-one times after ten at night. I've answered thirty-eight. Theo's answered three." She let that sit. "You've answered none. I'm not holding it against you. I'm counting it." She took a breath. "I do the support queue. I do the release. I do the servers and the security review and Dr. Okafor's Tuesday reports, which I write by hand every week because nobody ever asked whether she still needs them. I do most of the hiring. I've been doing all of it, and my husband says I've started talking in my sleep in error codes."
 
 I looked at her. She had, I saw, gone thin around the eyes. I want to say I'd noticed. I hadn't noticed.
 
@@ -31,7 +31,7 @@ I think that's the moment I lost her. I've gone back over it, and I can tell you
 
 "That's—"
 
-"That's completely reasonable. That's on me. I should have seen it." I'd opened my laptop. I hadn't meant to. It was just there, like a hand. "Okay. Here's what I'm thinking. First, we make it official: you're President, as well as CTO. It's a title that says what you've been doing. Second, there's a number. Margo and I talked about it in August; I've been waiting for the right moment. It's a raise, and a bonus, retroactive to June. Third—" I heard my own voice warm and accelerate, the voice of a man delivering good news. "I hired someone. A support contractor. Her name's Tessa, she's very good, she starts Monday. She'll take the queue off you, and half the nights. I did it yesterday. I wanted it to be a surprise."
+"That's completely reasonable. That's on me. I should have seen it." I'd opened my laptop. I hadn't meant to. It was just there, like a hand. "Okay. Here's what I'm thinking. First, we make it official: you're President, as well as CTO. It's a title that says what you've been doing. Second, there's a number. Margo and I talked about it in August; I've been waiting for the right moment. It's a raise, and a bonus, retroactive to June. Third—" I heard my own voice warm and accelerate, the voice of a man delivering good news. "I hired someone. A support contractor. Her name's Tessa, she's good, she starts Monday. She'll take the queue off you, and half the nights. I did it yesterday. I wanted it to be a surprise."
 
 There was a long silence in the room. A man went past the glass with a bicycle helmet.
 
@@ -47,21 +47,21 @@ There was a long silence in the room. A man went past the glass with a bicycle h
 
 "Thank you."
 
-"It's a fair number. I'll look at it." She looked at her hands. "She's probably very good."
+"It's a fair number. I'll look at it." She looked at her hands. "She's probably good."
 
 "She's—"
 
-"I didn't ask for a title. I didn't ask for a number. I didn't ask for a person." She said it slowly, with a little gap after each one, like a woman laying cards on a table. "I asked you to let me finish. You said *okay.* And then you fixed it. You fixed it in four minutes, and you'd fixed it yesterday, before I'd said it."
+"I didn't ask for a title. I didn't ask for a number. I didn't ask for a person." She said it slowly, with a little gap after each one. "I asked you to let me finish. You said *okay.* And then you fixed it. You fixed it in four minutes, and you'd fixed it yesterday, before I'd said it."
 
 "Priya, I'm trying to—"
 
-"I know you are. That's the worst part." Her voice wasn't loud. It had gone somewhere small and cold, like a room with the heat turned off. "You listened. I could see you do it. You were *very* good. And then you fixed it. I've been trying to think how to say this for a month." She looked up. "I want a CEO who listens. I don't mean who hears. I mean who sits there with it, for a minute, and doesn't do anything at all."
+"I know you are. That's the worst part." Her voice wasn't loud. It had gone somewhere small and cold, like a room with the heat turned off. "You listened. I could see you do it. You were *good.* And then you fixed it." She looked up. "I want a CEO who listens. I don't mean—who hears. I mean who sits there with it. For a minute. And doesn't do anything."
 
 I opened my mouth. Nothing came.
 
 "I don't know if I'm going to be here on the first," said Priya.
 
-It wasn't a threat. She said it the way you'd say the time.
+It wasn't a threat. She said it as plainly as the time.
 
 "It's not the money. If it were the money, I'd wait two weeks, I'd take the year, I'd walk away with a quarter of my shares and a great recommendation. I know what the cliff is. I wrote the clause." She stood up, and took the laptop off the table, and held it against her chest. "I'd be leaving with nothing, and I'm thinking about it anyway. That's how I know it's not the money."
 
@@ -69,7 +69,7 @@ She opened the door. She stopped with her hand on the frame, and didn't turn aro
 
 "Tessa's probably great," said Priya. "I'll show her the servers."
 
-She closed it behind her, very gently, the way you close something in a house where someone is sleeping.
+She closed it behind her, gently, the way you close something in a house where someone is sleeping.
 
 ---
 
@@ -95,7 +95,7 @@ Maya was quiet for a bit. She turned the rice a quarter turn in her bowl, which 
 
 "She's just tired."
 
-"I'm sure she is." She picked up the rice. "It's a very hard thing to be told you're not being heard by someone who's trying so hard." She said it gently. I've thought since that she was saying it to two people, and that I heard only one.
+"I'm sure she is." She picked up the rice. "It's a hard thing to be told you're not being heard by someone who's trying so hard." She said it gently. I've thought since that she was saying it to two people, and that I heard only one.
 
 ---
 
@@ -105,7 +105,7 @@ That's the whole tragedy, if you want one; I'd have found it easier if I'd been 
 
 It was the third Sunday. She was at the stove. I was on the floor of the living room, with my back against the armchair, eating almonds and thinking about a bug. My phone was on the kitchen counter, face up, by the salt.
 
-It lit. I saw it from across the room. It made no sound; after the second Sunday I'd set it to a silent glow, because the chime had seemed loud. The light on the counter went white, and on it, in the plain gray type of a thing I'd made to be kind, it said:
+It lit. I saw it from across the room. It made no sound; after the second Sunday I'd set it to a silent glow, because the chime had seemed loud. The light on the counter went white, and on it, in the plain gray type of something I'd made to be kind, it said:
 
 **Maya check-in. Ask open questions. Listen. Don't fix.**
 
@@ -147,7 +147,7 @@ I had nothing.
 
 I didn't say anything.
 
-"You built my parents a staffing model," said Maya. "With a *chart.* I read it at the counter, in my coat, with my tea going cold, and I understood that you'd sat up for four hours on a Sunday making my father's not-hiring into an optimization problem. And I thought, well, that's him trying. That's the way he says it. I said *thoughtful,* and I meant *please stop,* and you took it as a compliment." She put the phone on the counter, face up, very carefully, beside the salt. "And I didn't say anything. Because I didn't want to be a person who can't accept a gift. I told Jules I'd say so, and I said *thoughtful* instead. And now there's a reminder with my name on it."
+"You built my parents a staffing model," said Maya. "With a *chart.* I read it at the counter, in my coat, with my tea going cold, and I understood that you'd sat up for four hours on a Sunday making my father's not-hiring into an optimization problem. And I thought, well, that's him trying. That's the way he says it. I said *thoughtful,* and I meant *please stop,* and you took it as a compliment." She put the phone on the counter, face up, carefully, beside the salt. "And I didn't say anything. Because I didn't want to be a person who can't accept a gift. I told Jules I'd say so, and I said *thoughtful* instead. And now there's a reminder with my name on it."
 
 "I was trying to be better."
 
@@ -167,17 +167,17 @@ I'll give you what I said, because it was the wrong thing, and I've kept it.
 
 "I'm *trying,* Maya, I don't—" I heard my voice go up. "I've been trying for a *month.* I read every article. I set an alarm. I've been asking you open questions, like they say, for three weeks, and I thought it was going *well*—"
 
-"You've been asking me open questions," said Maya. She said it very quietly. "From a list."
+"You've been asking me open questions," said Maya. She said it quietly. "From a list."
 
 "What's wrong with a list? It's how I—"
 
 "*I'm not a thing you're good at!*"
 
-It came out of her like a dropped plate. It rang in the room. I'd never heard her voice do that. In fourteen months she had never once raised it, not at a door, not in a car, not on a guardrail, and I saw her hear it herself and go still, with her hand flat on the counter, and her eyes very wide.
+It came out of her like a dropped plate. It rang in the room. I'd never heard her voice do that. In fourteen months she had never once raised it, not at a door, not in a car, not on a guardrail, and I saw her hear it herself and go still, with her eyes wide.
 
 She didn't apologize. She stood there with her chest going, and her eyes bright and dry, and she said, in a low, shaking voice, quieter than before:
 
-"You listen like you're taking minutes. You sit there, and you're *so good,* and I can see you writing it down, in your head, behind your eyes. And then you circulate it. You send out the action items." She drew a breath. "I don't want to be *actioned.* I don't want you to fix my parents. I don't want a *system.* I want you to be *in* it. I want you to sit in the thing with me, for no reason, and not know what to do."
+"You listen like you're taking minutes. You sit there, and you're *so good,* and I can see you writing it down, behind your eyes. And then you send out the action items." She drew a breath. "I don't want to be *actioned.* I don't want you to fix my parents. I want you to be *in* it. I want you to sit in the thing with me, for no reason, and not know what to do."
 
 She stopped. Her voice was thick.
 
@@ -185,7 +185,7 @@ She stopped. Her voice was thick.
 
 I didn't know it. I'd never heard it. It was soft and long, in her mouth, a word for something that English had run out on.
 
-"The closest I can get is tired," she said. "It's not sleepy. It's the tired you get from being *handled.* From somebody being so nice. From explaining what you want, in plain sentences, to a person who nods, and then does something else." She pressed her lips together. "I've been like that since August. I didn't know how to tell you without sounding ungrateful."
+"The closest I can get is tired," she said. "It's not sleepy. It's—" She pressed her lips together. "Handled. I'm tired from being handled. I didn't know how to tell you without sounding ungrateful."
 
 I should have stopped there. I'd used up most of my sentences. I had one left, and it was the worst one I owned.
 
@@ -195,11 +195,11 @@ I heard it while it was still in the air. I'd have given a great deal to reach o
 
 Maya's face did nothing at all. That was how I knew.
 
-"Don't do that," she said, very quietly. "Don't make it my family. That's *me.* I'm the one who said *thoughtful.* I'm the one who stood in my coat and let you build a chart." She drew a breath that shook. "It's also not entirely wrong. That's the part I can't stand."
+"Don't do that," she said, quietly. "Don't make it my family. That's *me.* I'm the one who said *thoughtful.*" She drew a breath that shook. "It's also not entirely wrong. That's the part I can't stand."
 
 She looked at me a long moment longer. Then she turned, and went to the hook by the door, and took down her coat.
 
-I'd seen her put it on once, in a pharmacy, in front of her mother, and I'd understood it, at last, as a door. I watched her put one arm into a sleeve. The room seemed to get very large. The pot on the stove ticked. I thought: *she's going to leave, and I'll stand here, and I won't know what to say.* And I thought something worse, which was: *I'll make a plan.*
+I'd seen her put it on once, in a pharmacy, in front of her mother, and I'd understood it, at last, as a door. I watched her put one arm into a sleeve. The room seemed to get large. The pot on the stove ticked. I thought: *she's going to leave, and I'll stand here, and I won't know what to say.* And I thought something worse, which was: *I'll make a plan.*
 
 She had one arm in. She stood in the middle of the room with the coat half on, and looked at the door, and then she looked, for a long time, at me.
 

@@ -13,7 +13,7 @@ It was a Tuesday in November, at ten to two in the afternoon, and I was alone in
 
 I put down the sandwich.
 
-Meridian had forty stores across the Bay Area and the Central Valley. I knew the name the way you know the name of a mountain you've driven past. It was the chain with the green sign, the one whose district manager had once shown Priya and me a slide deck about an "adherence initiative," in a room with a very good chair, and whose idea of helping a person to stay on her medication had turned out to be a coupon. I'd walked out of that room sure we'd never hear from them again.
+Meridian had forty stores across the Bay Area and the Central Valley. I knew the name the way you know the name of a mountain you've driven past. It was the chain with the green sign, the one whose district manager had once shown Priya and me a slide deck about an "adherence initiative," in a room with a good chair, and whose idea of helping a person to stay on her medication had turned out to be a coupon. I'd walked out of that room sure we'd never hear from them again.
 
 "Dr. Okafor sits on a committee with me," said Carla. "It's about discharge follow-up. Nobody wants to be on it. At the last meeting she put your one-pager on the table, and she said, *this is the only thing I've seen in twenty years that asks the patient first.* And then she said, *call the boy.*" She paused. "I hope you don't mind *boy.* She says it about everyone under sixty."
 
@@ -21,15 +21,15 @@ Meridian had forty stores across the Bay Area and the Central Valley. I knew the
 
 "I asked forty of my pharmacists, in September, what one thing they'd change." I heard her shift in her chair. "I didn't ask about software. I asked what's wrong. Thirty-one of them said the same thing. They said, *the ones who stop coming.*" She let it sit. "A woman comes in every month for ten years, and one month she doesn't, and nobody knows. Nobody's job is to know. We have a report. It's a spreadsheet. It goes to a regional manager, who has four hundred other things."
 
-I didn't say anything. I found that I'd put my hand flat on the table, on the crumbs.
+I didn't say anything. I found that I was pressing the crumbs into the table with my thumb.
 
 "I'd like to offer it at the counter," said Carla. "In a pilot, three stores. The technician asks. If it works, it could be forty." She said it without any rise in her voice. "I'm told you're a small company. I'm told that's an advantage. I'd like to hear what you'd need."
 
-There's a thing that happens, when a person says *forty.* I'd felt it in a room on Sand Hill Road, with a globe on the wall, and I'd recognized it as what it was, which was the start of a pitch. I felt it come up my throat now. I felt the voice arrive.
+Something happens when a person says *forty.* I'd felt it in a room on Sand Hill Road, with a globe on the wall, and I'd recognized it as what it was, which was the start of a pitch. I felt it come up my throat now. I felt the voice arrive.
 
 "We'll be ready," I said.
 
-I heard it as I said it. It was smooth and warm, and it had a little rise at the end. It wasn't a lie. It was a thing I meant a little less than I'd said, in a voice that was trying to be the man who meant it fully.
+I heard it as I said it. It was smooth and warm, and it had a little rise at the end. It wasn't a lie. It was something I meant a little less than I'd said, in a voice that was trying to be the man who meant it fully.
 
 "Good," said Carla. "That's what I'd hoped you'd say." She said it gently, and I wondered, for a long time afterward, whether she'd heard it too.
 
@@ -91,7 +91,7 @@ Suresh looked at me. He looked at me the way he'd looked at the machine in the U
 
 He said it quietly. I think it was the first time in my life I'd heard a man say yes and mean the whole of the word.
 
-"We are hoping," said Lakshmi, from the couch. She put one hand flat against her chest. "I said so in May. I do not have time to hope quietly." She took a breath, and let it out, and did a thing I'd never seen her do, which was to look at something in her own lap. "She has a list."
+"We are hoping," said Lakshmi, from the couch. She put one hand flat against her chest. "I said so in May. I do not have time to hope quietly." She took a breath, and let it out, and did something I'd never seen her do, which was to look at something in her own lap. "She has a list."
 
 "A list?"
 
@@ -107,7 +107,7 @@ I went up the mountain on the Saturday after Thanksgiving. I took no hypothetica
 
 Ray was in the kitchen. It was a cold, bright day, the sort of clear November that comes up the mountain after a week of rain and makes every redwood look as though it's been cut out of paper, and he had the heater on. He was sitting at the table, in the flannel, with his glasses pushed up into his hair and a mug of coffee at his elbow. A folder lay on the table near his other hand. It was face down.
 
-I saw it. I didn't look at it. It's a thing I'd have done, a year before, and kept a note.
+I saw it. I didn't look at it. A year before, I'd have done it and kept a note.
 
 "Coffee's in the pot," said Ray.
 
@@ -151,13 +151,13 @@ I said nothing for a while. Through the window, a bird I didn't know the name of
 
 "Hm." I couldn't read it. "And fourth. *How will you know when you're wrong?*"
 
-I hadn't got an answer. I sat there with the hot mug in both hands, in the heat of the little kitchen, and what I understood, very slowly, was that I'd heard these questions before. Not these words. The shape of them.
+I hadn't got an answer. I sat there with the hot mug in both hands, in the heat of the little kitchen, and what I understood, slowly, was that I'd heard these questions before. Not these words. The shape of them.
 
 "Two of those are Margo's," I said. "My investor, Margo Bell. She asks them about the company, every quarter. *What would make you shut it down? How will you know you're wrong?*" I looked at him. "They're the same questions. About a company and about a person."
 
 "Is it?" said Ray.
 
-"I've never met her." He picked up the mug and looked into it. "I know that people who've been wrong a few times tend to ask the same questions." He took a sip. "It's a very short list. Every important thing you do in your life, you'll be asked it. By a banker. By a doctor. By the man in the robe, at the wedding." He put it down. "Denise would have liked her."
+"I've never met her." He picked up the mug and looked into it. "I know that people who've been wrong a few times tend to ask the same questions." He took a sip. "It's a short list. Every important thing you do in your life, you'll be asked it. By a banker. By a doctor. By the man in the robe, at the wedding." He put it down. "Denise would have liked her."
 
 I didn't say anything.
 
@@ -165,7 +165,7 @@ I didn't say anything.
 
 We sat for a little while. He reached out, slowly, and put his hand flat on the folder on the table. It was a manila one, a little creased, with a rubber band around it. He didn't pick it up, and he didn't turn it over.
 
-"Your thing," said Ray, in a voice I'd never heard, a voice pitched very low, almost to himself. "Your *something.* The healthcare one. I told myself I was too old for it. I've been thinking I might have a something." He stopped. "It's not ready. I've had it for a while. I'm not sure I'm going to do it."
+"Your thing," said Ray, in a voice I'd never heard, a voice pitched low, almost to himself. "Your *something.* The healthcare one. I told myself I was too old for it. I've been thinking I might have a something." He stopped. "It's not ready. I've had it for a while. I'm not sure I'm going to do it."
 
 "Ray—"
 
@@ -191,7 +191,7 @@ I called Carla at nine.
 
 There was a silence on the line, a long one. I heard her breathe. I heard, somewhere behind her, a door, and a person saying a number.
 
-"That's a very good question," said Carla Ruiz. "No one's ever asked it."
+"That's a good question," said Carla Ruiz. "No one's ever asked it."
 
 "I'm asking."
 
@@ -229,7 +229,7 @@ The deer was there. I swear it. It was standing about thirty feet from the bench
 
 "I once said something to it." I sat down. "It wasn't my best work."
 
-She sat. She took off a glove, and put it in her pocket, and put her hand, bare and cold, flat on the bench between us. Neither of us spoke for a while. The light came up. A thin gold line opened along the top of the hills.
+She sat. She took off a glove, and put it in her pocket, and put her hand, bare and cold, on the bench between us. Neither of us spoke for a while. The light came up. A thin gold line opened along the top of the hills.
 
 "Ask me one," said Maya.
 
@@ -243,13 +243,13 @@ She looked at me. She took a long time. She didn't smile.
 
 "It's Ray's. I'll answer it first, if you'd rather."
 
-"No. I'll go." She looked at the light on the bay. "If I found out you'd decided something about me, and you'd been right, and you hadn't asked." She said it slowly, and then once more, more quietly, as if she were trying it on. "If you fixed it, and it was perfect, and I never got to say what I wanted. That's what would do it." She turned her head. "And you?"
+"No. I'll go." She looked at the light on the bay. "If I found out you'd decided something about me, and you'd been right, and you hadn't asked." "If you fixed it, and it was perfect, and I never got to say what I wanted. That's what would do it." She turned her head. "And you?"
 
 "If I stopped being able to tell you I was wrong."
 
 "Hm," said Maya.
 
-It was Lakshmi's sound. She'd got it from her mother. It was the sound of a number being added to a column, and I'd never heard it in her mouth for something good, and I felt the whole bay under us go very still.
+It was Lakshmi's sound. She'd got it from her mother. It was the sound of a number being added to a column, and I'd never heard it in her mouth for something good, and I felt the whole bay under us go still.
 
 I didn't say anything for a minute. I didn't gather myself. I'd had no speech. I'd had a good one, a month ago, and I'd deleted it in a car. I sat on a cold bench, with my hands on my knees, and I looked at the side of her face, in a gray wool hat, in the first light, and I said the only thing I had, which was true, and which had no door in it.
 
@@ -269,7 +269,7 @@ She didn't move.
 
 "Four minutes."
 
-"I've had a list of how you'd do it," said Maya. She'd turned, on the bench, to face me. Her eyes were very bright, and very dry. "I've had three. Short. Medium. Bad. You were on a beach in one. You'd hired a man with a ukulele." She put the back of her gloved hand against her mouth. "You did it on a *bench,* with no ring. You told me the truth about what would make you walk. You didn't rehearse. I could tell. You'd have said *you* instead of *I.*" Her voice cracked. "It wasn't on the list."
+"I've had a list of how you'd do it," said Maya. She'd turned, on the bench, to face me. Her eyes were bright, and dry. "I've had three. Short. Medium. Bad. You were on a beach in one. You'd hired a man with a ukulele." She put the back of her gloved hand against her mouth. "You did it on a *bench,* with no ring. You didn't rehearse. I could tell." Her voice cracked. "It wasn't on the list."
 
 "That's bad?"
 

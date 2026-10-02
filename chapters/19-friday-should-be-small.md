@@ -5,7 +5,7 @@ The families' dinner was the first Saturday of September, in a long upstairs roo
 
 It went better than I'd feared and worse than I'd hoped, in about equal parts, as these things do.
 
-My father and Suresh found each other by the soup. I saw it happen. There's a way that two men who've spent their working lives with their hands in machines will recognize each other in a crowded room, as if by a signal in the blood, and they sat down together at the corner of the table, without a word, and within about nine minutes had taken the label printer from the Ramans' pharmacy to bits, in a conversation consisting, as far as I could hear, of nouns. "Torque," said my father. "Hm," said Suresh. "A thirty-two-thousandth," said my father. "*Ah,*" said Suresh. Annie, across the table, caught my eye and mouthed, very clearly, *They're in love.*
+My father and Suresh found each other by the soup. I saw it happen. There's a way that two men who've spent their working lives with their hands in machines will recognize each other in a crowded room, as if by a signal in the blood, and they sat down together at the corner of the table, without a word, and within about nine minutes had taken the label printer from the Ramans' pharmacy to bits, in a conversation consisting, as far as I could hear, of nouns. "Torque," said my father. "Hm," said Suresh. "A thirty-two-thousandth," said my father. "*Ah,*" said Suresh. Annie, across the table, caught my eye and mouthed, clearly, *They're in love.*
 
 And then Lakshmi cleared her throat.
 
@@ -23,9 +23,9 @@ Nobody had known there was a Friday. I saw my mother look up from her plate with
 
 "It is not for you to pay. It is a Friday for my daughter."
 
-There was a stiffness at the table, like the moment before a ceramic dish lands on a tile floor. I looked at Maya. She was sitting very still, with her hands in her lap, and her face had gone entirely polite.
+There was a stiffness at the table, like the moment before a ceramic dish lands on a tile floor. I looked at Maya. She was sitting still, with her hands in her lap, and her face had gone entirely polite.
 
-It was Annie who moved. I'll say it for her. She leaned across the table, with a spoon in her hand, and said, in the clear, easy voice of a woman who'd spent her working life explaining to a frightened dog's owner what a vet meant, "Mom. She means it's lovely, and it matters, and she'd like to host. It's not about the money." She turned her head. "Mrs. Raman. My mother means it's lovely, and she's worried about the flights, and she'd like to be told it's okay to be worried." She turned back. "You're both saying yes. You're saying it very loudly in different directions."
+It was Annie who moved. I'll say it for her. She leaned across the table, with a spoon in her hand, and said, in the clear, easy voice of a woman who'd spent her working life explaining to a frightened dog's owner what a vet meant, "Mom. She means it's lovely, and it matters, and she'd like to host. It's not about the money." She turned her head. "Mrs. Raman. My mother means it's lovely, and she's worried about the flights, and she'd like to be told it's okay to be worried." She turned back. "You're both saying yes. You're saying it loudly in different directions."
 
 Nobody said anything. My mother looked at Lakshmi. Lakshmi looked at my mother.
 
@@ -45,9 +45,9 @@ It was a narrow iron one, over the street, with two chairs and a potted plant th
 
 "I'm taking a minute." She didn't turn. "Annie's good."
 
-"Annie's very good."
+"Annie's good."
 
-"She said it for me." She said it quietly. "I'd have said *okay.* I'd have said it with a smile, in front of everyone, and gone home and been tired." She pulled her cardigan closer. "I've done it my whole life. I said yes before my mother finished. I always say it before."
+"She said it for me." She said it quietly. "I'd have said *okay.* I'd have said it with a smile, in front of everyone, and gone home and been tired." She pulled her cardigan closer. "I said yes before my mother finished. I always do."
 
 "Do you want to do Friday?"
 
@@ -63,7 +63,7 @@ She turned her head.
 
 "I'm not going to fix it," I said. "I'd like to. I'm going to ask you one thing. What do you want it to be?"
 
-She looked at me for a very long time. A bus went by. The light in it moved across her face and was gone.
+She looked at me for a long time. A bus went by. The light in it moved across her face and was gone.
 
 "Small," said Maya. "An hour. Twenty people. I want to sit down for it." (At every family event, Maya was the one standing, carrying, refilling.) "I want it to be for me, a little bit, and not only for her." Her voice caught. "I want to say that to my mother. I don't know how."
 
@@ -77,11 +77,11 @@ She looked at me for a very long time. A bus went by. The light in it moved acro
 
 It was City Hall, on a Tuesday evening, at twenty to six, and it was empty.
 
-I'd called a clerk. It's a thing I'd have been ashamed of a year earlier, in the way of a man who has used a phone for a good reason: I'd rung the office that handles civil ceremonies, and asked for the person in charge of the rotunda, and he'd turned out to be a gentle, dry man of about sixty named Winston, who had a mustache and a lanyard and had been marrying people for thirty-one years. I'd said I'd like a half hour, after hours, with no one watching, so that someone could stand where she was going to stand and see how it felt. "You're the third this year," Winston had said, and I'd said, "Really?" and he'd said, "People are nervous. They like to try the room."
+I'd called a clerk. I'd rung the office that handles civil ceremonies, and asked for the person in charge of the rotunda, and he'd turned out to be a gentle, dry man of about sixty named Winston, who had a mustache and a lanyard and had been marrying people for thirty-one years. I'd said I'd like a half hour, after hours, with no one watching, so that someone could stand where she was going to stand and see how it felt. "You're the third this year," Winston had said, and I'd said, "Really?" and he'd said, "People are nervous. They like to try the room."
 
 He let us in through a side door. He said, "I'll be in the office. Take your time. It's a good echo," and shut the door, and went away.
 
-I hadn't seen it empty. It's a very large room. It has a staircase, white, with a black iron rail, rising to a landing under a dome, and a gold light from high windows that, at that hour, lies across the marble in long slabs like something poured. It smelled of floor polish. Our footsteps went up into the dome and came back down a second later, smaller.
+I hadn't seen it empty. It's a large room. It has a staircase, white, with a black iron rail, rising to a landing under a dome, and a gold light from high windows that, at that hour, lies across the marble in long slabs like something poured. It smelled of floor polish. Our footsteps went up into the dome and came back down a second later, smaller.
 
 Maya stood at the bottom of the stairs, in her work clothes, with her bag still on her shoulder, and looked up.
 
@@ -99,7 +99,7 @@ Maya stood at the bottom of the stairs, in her work clothes, with her bag still 
 
 "There." I stood at the foot of the stairs, on a small brass plate. "He said that's the groom."
 
-She looked at me, down the steps, with the light on her face. I'd never seen her look at me from a height. It was a strange feeling. It was like being on the far side of a very clear lens.
+She looked at me, down the steps, with the light on her face. I'd never seen her look at me from a height. It was a strange feeling. It was like being on the far side of a clear lens.
 
 "I need Friday to be small," said Maya, in a normal voice.
 
@@ -111,7 +111,7 @@ She stopped. She put her hand over her mouth. She said it again, louder, to the 
 
 It came down out of the dome in pieces. *Sorry. Said it. Ago.* She stood in the gold light with her hand over her mouth, and I stood on a brass plate, and neither of us spoke. It was the quietest I've ever heard a room that large.
 
-I didn't say anything. I don't think there was a thing to say. After a time, she came down the stairs, one at a time, very slowly, holding the rail, and when she reached the bottom she put her face against my shirt, and I held on, and I understood, for the first time, what a dry run was for. It isn't to get it right. It's to find out, with no one watching, what it sounds like when you say it.
+I didn't say anything. I don't think there was anything to say. After a time, she came down the stairs, one at a time, slowly, holding the rail, and when she reached the bottom she put her face against my shirt, and I held on, and I understood, for the first time, what a dry run was for. It isn't to get it right. It's to find out, with no one watching, what it sounds like when you say it.
 
 "Thank you," said Maya, into my shirt.
 

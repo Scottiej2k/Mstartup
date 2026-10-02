@@ -77,7 +77,7 @@ I looked down. It said **STOP.**
 
 I didn't. I'd like the record to show that I understood it, and asked a sixth question, which was whether Rosalind would be open to a trial. She said she'd have to ask the doctors. She said it kindly, and with an expression I've since learned to recognize: the face of someone handing you a door so you'll leave through it.
 
-At the back wall, the water cup hadn't moved. Maya's eyes had gone to the floor, and stayed there, the way you look at a spot on a carpet when you're being very polite about a funeral.
+At the back wall, the water cup hadn't moved. Maya's eyes had gone to the floor, and stayed there, the way you look at a spot on a carpet when you're being polite about a funeral.
 
 ---
 
@@ -99,7 +99,7 @@ Priya looked in the mirror. "Please."
 
 "She said it'd be great."
 
-"She said it'd be great because you told her it'd be great." She said it without heat, the way you'd read a measurement off a ruler. "You gave her the answer and asked her to sign. People are very kind. They'll sign."
+"She said it'd be great because you told her it'd be great." She said it without heat. "You gave her the answer and asked her to sign. People are kind. They'll sign."
 
 "I said we were there to learn."
 
@@ -121,7 +121,7 @@ I put the phone away.
 
 "*Tell me about the last time somebody stopped coming in,*" she said. "Then stop talking. Count to ten if you have to. Nobody wants to be the first person to say something in a silence, except the person who has something to say."
 
-"That's very good," said Priya, to the windshield.
+"That's good," said Priya, to the windshield.
 
 "It's my actual job. I interview people about what they didn't understand. The whole trick is that you don't want them to have understood." Maya looked out the window. "You want them to have tried."
 
@@ -131,7 +131,7 @@ I put the phone away.
 
 "I didn't say what."
 
-"I know what." She smiled, small and brief, and put it away. "I'm observing. It's a very different form."
+"I know what." She smiled, small and brief, and put it away. "I'm observing. It's a different form."
 
 At the light on El Camino, Priya glanced over. "Day six," she said, in her level voice. "Four yeses is one data point. This afternoon is another."
 
@@ -141,7 +141,7 @@ At the light on El Camino, Priya glanced over. "Day six," she said, in her level
 
 ---
 
-I tried it on Kyle that night. I'd like to say this was a rigorous choice. It was that he was at the counter with the mixing bowl and there was nobody else.
+I tried it on Kyle that night. It wasn't a rigorous choice. He was at the counter with the mixing bowl and there was nobody else.
 
 "I'm practicing," I said. "Tell me about the last time you felt good at work."
 
@@ -245,7 +245,7 @@ Maya put down her napkin.
 
 "You're at the very top," I said, which was true in the funnel and catastrophic everywhere else.
 
-She looked at me for a long moment. Then she laughed, not the polite laugh, the real one, the one I'd been fishing for since the first coffee. It went on longer than I'd expected. She put her hand flat on the counter as if the stool might leave.
+She looked at me for a long moment. Then she laughed, not the polite laugh, the real one, the one I'd been fishing for since the first coffee. It went on longer than I'd expected. She held on to the counter as if the stool might leave.
 
 "That," said Maya, "is the most engineer thing anyone has ever said to me at a meal."
 
@@ -277,7 +277,7 @@ Maya didn't say anything. Under the counter, her knee had come to rest against m
 
 "She wrote it on the list, the receipt roll, next to the people she's supposed to call." Maya turned her taco a quarter turn, which I would only later realize I'd seen before, on a fence post. "It says *Nate. Cup.* with a question mark. She'd like to meet the cup. I said not yet."
 
-"Not yet," I said, and made a great effort to sound like a man writing nothing down.
+"Not yet," I said, and made a great effort to sound as if I wasn't writing anything down.
 
 "It's a good phrase," said Maya. "It's still a yes." Then, after a moment: "Ask me one."
 

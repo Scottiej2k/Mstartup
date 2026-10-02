@@ -9,7 +9,7 @@ There were forty stores. They were to go live on the last Saturday in September,
 
 I read the last one twice. It said: *Loopback to provide 24/7 response contact for all forty locations.* It didn't say who.
 
-"You've left one thing off," I said, on the Thursday call. That was a thing we'd begun. Every Thursday, at ten, Carla and I sat on opposite ends of a telephone with the same list open in front of us, hers in green, mine in whatever color I'd stopped choosing. She'd decided that there should be two checklists, hers and ours, that would say the same thing, and she'd decided that if they ever disagreed, that was the thing to talk about.
+"You've left one thing off," I said, on the Thursday call. That was a habit we'd begun. Every Thursday, at ten, Carla and I sat on opposite ends of a telephone with the same list open in front of us, hers in green, mine in whatever color I'd stopped choosing. She'd decided that there should be two checklists, hers and ours, that would say the same thing, and she'd decided that if they ever disagreed, that was the thing to talk about.
 
 "Only one?" said Carla. I'd started to picture her clasping her hands when she listened; there was a small dry sound on the line, like a person folding a napkin. "Go on."
 
@@ -65,7 +65,7 @@ I'd prepared a diagram. It was a good one, in three colors. The woman at the hea
 
 "I don't want to see what it does," she said. "Tell me what it can't."
 
-I looked at Priya. She was sitting very straight, with a single sheet of paper in front of her, and she turned it over so the room could read it. It was the wall from the glass room, typed. WE WILL NOT: *track where you are. Read what you say or write. Sell or share what we know. Put anyone's name at the bottom of the message. Turn it on for someone else. Call the police unless you said we could.*
+I looked at Priya. She was sitting straight, with a single sheet of paper in front of her, and she turned it over so the room could read it. It was the wall from the glass room, typed. WE WILL NOT: *track where you are. Read what you say or write. Sell or share what we know. Put anyone's name at the bottom of the message. Turn it on for someone else. Call the police unless you said we could.*
 
 "Do you collect audio?" said a man to Okoye's left.
 
@@ -87,7 +87,7 @@ Okoye read the page twice. She put a small check beside each line, and by the fo
 
 "Our lawyers have added thirty," said Okoye. "I apologize in advance."
 
-We passed. It took nineteen days, and thirty-four pages, and a clause about retention that Priya fought for a week and won. In the elevator she said, very quietly, to the floor numbers, "That was the best meeting I've ever been in," and I understood that a person can be proud of a list of nouns.
+We passed. It took nineteen days, and thirty-four pages, and a clause about retention that Priya fought for a week and won. In the elevator she said, quietly, to the floor numbers, "That was the best meeting I've ever been in," and I understood that a person can be proud of a list of nouns.
 
 ---
 
@@ -119,7 +119,7 @@ It was a strip of paper. It hung on the wall behind the register, from a thumbta
 
 I read it from the customer's side of the counter, as one reads the things on a stranger's wall.
 
-It wasn't a list of tasks. It was a list of people, with a thing beside each one. *Meena, sambar. Kalyani, vegetables. Jaya, the sweets. Suresh, the car. Me, who sits.* And then, below that, in a line of its own, in the same pencil, pressed a little harder: *Who is told. Who is not told. Who must never sit together.* There were twelve names under the third heading, in pairs. I recognized one. It was a woman named Bhuvana, and the name beside it was her sister.
+It wasn't a list of tasks. It was a list of people, with a dish beside each one. *Meena, sambar. Kalyani, vegetables. Jaya, the sweets. Suresh, the car. Me, who sits.* And then, below that, in a line of its own, in the same pencil, pressed a little harder: *Who is told. Who is not told. Who must never sit together.* There were twelve names under the third heading, in pairs. I recognized one. It was a woman named Bhuvana, and the name beside it was her sister.
 
 "It's an old problem," said Lakshmi, from the register, without looking up.
 
@@ -133,11 +133,11 @@ I nodded. I wrote *one person per thing* on my hand, in pen, for no reason, and 
 
 I built the master plan on a weekend in April.
 
-I'd been, I'd thought, very careful. I had asked. I'd said to Maya, on the Thursday, *can I show you a plan, or would you hate it?* and she'd said, after a pause I could have timed, *show me,* and I'd taken it as *build it.* It took me fourteen hours. It was called **WEDDING: MASTER PLAN (v1),** and it was a beauty.
+I'd been, I'd thought, careful. I had asked. I'd said to Maya, on the Thursday, *can I show you a plan, or would you hate it?* and she'd said, after a pause I could have timed, *show me,* and I'd taken it as *build it.* It took me fourteen hours. It was called **WEDDING: MASTER PLAN (v1),** and it was a beauty.
 
 It had four tabs: a timeline, with bars, running backward from a date in September; a task list, three hundred and six tasks, each with an owner, a deadline and a status; a risk register, in which I'd assigned each of forty-one guests a probability of arriving late; and a tab I'd named **Deconfliction Matrix,** a grid of who could not sit near whom.
 
-I showed it to her on a Sunday, on the couch, on the laptop, with a cup of tea. What I felt was a warm, steady, slightly breathless glow, like a man who has made an excellent soup. She read the first tab in silence. She read the second for a long time, scrolling, with her lips very slightly parted.
+I showed it to her on a Sunday, on the couch, on the laptop, with a cup of tea. What I felt was a warm, steady, slightly breathless glow, like a man who has made an excellent soup. She read the first tab in silence. She read the second for a long time, scrolling, with her lips slightly parted.
 
 "How many of these are mine?" said Maya.
 
@@ -201,7 +201,7 @@ He'd come for the cereal. He sat at our counter in Sunnyvale, with the bowl he'd
 
 "She'd like that."
 
-"I've been practicing." He put down the spoon. "I'm going to ask her what songs she hates. You can learn a lot from a list of hates." He said it with great seriousness, like a man describing a technique he'd invented. "I started with what I couldn't stand," said Kyle. "It saved me a lot of time. It's how I pick cereal."
+"I've been practicing." He put down the spoon. "I'm going to ask her what songs she hates. You can learn a lot from a list of hates." He said it with great seriousness. "I started with what I couldn't stand," said Kyle. "It saved me a lot of time. It's how I pick cereal."
 
 She told him, that Saturday, at the kitchen counter, with an enormous, private pleasure, nine songs she hated. He wrote them down on the back of an envelope. It was, he said afterward, the best list he'd ever been given, and he'd build the whole afternoon from the opposite.
 
@@ -273,7 +273,7 @@ I put it on the counter, on its back, a single printed page, at the end of a lin
 
 She stopped.
 
-I've seen her stop perhaps five times in my life. It's less like a pause than like a clock taken off a wall. She put down a paper bag. She put both hands flat on the counter on either side of the page and read it for a full minute, her lips moving very slightly, like a woman counting.
+I've seen her stop perhaps five times in my life. It's less like a pause than like a clock taken off a wall. She put down a paper bag. She read it for a full minute, standing, her lips moving slightly.
 
 "What is this?" said Lakshmi.
 
@@ -317,7 +317,7 @@ Behind the glass, at the long counter, Suresh had turned around. He was in his w
 
 "I hadn't—"
 
-"*When,*" said Suresh, very quietly. "That is what she will say. She will say, *yes, I will call. When?*" He took his finger from the page. "You have forty names. You do not have forty hours."
+"*When,*" said Suresh, quietly. "That is what she will say. She will say, *yes, I will call. When?*" He took his finger from the page. "You have forty names. You do not have forty hours."
 
 The line at the counter had gone still. Lakshmi took her hands off the counter and looked at her husband, and then at me.
 

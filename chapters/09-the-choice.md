@@ -1,11 +1,11 @@
 # Chapter 9
 ## The Choice
 
-Priya brought the paper in on a Monday, in a blue folder, and set it on my desk the way you'd set down a cup you weren't sure was yours.
+Priya brought the paper in on a Monday, in a blue folder, and set it on my desk like a cup she wasn't sure was hers.
 
 It was the fifth of January. She'd had a holiday, and I'd had a holiday, and neither of us had mentioned the thing she'd said on the ninetieth day. In the folder there were four pages, stapled, with yellow flags on three of them and handwriting in the margins in her small, decisive capitals. I read the heading on the first page, which said **FOUNDERS' AGREEMENT,** and did what a man does when a door he has been circling turns out to have a handle: I looked at the ceiling.
 
-"I'm not asking for a fight," said Priya. "I'm asking for a conversation. Who owns what. What happens if either of us leaves. What happens if we take money." She counted them off on her fingers, not dramatically, like a woman reading a recipe. "I've read every line. There are two places I'd like to change. I'd like you to read it before you say anything."
+"I'm not asking for a fight," said Priya. "I'm asking for a conversation. Who owns what. What happens if either of us leaves. What happens if we take money." She counted them off on her fingers, not dramatically. "I've read every line. There are two places I'd like to change. I'd like you to read it before you say anything."
 
 "Sure."
 
@@ -63,7 +63,7 @@ I'd heard it in July. It had sounded different in July. It had sounded like a da
 
 A woman beside Cole, a founder of something with a logo, turned to Maya, and then to me, with the smile of a person waiting for the rest of a sentence. "And this is—?"
 
-It's very quiet in your head when it happens. I'd expected a roar. I felt Kyle's spoon. I felt Cole's glass. Most of all I felt a rule the woman beside me had given me over a coffee: *I don't name things until coffee three.* We were somewhere past coffee thirty. I told myself I was respecting the rule, and that the word was hers to give.
+It's quiet in your head when it happens. I'd expected a roar. I felt Kyle's spoon. I felt Cole's glass. Most of all I felt a rule the woman beside me had given me over a coffee: *I don't name things until coffee three.* We were somewhere past coffee thirty. I told myself I was respecting the rule, and that the word was hers to give.
 
 "This is my friend Maya," I said.
 
@@ -71,7 +71,7 @@ The woman said, "Lovely."
 
 "Okay," said Maya.
 
-It was a very small word, and it had a period on it, and I heard the period. I understood it the way you understand a noise in the house at night, which is to say I sat very still and waited for it to go away.
+It was a small word, and it had a period on it, and I heard the period. I understood it the way you understand a noise in the house at night, which is to say I sat still and waited for it to go away.
 
 Somewhere in the second course, Maya asked Cole a question.
 
@@ -79,7 +79,7 @@ Somewhere in the second course, Maya asked Cole a question.
 
 The table went quiet in the way a table does when a knife is set down. Cole looked at her, and for about a second I saw someone I'd never met, a man at a long table with nobody across from him.
 
-"I miss the option," said Cole. He smiled, and it was a very good one.
+"I miss the option," said Cole. He smiled, and it was a good one.
 
 "That's not the same thing," said Maya, kindly, and ate a small piece of something, and did not look at me again until dessert.
 
@@ -129,7 +129,7 @@ I poured a coffee from the thermos. It was burnt, on principle. I held it in bot
 
 "No."
 
-"Ah." Ray turned his mug a quarter turn on the fence post. "Which one's the company and which one's the girl?"
+"Ah." Ray looked at his mug. "Which one's the company and which one's the girl?"
 
 "It's the same problem."
 
@@ -169,11 +169,11 @@ I practiced. I'm not proud of it. I said, out loud, to the deer, *I've been thin
 
 It was a stupid thing to do to a deer.
 
-I stopped. I looked at the lights. After a while I said the only sentence I had that didn't have a door in it, and it came out very plain, the way a thing does when you're not trying to be good at it.
+I stopped. I looked at the lights. After a while I said the only sentence I had that didn't have a door in it, and it came out plain, the way it does when you're not trying to be good at it.
 
 "I don't have a backup."
 
-It sounded like nothing. It sounded like a man on a bench. It was true, and I had never said a true thing that didn't have somewhere to go.
+It sounded like nothing. It sounded like someone on a bench. It was true, and I had never said a true thing that didn't have somewhere to go.
 
 I went down the trail in the gray light. I drove to Glen Park without stopping for coffee.
 
@@ -181,7 +181,7 @@ I went down the trail in the gray light. I drove to Glen Park without stopping f
 
 I pressed the buzzer once. She buzzed me in without a word, and I climbed four flights, with my hands in my jacket, past the radiator and the green runner and a television laughing through someone's door. Her door opened four inches and stopped, because the chain was on.
 
-She was in the gray sweater and her socks. She was looking at me through the gap, and the face she had on was the one from the night I'd apologized, the one of someone holding something very still. It was 6:50 in the morning.
+She was in the gray sweater and her socks. She was looking at me through the gap, and the face she had on was the one from the night I'd apologized, the one of someone holding something still. It was 6:50 in the morning.
 
 I said it through the four inches.
 
@@ -213,13 +213,13 @@ She opened a folder. It was labeled **Utilities,** and it had four things in it:
 
 I looked at the icon. It was the dating app. It had sixty-one matches in it, in a spreadsheet somewhere that she'd described as a coping mechanism.
 
-"I didn't use it," she said. "Not once, since July. I just didn't delete it. It was a—" She searched for the word, and I watched her not find it, and use another. "It was a door. I told myself it was in case. I'd been standing in it the whole time, in my coat, with my hand on the knob, telling you how I couldn't stand people who did that." She looked up. Her eyes were very bright and very dry. "You said *friend* on Thursday, and I thought: *well. That's what I'd have said.*"
+"I didn't use it," she said. "Not once, since July. I just didn't delete it. It was a—" She searched for the word, and I watched her not find it, and use another. "It was a door. I told myself it was in case. I'd been standing in it the whole time, in my coat, with my hand on the knob, telling you how I couldn't stand people who did that." She looked up. Her eyes were bright and dry. "You said *friend* on Thursday, and I thought: *well. That's what I'd have said.*"
 
 "I'm sorry."
 
 "I'm not. I mean—" She almost laughed. "I'm sorry, and I'm not. I needed to know what it looked like from the other side."
 
-"I'll take that," I said. It surprised me, how level it came out. "I'll take the app, and I'll take that I earned some of the three days. But I need one thing from you, and I'd like to say it out loud, so it isn't a surprise later." She looked up at her own phrase. "If you're angry with me, say *I'm angry.* I can stand angry. I can't do *thank you for driving* for three days. I don't know what it means, and I start guessing, and I'm a very bad guesser."
+"I'll take that," I said. It surprised me, how level it came out. "I'll take the app, and I'll take that I earned some of the three days. But I need one thing from you, and I'd like to say it out loud, so it isn't a surprise later." She looked up at her own phrase. "If you're angry with me, say *I'm angry.* I can stand angry. I can't do *thank you for driving* for three days. I don't know what it means, and I start guessing, and I'm a bad guesser."
 
 She was quiet for a while. "My family doesn't say it," said Maya. "We say *thank you.* That's how you know someone's furious."
 
@@ -273,13 +273,13 @@ She took my phone off the table without asking, and opened the page I'd made in 
 
 "The person presses the button herself," said Maya. "You told me that one." She pressed it.
 
-Mine buzzed on the table a second later. The text said, in the plain gray type of a thing built in a hurry, **Maya wants you to be her person. Reply YES.**
+Mine buzzed on the table a second later. The text said, in our plain gray type, **Maya wants you to be her person. Reply YES.**
 
 I typed it. It took me a long time. My hands weren't good.
 
 "It worked," said Maya. Then she held out her own phone, open to the same page. "Now yours. It has to go both ways. It's a pact."
 
-I typed my number in the first box and hers in the second, and pressed the button myself. Her phone buzzed on the table, and she read it, and put her thumb on the screen and typed *YES,* and looked at me over it, with the expression of someone who has just watched a very ugly machine do exactly what it was built to do.
+I typed my number in the first box and hers in the second, and pressed the button myself. Her phone buzzed on the table, and she read it, and put her thumb on the screen and typed *YES,* and looked at me over it, with the expression of someone who has just watched a ugly machine do exactly what it was built to do.
 
 I put my phone down. She put hers down. There was a moment in which neither of us could think what to do with our hands, which I recognized from a ballroom.
 
@@ -289,7 +289,7 @@ I put my phone down. She put hers down. There was a moment in which neither of u
 
 "Talking. Reaching. Making a point." She had already stood, and come around the little table, and stopped about a foot away with her arms at her sides, a woman at the edge of a pool. "I've thought about the logistics. I'd like to do it once, properly, and I don't want commentary."
 
-I did not talk. It was the single most disciplined thing I did that year. I sat very still in a kitchen chair, beside a cold cup, and Maya Raman put one hand flat against my collarbone, the way you'd steady a picture, and bent, and kissed me.
+I did not talk. It was the single most disciplined thing I did that year. I sat still in a kitchen chair, beside a cold cup, and Maya Raman put one hand flat against my collarbone, and bent, and kissed me.
 
 It wasn't long. It wasn't what I'd planned in the shower, for six months. It was warm and dry, a little tea-flavored, and extremely certain. When it was over she stayed where she was, with her forehead nearly against mine.
 
@@ -319,7 +319,7 @@ There was a pause on the line. I heard a dish being set down, and a man's voice 
 
 "You kept it in your bag?"
 
-"My husband says I'm very optimistic about you." She let out a short breath that might have been a laugh. "Come by at eight tomorrow. I'll bring the flags."
+"My husband says I'm optimistic about you." She let out a short breath that might have been a laugh. "Come by at eight tomorrow. I'll bring the flags."
 
 I hung up. I sat on the stairs for a while with my phone in my hand, and then I went upstairs, and Kyle was at the counter, with the mixing bowl.
 

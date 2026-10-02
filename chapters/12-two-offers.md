@@ -17,7 +17,7 @@ I should say how we'd got there. In March we'd agreed that a two-hundred-dollar-
 
 I felt Priya, beside me, stop moving. It's a difference you can feel in a chair.
 
-They loved it. I'd like you to understand that I'd never been loved by a room before. In the gap after I finished, a silence fell in which three people who could write a check looked at a globe with a pulse and saw a number. Jared said, "We'd do three million, for twenty percent." (Meaning: they would hand us three million dollars and own a fifth of the company.) He went on, "We'd want you in San Francisco, three days a week, at our office in the Mission. We'd want a bigger team by fall." He smiled. "Talk to Cole. He speaks very highly of you."
+They loved it. I'd like you to understand that I'd never been loved by a room before. In the gap after I finished, a silence fell in which three people who could write a check looked at a globe with a pulse and saw a number. Jared said, "We'd do three million, for twenty percent." (Meaning: they would hand us three million dollars and own a fifth of the company.) He went on, "We'd want you in San Francisco, three days a week, at our office in the Mission. We'd want a bigger team by fall." He smiled. "Talk to Cole. He speaks highly of you."
 
 In the elevator, Priya said nothing. In the parking lot, she stopped next to a car that was not hers, with her keys in her hand.
 
@@ -45,7 +45,7 @@ My case was the boy. It was the refrigerator, and the man on the floor, and Mari
 
 "Nobody's going to say yes to that."
 
-"Some people are. Some people are going to be very frightened."
+"Some people are. Some people are going to be frightened."
 
 "And a phone shuts a background microphone off after a few minutes," I said, because I'd read that, too. "To protect people from apps like ours."
 
@@ -105,13 +105,13 @@ So I told her. I told her about the five patients, and Dr. Okafor's fountain pen
 
 I told her, finally, that I'd said *ambient* in a room on Sand Hill Road, and that I'd wanted, for about ninety seconds, to be the kind of person who could.
 
-She let me finish. She sat with her hands folded, looking at me, and the man on the roof of the hardware store finished his sandwich and folded the paper carefully, like a man used to it.
+She let me finish. She sat with her hands folded, looking at me, and the man on the roof of the hardware store finished his sandwich and folded the paper carefully, as if used to it.
 
 "That was a terrible pitch," said Margo Bell.
 
 "I know."
 
-"I'll fund it." She said it without warmth and without hesitation, the way you'd confirm a reservation. "A million two, for twelve percent. It's not what Sable offered, which Cole says was three million. It's not close. You'd get fourteen months of cash, at about eighty-five thousand a month, once you pay people like people. That's what people in this business call runway, because eventually you either take off or you run out." She took a pen from a cup. "Let me tell you why, and then I'll tell you what I want, and then you'll go away and be tempted."
+"I'll fund it." She said it without warmth and without hesitation. "A million two, for twelve percent. It's not what Sable offered, which Cole says was three million. It's not close. You'd get fourteen months of cash, at about eighty-five thousand a month, once you pay people like people. That's what people in this business call runway, because eventually you either take off or you run out." She took a pen from a cup. "Let me tell you why, and then I'll tell you what I want, and then you'll go away and be tempted."
 
 "Tempted?"
 
@@ -125,11 +125,11 @@ She capped the pen. "One question first. What happens when somebody large puts t
 
 She capped the pen, and uncapped it, and put it down.
 
-"I had a founder," she said. "Years ago. A good one. He lost his largest customer on a Tuesday, in the spring of a year when everything was going well, and he told no one. Not his team. Not his board. Not me. He kept the contract on the dashboard and he went to work. For six weeks." She looked out the window, at the roof. "I found out from the customer. She called me. She was very kind about it. She said *I thought somebody should tell you.*"
+"I had a founder," she said. "Years ago. A good one. He lost his largest customer on a Tuesday, in the spring of a year when everything was going well, and he told no one. Not his team. Not his board. Not me. He kept the contract on the dashboard and he went to work. For six weeks." She looked out the window, at the roof. "I found out from the customer. She called me. She was kind about it. She said *I thought somebody should tell you.*"
 
 "What happened to him?"
 
-"He fixed it, eventually. It cost him a great deal. It wasn't the loss." She turned her head. "Everyone loses a customer. Everyone's wrong. I'll be wrong with you; I've been wrong with nine companies, and two husbands. What I care about is the week after. You'll be judged, by me, by how you behave the week after you're wrong. I'd like to find out what that looks like with you. I'd like it to be soon. Once a quarter I'll ask you two things. *What would make you shut it down? How will you know you're wrong?* You don't have to answer well. You have to answer." She smiled for the first time. It was a very small one. "You ran a company that stopped answering once. Cole told me. You answered thirty-four times."
+"He fixed it, eventually. It cost him a great deal. It wasn't the loss." She turned her head. "Everyone loses a customer. Everyone's wrong. I'll be wrong with you; I've been wrong with nine companies, and two husbands. What I care about is the week after. You'll be judged, by me, by how you behave the week after you're wrong. I'd like to find out what that looks like with you. I'd like it to be soon. Once a quarter I'll ask you two things. *What would make you shut it down? How will you know you're wrong?* You don't have to answer well. You have to answer." She smiled for the first time. It was a small one. "You ran a company that stopped answering once. Cole told me. You answered thirty-four times."
 
 "How—"
 
@@ -139,9 +139,9 @@ She capped the pen, and uncapped it, and put it down.
 
 Cole took me for coffee on Friday, in SoMa, at a place where the cups were the size of soup bowls.
 
-He'd arranged Sable. I understood that, and I understood, sitting across from him in the expensive light, that he had arranged it with real generosity. He asked about the pitch, and I told him it had gone well. He asked about Margo, and I said she'd made an offer, a smaller one, and he nodded, slowly, like a doctor agreeing with a symptom.
+He'd arranged Sable. I understood, sitting across from him in the expensive light, that he had arranged it with real generosity. He asked about the pitch, and I told him it had gone well. He asked about Margo, and I said she'd made an offer, a smaller one, and he nodded, slowly, like a doctor agreeing with a symptom.
 
-"She's good," said Cole. "She's very good. She'll be kind to you for about two years. And then she'll be right." He stirred his coffee. "Look. I'm not going to tell you which one to take. I'll just say what Sable's partners said to me after you left. They said you were the real thing."
+"She's good," said Cole. "She's good. She'll be kind to you for about two years. And then she'll be right." He stirred his coffee. "Look. I'm not going to tell you which one to take. I'll just say what Sable's partners said to me after you left. They said you were the real thing."
 
 "That's kind."
 
@@ -259,7 +259,7 @@ Maya was standing at the passenger door in her coat, with a covered dish in both
 
 "My mother's going to ask you whether you've eaten." She looked at me, in the little light from the dashboard. "My father's going to count. That's the whole thing. That's the speech. You'll say yes or no, and they'll either pass you the rice or they won't. You can't do it in a voice."
 
-I didn't say anything. She reached over and put two fingers on my left cheek, very lightly, the way you'd steady a picture.
+I didn't say anything. She reached over and put two fingers on my left cheek, lightly.
 
 "Come in," said Maya. "It's kozhukattai. You'll hate how much you like it."
 
@@ -275,7 +275,7 @@ I ate three. I'd expected to say something, and discovered that there was no roo
 
 It went out of me like air from a tire. I'd decided to say *thank you for having me,* and I'd decided, afterward, to say *I'd like to tell you about what we're working on,* and what I said instead, in a voice I heard from outside, was the pitch.
 
-"There's a very large opportunity. Three million dollars from a fund on Sand Hill Road. The thesis is that every phone on earth is a sensor, and we're positioned as the ambient safety layer for eight billion people, and they'd want us in San Francisco—"
+"There's a large opportunity. Three million dollars from a fund on Sand Hill Road. The thesis is that every phone on earth is a sensor, and we're positioned as the ambient safety layer for eight billion people, and they'd want us in San Francisco—"
 
 "Hm," said Suresh.
 
@@ -287,13 +287,13 @@ It was Maya. She had a dumpling on her fork, halfway to her mouth, and she'd put
 
 "Who did you just talk to?" said Maya.
 
-The room was very quiet. I heard a pot, in the kitchen, tick as it cooled.
+The room was quiet. I heard a pot, in the kitchen, tick as it cooled.
 
 "I'm—telling your father about—"
 
 "No, you weren't." She said it gently. "That's the voice you used at Cole's table in January. You said *we've got a pilot,* and your voice went up at the end, like you were asking permission. I thought, *well, that's who he is at work.* And then I heard you on the phone with thirty-four strangers, at one in the morning, in a different one." She set her fork down beside the plate, carefully, at an angle. "Who were you talking to, just now? It wasn't my father."
 
-My mouth was open. Nothing came out. I looked at Suresh, who was looking at his rice. I looked at Lakshmi, who had one hand flat on the table and whose expression I could not read, because, I understood, it was the expression of a woman who had been waiting for this.
+My mouth was open. Nothing came out. I looked at Suresh, who was looking at his rice. I looked at Lakshmi, whose expression I could not read, because it was the expression of a woman who had been waiting for this.
 
 "I was talking to Jared," I said.
 
@@ -307,7 +307,7 @@ It took me a long time. I put my hands in my lap. I looked at the dumpling on my
 
 "There are two people who want to give us money," I said. "One of them wants us to say we can watch everyone. The other one wants us to keep answering the phone." I swallowed. "I want the second one. I wanted the first one, for a day. I'm—ashamed of that. And I don't know how to say it in front of you, sir, because I'd rather you thought well of me."
 
-Nobody said anything. Suresh looked up. It was the first time he'd looked at me directly since I sat down, and it was the look, I realized, from the fax machine.
+Nobody said anything. Suresh looked up. It was the first time he'd looked at me directly since I sat down, and it was the look from the fax machine.
 
 "You have eaten three," said Suresh.
 

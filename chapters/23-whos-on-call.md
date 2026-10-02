@@ -9,7 +9,7 @@ The name was *MAYA.* The banner said **FEED: 0 ROWS — 40 OF 40 STORES.**
 
 I took the call.
 
-"Appa's chest," said Maya. She said it very fast, in the voice she uses for a dose. "He's been sitting at the table, and he went gray, and Amma called the ambulance, and they're taking him to Washington Hospital. I'm in the car behind. I don't know. Can you come?"
+"Appa's chest," said Maya. She said it fast, in the voice she uses for a dose. "He's been sitting at the table, and he went gray, and Amma called the ambulance, and they're taking him to Washington Hospital. I'm in the car behind. I don't know. Can you come?"
 
 "I'm coming."
 
@@ -19,7 +19,7 @@ I took the call.
 
 She hung up. I had my keys, and I was at the door with one shoe on, and the banner was still there. A second line had appeared under it. *ACKNOWLEDGED — INES D.* Then a third: *ESCALATED: PRIYA R.*
 
-I knew what the banner meant. I'd known, before the second line, because a thing in my chest had gone cold, and I had the numbers in my head without opening anything: forty stores, about eleven thousand people, and a feed, which was the stream of who'd been enrolled, from Meridian's pharmacy computers into ours, that had just come up empty. Our system trusted Meridian's file as the whole list. No rows meant no one enrolled. At six in the morning it would look for the people it was supposed to ask, *You okay?,* and find nobody to ask. Nothing would go out. No one would be reported quiet, because no one would be asked. Green, on the wall, meant that nobody had flagged anything, and an empty feed flags nothing. Every row would be green.
+I knew what the banner meant. I'd known, before the second line, because something in my chest had gone cold, and I had the numbers in my head without opening anything: forty stores, about eleven thousand people, and a feed, which was the stream of who'd been enrolled, from Meridian's pharmacy computers into ours, that had just come up empty. Our system trusted Meridian's file as the whole list. No rows meant no one enrolled. At six in the morning it would look for the people it was supposed to ask, *You okay?,* and find nobody to ask. Nothing would go out. No one would be reported quiet, because no one would be asked. Green, on the wall, meant that nobody had flagged anything, and an empty feed flags nothing. Every row would be green.
 
 It would be the cleanest failure we'd ever had. It would look like peace.
 
@@ -37,7 +37,7 @@ She picked up on the first ring. I could hear typing behind her, fast.
 
 "Go," said Priya. "I have it. I'll text you when I need you, and I won't need you. Go."
 
-I went. I put the phone face down on the passenger seat, on the drive up 880 in the dark, with the radio off. It buzzed against the leather every few minutes, each time with a small, impatient sound, like something knocking on a very thin wall. I didn't touch it. My right hand opened and closed on my knee for the whole of the drive. I kept my left on the wheel.
+I went. I put the phone face down on the passenger seat, on the drive up 880 in the dark, with the radio off. It buzzed against the leather every few minutes, each time with a small, impatient sound, like something knocking on a thin wall. I didn't touch it. My right hand opened and closed on my knee for the whole of the drive. I kept my left on the wheel.
 
 ---
 
@@ -53,11 +53,11 @@ They'd taken Suresh through a door. The door had a small window in it, with wire
 
 I stood next to her. I didn't ask anything. I took her coat sleeve between two fingers, at the cuff, and held it, and she let me.
 
-I was told, later, that I'd done nothing in that room. I've considered it the best work of my career. I got three paper cups of coffee from a machine that took four attempts and one dollar bill. I held Lakshmi's handbag when she needed both hands. I read, at 12:40, a text from Priya that said *Root cause isn't ours. Meridian pushed an update at 10:58. Dolores has it. DON'T CALL,* and I read it with the phone held at an angle so Maya wouldn't see it, and I put it away. I looked at it again at 1:35. *Rolling back. Slow. Ines is checking the order.* I put it away. Each time, in the corridor of my own chest, I heard someone telling me to go and help. It was a very reasonable voice. I thanked it and sat down.
+I was told, later, that I'd done nothing in that room. I've considered it the best work of my career. I got three paper cups of coffee from a machine that took four attempts and one dollar bill. I held Lakshmi's handbag when she needed both hands. I read, at 12:40, a text from Priya that said *Root cause isn't ours. Meridian pushed an update at 10:58. Dolores has it. DON'T CALL,* and I read it with the phone held at an angle so Maya wouldn't see it, and I put it away. I looked at it again at 1:35. *Rolling back. Slow. Ines is checking the order.* I put it away. Each time, in the corridor of my own chest, I heard someone telling me to go and help. It was a reasonable voice. I thanked it and sat down.
 
 At ten to two, a doctor in blue scrubs came out through the window door. She was young, and tired, with her hair in a knot. She asked for the family. Lakshmi stepped forward, and I saw her look at the doctor's face, and then at her hands, and then at her face again.
 
-"It's not a heart attack," said the doctor. "Not tonight, so far. The blood tests are clear. But his arteries—" She said a word, and a number, and Maya's face did something. "It's called unstable angina. It means the heart isn't getting enough blood when it works. He's been having this for days, I'd say, maybe more. We'd like to keep him, and tomorrow morning, early, we'll look at the arteries and probably put in a stent." She said *stent* the way you'd say *umbrella.* "It's a very common procedure. He's stable. You can see him in a few minutes, one at a time."
+"It's not a heart attack," said the doctor. "Not tonight, so far. The blood tests are clear. But his arteries—" She said a word, and a number, and Maya's face did something. "It's called unstable angina. It means the heart isn't getting enough blood when it works. He's been having this for days, I'd say, maybe more. We'd like to keep him, and tomorrow morning, early, we'll look at the arteries and probably put in a stent." She said *stent* the way you'd say *umbrella.* "It's a common procedure. He's stable. You can see him in a few minutes, one at a time."
 
 There was a pause. It was Lakshmi who spoke.
 
@@ -71,7 +71,7 @@ Nobody said anything.
 
 "Amma," said Maya.
 
-"A person who notices," said Lakshmi, "does not tell the man. I am his wife. I should be the one." She was looking at the door. "I am very stupid."
+"A person who notices," said Lakshmi, "does not tell the man. I am his wife. I should be the one." She was looking at the door. "I am stupid."
 
 "It's not—" said Maya.
 
@@ -89,7 +89,7 @@ I couldn't see what it said. I think it was *Suresh.*
 
 ---
 
-Suresh was in a bed in a curtained bay with a monitor over his head, with a blue gown, and a clip on his finger. He looked smaller. He looked, with the glasses off, like a man someone had put in the wrong room.
+Suresh was in a bed in a curtained bay with a monitor over his head, with a blue gown, and a clip on his finger. He looked smaller. He looked, with the glasses off, like someone who'd been put in the wrong room.
 
 They'd said one at a time. Maya went first, for ten minutes, and came out with her chin set, and sat. Lakshmi went for twenty. When she came out she had her handbag in front of her and she didn't say anything and she sat in the chair next to Maya and put her head, for one second, on Maya's shoulder. It was the first time I'd seen it. She lifted it again, and was Lakshmi.
 
@@ -113,13 +113,13 @@ I went last. It was after three. The bay smelled of alcohol and clean sheets. Su
 
 "Good. That is what I told you." He lay there with the monitor going. "I have been a man for sixty-six years who told no one. Three days I had it. It is a pressure here." He moved a finger toward his sternum. "I took the long way to the stockroom. I said to myself, it is nothing, it is indigestion, it is the dal." There was a long pause. "I have a daughter who says *no hurry,* and a son who says *we do not ask.* I heard them. I thought, they are right. I thought, it is a good family."
 
-I stood very still.
+I stood still.
 
 "I told you in your first year that nobody asks what it costs the person who notices," said Suresh. "I did not say that nobody asks what it costs the person who is noticed." His voice had gone thin. "It is the same cost. It is *I am a bother.*"
 
 "You're not a—"
 
-"Nathan." It was the first time he'd used my whole name, and it surprised me enough that I stopped. "Do not tell me. I am telling you." He turned his head on the pillow and looked at me, now, with both eyes, an old man, in a blue gown, tired, with a very clear mind. "Put me in the system."
+"Nathan." It was the first time he'd used my whole name, and it surprised me enough that I stopped. "Do not tell me. I am telling you." He turned his head on the pillow and looked at me, now, with both eyes, an old man, in a blue gown, tired, with a clear mind. "Put me in the system."
 
 "What?"
 
@@ -151,11 +151,11 @@ It was *CARLA.* I looked at it for a full ring. I'd known her for nearly two yea
 
 "Twice."
 
-"I timed it," said Carla. "It's a thing I do now." She was quiet. "Priya had Ines on a call in four minutes. They rolled the file back at 4:38. They checked the six o'clock list against yesterday's, by script and then by eye, because Priya said that a green board wasn't evidence. The check-ins went out at six. All of them. Eleven thousand, two hundred and six, and nine thousand have answered already." She said the number like a prayer. "Nobody woke up this morning to nothing."
+"I timed it," said Carla. "I do that now." She was quiet. "Priya had Ines on a call in four minutes. They rolled the file back at 4:38. They checked the six o'clock list against yesterday's, by script and then by eye, because Priya said that a green board wasn't evidence. The check-ins went out at six. All of them. Eleven thousand, two hundred and six, and nine thousand have answered already." She said the number like a prayer. "Nobody woke up this morning to nothing."
 
 I put my head on the glass. It was cool, and the sky outside had gone the color of milk.
 
-"We noticed," said Carla, "before you did. Your alarm was behind our own. And Priya handled it. And you weren't on the line." Her voice caught, very slightly, and she cleared it. "That's better. You understand me? That is better than if you'd been on it. That's the product."
+"We noticed," said Carla, "before you did. Your alarm was behind our own. And Priya handled it. And you weren't on the line." Her voice caught, slightly, and she cleared it. "That's better. You understand me? That is better than if you'd been on it. That's the product."
 
 "She held the key," I said. I don't know why I said it. "The pause switch. I'd bet she held it."
 
@@ -203,7 +203,7 @@ I had a laptop in my bag. I could feel it there, against the leg of the chair. I
 
 "It's closed."
 
-"I know. It's a good closed." She turned the mug a little on the table. "You've been very good. I want you to know I noticed. You haven't offered me anything in three days."
+"I know. It's a good closed." She turned the mug a little on the table. "You've been good. I want you to know I noticed. You haven't offered me anything in three days."
 
 "I've wanted to."
 

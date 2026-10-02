@@ -21,7 +21,7 @@ I want you to know what I'd been told to do with that, because it was the hardes
 
 "Our numbers—"
 
-"A person who's been pushed says yes and turns it off in a week. Then she's a person who's been pushed." I'd heard myself. It was a very Maya sentence, and I'd said it in my own voice. "We want the ones who mean it."
+"A person who's been pushed says yes and turns it off in a week. Then she's a person who's been pushed." I'd heard myself. It was a Maya sentence, and I'd said it in my own voice. "We want the ones who mean it."
 
 By nine o'clock I had asked thirty-four, and nine had said yes.
 
@@ -31,7 +31,7 @@ He was a no. I took it seriously. That's all I mean. I didn't follow him. I didn
 
 "You didn't push," said a voice at my elbow.
 
-It was Esperanza Villanueva, the technician at Register Three, who'd been at the counter nine years and had been named, in a cell in a spreadsheet, as the one person who'd own the call at Store 9. She'd picked herself. She was thirty-eight, small and brisk, with glasses on a chain and a way of looking at the line like a woman reading a weather report.
+It was Esperanza Villanueva, the technician at Register Three, who'd been at the counter nine years and had been named, in a cell in a spreadsheet, as the one person who'd own the call at Store 9. She'd picked herself. She was thirty-eight, small and brisk, with glasses on a chain and a way of looking at the line as if reading a forecast.
 
 "It's on page twelve."
 
@@ -71,7 +71,7 @@ She was at the counter when I came out. She was in a green blazer, with her lany
 
 "It's a mistake," I said. "It's ours."
 
-Carla put the receiver down. She looked at me, and then at her own hands, and she unclasped them, deliberately, and put them flat on the counter.
+Carla put the receiver down. She looked at me, and then at her own hands, and she unclasped them, deliberately.
 
 "Is this what happens?" said Carla.
 
@@ -87,7 +87,7 @@ I'll give it to you in the order I got it.
 
 By 3:20, Priya was on the phone from the glass room, with Ines and Theo on the line and Tessa holding the support queue. By 3:40, she was at the store, in a gray hatchback, having left a launch review and four engineers in a state of cheerful panic. She came in through the glass doors at a pace somewhere between a walk and a run, with her laptop against her chest, and she didn't say hello. She sat on an upturned crate in the back office and opened it, and Theo came in on the screen, with his hoodie, from a kitchen table in San Mateo, and the two of them began to talk in a fast, low shorthand I couldn't follow and didn't try to.
 
-It took them forty minutes. It was a small, stupid, honest thing: the part of the program that reads the store's computer, to know who's in the file, had been taught to read a column called **LAST PICKUP,** and it had read it as **ENROLLED.** That was all. The welcome message had been built to go to the enrolled. For a bug, it was a very compact one. (Each store's file has a box the technician ticks when someone signs up. Our program was supposed to read the box. It read the column beside it, the date of the last prescription pickup, and treated any date as a tick.)
+It took them forty minutes. It was a small, stupid, honest thing: the part of the program that reads the store's computer, to know who's in the file, had been taught to read a column called **LAST PICKUP,** and it had read it as **ENROLLED.** That was all. The welcome message had been built to go to the enrolled. For a bug, it was a compact one. (Each store's file has a box the technician ticks when someone signs up. Our program was supposed to read the box. It read the column beside it, the date of the last prescription pickup, and treated any date as a tick.)
 
 I took the first half of it to Carla at 4:25, at her counter: what it was, that it was ours, that it was being fixed. She nodded without moving her hands. "And the rest?" she said. "I don't know the rest yet." "Then come back when you do."
 
@@ -97,7 +97,7 @@ I took the first half of it to Carla at 4:25, at her counter: what it was, that 
 
 "People answer." She said it quietly. "You send a person a text from a number she doesn't know, and she answers. She's polite. She replies *A,* because it says to." She pointed at the graph. "Sixty-seven of them did. And we count a reply as a yes."
 
-I stood very still.
+I stood still.
 
 "They're enrolled," said Priya. "As of about four minutes ago, with no person named. Tomorrow at six we'd have asked sixty-seven strangers if they were okay, and told nobody. Sixty-seven people who thought they were being polite are in our system as having consented." She set her jaw. "It's rule one, Nate. It's the one on the wall. The person presses the button herself. We built a button that she can press by being nice."
 
@@ -119,7 +119,7 @@ She looked at the screen for a long time.
 
 "Say it," said Priya.
 
-"It's a column." He'd put his hands up in front of his face, like a man shielding a lamp. "In the store's file. I didn't look at it, because we didn't need it, and I should have. It says **DNC.** There's a Y or an N."
+"It's a column." He'd put his hands up in front of his face. "In the store's file. I didn't look at it, because we didn't need it, and I should have. It says **DNC.** There's a Y or an N."
 
 "Do not contact," said Priya.
 
@@ -131,9 +131,9 @@ Nobody said anything.
 
 "It's a free-text field," said Theo. "Mostly it's *hates calls.* Or *deaf.* Or *prefers mail.*" He swallowed. "Some of them aren't. I looked at four. One says *estranged son.* One says *no contact, court order.* And one—" He stopped. He looked at me through the screen, in his gray hoodie, with a face I'd never seen on him. "One of them says *DV. Do not call. Do not text. Do not leave messages.* It's from a pharmacist, in March."
 
-"Domestic violence," said Priya, very quietly.
+"Domestic violence," said Priya, quietly.
 
-I felt it go through the room like a temperature drop. Priya, on the crate, put her hand flat on the lid of the laptop, and her lips went white.
+I felt it go through the room like a temperature drop. Priya, on the crate, closed the lid of the laptop, and her lips went white.
 
 "What did she get?" I said.
 
@@ -145,15 +145,15 @@ I felt it go through the room like a temperature drop. Priya, on the crate, put 
 
 "Is it hers?"
 
-"I don't know." Theo was very pale. "I don't *know,* Nate. It says *DV.* It doesn't say whose phone it is, now, or whose it was. If she changed numbers, it's whoever has the old one. If she didn't—" He stopped.
+"I don't know." Theo was pale. "I don't *know,* Nate. It says *DV.* It doesn't say whose phone it is, now, or whose it was. If she changed numbers, it's whoever has the old one. If she didn't—" He stopped.
 
-I looked at the clock. It said 6:14. I could feel, very distinctly, the shape of a thing I'd learned on a guardrail and on a bench and in a forty-five-minute silence: that there is a moment in which you could fix it quietly, and the moment lasts about as long as it takes to decide.
+I looked at the clock. It said 6:14. I could feel, distinctly, the shape of what I'd learned on a guardrail and on a bench and in a forty-five-minute silence: that there is a moment in which you could fix it quietly, and the moment lasts about as long as it takes to decide.
 
 "We need to say it now," said Priya.
 
 "Yes."
 
-"Not tomorrow. Not when we've pulled the full list, and checked it, and have a tidy slide." Her voice was very low and absolutely clear. "Now. In the next ten minutes. Before anyone at Meridian finds the column. Because it'll be found, Nate. It's their column."
+"Not tomorrow. Not when we've pulled the full list, and checked it, and have a tidy slide." Her voice was low and absolutely clear. "Now. In the next ten minutes. Before anyone at Meridian finds the column. Because it'll be found, Nate. It's their column."
 
 "I know."
 
@@ -167,9 +167,9 @@ She turned around.
 
 ---
 
-I told her all of it, at a folding table in the stockroom, with the door closed. I told her about the column, and the thirty-one, and the four that Theo had read. I told her about the one that said *DV.* I didn't use the voice. I didn't use any of the words I'd have chosen on a different day: *exposure,* or *incident,* or *we take this very seriously.* I said, "We texted a woman who asked not to be texted, and we don't know if the number is hers."
+I told her all of it, at a folding table in the stockroom, with the door closed. I told her about the column, and the thirty-one, and the four that Theo had read. I told her about the one that said *DV.* I didn't use the voice. I didn't use any of the words I'd have chosen on a different day: *exposure,* or *incident,* or *we take this seriously.* I said, "We texted a woman who asked not to be texted, and we don't know if the number is hers."
 
-She sat very still. She'd put her hands in her lap, I saw, and they weren't clasped. They were open, palm up, like something set down.
+She sat still. She'd put her hands in her lap, I saw, and they weren't clasped. They were open, palm up, like something set down.
 
 "How long have you known?" said Carla.
 
@@ -221,7 +221,7 @@ I told Priya in her gray hatchback, in the parking lot, in the dark.
 
 "She's fine," I said. "The woman. She moved. It was a man in Fresno."
 
-Priya didn't say anything. She sat with both hands on the wheel, looking through the windshield at the lit sign of a Meridian, with her jaw set. After a very long time she said, "I had a cousin."
+Priya didn't say anything. She sat with both hands on the wheel, looking through the windshield at the lit sign of a Meridian, with her jaw set. After a long time she said, "I had a cousin."
 
 I had known her seven years and had not known she had a cousin. I waited.
 

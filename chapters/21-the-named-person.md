@@ -5,7 +5,7 @@ At 3:07 on Tuesday morning, the third night after the launch, my phone lit up on
 
 *STORE 22 (GILROY): ENROLLMENT SYNC STALLED 14 MIN.*
 
-I read it with one eye. I did not get up. This was, I want it noted, the most disciplined thing I'd ever done in a bed. The night before, I'd been in the kitchen in my socks with the laptop open and a heart rate I could have charged a phone with, and at 4 a.m. Maya had come out in her bathrobe, looked at me, looked at the screen, and gone back to bed without a word, which was worse than a word.
+I read it with one eye. I did not get up, which was the most disciplined thing I'd ever done in a bed. The night before, I'd been in the kitchen in my socks with the laptop open and a heart rate I could have charged a phone with, and at 4 a.m. Maya had come out in her bathrobe, looked at me, looked at the screen, and gone back to bed without a word, which was worse than a word.
 
 The on-call phone was Theo's that week. Ines, who usually held the nights, was in Lisbon at her sister's wedding, and under Theo's name on the schedule there was a third name. It was mine. It had always been mine, in a gray font, the way a fire extinguisher has a name on it.
 
@@ -21,7 +21,7 @@ I put it down on my chest, screen in. "It's Theo's. He's got it."
 
 "Does he know that you know he's got it?"
 
-I opened my mouth. I closed it. It was a very good question, and I had no data.
+I opened my mouth. I closed it. It was a good question, and I had no data.
 
 At 3:41: *Fixed. 187 enrollments caught up. No one missed a morning check-in.* At 3:42, a thumbs-up appeared under it, from me, before I'd decided to send one. At 7:50 I texted *Thank you, great catch!* He wrote back at 7:52:
 
@@ -37,13 +37,13 @@ On the second Thursday, Carla said, "It's the lines at the Saturday stores." A t
 
 "I know you do," said Carla.
 
-The following Thursday I wrote it down again, under the first one, and underlined that one too. I want it on the record that I listened. Remember that, later.
+The following Thursday I wrote it down again, under the first one, and underlined that one too. I want it on the record that I listened.
 
 Kevin Chen started at the pharmacy on the fourth of October. He was the boy from City Hall who'd stayed behind to fold the programs, twenty-two, with a pharmacy technician certificate and three chains' worth of rejections, one of them Meridian's, for lacking *customer-facing experience.* "You wanted a part-timer," said Suresh, over dinner. "You hired a person with a handkerchief." "I wanted a person who'd notice," said Maya, to her rice. "I'll teach the rest." It was the first decision she'd ever made about her father's pharmacy without anyone's permission, in front of her father, and he looked at her across the dal and nodded once. It was a nod I knew, from the other end of the same table, from the other father. It said *that'll hold.*
 
-That month, on a Sunday, I opened my calendar and made a recurring event for Fridays, which had been ours since spring and which we'd missed twice. *Date Night — Maya + Nate,* seven o'clock, with a reminder, a *Leave now?* and, because the calendar offered it, a video link. Maya read it aloud in the kitchen, in the voice she uses for a label with the wrong dose. "It's in my calendar. With a link." She wasn't angry. She was thinking carefully about how to be kind. "When you come, it's because you came. If it has a link, I'm going to be thinking about the link. I'm not saying don't make a calendar. I'm saying don't make it the reason." I deleted the series that night, while she was in the shower, and on Friday I came home at 6:10 with a bag from the Thai place and no particular plan. She said *Oh,* the way you say it when a thing you'd stopped expecting arrives. I'd gotten the lesson exactly right about the calendar. I got it wrong about the other thing on that tab.
+That month, on a Sunday, I opened my calendar and made a recurring event for Fridays, which had been ours since spring and which we'd missed twice. *Date Night — Maya + Nate,* seven o'clock, with a reminder, a *Leave now?* and, because the calendar offered it, a video link. Maya read it aloud in the kitchen, in the voice she uses for a label with the wrong dose. "It's in my calendar. With a link." She wasn't angry. She was thinking carefully about how to be kind. "When you come, it's because you came. If it has a link, I'm going to be thinking about the link. I'm not saying don't make a calendar. I'm saying don't make it the reason." I deleted the series that night, while she was in the shower, and on Friday I came home at 6:10 with a bag from the Thai place and no particular plan. She said *Oh,* the way you say it when something you'd stopped expecting arrives. I'd gotten the lesson exactly right about the calendar. I got it wrong about the other thing on that tab.
 
-We hosted Thanksgiving, which is to say Ray did, because he'd said in a four-minute phone call, *I've got the room. And the pond.* Sixteen of us. Lakshmi had asked what to bring, and Ray had said *Nothing,* and then, after a pause, *Is there any chance of a soup?* My father carved the turkey with his own knife, which he'd sharpened in the car, and Suresh asked him how often. Ray said grace. It was six words: *Thank you. Denise would've liked this.* He sat down very quickly, and Lakshmi, at the other end of the table, who had not realized it was grace, closed her mouth and set her hand flat on the cloth, toward him, not touching anything.
+We hosted Thanksgiving, which is to say Ray did, because he'd said in a four-minute phone call, *I've got the room. And the pond.* Sixteen of us. Lakshmi had asked what to bring, and Ray had said *Nothing,* and then, after a pause, *Is there any chance of a soup?* My father carved the turkey with his own knife, which he'd sharpened in the car, and Suresh asked him how often. Ray said grace. It was six words: *Thank you. Denise would've liked this.* He sat down quickly, and Lakshmi, at the other end of the table, who had not realized it was grace, closed her mouth and set her hand flat on the cloth, toward him, not touching anything.
 
 At six, at the sink, with a stack of plates, Maya asked, "Who's drying?" She'd asked it at every sink since the summer before last, and I'd always thought it was a trick question.
 
@@ -65,7 +65,7 @@ It was a Thursday in January, the thirteenth, at a Peet's across the street from
 
 "I'll start with the numbers," said Carla, "because you'll want them."
 
-They were good. In the three and a half months since launch, twenty-two thousand people had been asked the question at a counter, and eight thousand and some had named someone. Meridian's regional vice president had asked her, in a hallway, whether it could go to the other regions. She told me this without a smile. Then she turned the cup a quarter turn on the table.
+They were good. In the three and a half months since launch, twenty-two thousand people had been asked the question at a counter, and eight thousand and some had named someone. Meridian's regional vice president had asked her, in a hallway, whether it could go to the other regions. She told me this without a smile. Then she looked into her cup.
 
 "On the twenty-ninth of December," she said, "a man named Harold Beck, who is seventy-nine, and who enrolled at Store 17 in Modesto in October, didn't answer his morning check-in."
 
@@ -75,7 +75,7 @@ I knew the name. I'd seen it on a report, on a Tuesday, in a row, and moved on.
 
 "It said two, in December," I said. "I didn't—"
 
-"Not your October two, who were asleep and in a car. That was him, and a woman in Salinas." She unfolded one hand and laid it flat on the table. "The name we had for Store 17 was a technician called Mateo Ibarra. Mateo was in Guadalajara for the holidays. The report went to his queue, and it was read on the third of January." She said it in the voice of someone reading a form. "Lena came in to the store, afterward, and talked to whoever was at the counter. She said that when the text came in October, asking if she'd be her father's person, she'd replied *OK* and not read past the first line. She said that when the alert came she'd thought someone else would see it."
+"Not your October two, who were asleep and in a car. That was him, and a woman in Salinas." She unfolded her hands. "The name we had for Store 17 was a technician called Mateo Ibarra. Mateo was in Guadalajara for the holidays. The report went to his queue, and it was read on the third of January." She said it in the voice of someone reading a form. "Lena came in to the store, afterward, and talked to whoever was at the counter. She said that when the text came in October, asking if she'd be her father's person, she'd replied *OK* and not read past the first line. She said that when the alert came she'd thought someone else would see it."
 
 "Who else?"
 
@@ -87,7 +87,7 @@ I said, "In October you told me the Saturday lines were a problem."
 
 "I wrote it down."
 
-"You did. You wrote it down in October, and again in November, I could hear you writing." She moved the cup another quarter. "And it's the middle of January, and it's nine percent at the loud stores, and the form is the same, and I've got a man who was on his kitchen floor." She'd stopped being careful, which on her was a kind of tenderness. "You listened. Nothing changed."
+"You did. You wrote it down in October, and again in November, I could hear you writing." She moved the cup. "And it's the middle of January, and it's nine percent at the loud stores, and the form is the same, and I've got a man who was on his kitchen floor." She'd stopped being careful, which on her was a kind of tenderness. "You listened. Nothing changed."
 
 I opened my mouth. What came out was, "I hear you."
 
@@ -122,7 +122,7 @@ I told her all of it. She stood in front of the whiteboard, with her arms folded
 
 "It's—I'll stop." I sat. "What does she need?"
 
-Priya stood very still, with the marker held out to her side, trying not to do the thing she'd have done a year before, which was to tell me.
+Priya stood still, with the marker held out to her side, trying not to do the thing she'd have done a year before, which was to tell me.
 
 "I think it takes four things," she said, slowly. "One: *hours.* She says when she can be reached. If she's on a shift, she says so, and we don't count her as there. Two: a *second* person. *He* names two, at the counter, and each of them says yes for herself. Lena can tell him who she'd trust, but he decides. Three: the store. We gave every store one person, Mateo, Esperanza, and then a report to read the next morning. So Mateo gets an hour that's his, twice a shift, and someone covering when he's out. And if neither of the people Harold named has answered in the window, Mateo calls *Harold.* Not his family. Harold. And he's asked at the counter if that's all right."
 
@@ -210,9 +210,9 @@ I'd known. I'd looked at the gray font at 3:07 one morning and chosen to feel go
 
 "You texted *great catch!* with an exclamation point." He looked at the table. "And I said *np.* I say *np* when I'm drowning, Nate. I thought you'd know that. Maya would've."
 
-I'd had a thing to say, written in my head in the car: money, a day off, a fifth name, a title. Underneath, in a smaller font, *he's twenty-five, he'll come around.*
+I'd had something to say, written in my head in the car: money, a day off, a fifth name, a title. Underneath, in a smaller font, *he's twenty-five, he'll come around.*
 
-I put it down. I sat on the chair across from him with my hands flat on the wood, and I said:
+I put it down. I sat on the chair across from him, and I said:
 
 "I didn't ask."
 
@@ -228,7 +228,7 @@ He didn't say anything. The fish sign was glowing, faintly, in the hall. After a
 
 "You don't have to know."
 
-"That's—" he said. "That's not a very good offer."
+"That's—" he said. "That's not a good offer."
 
 "No," I said. "It's the one I've got."
 
@@ -244,13 +244,13 @@ It was a Tuesday, the first of February, and it began at 3:40 in the afternoon, 
 
 I was in a room with Margo's accountant. I read it on the phone under the table. *Nothing urgent.* I put the phone face down, and took her at her word. There was a dinner with Margo, and then the office, and I got home at 9:40.
 
-She was in the kitchen. The light was on over the stove. She was not crying. She was standing very upright, with her own coat still on, which I'd learned, by then, to read.
+She was in the kitchen. The light was on over the stove. She was not crying. She was standing upright, with her own coat still on, which I'd learned, by then, to read.
 
 Kevin had given a woman the wrong strength.
 
 It was a blood-pressure pill, in a bag, at a quarter past three. Maya had caught it on the second check, as she does, and run out into the parking lot in her white coat and found the woman at her car, and swapped the bag. Nothing happened. She'd called the woman at home that evening, to be sure. She'd stayed until seven. She had not told her father.
 
-"I hired him," said Maya, "and it was the first thing I decided on my own, in my father's pharmacy, with my father looking. And at three-fifteen—" She stopped. "I wrote to you at 3:40. I'd just got her bag back. My hands were still going." Her voice was very quiet. "I stood up in a rotunda in front of twenty-three people and said I wouldn't do this. And I wrote *nothing urgent.* Because I didn't want to be the person who—" She stopped again. "And you believed me."
+"I hired him," said Maya, "and it was the first thing I decided on my own, in my father's pharmacy, with my father looking. And at three-fifteen—" She stopped. "I wrote to you at 3:40. I'd just got her bag back. My hands were still going." Her voice was quiet. "I stood up in a rotunda in front of twenty-three people and said I wouldn't do this. And I wrote *nothing urgent.* Because I didn't want to be the person who—" She stopped again. "And you believed me."
 
 "You said it wasn't."
 
@@ -260,7 +260,7 @@ It was a sentence with no good answer. I listened to myself assemble three bad o
 
 "Yes," I said. "I believed you." My voice was not quite steady, and I kept going. "You said it, and I'm going to keep believing what you say, every time, because I'm not going to go through your texts looking for the real ones underneath. That would be handling you. I'm saying I can't be the one who works out which *nothing* is a real nothing. I need you to say the other one to me. Badly. In all capitals. I'll take it badly."
 
-She didn't say anything. Her jaw did something very small.
+She didn't say anything. Her jaw did something small.
 
 And then, because I'm me, and I'd run out of courage about forty seconds earlier, I picked up the phone.
 
@@ -268,13 +268,13 @@ And then, because I'm me, and I'd run out of courage about forty seconds earlier
 
 "Don't. You. Dare."
 
-It was the only time in our marriage she has ever said a thing that way. I looked at her. I took my hand off the phone.
+It was the only time in our marriage she has ever said anything that way. I looked at her. I took my hand off the phone.
 
 "I'll do the thing," I said. I hadn't known I was going to. "The one I do for work. It's called a blameless post-mortem. It's—you write the timeline. Nobody's to blame. You find out what made it hard, instead of who."
 
 Maya looked at me for a long moment.
 
-"We have one," she said. "At the pharmacy. It's a spiral notebook by the register. My father calls it the near-miss log. Everyone writes in it, nobody signs it, and on the first of the month we read it out loud." She had, I could see, been about to cry and had decided to be annoyed instead. "You've renamed it. That's a very Nate way to put it."
+"We have one," she said. "At the pharmacy. It's a spiral notebook by the register. My father calls it the near-miss log. Everyone writes in it, nobody signs it, and on the first of the month we read it out loud." She had, I could see, been about to cry and had decided to be annoyed instead. "You've renamed it. That's a Nate way to put it."
 
 "I know."
 
@@ -286,7 +286,7 @@ At the end of the page, we found something neither of us had expected.
 
 It wasn't that I had read it too slowly. It was that she had written it too small. She'd written it in the dialect she'd learned at a table in Fremont: *nothing urgent, no hurry, whenever you get a chance.* It was the language of a family in which, as her brother had said at the back step, nobody asks.
 
-"I don't know how to say it," said Maya. "I'm good at it for other people. I can tell a woman her husband's pills have changed in a voice that makes her feel she's already known." She had her chin in her hand. "I don't know how to say it for me."
+"I don't know how to say it," said Maya. "For other people I can." She had her chin in her hand. "For me I don't."
 
 "Then I'll stop thinking *nothing urgent* means nothing."
 

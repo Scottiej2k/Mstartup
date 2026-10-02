@@ -137,7 +137,7 @@ The barista called out a name and handed her a cup. On the side, in black marker
 
 "Which ones are?"
 
-"I'll let you know." She put a hand flat next to her cup, and I understood that there was a clock and that it was her. "I have a friend at seven, so you have until then."
+"I'll let you know." She glanced at her phone, and I understood that there was a clock and that it was her. "I have a friend at seven, so you have until then."
 
 There was a laptop in the bag under my chair. I had not taken it out, and I wanted that noted. I'd spent twenty minutes that afternoon deciding what to wear and had ended up in the shirt I wear to pitch, which is a shirt that says *I have read about this.* It was not a date shirt. It was also not not a date shirt. Maya was in a gray sweater under the buttoned coat, with her hair down, and I noticed these things and filed them in a drawer marked *inconclusive.*
 
@@ -169,7 +169,7 @@ I found I had nothing to say to that, so I answered the question.
 
 "Don't say promise."
 
-She said it fast, like a woman removing a splinter. I filed it.
+She said it fast. I filed it.
 
 "—a habit. A refill is a habit somebody else keeps for you."
 
@@ -181,7 +181,7 @@ She was quiet for a moment. "That's closer," said Maya. "My mother would say the
 
 "I go quiet."
 
-She didn't say anything. She looked at my hands, not my face, which I was learning was a thing she did when she was deciding something.
+She didn't say anything. She looked at my hands, not my face, which I was learning she did when she was deciding something.
 
 "The company I built before," I said. "When something went wrong, when a customer emailed, when it broke, I didn't answer. I looked at the email, and I built a spreadsheet of options. I told myself it was triage." I turned my cup. "It was avoidance with tabs."
 
@@ -231,7 +231,7 @@ I could have lied. The lie was lying right there, in easy reach, like a slider. 
 
 "It's a sign."
 
-She left. I sat there with an empty cup and the feeling of having been graded by someone who hadn't shown me the rubric. I'd like to say I was anxious. What I was, I think, was awake.
+She left. I sat there with an empty cup and the feeling of having been graded by someone who hadn't shown me the rubric. I wasn't anxious. I was awake.
 
 ---
 
@@ -263,7 +263,7 @@ Jules looked at her for a moment. "Okay," she said. "Go on."
 
 "He didn't write it down. He just kept asking."
 
-According to Jules, there was then a very long pause, filled by a very large amount of chewing.
+According to Jules, there was then a long pause, filled by a large amount of chewing.
 
 "Are you being kind," said Jules, "or are you being useful?"
 
@@ -323,7 +323,7 @@ So I took out my phone. The first name on the list was a woman named Ruth who ra
 
 "How do you feel?"
 
-"Like I took off a very small, very heavy shoe."
+"Like I took off a small, heavy shoe."
 
 "That's how it goes," said Maya. "The little things you've been avoiding are always the heaviest."
 
@@ -337,7 +337,7 @@ Before we left the bench, I mentioned my uncle. "He's a retired founder. He sold
 
 "Mostly business."
 
-"Mm," said Maya, and let it go, with the air of a woman putting something on a shelf where she could find it.
+"Mm," said Maya, and let it go, for now.
 
 Ruth wrote back that Wednesday. *I thought you were dead. Are you dead? The software was great when it worked.* Another customer replied, *Better late.* A third wrote, *Who is this?* It was the nicest week the company had had in a year, and it had been dead for five months.
 
@@ -425,7 +425,7 @@ She let me walk her to her bus stop. It was a gray, bright Saturday and the fog 
 
 "Not as steep as I remembered."
 
-The bus came. She got on. She didn't look back, and I was fairly sure she was doing it on purpose, and I stood on the curb like a man who'd been graded and passed and wasn't sure whether he was allowed to say so.
+The bus came. She got on. She didn't look back, and I was fairly sure she was doing it on purpose, and I stood on the curb, graded and passed, not sure I was allowed to say so.
 
 ---
 

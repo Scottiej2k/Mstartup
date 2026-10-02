@@ -3,7 +3,7 @@
 
 Theo found the bug in an afternoon. It had taken me a week to lose it.
 
-It was a Thursday in July, in the glass room, and the bug was a very small one: nine patients in a row had been reported to their people as having gone quiet, although every one of them had answered. I had spent the week on it. I'd built a dashboard, and a second dashboard to look at the first one, and concluded, with the confidence of a man who has read a number of blog posts, that it was a *business* problem, having to do with carrier delays.
+It was a Thursday in July, in the glass room, and the bug was a small one: nine patients in a row had been reported to their people as having gone quiet, although every one of them had answered. I had spent the week on it. I'd built a dashboard, and a second dashboard to look at the first one, and concluded, with the confidence of a man who has read a number of blog posts, that it was a *business* problem, having to do with carrier delays.
 
 Theo had been with us for three weeks. The crack phone had gone home in Priya's bag in June, "just for the first month," and neither of us had brought it up since. He sat next to Priya in the hoodie, in the chair we'd bought with the second monitor, and he said nothing for about four hours, and then he turned around.
 
@@ -61,7 +61,7 @@ I'd left it open. It said **Housing,** and under it, in a column I'd labeled **V
 
 "You don't want advice," I said.
 
-It came out very level. It came out like something I'd been carrying, in a pocket, for a year.
+It came out level. It came out like something I'd been carrying, in a pocket, for a year.
 
 "You want an audience. You've been giving me advice since we were eighteen, and you've never once asked how it turned out. You want me to need you to tell me what to do, because then you don't have to do anything." I heard my voice, and it was a voice I'd never used on him. "I don't need your opinion on my life, Kyle. I need a roommate. And you can't even be that without a speech."
 
@@ -69,7 +69,7 @@ He didn't say anything. The refrigerator hummed.
 
 Kyle picked up the bowl. He looked at it. He put it down. He took his jacket from the back of the stool, where it had hung since March, and he said, in a quiet, even voice that I've never been able to forget, "Okay."
 
-Then he left. The door didn't slam. It closed, very gently, like a man leaving a hospital.
+Then he left. The door didn't slam. It closed, gently.
 
 ---
 
@@ -125,7 +125,7 @@ It was a two-page comparison: three apartments, a map, a column of numbers for e
 
 "It's rent."
 
-"It's rent. And it's a variable." She looked up at me, and her face was not unkind, and it was very tired. "You gave me a row. I'm *moving in* with you. I'm not a line item."
+"It's rent. And it's a variable." She looked up at me, and her face was not unkind, and it was tired. "You gave me a row. I'm *moving in* with you. I'm not a line item."
 
 "I know. I deleted it. Look, I—"
 
@@ -143,11 +143,11 @@ Maya looked at her knees for a long time.
 
 "That's not a bad thing to find out," said Jules, gently.
 
-"It's a very large thing."
+"It's a large thing."
 
 "It's the only thing," said Jules, and picked her noodles back up.
 
-It was Maya, at the end, who said it. She said it without looking at me, to the room, in the tone of a woman reading a clause.
+It was Maya, at the end, who said it. She said it without looking at me, to the room, as if reading a clause.
 
 "We'll decide together," she said. "Not you. Not me. The two of us, with a pen. We'll look at the apartment, and we'll both say yes, or we won't, and the lease has both names on it." She looked at me, then. "And I'm going to tell you when I'm scared. Not by being polite."
 
@@ -179,7 +179,7 @@ At 8:05 in the morning there was a knock on the door, and there he was in the ha
 
 I didn't say anything.
 
-"Also I'm sorry." He looked at the hand truck, carefully, like a man reading its instructions. "I've been writing this for thirteen days. I was going to do it in a speech, and then I remembered what you said about the speech." He set the doughnuts on the counter. "I said the optionality thing because I thought you'd stop needing me. That's the whole sentence. It took me a long time to get to it."
+"Also I'm sorry." He looked at the hand truck, carefully, as if it had instructions. "I've been writing this for thirteen days. I was going to do it in a speech, and then I remembered what you said about the speech." He set the doughnuts on the counter. "I said the optionality thing because I thought you'd stop needing me. That's the whole sentence. It took me a long time to get to it."
 
 "Kyle—"
 
@@ -195,7 +195,7 @@ It's a strange thing to be asked that by a man who's been handing it out since y
 
 "Take the armchair," said Kyle. "She'll say it's ugly. Don't let her. It's a good chair. It's held a lot of people up." He looked away, at the window, at nothing. "It's the only thing in this place we both picked, and I'd like it to go somewhere that has a person in it."
 
-We carried it down together on the hand truck, in a hundred and one degrees, three flights and out to a rented van, Kyle on the bottom and me on the top, saying *left* and *your left.* On the curb he wiped his face with his T-shirt, and then did something I'd never seen him do: he stood next to me for a minute and didn't say a thing.
+We carried it down together on the hand truck, in a hundred and one degrees, three flights and out to a rented van, Kyle on the bottom and me on the top, saying *left* and *your left.* On the curb he wiped his face with his T-shirt, and then did something I'd never seen him do: he stood next to me for a minute and didn't say anything.
 
 "I kept the bowl," said Kyle. "You can come eat out of it on Sundays."
 
@@ -205,17 +205,17 @@ The Ramans had us to dinner the next night, the Sunday, in the cream stucco hous
 
 "We are expanding," she said.
 
-Nobody said anything. I had a fork in my hand. Across the table, Maya, who'd spent the day carrying boxes up a flight of stairs and whose hair was still coming out of its clip, set her glass down very slowly, as if it might wake.
+Nobody said anything. I had a fork in my hand. Across the table, Maya, who'd spent the day carrying boxes up a flight of stairs and whose hair was still coming out of its clip, set her glass down slowly, as if it might wake.
 
-"The nail salon next door has closed," said Lakshmi. "The owner is retiring to Fresno. There is an empty suite, two rooms. A consultation room, for the pharmacist to sit with a patient, with a door. And a corner, for the vaccinations. So nobody has to go to the clinic." She said it all at once, in the voice of a woman who has practiced in front of a pot.
+"The nail salon next door has closed," said Lakshmi. "The owner is retiring to Fresno. There is an empty suite, two rooms. A consultation room, for the pharmacist to sit with a patient, with a door. And a corner, for the vaccinations. So nobody has to go to the clinic." She said it all at once, as if she'd practiced in front of a pot.
 
 "And staffing?" said Maya.
 
 "We will not hire," said Suresh.
 
-It was the first thing he'd said since he sat down. He was at the head of the table, in a white shirt with the top button done, with his hands flat on either side of his plate. It was not said unkindly. It was said like a fact about the weather.
+It was the first thing he'd said since he sat down. He was at the head of the table, in a white shirt with the top button done, with his plate squared in front of him. It was not said unkindly. It was said like a fact about the weather.
 
-"Appa," said Maya, very quietly. "It's double the space."
+"Appa," said Maya, quietly. "It's double the space."
 
 "Yes."
 
@@ -229,7 +229,7 @@ The room was absolutely silent. A clock ticked in the hall. I watched Maya recei
 
 It had a period on it. It had a whole sentence's worth of period.
 
-I opened my mouth. I'd planned to say *I can help,* and *let's talk about a schedule.* I closed it. I sat there in the quiet of her parents' dining room and did nothing, which I'd learned on a guardrail. Maya reached under the table and found my hand. She held it, very tightly, for about ten seconds, and then let go, and passed the rice.
+I opened my mouth. I'd planned to say *I can help,* and *let's talk about a schedule.* I closed it. I sat there in the quiet of her parents' dining room and did nothing, which I'd learned on a guardrail. Maya reached under the table and found my hand. She held it, tightly, for about ten seconds, and then let go, and passed the rice.
 
 "There is more dal," said Lakshmi. She didn't look at anyone.
 
@@ -257,7 +257,7 @@ I washed. He dried. We did it in silence, in the small kitchen, with the window 
 
 I handed it to him. He took a second towel from a drawer and stood next to me, close enough that our elbows touched, and looked at the window.
 
-"What I'd say," said Ray, "if I were saying anything, which I'm not, is that it's a very nice thing to stand next to somebody with nothing to fix."
+"What I'd say," said Ray, "if I were saying anything, which I'm not, is that it's a nice thing to stand next to somebody with nothing to fix."
 
 I didn't say anything. I was holding a plate. The water ran.
 
@@ -271,7 +271,7 @@ It was a beauty. It was called **Raman Pharmacy: Staffing Options,** and it had 
 
 I emailed it to Maya at 11:08 p.m., from the floor of the new living room, with my back against the ugly good armchair, while she was in the shower. I attached a note. *Thought this might help. No pressure. — N.* I've kept the email. I find it hard to read.
 
-She read it in the morning, standing at the counter, in her coat, with a cup of tea going cold. She read it for a very long time. Then she closed the laptop, and looked at me, across the boxes that still covered the floor, and said, in a voice as level as a table, "That's very thoughtful."
+She read it in the morning, standing at the counter, in her coat, with a cup of tea going cold. She read it for a long time. Then she closed the laptop, and looked at me, across the boxes that still covered the floor, and said, in a voice as level as a table, "That's thoughtful."
 
 I thought I'd done something right.
 
@@ -292,6 +292,6 @@ Note to self.
 
 At work, I know this rule. Eight months on an inventory tool nobody asked for taught me: before I build anything, find out whether anyone asked. Theo found the bug in an afternoon, after I'd spent a week on it, and he waited to see if I'd ask him for help.
 
-At home, I broke the rule inside a month. I put a row in the lease spreadsheet that said *Maya (50%).* I built a staffing spreadsheet for her family's pharmacy that nobody asked for, and Maya said, "That's very thoughtful," which is a door closing. Then I set a reminder on my phone, Sundays at seven: *Maya check-in. Ask open questions. Listen. Don't fix.* It was the inventory tool, with a person as the customer.
+At home, I broke the rule inside a month. I put a row in the lease spreadsheet that said *Maya (50%).* I built a staffing spreadsheet for her family's pharmacy that nobody asked for, and Maya said, "That's thoughtful," which is a door closing. Then I set a reminder on my phone, Sundays at seven: *Maya check-in. Ask open questions. Listen. Don't fix.* It was the inventory tool, with a person as the customer.
 
 Rule: before I build anything for Maya or her family (a spreadsheet, a reminder, a plan) I ask, *did you ask for this?* If I can't say yes, I don't build it. Kyle asked before he advised. It took him thirteen days to give away an armchair. I can wait thirteen minutes.

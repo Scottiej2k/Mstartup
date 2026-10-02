@@ -21,7 +21,7 @@ There was a pause on the line of the kind a clinician leaves for a patient who h
 
 "The honest one."
 
-It was a very good week, she said, and a bad Monday. She talked for eleven minutes. The text that went out to her discharged patients, the one that began *Loopback:* was a problem. Her older patients saw the word *Loopback,* in the little gray box on the screen, and didn't know who it was, and a few had answered *Who is this?* and then, apparently, stopped. "They think it's a bill," she said. "Or a scam. Anything with a name they don't know is a bill." She paused. "The word *Loopback* has no hospital in it. Nobody has ever wanted to hear from a loop."
+It was a good week, she said, and a bad Monday. She talked for eleven minutes. The text that went out to her discharged patients, the one that began *Loopback:* was a problem. Her older patients saw the word *Loopback,* in the little gray box on the screen, and didn't know who it was, and a few had answered *Who is this?* and then, apparently, stopped. "They think it's a bill," she said. "Or a scam. Anything with a name they don't know is a bill." She paused. "The word *Loopback* has no hospital in it. Nobody has ever wanted to hear from a loop."
 
 "Okay," I said. And then, because I'd written it on the pad, I said: "What would you want it to say?"
 
@@ -101,7 +101,7 @@ By the end of the month, we'd started to eat at someone's table. It was Lakshmi'
 
 The next Tuesday was Ray's.
 
-He'd said, on the phone, that he had *a roast,* and then, a pause, that he'd never made one, and had bought a book. It was edible. We ate on the porch, with plates on our knees, with the pond audible in the dark, a sound like a very small applause. He asked Maya about Kevin. He asked, in his dry way, whether anyone had written down what happened on the day she'd made a mistake and caught it, and she said, "My father did," and Ray said, "Good," and I saw her face.
+He'd said, on the phone, that he had *a roast,* and then, a pause, that he'd never made one, and had bought a book. It was edible. We ate on the porch, with plates on our knees, with the pond audible in the dark, a sound like a small applause. He asked Maya about Kevin. He asked, in his dry way, whether anyone had written down what happened on the day she'd made a mistake and caught it, and she said, "My father did," and Ray said, "Good," and I saw her face.
 
 We went back and forth, Fremont, the mountains, for six weeks. Nobody ever suggested another day. One night, in the car, going down the mountain with the heater on and the road black in front of the headlights, Maya said, "You know you do the same thing every Tuesday."
 
@@ -125,11 +125,11 @@ It was the ninth of May, and I was in bed, with the lamp off, and Maya asleep wi
 
 "It's fine."
 
-"It's nothing." That was what he said. "I just closed a thing. A good one. It's going to be a very good quarter. I sat in the car for a minute after, to feel it, and I thought, I should call someone, and I scrolled." He laughed, without much. "I got to the C's. I scrolled to the C's. Calloway. If you'd been under A, I'd have called an hour ago."
+"It's nothing." That was what he said. "I just closed a thing. A good one. It's going to be a good quarter. I sat in the car for a minute after, to feel it, and I thought, I should call someone, and I scrolled." He laughed, without much. "I got to the C's. I scrolled to the C's. Calloway. If you'd been under A, I'd have called an hour ago."
 
 "Cole."
 
-"I'm fine." The word had no period. It was not a warm one. "Optionality's a very lonely word, Nate. I said that at your wedding. I thought I was being clever."
+"I'm fine." The word had no period. It was not a warm one. "Optionality's a lonely word, Nate. I said that at your wedding. I thought I was being clever."
 
 In the bedroom, Maya turned over. I knew what I could do.
 
@@ -182,13 +182,13 @@ I was on the couch, with Maya's feet in my lap. It was 12:42 in Dayton, and my f
 
 "Wherever it is," I said. "After." I looked at the screen. "He's never asked me anything else."
 
-She took her feet off my lap and sat up. She didn't say anything. She waited, which is a thing she does.
+She took her feet off my lap and sat up. She didn't say anything. She waited, which she does.
 
 I typed: *Long week. Cole's doing better. Theo's back. Maya's good. I'm tired, but okay.*
 
 It had too many facts. I took out *Cole's doing better.* I took out *Theo's back.* I left *I'm tired, but okay.* Then I put back, at the end: *How are you?*
 
-It was the first time in my life that I'd ever put that on the end of a message to him. I sent it before I could look at it.
+I sent it before I could look at it.
 
 The phone was quiet for four minutes. I watched them. Then the three little dots came up, went away, came up again.
 
@@ -202,7 +202,7 @@ It was the longest conversation we'd ever had by text, and it had two questions 
 
 ---
 
-Annie flew in from Dayton for Kyle's birthday on a Saturday in the middle of June, with a bag of buckeye candies for the whole table and the expression of a woman who has been told she may speak to someone in authority. At the restaurant yard, she took Kyle's phone away and read his messages aloud. "He's got a *Divya,*" said Annie, and Divya, small and precise, with a laugh that appeared without warning like a bird out of a bush, said, "He's asked me one question tonight. I counted," and Jules, sipping her wine, said, "He's stopped advising people," in the tone of a public defender watching a plea go through. Kyle had his hand flat on the table next to Divya's, an inch apart, listening to her with his whole face. He blew out the single candle, which was in the shape of a cereal bowl. He looked at Divya before he made the wish, and I saw him decide not to tell.
+Annie flew in from Dayton for Kyle's birthday on a Saturday in the middle of June, with a bag of buckeye candies for the whole table and the expression of a woman who has been told she may speak to someone in authority. At the restaurant yard, she took Kyle's phone away and read his messages aloud. "He's got a *Divya,*" said Annie, and Divya, small and precise, with a laugh that appeared without warning like a bird out of a bush, said, "He's asked me one question tonight. I counted," and Jules, sipping her wine, said, "He's stopped advising people," in the tone of a public defender watching a plea go through. Kyle sat an inch from Divya, listening to her with his whole face. He blew out the single candle, which was in the shape of a cereal bowl. He looked at Divya before he made the wish, and I saw him decide not to tell.
 ---
 
 It was a Tuesday again, the twentieth, when I finally said it aloud, and I said it badly.

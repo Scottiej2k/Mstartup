@@ -5,7 +5,7 @@ We signed on a Friday in April, after twelve weeks and two drafts, in the glass 
 
 It had taken that long because the lawyer was a friend of her husband's from college who'd gone to law school and billed in pizza and was, for that reason, available only on Thursdays. The paper was nine pages now, not four. Priya had read every line of every draft, out loud on the second one, to me, at the table, as if reading a will to an heir who was also the deceased. By the end I knew it better than anything I'd ever agreed to.
 
-I'll tell you what it said, because it's the boring part and I've come to think the boring part is the point.
+Here is what it said. It's the boring part, and I've come to think the boring part is the point.
 
 It said that each of us owned half of Loopback, and that neither of us owned it yet.
 
@@ -89,7 +89,7 @@ My mother is fifty-eight and five feet four, and she has run the schedule of a f
 
 I've watched Maya be good at many things. I'd never watched her be shy, and I saw it then, on her face, for about half a second, before she put the box on the counter with both hands. "From my mother," she said. "It's mysore pak. It's—a little something."
 
-My mother opened it, and looked at it, for a long moment. She took one of the pieces out, and bit it, and stood there with her eyes on the wall, chewing, like a woman being informed of a verdict.
+My mother opened it, and looked at it, for a long moment. She took one of the pieces out, and bit it, and stood there with her eyes on the wall, chewing.
 
 "She made this," said my mother.
 
@@ -99,7 +99,7 @@ My mother opened it, and looked at it, for a long moment. She took one of the pi
 
 "Ghee," said Maya.
 
-"It's a declaration," said my mother, and put another one in her mouth, and I realized that two women who had never met had just said the same sentence, in two accents, about the same box.
+"It's a declaration," said my mother, and put another one in her mouth, and two women who had never met had just said the same sentence, in two accents, about the same box.
 
 ---
 
@@ -113,7 +113,7 @@ He found the dishwasher at about three o'clock on Saturday.
 
 "I can look," I said.
 
-He took a Phillips screwdriver from his back pocket, and looked at me, and I looked at him. It was the first time in four years that either of us had stood on that particular spot. It was the first time in my life that I'd taken my jacket off before being asked.
+He took a Phillips screwdriver from his back pocket, and looked at me, and I looked at him. It was the first time in my life that I'd taken my jacket off before being asked.
 
 We took the door off the machine. We laid it on two towels on the floor. He handed me a flashlight and I held it while he lay on his side with his arm in the cavity, and we said, for two hours, ten sentences. I counted later. Nine of them were about a screw. In the old days it had been one.
 
@@ -121,7 +121,7 @@ We took the door off the machine. We laid it on two towels on the floor. He hand
 
 I handed it to him.
 
-It's a thing that I can't describe to anyone who isn't from where I'm from. It's two men on a kitchen floor, in silence, with a machine between them, and it's the warmest room I know. Somewhere behind me, from the doorway, I felt a person stop and watch, and I didn't turn around. When it was done, he sat up on his heels, and wiped his hands on a rag, and looked at the repaired thing, and said, "That'll hold."
+It's something I can't describe to anyone who isn't from where I'm from. It's two men on a kitchen floor, in silence, with a machine between them, and it's the warmest room I know. Somewhere behind me, from the doorway, I felt a person stop and watch, and I didn't turn around. When it was done, he sat up on his heels, and wiped his hands on a rag, and looked at the repaired thing, and said, "That'll hold."
 
 Then he turned his head, and said, to Maya, in the doorway, the only full sentence he said to her that weekend that wasn't about luggage.
 
@@ -179,7 +179,7 @@ Maya didn't say anything, I'm told, for a while. Then she said, "Does Nate know?
 
 She found me on the back porch at ten, with her coat on.
 
-It was cold for April, in the dry, bright Ohio way, with a sky full of stars I'd forgotten were a thing. She came out without saying anything and sat on the top step, next to me, a foot away, with her hands between her knees.
+It was cold for April, in the dry, bright Ohio way, with a sky full of stars I'd forgotten existed. She came out without saying anything and sat on the top step, next to me, a foot away, with her hands between her knees.
 
 "What did you mean?" said Maya.
 
@@ -219,7 +219,7 @@ He turned to me. I'd had twenty-eight years of this, and I knew the script. He l
 
 "Text me when you get there."
 
-I started to say *I will.* I started to say what I always say, which is *Okay, Dad,* in the tone of a person initialing a form.
+I started to say *I will.* I started to say what I always say, which is *Okay, Dad,* initialed and filed.
 
 "We will," said Maya.
 
@@ -227,7 +227,7 @@ My father looked at her.
 
 "We'll both text you," said Maya. "When we get there." She was standing next to me with her hand in my hand, which I hadn't noticed her put there. "I think you'd like to know."
 
-There's a thing my father does with his jaw, which I've known my whole life as the way he stops a sentence. It came and went. He looked at Maya for another second, and then at me, and then, finally, for the first time in a decade, directly at my face.
+My father has a way of working his jaw, which I've known my whole life as the way he stops a sentence. It came and went. He looked at Maya for another second, and then at me, and then, finally, for the first time in a decade, directly at my face.
 
 "Good," said my father.
 
@@ -245,7 +245,7 @@ She was at her desk at 8:15 on Monday, under the fish sign, with her headphones 
 
 She took one side of the headphones off.
 
-"I'm glad you made me sign," I said. "I'd have put it off until you were gone. I'd have said *after we have customers* until it was a different sentence. You asked for the clause because you knew I might sell a piece of it to someone at a dinner. You were right, and I hated that, and I'm glad." I heard my own voice. It was very plain. "I should have said so on Friday. I didn't know how. I'm saying it now."
+"I'm glad you made me sign," I said. "I'd have put it off until you were gone. I'd have said *after we have customers* until it was a different sentence. You asked for the clause because you knew I might sell a piece of it to someone at a dinner. You were right, and I hated that, and I'm glad." I heard my own voice. It was plain. "I should have said so on Friday. I didn't know how. I'm saying it now."
 
 She looked at me for a long moment. She put the other side of the headphones down on the desk.
 

@@ -41,7 +41,7 @@ From the side of the house, out of sight, Ray's voice said, "Just coffee, Vern."
 
 I went around the side. I want you to see the yard, because everything in the book that happens up there happens in it.
 
-It's a big yard. It's bigger than most people's houses, a broad tilted acre of lawn and bay laurel and a single old oak, bordered at the back by redwoods that keep the light in a permanent state of *almost.* It looks like the site of a very slow construction project, which it is. There was a stack of flagstones by the shed. There was a wheelbarrow with a plant in it that had clearly been waiting for a decision. There was a shovel leaning against a tree at the far end, beside a curved outline of white string on the grass, and a scrap of cardboard staked in the middle with a single word in marker: **POND.**
+It's a big yard. It's bigger than most people's houses, a broad tilted acre of lawn and bay laurel and a single old oak, bordered at the back by redwoods that keep the light in a permanent state of *almost.* It looks like the site of a slow construction project, which it is. There was a stack of flagstones by the shed. There was a wheelbarrow with a plant in it that had clearly been waiting for a decision. There was a shovel leaning against a tree at the far end, beside a curved outline of white string on the grass, and a scrap of cardboard staked in the middle with a single word in marker: **POND.**
 
 The pond, at that time, consisted of string, opinions, and a shovel.
 
@@ -93,7 +93,7 @@ I would like it noted that I changed pronouns mid-sentence, like a man swapping 
 
 I thought about it. It took longer than I liked. Loopback, at that point, had a name, fourteen interviews, a co-founder on a ninety-day trial that starts on October first, six days away, and a short list of people who'd said "love it" when I described the idea, among them Cole, Kyle's dentist, and a man at Priya's gym. Nobody had been asked to pay for anything. "People say they love it," I said. "It's been nice."
 
-"Nice." He said it the way you'd say the name of a town you'd driven through. "Has anyone paid you yet?"
+"Nice." He said it like a town he'd driven through. "Has anyone paid you yet?"
 
 "It's early."
 
@@ -119,7 +119,7 @@ I had one more, and I asked it before I could stage it. "Second hypothetical. A 
 
 "Hypothetically, it's a calendar."
 
-He turned the mug another quarter turn. "Ninety days is a real yes. It's the kind that's still deciding." He looked at the string. "She's interviewing you back."
+He looked into the mug. "Ninety days is a real yes. It's the kind that's still deciding." He looked at the string. "She's interviewing you back."
 
 "She said that."
 
@@ -141,7 +141,7 @@ Here is what I noticed: that he'd stopped for a second when I said *hypothetical
 
 Here is what I concluded: that he was tired.
 
-I remember thinking it very clearly. *Ray seems tired.* I decided to keep my questions short out of consideration, the way you'd lower your voice near a sleeping dog. I didn't ask him anything else for almost twenty minutes.
+I remember thinking it clearly. *Ray seems tired.* I decided to keep my questions short out of consideration. I didn't ask him anything else for almost twenty minutes.
 
 I've since learned that a man who is tired does not turn a coffee mug a quarter turn before he speaks. A man who is tired sits down. Ray never sat down when I said *hypothetically.* He stayed on his feet, with his back a little straighter than before, the way you stand for something you've decided to hear all of.
 
@@ -161,9 +161,9 @@ It was maybe twelve feet square. A low wooden fence, and inside it, four raised 
 
 The rest of the yard was a construction site with opinions. This was a still photograph.
 
-"Denise put those in," said Ray. He said it the way you'd read a label. Then he said, "Don't touch the chard," and walked on.
+"Denise put those in," said Ray. He said it flatly. Then he said, "Don't touch the chard," and walked on.
 
-I didn't touch the chard. I looked at the corner a moment longer, at how nothing in it had been moved or improved, at the way the whole yard turned around it like a river around a stone, and I understood that this was a thing I wasn't supposed to ask about. I filed it. I'm good at filing.
+I didn't touch the chard. I looked at the corner a moment longer, at how nothing in it had been moved or improved, at the way the whole yard turned around it like a river around a stone, and I understood that this was something I wasn't supposed to ask about. I filed it. I'm good at filing.
 
 We went into the kitchen to refill the thermos. There's a photograph on the wall by the refrigerator. It's Denise, in the top of a set of scrubs printed with cartoon whales, mid-laugh, looking at somebody just outside the frame. It's been in the same place since before I started coming up. Ray doesn't look at it. I've watched him not look at it for four years, and I have never seen anyone better at it.
 

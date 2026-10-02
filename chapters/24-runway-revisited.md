@@ -19,13 +19,13 @@ I put the cap on the pen. The arrow stopped halfway to the man. I left it there.
 
 I should say what I'd noticed.
 
-I'd noticed it in pieces. It's a thing I do now; I can't help it. I'd noticed first the coffee, at Ray's, on a Tuesday in the middle of August. Ray's coffee had been drinkable since the spring, which he considered a personal victory, and he'd poured her a cup, and she'd put her hand over it without looking and asked for water. She was not a coffee drinker. She was a tea person, with a mug in her hand every morning of her adult life, the way another person has a face. But she liked the *smell* of mine, she'd always said, and in the second week of September she began to leave the kitchen when I made it. She said it smelled *loud.* She said it with her hand over her nose, quite calmly, as if reporting a fact about the weather. I asked her about it once, lightly, at the counter: *you okay?* She said the smell was loud, and she'd been sleeping badly, and she was fine. It was a reasonable answer. Probably it was even true, as far as it went. I decided, on purpose, to take it.
+I'd noticed it in pieces. I do that now; I can't help it. I'd noticed first the coffee, at Ray's, on a Tuesday in the middle of August. Ray's coffee had been drinkable since the spring, which he considered a personal victory, and he'd poured her a cup, and she'd put her hand over it without looking and asked for water. She was not a coffee drinker. She was a tea person, with a mug in her hand every morning of her adult life, the way another person has a face. But she liked the *smell* of mine, she'd always said, and in the second week of September she began to leave the kitchen when I made it. She said it smelled *loud.* She said it with her hand over her nose, quite calmly, as if reporting a fact about the weather. I asked her about it once, lightly, at the counter: *you okay?* She said the smell was loud, and she'd been sleeping badly, and she was fine. It was a reasonable answer. Probably it was even true, as far as it went. I decided, on purpose, to take it.
 
 I noticed a banana in her bag. I noticed a nap, on a Tuesday, at four, on the couch in the room behind the pharmacy, with her white coat folded under her head. I noticed that she'd turned down a second helping, at her mother's table. Nobody in the Raman family has ever turned down a second helping. Lakshmi had noticed, too. I'd seen her notice, across the table, and say nothing, and write nothing, and put a second portion in a container for Maya to take home.
 
 I noticed that on Saturdays she slept until nine. I counted six things. I did not add them.
 
-I'd learned, in a kitchen in February, with an envelope, what I was supposed to do about a thing like that. It was the thing I'd been told, and had agreed to, and had written on the refrigerator. *Don't fix. Just be the one I tell.* That's the part about the telling, and it has a second part, which nobody mentions, which is that you have to leave room for it. You can't go in and get it. It's her news, and she gets to decide when it becomes ours. I'd asked once and been answered, and that was the end of my part. You stand in a doorway, and you wait to be told.
+I'd learned, in a kitchen in February, with an envelope, what I was supposed to do about that. It was the thing I'd been told, and had agreed to, and had written on the refrigerator. *Don't fix. Just be the one I tell.* That's the part about the telling, and it has a second part, which nobody mentions, which is that you have to leave room for it. You can't go in and get it. It's her news, and she gets to decide when it becomes ours. I'd asked once and been answered, and that was the end of my part. You stand in a doorway, and you wait to be told.
 
 It was the hardest thing I did that year. I'd built a company out of the idea that you notice, and tell a person, and I stood in my own kitchen with six pieces of evidence and let her keep them. I caught myself, on the eighteenth, in the bathroom mirror, rehearsing the face I'd make. It was a good face. It was *surprised.* Then I heard it, over the faucet, and I stopped, and washed my hands, and went back out.
 
@@ -75,7 +75,7 @@ At 4:10, the transfer went through. Priya sat across the glass table with her la
 
 "I know." She looked at it, and her voice dropped, as it does perhaps twice a year. "We didn't have a company then. We had a word and a whiteboard and a Norwegian shoe company." She closed the laptop. "Come on. Kyle has made a cake. It's in the shape of a *boot.*"
 
-It had a very detailed lace. Divya had done the lace.
+It had a detailed lace. Divya had done the lace.
 
 ---
 
@@ -119,7 +119,7 @@ We ate. Maya had water, and not the tea, and she ate the dumplings with her usua
 
 "Yes," said Maya.
 
-I opened it. Behind the driver's license, behind a card with four questions on it, was a very small square of paper. It had been there for nearly three years. It had gone soft at the folds, and gray, and one corner had a faint ring from a glass of water. I laid it on the table between us.
+I opened it. Behind the driver's license, behind a card with four questions on it, was a small square of paper. It had been there for nearly three years. It had gone soft at the folds, and gray, and one corner had a faint ring from a glass of water. I laid it on the table between us.
 
 She had her bag on the seat beside her. She took out a small zippered pouch, and out of the pouch a square, the same size, a little less gray. It had been, she said, in the pocket of every coat she'd owned, and in the pouch when she wasn't wearing one. She set it next to mine.
 
@@ -165,7 +165,7 @@ I couldn't say anything. I looked at the fish going in and out of the castle.
 
 "A fourth what?"
 
-She'd taken out of her bag a thing I knew: a pencil, about two inches long, sharpened with a kitchen knife, with a flat brown end where a thumb had been, and on the barrel, the remains of a name in worn gold. She held it as one would hold a very small bird. "I used this. This morning. On the back." She picked up her napkin, and without turning it over, put it into the pocket of her coat, which she had, I saw, brought after all, and which hung on the hook by the door. "I'm not ready for you to read it yet. It's—" She stopped. "Can you wait?"
+She'd taken out of her bag something I knew: a pencil, about two inches long, sharpened with a kitchen knife, with a flat brown end where a thumb had been, and on the barrel, the remains of a name in worn gold. She held it as one would hold a small bird. "I used this. This morning. On the back." She picked up her napkin, and without turning it over, put it into the pocket of her coat, which she had, I saw, brought after all, and which hung on the hook by the door. "I'm not ready for you to read it yet. It's—" She stopped. "Can you wait?"
 
 I looked at her. I looked at the napkin, the small gray corner of it, in the pocket of the coat. I'd had six pieces of evidence for five weeks.
 
@@ -181,7 +181,7 @@ I looked at her. I looked at the napkin, the small gray corner of it, in the poc
 
 I woke at ten to six.
 
-It's our hour, the six o'clock, which began in February, the morning after the envelope. Neither of us had planned it. We woke at about the same time, before the alarms and the phones, in the blue light, with the radiator ticking. We lay there, and told the truth, in the dark, in small amounts. Mostly it was a thing we did with our eyes closed.
+It's our hour, the six o'clock, which began in February, the morning after the envelope. Neither of us had planned it. We woke at about the same time, before the alarms and the phones, in the blue light, with the radiator ticking. We lay there, and told the truth, in the dark, in small amounts. Mostly we did it with our eyes closed.
 
 It was a Tuesday. I noticed that. It was the twenty-sixth of September. I lay on my back with the ceiling gone gray and heard the sound of the refrigerator and the bird that lives in the lot, and beside me, the sound of Maya not sleeping.
 
@@ -207,7 +207,7 @@ I crossed the kitchen. I took the napkin out of her hand, which was cold. I turn
 
 I read it. I read it again.
 
-April. I did the arithmetic, which I've never been able to stop doing. Seven months of runway, and for once in my life I wanted to be on it. And then I thought nothing. I stood in a kitchen with a paper in my hand that weighed less than a coin, and my mind did what it does when a very large number goes through it, which is: it was quiet. Then it wasn't. Something came up through me from about the knees, and I understood that it was not surprise. I'd known. I'd had six things on a list, and I'd waited five weeks, and I'd practiced my face in a mirror, and none of it had been any use whatever.
+April. I did the arithmetic, which I've never been able to stop doing. Seven months of runway, and for once in my life I wanted to be on it. And then I thought nothing. I stood in a kitchen with a paper in my hand that weighed less than a coin, and my mind did what it does when a large number goes through it, which is: it was quiet. Then it wasn't. Something came up through me from about the knees, and I understood that it was not surprise. I'd known. I'd had six things on a list, and I'd waited five weeks, and I'd practiced my face in a mirror, and none of it had been any use whatever.
 
 "Maya," I said.
 
@@ -217,7 +217,7 @@ She was watching me. She had both hands around the glass.
 
 "Don't be sorry."
 
-"I wrote *nothing urgent* to you once," said Maya. "And I'm telling you, now. It's very urgent."
+"I wrote *nothing urgent* to you once," said Maya. "And I'm telling you, now. It's urgent."
 
 I didn't say anything smart. There was nothing at all in my head, and for once it wasn't a failure of the machine. I put the napkin down on the counter. I went to her. I was about to take the glass; I'd got one hand out for it, a reflex, the old one, the one that fixes things. She was unsteady. She'd had no sleep. The water was shaking a little in the light.
 
@@ -225,7 +225,7 @@ She looked at my hand. She looked at me.
 
 "I've got it," said Maya.
 
-I took my hand back. I stood there, with it at my side, empty. She drank. She put the glass on the counter, very carefully, in the middle of the dark wood, and wiped her mouth with her wrist, and then she stepped forward and put her forehead against my collarbone, and I put my arms around her, with nothing in them but her. The refrigerator hummed. Out in the lot, the bird started up again, and in the dark of the apartment, on the table in the other room, my phone lit once, and buzzed, against the wood.
+I took my hand back. I stood there, with it at my side, empty. She drank. She put the glass on the counter, carefully, in the middle of the dark wood, and wiped her mouth with her wrist, and then she stepped forward and put her forehead against my collarbone, and I put my arms around her, with nothing in them but her. The refrigerator hummed. Out in the lot, the bird started up again, and in the dark of the apartment, on the table in the other room, my phone lit once, and buzzed, against the wood.
 
 I knew what it was. It was six o'clock. Since the hospital, Suresh had sent me a single letter every morning, in addition to the machine, in case the machine was wrong. I knew it said *A.*
 

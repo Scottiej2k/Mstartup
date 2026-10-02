@@ -5,21 +5,21 @@ The cake went into the oven at 6:40 and came out at 7:55, and in between, Maya R
 
 "It's a unit," I said. "Eight ounces. It's on the video."
 
-"A cup of flour isn't eight ounces." She had the scale I'd bought that afternoon in her hand, the small steel one with the red display, and she was holding it the way a pharmacist holds a thing that has made a claim. "Eight ounces is a measure of volume. Flour is a measure of how hard you pack it. This is off by four grams."
+"A cup of flour isn't eight ounces." She had the scale I'd bought that afternoon in her hand, the small steel one with the red display, and she was holding it the way a pharmacist holds a bottle that has made a claim. "Eight ounces is a measure of volume. Flour is a measure of how hard you pack it. This is off by four grams."
 
 "It's brand new."
 
 "Then it's new and off."
 
-We were in her kitchen in Glen Park, on a Thursday in October, with the little table pushed against the wall and the oven ticking up to 350. I'd brought a square cake pan in a dish towel that had belonged to Kyle's mother, and a laptop, propped against a bag of flour, on which a woman in a cream-colored kitchen said *foolproof* every ninety seconds. I'd assumed the evening would be a lesson, and that Maya would give it. She had other plans. She'd settled on the counter with her feet swinging, her cardigan sleeves pushed up, and a mug of tea, with the expression of a woman who has been told she is allowed to watch.
+We were in her kitchen in Glen Park, on a Thursday in October, with the little table pushed against the wall and the oven ticking up to 350. I'd brought a square cake pan in a dish towel that had belonged to Kyle's mother, and a laptop, propped against a bag of flour, on which a woman in a cream-colored kitchen said *foolproof* every ninety seconds. I'd assumed the evening would be a lesson, and that Maya would give it. She had other plans. She'd settled on the counter with her feet swinging, her cardigan sleeves pushed up, and a mug of tea, plainly delighted to be allowed to watch.
 
 "You're supposed to be helping."
 
-"Jules said *you* make it. She was very clear. I'm supervising." She sipped. "I weigh things for a living, so I'll also be judging."
+"Jules said *you* make it. She was clear. I'm supervising." She sipped. "I weigh things for a living, so I'll also be judging."
 
 "Is that a thing pharmacists do?"
 
-"We're very good at being right about four grams."
+"We're good at being right about four grams."
 
 I measured again, with the scale she'd condemned. I creamed butter and sugar with a wooden spoon, which the video said would take five minutes and took eleven. Flour got into the air. It got onto the counter and the sleeve of my shirt and, somehow, onto the side of my face, in a place I couldn't see, which I knew because Maya stopped swinging her feet.
 
@@ -29,7 +29,7 @@ I measured again, with the scale she'd condemned. I creamed butter and sugar wit
 
 "Everywhere. Hold still."
 
-She put down the tea. She slid off the counter and stood in front of me, closer than the job required, and wiped my cheekbone with her thumb. It took a second longer than flour needs. Her thumb was warm from the mug. I held a wooden spoon out in front of me like a man trying to look as if he had somewhere to be, and I didn't move, and she looked at the place she'd wiped, and then at my mouth, and then, firmly, at the oven, as if the oven had asked her something.
+She put down the tea. She slid off the counter and stood in front of me, closer than the job required, and wiped my cheekbone with her thumb. It took a second longer than flour needs. Her thumb was warm from the mug. I held a wooden spoon out in front of me, trying to look as if I had somewhere to be, and I didn't move, and she looked at the place she'd wiped, and then at my mouth, and then, firmly, at the oven, as if the oven had asked her something.
 
 "It's at temperature," said Maya.
 
@@ -63,11 +63,11 @@ I want to be exact about this, because in July I would have missed it. She'd kep
 
 The pharmacy had no weather. It was in a strip mall on Mission Boulevard in Fremont, between a nail salon and a UPS Store, under a sign that said **RAMAN** in red letters that somebody had repainted by hand at least twice. It was spelled right. I found I was pleased about that, the way you're pleased for a stranger.
 
-Inside, there was a rack of greeting cards, a scale you could stand on for a quarter, and a long white counter with a glass partition behind it, where a man in a white coat was counting pills into a tray with the side of a spatula. There was a hook on the wall behind the counter, at about the height of a nine-year-old's shoulder. Maya hung her coat on it without looking, the way you'd hang it in your own hall.
+Inside, there was a rack of greeting cards, a scale you could stand on for a quarter, and a long white counter with a glass partition behind it, where a man in a white coat was counting pills into a tray with the side of a spatula. There was a hook on the wall behind the counter, at about the height of a nine-year-old's shoulder. Maya hung her coat on it without looking, as if it were her own hall.
 
 (She is a licensed pharmacist, which she'd mentioned the way you'd mention a library card. She'd worked this counter for three years after school, and then left to write the instructions instead of handing them over, for a nonprofit that sends her to clinics. The license sits in a drawer in Glen Park. It is, I'd gathered, a complicated drawer.)
 
-"Don't pitch," she said, very quietly, beside me.
+"Don't pitch," she said, quietly, beside me.
 
 "I'm not going to pitch."
 
@@ -79,7 +79,7 @@ Inside, there was a rack of greeting cards, a scale you could stand on for a qua
 
 I'd brought the pastries because Kyle had said *wine* and Jules had said *bring nothing* and Maya had said *nothing, but eat everything,* and I am a person who, given three instructions, invents a fourth. The box was from a bakery in Mountain View where I'd spent a full minute on the phone asking whether any of the items contained egg. It was the second baked good I'd carried across a threshold that fall and the first I hadn't made myself. The first had been Jules's cake, which I'd baked on a Thursday, from a video, under supervision, in a pan that had belonged to Kyle's mother. Jules had looked at it for a long time and said it was "structurally honest," which I'm told is the highest thing she says.
 
-The woman at the register had been watching us since the door. She was about five feet tall, in a cardigan the color of weak tea over her pharmacy smock, with her glasses pushed up into her hair. She looked at Maya first, quickly, the way you'd check a child for scrapes, and said something in Tamil. Maya answered. Then she looked at me.
+The woman at the register had been watching us since the door. She was about five feet tall, in a cardigan the color of weak tea over her pharmacy smock, with her glasses pushed up into her hair. She looked at Maya first, quickly, and said something in Tamil. Maya answered. Then she looked at me.
 
 "Saapteengala?" said Lakshmi Raman.
 
@@ -93,7 +93,7 @@ Maya translated that. Lakshmi listened to it with no expression at all, and answ
 
 "She said a bagel is what you eat when you've decided not to."
 
-"Amma," said Maya, and then something else, and her mother waved a hand at her without turning her head, the way you'd wave off a fly.
+"Amma," said Maya, and then something else, and her mother waved a hand at her without turning her head.
 
 "So," said Lakshmi, in English, looking at me over an invisible pair of glasses. "You are the cup."
 
@@ -111,7 +111,7 @@ There was a stool behind the counter, and I was put on it. Lakshmi lifted the li
 
 "Hm," said Lakshmi, and set the box by the register, unopened, where she could keep an eye on it. Beside the register, held shut with a rubber band, there was a spiral notebook with a strip of masking tape across the cover that said **NEAR MISS. DON'T SIGN.** There was a stack of steel tins, four high, with a clip holding them together, and I was given them. Idli, sambar, coconut chutney, and a fourth tin of rice with lemon and something that crackled when I bit it, which I ate all of, including the part I couldn't identify. Lakshmi watched me do it, from the register, without seeming to.
 
-The counter ran the whole length of the store, and everything happened at it. A man came to pick up something for his wife and left with a lollipop for his son. A teenager in a school hoodie picked up an inhaler and was asked, by name, about a chemistry test. "It was fine," he said. "It was *fine,*" said Lakshmi, like a woman logging an answer that would be checked.
+The counter ran the whole length of the store, and everything happened at it. A man came to pick up something for his wife and left with a lollipop for his son. A teenager in a school hoodie picked up an inhaler and was asked, by name, about a chemistry test. "It was fine," he said. "It was *fine,*" said Lakshmi.
 
 On the wall behind the register, on the back of a strip of receipt paper held up with a thumbtack, was a column of names in pencil.
 
@@ -127,7 +127,7 @@ I looked at my lemon rice.
 
 "Do you know what a refill is?"
 
-Maya, at the far end of the counter, was taking something off a shelf with her back to me, and was very still.
+Maya, at the far end of the counter, was taking something off a shelf with her back to me, and was still.
 
 "A refill," I said, "is a habit somebody else keeps for you."
 
@@ -165,7 +165,7 @@ An old woman came in at ten to noon, in a good wool coat and white sneakers, and
 
 "He looks like a cup." She said it kindly. She took her bag and her change, and said to me, at the door, "She'll call you at eight on the day you don't come," and left, and I stood there with an empty tin, absorbing it.
 
-Next to the register, taped to the counter, was a sheet of white paper covered in very large type. It was instructions for a cough syrup: *TWO SPOONS. NOT THREE. ONCE AT NIGHT.* It was laminated, and the lamination had gone cloudy at the corners. In the bottom corner, in ballpoint, in a teenager's handwriting, someone had drawn a small arrow and written, *for Mr. Alvarez.*
+Next to the register, taped to the counter, was a sheet of white paper covered in large type. It was instructions for a cough syrup: *TWO SPOONS. NOT THREE. ONCE AT NIGHT.* It was laminated, and the lamination had gone cloudy at the corners. In the bottom corner, in ballpoint, in a teenager's handwriting, someone had drawn a small arrow and written, *for Mr. Alvarez.*
 
 "Maya was sixteen," said Lakshmi, not looking up from the register. "He couldn't read the label. So she made him a label. Now everyone who is sixty gets that one." She lifted a jar of lollipops half an inch and set it down again. "He has not been in since the fourteenth of September."
 
@@ -207,9 +207,9 @@ It was not loud. She said it like someone setting a box on a shelf. (A lead is a
 
 "I didn't mean—"
 
-"I know what you meant. You meant it nicely. That's the worst part." She picked her end of the gauze back up, and put it on the shelf, and straightened it. "I told you at coffee. I said you could interview me for my mother, and you couldn't interview my mother for you." Then, in the polite voice: "Thank you for telling me what you were thinking. It's very thoughtful."
+"I know what you meant. You meant it nicely. That's the worst part." She picked her end of the gauze back up, and put it on the shelf, and straightened it. "I told you at coffee. I said you could interview me for my mother, and you couldn't interview my mother for you." Then, in the polite voice: "Thank you for telling me what you were thinking. It's thoughtful."
 
-She walked out. I followed her as far as the door and stopped, because the door was a thing I understood.
+She walked out. I followed her as far as the door and stopped, because I understood doors.
 
 I watched her cross the store. She stopped at the hook on the wall behind the counter, and took down her coat, and put it on. She did the top button. Her mother was ringing up a man with a bag of cough drops and did not look up, and did not stop, and her hand came down flat on the counter once, like someone steadying a table.
 
@@ -253,7 +253,7 @@ The UPS Store smelled of tape and warm paper. A young woman at the counter, who 
 
 "The usual."
 
-He opened the folder on the counter. Inside was a cover sheet, a printed form with the word **FAX** at the top in a big, cheerful font, and a stack of pages beneath it. Suresh took a pen from his pocket and filled in the cover sheet, by hand, in block capitals, slowly, like a man signing a hospital form for a stranger.
+He opened the folder on the counter. Inside was a cover sheet, a printed form with the word **FAX** at the top in a big, cheerful font, and a stack of pages beneath it. Suresh took a pen from his pocket and filled in the cover sheet, by hand, in block capitals, slowly.
 
 I watched. He'd given me permission, I think, by not objecting. I read over his arm.
 
@@ -271,7 +271,7 @@ He considered it, with his pen on the page. "Twice, this year."
 
 "One a week. More in winter." He capped the pen. "The clinic is busy. It is not the clinic's job. It is nobody's job. I do not blame the clinic. But I am the one who sees the man not come."
 
-Devon fed the pages into the machine. It made the sound fax machines make, which is the sound of a very old modem being asked for a favor, and then it stopped, and a slip of paper came out of the side. Suresh took it, read it, and held it out to me, and I took it.
+Devon fed the pages into the machine. It made the sound fax machines make, which is the sound of a old modem being asked for a favor, and then it stopped, and a slip of paper came out of the side. Suresh took it, read it, and held it out to me, and I took it.
 
 **TRANSMISSION OK**
 
@@ -287,7 +287,7 @@ Suresh stopped. He stood there on the wet asphalt, with his folder under his arm
 
 "Lakshmi. Every night, after we close. Forty minutes. Sometimes two hours. It is on no form. It is in no budget. She does it and then she comes home and she eats." He said it without complaint, which was what made it so hard to hear. "Everyone talks about what the patient needs. Nobody asks what it costs the person who notices."
 
-I couldn't think of a thing to say. It was the second time that day I'd had nothing ready. I was beginning to think that might be the point.
+I couldn't think what to say. It was the second time that day I'd had nothing ready. I was beginning to think that might be the point.
 
 "I would like to be asked," said Suresh. He went back inside.
 
@@ -311,7 +311,7 @@ I waited until the woman was gone.
 
 "Okay."
 
-"Don't say *okay* at me, it's my word." But the corner of her mouth moved. She reached up and, with one hand, undid the top button of her coat, and then the second. She didn't take it off. She stood there with it open, like a door you'd left on the latch. "My mother wants the tins back next Saturday." She raised her voice very slightly. "Jules."
+"Don't say *okay* at me, it's my word." But the corner of her mouth moved. She reached up and, with one hand, undid the top button of her coat, and then the second. She didn't take it off. She stood there with it open, like a door you'd left on the latch. "My mother wants the tins back next Saturday." She raised her voice slightly. "Jules."
 
 A head rose above the vitamin D shelf. I hadn't known there was anyone behind it. "I came at noon to see whether you'd pitch," said Jules, with enormous dignity. "I had five dollars on *no.* Maya put her coat on at 12:41. I checked my watch. I lost." She looked at the white box by the register. "Are those from a bakery?"
 

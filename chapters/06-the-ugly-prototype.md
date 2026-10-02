@@ -153,7 +153,7 @@ I showed her.
 
 "Uh oh," said Priya. "Okay with a period. Sorry for whatever you have to go through to fix that one." She peeled the clementine, and looked at the parking meter too.
 
-I haven't said what broke, because I didn't want to. It wasn't a bug. It was a billing account tied to an old credit card that had expired, and the notices had been going to an inbox I never opened. Priya had worked it out by noon. The day she'd set the account up she'd asked who would watch the billing, and I'd said *I'll handle it.* The code was fine. It was just running on something we'd stopped paying for. By the time it came back, at 2:15 in the morning, I had lost a whole Saturday, and a birthday dinner, to an email I could have read in a minute. I'd like to say I felt triumph. What I felt was the flat, enormous quiet of a room where a thing has finally stopped being broken, and there's nothing in it to say.
+I haven't said what broke, because I didn't want to. It wasn't a bug. It was a billing account tied to an old credit card that had expired, and the notices had been going to an inbox I never opened. Priya had worked it out by noon. The day she'd set the account up she'd asked who would watch the billing, and I'd said *I'll handle it.* The code was fine. It was just running on something we'd stopped paying for. By the time it came back, at 2:15 in the morning, I had lost a whole Saturday, and a birthday dinner, to an email I could have read in a minute. I'd like to say I felt triumph. What I felt was the flat, enormous quiet of a room where something has finally stopped being broken, and there's nothing in it to say.
 
 ---
 
@@ -197,7 +197,7 @@ She buzzed me in without a word. I took that as a good sign for about four fligh
 
 She looked at me through the gap. It was a long look. I thought about a door she'd described to me over coffee, and the chain I'd imagined on it. I thought: *she's looking me over to see if I'm the kind of person she should let in.* I stood in her hallway with a bottle of wine in a paper bag, and somewhere below us a neighbor's television laughed at something, and I waited to be let in.
 
-"I'm not going to say I'm fine," said Maya. She was in a gray sweater and socks and she didn't look angry. She looked like someone holding something very still. "I told them you'd be there."
+"I'm not going to say I'm fine," said Maya. She was in a gray sweater and socks and she didn't look angry. She looked like someone holding something still. "I told them you'd be there."
 
 "I know."
 
@@ -267,9 +267,9 @@ I didn't say anything. I couldn't, really. She took her hand back, and then, aft
 
 "You will." She stayed where she was. "Eventually."
 
-I fell asleep on her couch at ten, in my clothes, with a blanket that smelled of her, and I slept like someone put down after a very long carry.
+I fell asleep on her couch at ten, in my clothes, with a blanket that smelled of her, and I slept like someone put down after a long carry.
 
-At 6:02 in the morning my phone buzzed on the arm of the couch. I opened one eye. The screen said, in the plain gray type of a thing that had been built in a hurry:
+At 6:02 in the morning my phone buzzed on the arm of the couch. I opened one eye. The screen said, in the plain gray type of something built in a hurry:
 
 **You okay?**
 
