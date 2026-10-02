@@ -165,6 +165,8 @@ She didn't say anything for a while. She pushed the napkin to my side of the tab
 
 I wrote three lines. I folded the napkin into four, and into four again, and it was the size of a postage stamp, and I put it in my wallet, behind my driver's license, where I keep things I'm afraid of losing. She put hers in her coat, in the pocket where she'd once kept an index card. Neither of us said what we'd written. We didn't compare. We ate the rest of the dumplings, and the waitress who had known Suresh forever brought us two fortune cookies and said, "On the house," and looked at Maya, and then at me, with an expression I'd seen on Lakshmi, which is the look of someone adding a number to a column.
 
+Maya cracked hers open first and read it with a perfectly straight face. *You will soon be asked a difficult question.* "It's not a fortune," she said. "It's a schedule." Mine said *A quiet gift will arrive from an unlikely place.* "Unlikely," said Maya. "Rude." She traded fortunes with me without asking, read mine twice, and put it in her coat. "I'm keeping the gift. You can have the question. You're better at them."
+
 ---
 
 On the ninetieth day, Priya came in at seven with two coffees and wrote a question on the whiteboard. She capped the marker.

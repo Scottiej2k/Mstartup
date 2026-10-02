@@ -283,6 +283,12 @@ I listened for the period. It wasn't there. It wasn't the no-period one, either.
 
 "Yes," said Maya.
 
+"I love you," she said, a moment later, in the voice she uses for a dose. "I should have said it on the step in Ohio. I wanted it in the right order. First the person, then the word." She wiped her face on her sleeve. "You said it first. You get that one. I'm going to be annoying about it."
+
+"I'm never going to hear the end of it."
+
+"Never," said Maya, and for once was not careful.
+
 The deer, about thirty feet away, lowered its head, and began, without any fuss, to eat the grass.
 
 ---

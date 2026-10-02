@@ -299,6 +299,26 @@ I typed it. It took me a long time. My hands weren't good.
 
 I typed my number in the first box and hers in the second, and pressed the button myself. Her phone buzzed on the table, and she read it, and put her thumb on the screen and typed *YES,* and looked at me over it, with the expression of someone who has just watched a very ugly machine do exactly what it was built to do.
 
+I put my phone down. She put hers down. There was a moment in which neither of us could think what to do with our hands, which I recognized from a ballroom.
+
+"I'm going to kiss you now," said Maya. "So don't do anything."
+
+"What counts as anything?"
+
+"Talking. Reaching. Making a point." She had already stood, and come around the little table, and stopped about a foot away with her arms at her sides, a woman at the edge of a pool. "I've thought about the logistics. I'd like to do it once, properly, and I don't want commentary."
+
+I did not talk. It was the single most disciplined thing I did that year. I sat very still in a kitchen chair, beside a cold cup, and Maya Raman put one hand flat against my collarbone, the way you'd steady a picture, and bent, and kissed me.
+
+It wasn't long. It wasn't what I'd planned in the shower, for six months. It was warm and dry, a little tea-flavored, and extremely certain. When it was over she stayed where she was, with her forehead nearly against mine.
+
+"Don't count that one," she said.
+
+"Which one?"
+
+"Any of them. I'm done counting."
+
+"I'd like to file that under—" I said, and she kissed me again, shorter, as a form of punctuation.
+
 ---
 
 I called Priya at eight that night, from the stairwell of my building, because I didn't trust my voice indoors.

@@ -187,9 +187,17 @@ I didn't know it. I'd never heard it. It was soft and long, in her mouth, a word
 
 "The closest I can get is tired," she said. "It's not sleepy. It's the tired you get from being *handled.* From somebody being so nice. From explaining what you want, in plain sentences, to a person who nods, and then does something else." She pressed her lips together. "I've been like that since August. I didn't know how to tell you without sounding ungrateful."
 
-I didn't say anything. I'd used up my sentences.
+I should have stopped there. I'd used up most of my sentences. I had one left, and it was the worst one I owned.
 
-Maya looked at me for a long moment. Then she turned, and went to the hook by the door, and took down her coat.
+"You could have *said,*" I said. "You had a month. You said *thoughtful.* Your whole family says *thank you* and means a verdict, and then I'm supposed to read it off the back of a receipt roll—"
+
+I heard it while it was still in the air. I'd have given a great deal to reach out and take it back by the tail.
+
+Maya's face did nothing at all. That was how I knew.
+
+"Don't do that," she said, very quietly. "Don't make it my family. That's *me.* I'm the one who said *thoughtful.* I'm the one who stood in my coat and let you build a chart." She drew a breath that shook. "It's also not entirely wrong. That's the part I can't stand."
+
+She looked at me a long moment longer. Then she turned, and went to the hook by the door, and took down her coat.
 
 I'd seen her put it on once, in a pharmacy, in front of her mother, and I'd understood it, at last, as a door. I watched her put one arm into a sleeve. The room seemed to get very large. The pot on the stove ticked. I thought: *she's going to leave, and I'll stand here, and I won't know what to say.* And I thought something worse, which was: *I'll make a plan.*
 
@@ -228,6 +236,14 @@ Hannah had given me the first half. Maya had given me the whole of it, on Sunday
 I sat there for a long time with my hands on the lid. At some point I noticed that I was crying, without any sound, the way you do when somebody finally takes something you've been carrying. I didn't wipe my face. I didn't do anything. I just sat in the kitchen, in the dark, with nothing to fix.
 
 It's a strange thing. It felt, for about a minute, like the dishes.
+
+At eight, before either of us had a cup in hand, I said it. She was at the kettle in the gray sweater, with her back to me. "What I said about your family was unfair," I said. "I'm sorry. It was the cruelest thing I had."
+
+She didn't turn around. "Okay," said Maya. And then, to the kettle: "Thank you."
+
+"Is that—"
+
+"It's just thank you," she said. "I'm not furious. I'll tell you if I am."
 
 ---
 

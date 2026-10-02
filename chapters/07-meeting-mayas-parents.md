@@ -1,6 +1,62 @@
 # Chapter 7
 ## Meeting Maya's Parents
 
+The cake went into the oven at 6:40 and came out at 7:55, and in between, Maya Raman taught me what a cup is.
+
+"It's a unit," I said. "Eight ounces. It's on the video."
+
+"A cup of flour isn't eight ounces." She had the scale I'd bought that afternoon in her hand, the small steel one with the red display, and she was holding it the way a pharmacist holds a thing that has made a claim. "Eight ounces is a measure of volume. Flour is a measure of how hard you pack it. This is off by four grams."
+
+"It's brand new."
+
+"Then it's new and off."
+
+We were in her kitchen in Glen Park, on a Thursday in October, with the little table pushed against the wall and the oven ticking up to 350. I'd brought a square cake pan in a dish towel that had belonged to Kyle's mother, and a laptop, propped against a bag of flour, on which a woman in a cream-colored kitchen said *foolproof* every ninety seconds. I'd assumed the evening would be a lesson, and that Maya would give it. She had other plans. She'd settled on the counter with her feet swinging, her cardigan sleeves pushed up, and a mug of tea, with the expression of a woman who has been told she is allowed to watch.
+
+"You're supposed to be helping."
+
+"Jules said *you* make it. She was very clear. I'm supervising." She sipped. "I weigh things for a living, so I'll also be judging."
+
+"Is that a thing pharmacists do?"
+
+"We're very good at being right about four grams."
+
+I measured again, with the scale she'd condemned. I creamed butter and sugar with a wooden spoon, which the video said would take five minutes and took eleven. Flour got into the air. It got onto the counter and the sleeve of my shirt and, somehow, onto the side of my face, in a place I couldn't see, which I knew because Maya stopped swinging her feet.
+
+"You have—" she said.
+
+"Where?"
+
+"Everywhere. Hold still."
+
+She put down the tea. She slid off the counter and stood in front of me, closer than the job required, and wiped my cheekbone with her thumb. It took a second longer than flour needs. Her thumb was warm from the mug. I held a wooden spoon out in front of me like a man trying to look as if he had somewhere to be, and I didn't move, and she looked at the place she'd wiped, and then at my mouth, and then, firmly, at the oven, as if the oven had asked her something.
+
+"It's at temperature," said Maya.
+
+"Is it?"
+
+"It's beeping."
+
+It was. I put the cake in. We washed the bowl and then, because there was nowhere else, we sat on the kitchen floor against the cabinets with our legs out and the oven light on like a small orange window. She told me about the night before her board exam, when she'd made flash cards for the entire formulary and recited them, at midnight, to her mother's receipt roll. Her knee leaned against mine at some point. Neither of us mentioned it. I noticed, and left it alone, and it took a great deal of work.
+
+When the timer went, we both looked at it as if it had said something.
+
+The cake came out high on the left and sunk in the middle, like a small building after an earthquake. Maya studied it for a long time with a fork in her hand.
+
+"It's sturdy," she said.
+
+"That's not a compliment."
+
+"It's a structural assessment." She ate a piece off the edge. Her eyes closed, briefly. "Oh. That's actually good."
+
+"Really?"
+
+"Don't let it go to your head." She licked the fork. "Jules will say something. You'll want to prepare."
+
+I did not prepare.
+
+---
+
 At the door of the pharmacy, on a Saturday in November, Maya took off her coat.
 
 I want to be exact about this, because in July I would have missed it. She'd kept the coat on in the ballroom. She'd kept it buttoned at the place on Valencia, and open but on at every walk since, and at the dumpling place she'd hung it on the back of her chair and then twice put a hand on it, like someone checking for a wallet. She wore it the way a person keeps her shoes by the door in a house she's visiting. I'd decided it was the weather.
@@ -21,7 +77,7 @@ Inside, there was a rack of greeting cards, a scale you could stand on for a qua
 
 "She'll know."
 
-I'd brought the pastries because Kyle had said *wine* and Jules had said *bring nothing* and Maya had said *nothing, but eat everything,* and I am a person who, given three instructions, invents a fourth. The box was from a bakery in Mountain View where I'd spent a full minute on the phone asking whether any of the items contained egg. It was the second baked good I'd carried across a threshold that fall and the first I hadn't made myself. The first had been Jules's cake, which I'd baked on a Thursday, from a video, in a pan that had belonged to Kyle's mother. Jules had looked at it for a long time and said it was "structurally honest," which I'm told is the highest thing she says.
+I'd brought the pastries because Kyle had said *wine* and Jules had said *bring nothing* and Maya had said *nothing, but eat everything,* and I am a person who, given three instructions, invents a fourth. The box was from a bakery in Mountain View where I'd spent a full minute on the phone asking whether any of the items contained egg. It was the second baked good I'd carried across a threshold that fall and the first I hadn't made myself. The first had been Jules's cake, which I'd baked on a Thursday, from a video, under supervision, in a pan that had belonged to Kyle's mother. Jules had looked at it for a long time and said it was "structurally honest," which I'm told is the highest thing she says.
 
 The woman at the register had been watching us since the door. She was about five feet tall, in a cardigan the color of weak tea over her pharmacy smock, with her glasses pushed up into her hair. She looked at Maya first, quickly, the way you'd check a child for scrapes, and said something in Tamil. Maya answered. Then she looked at me.
 

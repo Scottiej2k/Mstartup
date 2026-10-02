@@ -159,6 +159,8 @@ He closed the book on his thumb. He looked at us for a moment, and at the room, 
 
 "Then by the authority of the City and County of San Francisco," he said, "I'd like to say that I've done this thirty-one years, and that was the fastest and best one." He took a breath. "You're married. Take your time."
 
+We kissed. Maya started it, which is one of the few facts about our marriage I'm sure of. It went on long enough that the room, which had been holding its breath, gave up and applauded, and kept applauding, and then began to look at the ceiling. Winston checked his watch. He has since denied this. There is a photograph.
+
 It was somewhere in the noise that Lakshmi came up the steps. I hadn't seen her move. I saw her, suddenly, in a good green sari with her glasses pushed up into her hair, standing in front of her daughter on the landing, a head shorter, very straight. She didn't say anything. She took Maya's right hand, and turned it over, and pressed something into the palm, and folded the fingers closed over it with both of her own.
 
 Maya looked down. She looked at her closed hand, and then at her mother, and I saw her mouth open, and nothing come out.
