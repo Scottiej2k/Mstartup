@@ -165,15 +165,19 @@ That got the corner of her mouth. Not the whole mouth. She looked at me for the 
 
 "I'm Nate," I said.
 
-"Maya." She glanced at my cup. "You're not drinking."
+"Maya." She glanced at my cup. "Your cup's full."
 
-"I don't, at these."
+"I don't drink at these."
 
-"Then why is it in your hand?"
+"You just carry the cup." She said it to bait me into explaining myself.
 
-"So I have something to do with my other hand."
+"That's right."
 
-She considered that with a seriousness I have only ever seen people give to actual arguments. "That's sad," she said. "But efficient."
+She looked at me, expectantly. I obliged: I put the cup down on an empty table nearby, and she let her stare continue.
+
+"Better with the cup," she said.
+
+"Better with the cup," I agreed, and took it back off the table.
 
 ---
 
