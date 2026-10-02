@@ -117,6 +117,12 @@ She let me finish. She sat with her hands folded, looking at me, and the man on 
 
 "By the other one. You'd be stupid not to be."
 
+She capped the pen. "One question first. What happens when somebody large puts this in a phone?"
+
+"They will," I said. "They'll build the one Sable wanted. It'll watch you, and people will notice, and some of them will want the one that asks."
+
+"That's a position," said Margo. "It isn't a moat. A moat is customers. Go get some."
+
 She capped the pen, and uncapped it, and put it down.
 
 "I had a founder," she said. "Years ago. A good one. He lost his largest customer on a Tuesday, in the spring of a year when everything was going well, and he told no one. Not his team. Not his board. Not me. He kept the contract on the dashboard and he went to work. For six weeks." She looked out the window, at the roof. "I found out from the customer. She called me. She was very kind about it. She said *I thought somebody should tell you.*"

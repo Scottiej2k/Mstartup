@@ -1,6 +1,44 @@
 # Chapter 8
 ## Ninety Days
 
+On the third of December, at 6:04 in the morning, Mr. Abernathy didn't answer.
+
+I know the time because I was watching. I'd been watching every morning for five weeks, from the kitchen counter, with a bowl of Kyle's cereal and a rule of Priya's that I could look but not touch. The prototype had five rows, one for each of Dr. Okafor's patients who'd typed their own number into a phone and named a person. At 6:04 four of them turned green, because four people had answered *A.* The fifth stayed gray.
+
+"Gray's not red," I said, to nobody.
+
+At seven the system did what it was built to do. It sent a text to a woman in Sacramento named Ellie, Mr. Abernathy's granddaughter, whose number he'd copied off the back of his hand. *Hi Ellie, it's Loopback. Mr. Abernathy hasn't answered his morning check-in, which is probably nothing. Could you check on him? Reply DONE when you have.*
+
+I should explain that the replies came to my phone. It was the one feature I hadn't told anyone about, because it wasn't a feature. It was a limitation I'd decided to call a decision.
+
+At 7:03 she wrote: *calling him.* At 7:09: *no answer. he never doesn't answer.*
+
+Kyle had come out of his room and was standing at the counter in a marathon T-shirt. He looked at my face and went to the kettle without a word, which I've come to think of as one of the best things he does.
+
+I typed with my thumbs. *Is there a neighbor who could knock? If you can't reach anyone in ten minutes, call 911 and give them his address. They'll go.* I looked at it. It was not a thing the product was allowed to say. I sent it anyway, from my own phone, under my own name.
+
+At 7:19: *his neighbor is going over.*
+
+I held the phone with both hands. Nothing happened for twelve minutes. The kettle clicked off. Kyle put a mug by my elbow and said, "Is this the part where I say something?"
+
+"No."
+
+"Cool."
+
+At 7:31: *he fell. he's awake. he's been on the bathroom floor since 4. ambulance coming. he says he's fine and not to make a fuss.*
+
+I read it three times. I felt the whole kitchen go very large and bright. Then I typed, *Thank you for calling him,* and Ellie, in Sacramento, in her car, I assume, wrote back, *thank YOU,* in capitals, the first capitals of the morning.
+
+Priya arrived at 7:50 with her hair wet. She'd gotten the text from me. She stood in the doorway with her bag on her shoulder and read the thread at the counter, once, and put her bag down.
+
+"He's okay," I said. "He's going to be okay."
+
+"He's alive," said Priya. "That's different. Get a piece of paper." She sat down across from me. "Times down the left."
+
+I didn't know what she meant. I'd learn. She made me write every time in that thread, 4:00, 6:04, 7:00, 7:03, 7:09, 7:19, 7:31, and next to each one, what we'd known, and what we hadn't, and what would have made it faster. I hadn't known I could cry and write at the same time. It turns out you can.
+
+---
+
 The call from the drugmaker lasted nine minutes, and the part I think about lasted ten seconds.
 
 It was the fifteenth of December, a Monday, two in the afternoon, in the glass conference room at the coworking space, down the hall from the fish and its five-line sign. Priya sat across from me with her laptop closed, which she never did. The phone lay between us on the table in a puddle of speaker.

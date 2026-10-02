@@ -3,7 +3,7 @@
 
 Meridian's first checklist had eighty-three items, in five sections, and every one of them began with a verb.
 
-It arrived on the eleventh of January, in a spreadsheet with a green header, three days after the contract came back signed. (The three-store pilot had become forty stores in December, on a call in which Carla said *September* and I said *confident.* Section nine had survived, on page thirty-eight, with its ninety-day review.) Carla had attached it with a two-line note. *Here's the list. Tell me what I've left off.* I opened it at the glass table at 7:20 in the morning, with a pencil behind my ear, and read it from top to bottom, and understood, as one understands a change in the weather, that the company had changed.
+It arrived on the eleventh of January, in a spreadsheet with a green header, three days after the contract came back signed. (The three-store pilot had become forty stores in December, on a call in which Carla said *September* and I said *confident.* Section nine had survived, on page thirty-eight, with its ninety-day review. The price was three dollars and fifty cents a month for every person who named someone, which Priya worked out would make us, by the next summer, a company with a payroll.) Carla had attached it with a two-line note. *Here's the list. Tell me what I've left off.* I opened it at the glass table at 7:20 in the morning, with a pencil behind my ear, and read it from top to bottom, and understood, as one understands a change in the weather, that the company had changed.
 
 There were forty stores. They were to go live on the last Saturday in September, all at once, at nine in the morning, which had not been my idea and which I'd agreed to in a tone I'd have called *confident.* I had noticed, on the call, that Maya's ceremony was at eleven that same morning. I noticed it the way you notice a pothole at forty miles an hour. Between a Monday in January and that Saturday there was a **security review,** in which Meridian's people in San Jose would check that we'd never lose a patient's phone number; **training,** at every store, for every technician, which came to some two hundred people and about four hundred hours; **integration,** which was the word for hooking us into the computer in each store so that we'd know who was picking up what; a **pilot store,** where it would all be tried out in August by real people in a real line; and an **on-call plan.**
 
@@ -56,6 +56,38 @@ I put it in the deck, in the training, in front of Carla, without changing a wor
 "Is she hiring?"
 
 "She's getting married," I said, and realized that I'd said it, for the first time, in a work meeting.
+
+---
+
+The security review was on a Tuesday in March, in a windowless conference room in San Jose, with four people from Meridian's information security group who had, between them, no sense of humor at all.
+
+I'd prepared a diagram. It was a good one, in three colors. The woman at the head of the table, whose name card said **OKOYE,** looked at it for four seconds and slid it back across the wood.
+
+"I don't want to see what it does," she said. "Tell me what it can't."
+
+I looked at Priya. She was sitting very straight, with a single sheet of paper in front of her, and she turned it over so the room could read it. It was the wall from the glass room, typed. WE WILL NOT: *track where you are. Read what you say or write. Sell or share what we know. Put anyone's name at the bottom of the message. Turn it on for someone else. Call the police unless you said we could.*
+
+"Do you collect audio?" said a man to Okoye's left.
+
+"We never built the microphone," said Priya.
+
+"Location?"
+
+"No."
+
+"Message content?"
+
+"We send two sentences. We read one letter back."
+
+Okoye read the page. She read it again. She had a pen, and she put a small check beside each line, and by the fourth line her face had changed from the face of a woman doing her job to the face of a woman enjoying it.
+
+"Most vendors give me a diagram of everything they hold," she said. "You've given me a list of things you don't. I can audit a negative. It's rare." She turned to a colleague. "This goes under the business associate agreement. That's the paperwork that says what you may do with a patient's data, which is, in your case, almost nothing. It's usually forty pages. Yours is four."
+
+"Priya wrote it," I said.
+
+"Our lawyers have added thirty," said Okoye. "I apologize in advance."
+
+We passed. It took nineteen days, and thirty-four pages, and a clause about retention that Priya fought for a week and won. In the elevator she said, very quietly, to the floor numbers, "That was the best meeting I've ever been in," and I understood that a person can be proud of a list of nouns.
 
 ---
 

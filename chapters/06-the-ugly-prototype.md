@@ -7,6 +7,8 @@ The first box said *Your phone number.* The second said *Someone who should know
 
 That was all of it. It was so ugly that a man in the coworking space looked over Priya's shoulder, said "Is that a *tax form*?" and walked away a little faster than he'd come.
 
+Here is the whole idea, so we can stop pretending it's complicated. The system doesn't watch anyone. It doesn't know where you are, or what you type, or who you call. It knows two things: whether you answered a text this morning, and the one person you picked to tell if you didn't. A person who answers is fine. A person who doesn't is the only thing it has ever noticed. Everything else, the sensors and the signals and the clever things a phone could infer, is something somebody else would build, and would have to ask your permission for, and probably wouldn't.
+
 "Ship when it's embarrassing," said Priya. This was her rule, and she'd said it so many times in five years that it had worn smooth, like a stair. "If you're not embarrassed, you waited too long."
 
 "I'm extremely embarrassed," I said.
