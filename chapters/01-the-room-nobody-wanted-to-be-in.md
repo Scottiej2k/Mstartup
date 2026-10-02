@@ -13,13 +13,13 @@ Kyle was at the counter with a mixing bowl of cereal. It was dinner. He looked a
 
 "A networking event."
 
-"It's speed dating." He said it gently, the way a doctor says a diagnosis. "It's business speed dating, except the people with the money are the hot girls. And the rest of the room is two hundred guys in quarter-zips, trying to convince them they're worth five minutes of attention. You stand there with a cup. You say *so what are you working on* and they say *oh, nice,* which is the same *oh, nice* a girl says when you tell her you're in consulting."
+"It's speed dating." He said it gently, the way a doctor says a diagnosis. "It's business speed dating, except only one side has a checkbook. The other side is two hundred guys in quarter-zips, trying to convince the checkbooks they're worth five minutes of attention. You stand there with a cup. You say *so what are you working on* and they say *oh, nice,* which is the same *oh, nice* you get on a first date when you say you're in consulting."
 
-"Some of the investors are men."
+"Some of the investors are nice."
 
-"It's a metaphor, Nate. The investors are the hot girls. You're the guy at the bar with a pitch instead of a personality." He picked the spoon back up. "They'll tell you they want founders with *conviction.* That's what they say instead of *tall.*"
+"They're all nice. That's how you know." He picked the spoon back up. "They'll tell you they want founders with *conviction.* That's what they say instead of *no.*"
 
-I'd like the record to show that I objected to the framing. I'd also like the record to show that I spent the next forty minutes unable to unhear it.
+I objected to the framing, and I spent the next forty minutes unable to unhear it.
 
 "What are you hoping to get out of it?" said Kyle.
 
@@ -51,7 +51,7 @@ Kyle read it over my shoulder. "Number three is going to go badly."
 
 "For other people," said Kyle, without irony, and I think he'd have said the same about the weather.
 
-I put on the blue shirt, the one I wear to pitch, which Kyle says speaks for itself, and what it says is *I have read about this.* He wasn't wrong. I had read about this. It turns out that's the whole problem with being a person who reads.
+I put on the blue shirt, the one I wear to pitch, which Kyle says speaks for itself, and what it says is *I have read about this.*
 
 "There are two outcomes," said Kyle, as I reached the door. "You come home with a business card, or you come home with a story."
 
@@ -61,35 +61,31 @@ I put on the blue shirt, the one I wear to pitch, which Kyle says speaks for its
 
 ---
 
-The 7:02 Caltrain was crowded in the way where you learn who is carrying what. I got a seat by the window, and a view of myself in it.
+The 6:42 Caltrain was crowded in the way where you learn who is carrying what. I got a seat by the window, and a view of myself in it.
 
 "Hi, I'm Nate," I said to the glass, without sound. "I'm building something in healthcare."
 
 The man beside me looked up from his laptop, and then, very slowly, back down.
 
-I'd like to explain that I'm not a person who talks to windows. I'm a person who does it on trains, for the length of the Peninsula. The pep talk went through drafts, like everything I do. The first was Kyle's: *play it cool, don't look like you need it.* I tried the face. In the window it looked like a man waiting for a ride he hadn't ordered. The second came from the podcasts: *conviction.* I narrowed my eyes and said, "I'm building the future of care," and the reflection looked like someone who'd lost a bet. The third, which I'm embarrassed to say was the best, was only this: *Ask good questions. Listen to the answers. Be somebody you'd want to sit next to.* I said it twice, into my collar.
+The pep talk went through drafts, like everything I do. The first was Kyle's: *play it cool, don't look like you need it.* In the window the face looked like a man waiting for a ride he hadn't ordered. The second came from the podcasts: *conviction.* I narrowed my eyes and said, "I'm building the future of care," and the reflection looked like someone who'd lost a bet. The third, which I'm embarrassed to say was the best, was only this: *Ask good questions. Listen to the answers. Be somebody you'd want to sit next to.*
 
-And there was the reason under the reasons. Priya was four months into half salary, in a region where that is a hobby for the very rich. I'd been telling myself that this wasn't a night for me. It was a night for the woman who'd answered my spreadsheet with *Sleep* and kept showing up anyway, and who was owed one evening in which I behaved like someone worth showing up for.
-
-"Best foot forward," I said, to no one, and the man with the laptop moved his bag, in the small, merciful way strangers do.
-
-At Fourth and King I got off and walked. It was a clear gold evening, the kind San Francisco offers in July just before it takes it back. The pep talk lasted about six blocks. By the hotel doors it had narrowed to a single line, which I repeated under my breath as I went in: *Don't explain. Don't explain. Don't explain.*
+And there was the reason under the reasons. Priya was four months into half salary, in a region where that is a hobby for the very rich. It was a night for the woman who'd answered my spreadsheet with *Sleep* and kept showing up anyway, and who was owed one evening in which I behaved like someone worth showing up for. By the hotel doors the pep talk had narrowed to a single line, which I repeated under my breath as I went in: *Don't explain. Don't explain. Don't explain.*
 
 ---
 
 The first thing I noticed about Maya was that she was the only person in the ballroom who wasn't checking anyone else's lanyard.
 
-I want to be clear that this was unusual. The lanyards at the Founders & Funders Mixer came with color-coded stickers, a dating profile for your neck: green for *raising*, blue for *investing*, and orange for *seeking a co-founder*, which was the color of someone waiting at a bus stop for a bus that has been cancelled. I had a green sticker, which was a lie of ambition. I was an orange (my co-founder had not, strictly, committed) with a green sticker on. I also had a Notion page titled "Healthcare, something?", no customers, no product, and a cup of water I was holding the way a hostage holds a newspaper.
+The lanyards at the Founders & Funders Mixer came with color-coded stickers, a dating profile for your neck: green for *raising*, blue for *investing*, and orange for *seeking a co-founder*, which was the color of someone waiting at a bus stop for a bus that has been cancelled. I had a green sticker, which was a lie of ambition. I was an orange (my co-founder had not, strictly, committed) with a green sticker on. I also had a Notion page titled "Healthcare, something?", no customers, no product, and a cup of water I was holding the way a hostage holds a newspaper.
 
 (I don't drink at these things. It isn't virtue. If I have a cup in one hand, nobody expects me to know what to do with the other.)
 
-I've told this story eleven times now. Maya tells it differently. In her version, I walked up to her at 8:03 with a plan. She's technically right that I had one; it was folded in my pocket, and it wasn't about her. In mine, she was standing by the exit like a person who had budgeted precisely one hour for this and was already forty-one minutes into it, and I did not have a plan for her. I had a cup.
+I've told this story eleven times now. Maya tells it differently. In her version, I walked up to her at 8:26 with a plan. She's technically right that I had one; it was folded in my pocket, and it wasn't about her. In mine, she was standing by the exit like a person who had budgeted precisely one hour for this and was already forty-one minutes into it, and I did not have a plan for her. I had a cup.
 
-It was the last week of July, in the ballroom of a hotel in SoMa that had been designed by someone who had heard of ballrooms. The carpet was a pattern I'd call *aggressively neutral.* There was a table of sliders that had been sliders since at least Thursday, and a bar serving a pinot noir in the sense that it was red and had once been introduced to a pinot noir at a party. On a little stage at the front, under a banner that said **BUILD SOMETHING THAT MATTERS** in a font that did not, a technician was adjusting a microphone for a man who was about to tell us about conviction.
+It was the last week of July, in the ballroom of a hotel in SoMa that had been designed by someone who had heard of ballrooms. There was a table of sliders that had been sliders since at least Thursday, and a bar serving a pinot noir in the sense that it was red and had once been introduced to a pinot noir at a party. On a little stage, under a banner that said **BUILD SOMETHING THAT MATTERS** in a font that did not, a technician was adjusting a microphone for a man who was about to tell us about conviction.
 
 Around me, two hundred people were asking each other the only question anyone in the Valley asks, which is *So what are you working on?* It isn't really a question. It's a handshake with a subtitle. You say the name of your company. They say the name of theirs. Both of you say "Oh, nice," in the tone of someone being handed a stranger's baby. (Kyle had been right about the speed dating. He'd only been wrong about the speed. Speed dating, at least, has a bell.)
 
-By eight o'clock I'd had three of these conversations. A man raising a seed round (the first real money a startup raises, so called because it's supposed to grow) for a compliance startup that helped other compliance startups. A woman who described herself as "pre-idea, post-pitch," which stayed with me longer than most of my college classes. And a guy who told me his company was "Stripe for pets" and then asked whether I knew anyone at Stripe.
+By eight o'clock I'd had three of these conversations. A man raising a seed round (the first real money a startup raises, so called because it's supposed to grow) for a compliance startup that helped other compliance startups. A woman who described herself as "pre-idea, post-pitch." And a guy who told me his company was "Stripe for pets" and then asked whether I knew anyone at Stripe.
 
 "What are *you* working on?" he asked.
 
@@ -97,19 +93,15 @@ By eight o'clock I'd had three of these conversations. A man raising a seed roun
 
 "Love it," he said, and left to find someone with an actual answer.
 
-For the record, four months earlier I'd had a real answer to that question. I'd spent eight months and most of my savings on an inventory tool for small retailers, and it had died in March, quietly and in plain view, the way things die when you've built them without asking anyone if they wanted them. My pitch deck for it had been nine slides long, and on slide three, under the word PROBLEM, was a statistic about small retailers that I'd found on the internet and never once checked against an actual retailer. Priya, who was the only reason the code had ever worked, was still showing up, through "whatever this is," at half salary. I'd sent her a spreadsheet of options for what "this" might be. She'd replied with one word: *Sleep.*
+Four months earlier I'd had a real answer to that question. I'd spent eight months and most of my savings on an inventory tool for small retailers, and it had died in March, quietly and in plain view, the way things die when you've built them without asking anyone if they wanted them. On slide three of the deck, under the word PROBLEM, was a statistic I'd found on the internet and never checked against an actual retailer. Priya, the only reason the code had ever worked, was still showing up, through "whatever this is," at half salary. I'd sent her a spreadsheet of options for what "this" might be. She'd replied with one word: *Sleep.*
 
 The man from Stripe for Pets was still in sight, scanning for someone better, when someone clapped me on the shoulder hard enough to spill a small amount of my water.
 
 "Nate Calloway," said Cole Whitaker. "Inventory guy!"
 
-Cole had raised eighteen million dollars at twenty-six and wore it lightly, the way some people wear a scarf indoors. He was thirty-one now, and tall, which Kyle would want noted, and lit, always, from some angle I'd never worked out. We'd been in the same accelerator batch (a startup boot camp; the batch is the class), in the way two fish are in the same lake.
+Cole had raised eighteen million dollars at twenty-six and wore it lightly, the way some people wear a scarf indoors. He was thirty-one now, and tall, which Kyle would want noted. We'd been in the same accelerator batch (a startup boot camp; the batch is the class), in the way two fish are in the same lake.
 
-"I heard about the shutdown," he said, with sincere warmth. "Rough one. But honestly? Respect. Most people never ship anything. You *tried.*"
-
-"We shipped it," I said. "Almost nobody used it."
-
-"That's called learning." He squeezed my arm. "Listen. What's next?"
+"I heard about the shutdown," he said, with sincere warmth. "Respect. Most people never ship anything. You *tried.* What's next?"
 
 "Healthcare. Something."
 
@@ -119,11 +111,9 @@ Cole had raised eighteen million dollars at twenty-six and wore it lightly, the 
 
 "Amazing," said Cole, and checked over my shoulder for someone better, and found them. "I'm on at quarter past. Catch you after!"
 
-(Cole collected investor offers the way other people collect airline miles: for the feeling, not the trip. It was also, I noticed, Kyle's advice in a better jacket.)
+(It was, I noticed, Kyle's advice in a better jacket.)
 
-He did not catch me after. I don't think he'd meant to. I stood there with my green sticker and my water and the distinct feeling of having been complimented in a language I didn't speak.
-
-I looked around for the other oranges. There were six, standing alone near the pillars, each holding a cup with the same posture of a man waiting to be asked. One of them caught my eye and I looked away, fast, the way you look away from a reflection.
+He did not catch me after. I stood there with my green sticker and my water and the distinct feeling of having been complimented in a language I didn't speak.
 
 My phone buzzed. Priya.
 
@@ -137,17 +127,15 @@ My phone buzzed. Priya.
 
 **I know. That's why I said it.**
 
-I put the phone back in my pocket. On the stage, Cole had started to speak. His talk was called "Conviction Is a Muscle." I know because I found myself nodding at the slide, and then I caught myself, and then I did it again. There's a version of me who would have taken notes.
+I put the phone back in my pocket. On the stage, Cole had started to speak. His talk was called "Conviction Is a Muscle." I found myself nodding at the slide, and then I caught myself, and then I did it again.
 
 That was when I noticed the woman by the door.
 
 ---
 
-She had her coat on. I want to note that, because in that ballroom, which was heated to roughly the temperature of a small argument, a coat was a statement. It was navy, and long, and buttoned. She had dark hair in a low knot and a lanyard with no sticker on it at all. She wasn't looking at her phone. She wasn't looking at Cole. She was looking at the room the way you'd watch weather from a window: with interest, and from the correct side of the glass.
+She had her coat on. I want to note that, because in that ballroom, which was heated to roughly the temperature of a small argument, a coat was a statement. It was navy, and long, and buttoned. She had dark hair in a low knot and a lanyard with no sticker on it at all. She wasn't looking at her phone. She wasn't looking at Cole. She was looking at the room the way you'd watch weather from a window: with interest, and from the correct side of the glass. She was standing about eighteen inches from the exit.
 
-She was standing about eighteen inches from the exit. I'd be lying if I said I understood that yet.
-
-Here is what I did next, and I'm going to be honest, because Maya will check: I did not walk up to her with a plan for her. I walked toward the sliders, because I'd begun to feel like a man who'd been standing in one place for an hour, and the sliders were near her, and I told myself it was the sliders. I picked one up. I put it down. It was, on inspection, load-bearing.
+I did not walk up to her with a plan for her; Maya will check. I walked toward the sliders, which were near her, and I told myself it was the sliders. I picked one up. I put it down. It was, on inspection, load-bearing.
 
 "You look like you're waiting for a bus," I said.
 
@@ -189,7 +177,7 @@ She considered that with a seriousness I have only ever seen people give to actu
 
 ---
 
-I would like to tell you that I then said something charming. What I did was ask a question, which, it turns out, is the same thing at 8:26 in the evening.
+I would like to tell you that I then said something charming. What I did was ask a question, which, it turns out, is the same thing.
 
 "Why are you here?" I said. "Honestly. You don't look like you're here to raise anything."
 
@@ -372,13 +360,13 @@ I didn't mention that I'd also come home with a story. Kyle hadn't listed both.
 
 "Wow." He took a bite. "Don't overthink it."
 
-This was the single least useful sentence Kyle gave me that year, and he gave me a lot of them. He said it with real affection, and with cereal in his mouth, and I nodded like it was advice.
+It was the single least useful sentence Kyle gave me that year, and he gave me a lot of them. I nodded like it was advice.
 
 I went to my room and opened the Notion page. I looked at the title for a while, and deleted the question mark. Then I put it back, because I'm not a person who removes a question mark without evidence.
 
 Under it, I typed: *Nobody's job is to notice.*
 
-I didn't know that I'd just written the mission statement of a company. I only knew that I wasn't going to sleep, and that for the first time in four months, I didn't want to. I told myself it was the company.
+I wasn't going to sleep, and for the first time in four months I didn't want to. I told myself it was the company.
 
 ---
 
