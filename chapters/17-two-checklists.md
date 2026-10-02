@@ -332,8 +332,14 @@ I stood at the counter with my hands at my sides. I didn't write it down. I unde
 
 Note to self.
 
-At work, Carla's checklist had eighty-three items and every one began with a verb. It said *Loopback to provide 24/7 response contact.* It didn't say who. So I put a name beside each of forty stores, a person and not a role, and what that person would be doing at ten past nine on a Saturday. Lists are for remembering. A name is for picking up the phone.
+Carla's checklist had eighty-three items and every one began with a verb. *Loopback to provide 24/7 response contact.* It didn't say who. So for each of forty stores I wrote down a person, not a role, and what that person would be doing at ten past nine on a Saturday. Lists are for remembering. A name is for picking up the phone.
 
-At home, I did the same thing to the wedding, and it failed. I built a Master Plan: three hundred and six tasks and a Deconfliction Matrix. Maya said, "It's a wedding, not a migration." She crossed it out with a ruler and left three lines: City Hall, Ray's yard, People. Her mother had done it better, on a strip of paper on a wall, with one person per job.
+At home I did the same thing to the wedding, and it failed. Three hundred and six tasks and a Deconfliction Matrix, and Maya said, "It's a wedding, not a migration." She crossed it out with a ruler. Her mother's plan was on a strip of paper on a wall:
 
-Rule: a plan for a day that's about people needs names and nothing else. If the plan is longer than the room, I'm managing the wedding instead of attending it.
+*Meena, sambar.*
+*Kalyani, vegetables.*
+*Jaya, the sweets.*
+*Suresh, the car.*
+*Me, who sits.*
+
+A plan for a day that's about people needs names and nothing else. If the plan is longer than the room, I'm managing the wedding instead of attending it.

@@ -284,8 +284,15 @@ I stood in the room with the desk. It was a Saturday, and the light was coming i
 
 Note to self.
 
-At work, I asked Priya what she wanted her job to be and sat for forty-five minutes without fixing anything. Then she drew a table on the whiteboard with three columns: DECIDES, ASKED FIRST, TOLD AFTER. Every decision goes in one of them, so nobody finds out by surprise.
+Priya's table, which I'm stealing:
 
-At home, Maya sits in the car for fifteen minutes before she goes into her parents' pharmacy. She has since she was fifteen. I sat with her, with her hand in mine, and said nothing. Later, at her mother's kitchen window, Lakshmi told me I would not speak. I didn't.
+*DECIDES. ASKED FIRST. TOLD AFTER.*
 
-Steal Priya's table for Maya. Everything about her family goes in ASKED FIRST. My spreadsheet of options goes in TOLD AFTER, which means never. And when I ask the question, I wait as long as it takes. Fifteen minutes is short. Forty-five is shorter than it feels.
+At work I asked Priya what she wanted her job to be, and sat for forty-five minutes without fixing anything. Then she drew it on the whiteboard, and every decision goes in one column, so nobody finds out by surprise.
+
+For Maya:
+*ASKED FIRST: anything about her family, her father's pharmacy, her mother's list. Anything with her name on it.*
+*TOLD AFTER: my spreadsheet of options. Which means never.*
+*DECIDES: her. About her.*
+
+And when I ask, I wait as long as it takes. Maya sits in the car for fifteen minutes before she goes into her parents' pharmacy, and has since she was fifteen. I sat with her, with her hand in mine, and said nothing. Fifteen minutes is short. Forty-five is shorter than it feels.

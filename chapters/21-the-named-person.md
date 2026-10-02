@@ -389,10 +389,17 @@ He said it with no period. It was a warm one. I noticed, and didn't say so.
 
 Note to self.
 
-At work, after anything breaks, we do a post-mortem. Times down the left. What each person knew. What made it hard. Never write who. Then change one thing, no bigger than the problem. I'd run a hundred of them and never once thought of using one at home.
+The post-mortem from the kitchen table, on the back of an envelope from the electric company:
 
-Tuesday night, after her *nothing urgent* sat unread for six hours, I used it at the kitchen table out of desperation. It found no villain. It found a code, two decent people using it to leave each other alone. Fix: when she tells me something, I ask, *do you want to tell me, or do you want it fixed?*
+*3:15. Kevin gives the wrong strength. She catches it.*
+*3:40. She texts "nothing urgent." I read it under a table.*
+*7:00. She leaves the pharmacy.*
+*9:40. I get home.*
+*What made it hard: a code, and two decent people using it to leave each other alone.*
+*Change: "Do you want to tell me, or do you want it fixed?"*
 
-The harder half took longer. She'd asked, *and you believed me?* I used to think the answer was to stop believing her. It isn't. At work I don't audit what customers say; I make it cheap to say the true thing. That's section nine. So I told her I'd keep believing her, and that I needed the real one said, badly, in capitals, if that's what it took.
+At work, after anything breaks, we do this: times down the left, what each person knew, what made it hard, never who. Then one change, no bigger than the problem. I'd run a hundred of them and never once thought of using one at home.
 
-Carla taught me the other rule. If I've written the same complaint down twice, the third time I owe a change, not a note.
+The harder half: she asked, *and you believed me?* I used to think the answer was to stop believing her. It isn't. At work I don't audit what customers say; I make it cheap to say the true thing. That's section nine. So I keep believing her, and I need the real one said, badly, in capitals, if that's what it takes.
+
+Carla's rule covers the rest. If I've written the same complaint down twice, the third time I owe a change, not a note.

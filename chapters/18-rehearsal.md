@@ -253,6 +253,12 @@ And Gerald, who'd written the note in March and done exactly what the form told 
 
 Note to self.
 
-At work, I told Carla about the bug about twenty minutes after I knew. Bad news is like milk. It's fine for about an hour. Then it turns into a plan, a cover story, a *we're looking into it,* a version where I come out better. By morning the person I didn't tell has to taste it.
+The log, as it ran:
 
-At home, the same rule. When I have bad news for Maya (a missed dinner, a money problem, a demo that broke) I set a clock. One hour. No cover story, and no plan first. And I'll try to make it easy for her to do the same, because the first time she gives me bad news early, I'll be tempted to answer it with a spreadsheet.
+*6:12 p.m. I find the column.*
+*6:31 p.m. I tell Carla, in the stockroom.*
+*Monday, 8:40 a.m. Meridian's compliance finds it.*
+
+Nineteen minutes, and Carla got a weekend. Bad news is like milk. It's fine for about an hour. Then it turns into a plan, a cover story, a *we're looking into it,* a version where I come out better. By morning the person I didn't tell has to taste it.
+
+At home, same clock. Bad news for Maya (a missed dinner, a money problem, a demo that broke) goes on the log: one hour, no cover story, no plan first. And the first time she gives me bad news early, I'll be tempted to answer it with a spreadsheet. Don't.

@@ -220,8 +220,18 @@ The tow truck came at ten to two. It turned out to be forty minutes early, which
 
 Note to self.
 
-At work, when something breaks, three things, in order. Pick up. Say what happened, with no cover story. Ask what they need. I kept the tally of thirty-four calls on an envelope, and eight people said some version of *Oh. A person.* Nobody remembered the clock being wrong. They remembered a voice at midnight. By the third call I had a script: *This was our mistake. It wasn't yours. They're fine. I'm sorry. What would help?*
+Two scripts. Keep both.
 
-At home, Maya called from the shoulder of the 101 at ten to one and said she wasn't calling to be fixed. I answered on the first ring. I didn't say *it's okay.* I didn't say *you don't have to.* I said, "Where are you?" and "Stay on the phone," and put on two different shoes.
+At work, when something breaks:
+*1. Pick up.*
+*2. This was our mistake. It wasn't yours.*
+*3. They're fine. I'm sorry.*
+*4. What would help?*
 
-The home version is shorter. Pick up. Ask where she is. Go. When she calls late, don't ask what I can do. Say I'm coming.
+At home, when Maya calls late:
+*1. Pick up on the first ring.*
+*2. Where are you?*
+*3. Stay on the phone.*
+*4. Find two shoes. They don't have to match.*
+
+Thirty-four calls, tallied on the back of an envelope, taught me the first one. Eight people said some version of *Oh. A person.* Nobody remembered the clock being wrong. They remembered a voice at midnight. Maya taught me the second from the shoulder of the 101, when she said she wasn't calling to be fixed. So: don't say *it's okay.* Don't say *you don't have to.* Don't ask what I can do. Say I'm coming.

@@ -290,8 +290,16 @@ I looked at it. I was proud. I thought, *I've learned something.* I saved it, an
 
 Note to self.
 
-At work, I know this rule. Eight months on an inventory tool nobody asked for taught me: before I build anything, find out whether anyone asked. Theo found the bug in an afternoon, after I'd spent a week on it, and he waited to see if I'd ask him for help.
+The reminder I set on my phone, Sundays at seven:
 
-At home, I broke the rule inside a month. I put a row in the lease spreadsheet that said *Maya (50%).* I built a staffing spreadsheet for her family's pharmacy that nobody asked for, and Maya said, "That's thoughtful," which is a door closing. Then I set a reminder on my phone, Sundays at seven: *Maya check-in. Ask open questions. Listen. Don't fix.* It was the inventory tool, with a person as the customer.
+*Maya check-in. Ask open questions. Listen. Don't fix.*
 
-Rule: before I build anything for Maya or her family (a spreadsheet, a reminder, a plan) I ask, *did you ask for this?* If I can't say yes, I don't build it. Kyle asked before he advised. It took him thirteen days to give away an armchair. I can wait thirteen minutes.
+The version I should have set:
+
+*Did she ask for this?*
+
+At work I know the rule. Eight months on an inventory tool nobody asked for. Theo found the bug I'd spent a week on, in an afternoon, and waited to see whether I'd ask him for help.
+
+At home I broke it inside a month. A row in the lease spreadsheet that said *Maya (50%).* A staffing model for her family's pharmacy that nobody had asked for. She said, "That's thoughtful," which is a door closing. Then the reminder, which was the inventory tool with a person as the customer.
+
+Before I build anything for Maya or her family (a spreadsheet, a reminder, a plan), I ask whether she asked for it. If I can't say yes, I don't build it. Kyle asked before he advised, and it took him thirteen days to give away an armchair. I can wait thirteen minutes.

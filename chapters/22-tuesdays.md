@@ -250,4 +250,4 @@ At work, I call one customer every Tuesday at ten and ask how the week went. The
 
 At home, same shape. Tuesday, I'm home by six, no plan, no link. Maya's rule: Fridays are for the date, and Tuesday you just come home. It took me three Tuesdays to stop narrating it. If I'm only good on Saturdays, I'm a guest.
 
-Rule: pick one small thing. Do it on the dull day. Don't turn it into an event, and don't put it on the calendar. The trust shows up on the Saturday, but it's built on the Tuesdays.
+Rule: pick one small thing. Do it on the dull day. Don't turn it into an event. I once put our Fridays on the calendar, with a link, because they'd worked and I wanted to scale them. They'd worked because we each chose them, and Maya read the invite aloud in the voice she uses for a wrong dose. Before I scale anything, I write down why it worked. The trust shows up on the Saturday, but it's built on the Tuesdays.
