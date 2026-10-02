@@ -79,6 +79,54 @@ We thanked her. In the parking lot, Priya unlocked the car and stood there with 
 
 ---
 
+Maya asked me to come on the Monday before Christmas. "As an observer," she said. "Unpaid. Unquoted." It was my own phrase, handed back from October, and I said yes before she'd finished it.
+
+The clinic was in East San Jose, in a stucco building between a tire shop and a church that had been a Blockbuster. The waiting room smelled of floor wax and oranges. She put me in a plastic chair against the back wall of an exam room, with a paper cup of water, and said, "Hold it in both hands. It helps." I understood that the instruction was partly a joke at my expense, and also correct.
+
+The patient was a Mr. Teague, sixty-eight, newly diabetic, who'd been sent home that morning with a plastic bag of vials, a box of needles, a pamphlet in eleven-point type, and a face I recognized from a dumpling restaurant: a man doing arithmetic on a number he didn't want. The nurse, a brisk woman named Wendy, had already given him the speech. He had nodded at each part of it.
+
+Maya came in with a clipboard she never looked at. She sat on the rolling stool, lower than he was, and laid the pamphlet face down on the counter.
+
+"I'm Maya. I'm a pharmacist, but I don't have anything to sell you." She said it exactly as she'd said it to me in a ballroom, and something went through me. "I want to check whether we explained this well. It's not a test for you. It's a test for us. If you can't tell me, that's our mistake."
+
+"I understand," said Mr. Teague.
+
+"Good. Would you tell me how you'll do it tomorrow morning? Pretend I'm your sister and I've never seen any of this."
+
+He picked up the vial and held it as if it might go off. He used a word that was almost the right word. He drew up to a line that was not the right line. Maya didn't move. She said, mildly, "Show me where you'd stop," and he looked at the syringe for a long time and put his thumb against a number, and it was the wrong number, and I watched her not flinch. It was the discipline of someone who has watched a wrong number cross a counter ten thousand times and has learned to keep it out of her face.
+
+"That's the most common place to stop," she said. "It's the line the pamphlet makes you pick. That's our fault. Look." She turned the syringe and showed him a mark on the barrel that the pamphlet never mentioned, and drew a small tick with a pen on the back of his hand. "Here. Until the pen wears off. Then we'll put a sticker."
+
+He did it again. It was right. He looked at her, and then he said, "Oh," very softly, like a man setting something down.
+
+Wendy, from the door, said, "He'll need to cover hypoglycemia. The doctor wants the whole list."
+
+"The list is in the pamphlet," said Maya. "He has it. What he doesn't have is the one thing." She turned back to Mr. Teague. "If you wake up at three in the morning and you're shaky and sweating, you drink the orange juice first. You don't call anyone first. You drink it. Say that back to me."
+
+He said it back. She wrote a number on the pamphlet, across the eleven-point type. "That's not the clinic's number. The clinic's is on the back. That one's mine. It's for the nights you're embarrassed to use the other one."
+
+In the parking lot, I said, "Can I write that down?"
+
+"It's not mine to give. It's called teach-back. It's in every textbook." She unlocked her car. "Nobody does it kindly."
+
+"Ask the person to say it back."
+
+"And if they can't, you didn't explain it well." She looked at me over the roof of the car. "That's the whole thing. It works on a diabetic. It might work on a customer. I wouldn't know. I don't have customers."
+
+I thought of a sentence for a counter in a pharmacy that didn't exist yet. I kept it to myself.
+
+She was quiet on the drive. At the first red light she said, "I was hard on Wendy."
+
+"A bit."
+
+"She has eleven patients before four. I told her the list was in the pamphlet, in front of him." She tapped the wheel. "She was right. He needed the list. I needed him to stop being afraid first, and she'd have said I was cutting corners."
+
+"You were cutting corners."
+
+"I was cutting the *right* corner," said Maya. And then, with the light still red: "I'll bring her a coffee tomorrow." It's the closest she comes, I've learned, to saying she was wrong.
+
+---
+
 The pharmacy was open on Christmas.
 
 It's open every year, Maya told me, from nine to three, because everyone else's is closed and someone's prescription doesn't care what day it is. I arrived at 9:10 with four steel tins, which I'd returned clean on each of the five Saturdays since November, and which Lakshmi had, each time, without comment, refilled. She took them at the counter. She weighed them in her hands. She said something in Tamil to Maya, who didn't translate it.

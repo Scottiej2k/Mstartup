@@ -231,7 +231,7 @@ I heard the chain. It's a small sound, like a coin dropped in a dish. Then the d
 
 ---
 
-The apartment smelled of cardamom and something with lentils. There were books on every surface that could hold a book and several that couldn't: a low shelf of paperbacks, a stack by the bed, one on the radiator, leaning. There was a small table with two chairs and a window that looked at other windows. Somebody had put a fork on a napkin, at a place, and the fork was not for me. She'd been eating alone.
+The apartment smelled of cardamom and something with lentils. There were books on every surface that could hold a book and several that couldn't: a low shelf of paperbacks; a stack by the bed, with a pharmacology textbook on top that had a sticky note across the cover that said *be nice to the reader;* one on the radiator, leaning, a cookbook with someone's mother's handwriting down every margin. There was a small table with two chairs and a window that looked at other windows. Somebody had put a fork on a napkin, at a place, and the fork was not for me. She'd been eating alone.
 
 "Jules says you owe her a dinner and a cake, in that order," said Maya, and set the kangaroo on the counter, as if it might go off. "She says she wants the cake to be something you made. She says she'll know."
 

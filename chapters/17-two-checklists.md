@@ -121,7 +121,15 @@ I opened my mouth. The glow was still going. It took a moment to go out, like a 
 
 "I asked," I said. "I said *would it help.*"
 
-"I said *show me.* I meant a sketch. You built a cathedral." She'd taken a pen from somewhere. I'd have liked to know where she keeps them. "I wanted to see what you'd do." She was looking at the screen. "I'm not angry. I want to say that. I think it's beautiful. It's the most beautiful plan I've ever seen, and it's wrong, and I'd like to find out how wrong."
+"I said *show me.* I meant a sketch. You built a cathedral." She'd taken a pen from somewhere. I'd have liked to know where she keeps them. "I wanted to see what you'd do."
+
+"You wanted to see what I'd do," I said. It came out harder than I'd planned, and I let it. "I asked you in March what you wanted. You said *whatever's easiest.* I asked about the guest list and you said *Amma has it.* I asked what you wanted to eat and you said *you pick.* I've been asking for six weeks, and every time I got a door. So I built a plan, because a plan was the only thing in the house that would talk to me."
+
+The pen stopped. "That's fair," said Maya, after a moment. "I didn't know what I wanted. I knew what I didn't want. I thought if you built something, I'd be able to tell."
+
+"That's a terrible way to find out."
+
+"I know." She almost smiled. "It's the only one I've got." She was looking at the screen. "I'm not angry. I want to say that. I think it's beautiful. It's the most beautiful plan I've ever seen, and it's wrong, and I'd like to find out how wrong."
 
 "You can—"
 

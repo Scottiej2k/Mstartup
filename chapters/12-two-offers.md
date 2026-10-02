@@ -165,9 +165,69 @@ Kyle was at the counter with the mixing bowl when I got home, and he had an opin
 
 ---
 
+Maya called at eleven, as she did most nights, and I told her all of it: the globe, the three million, Margo's copy paper. I told her what Sable's partners had said about the Mission office. "They'd want me there three days a week," I said.
+
+"Do what's right for the company," said Maya.
+
+It was a good sentence. I took it at face value, which I'd always been taught is the correct way to take a sentence. I said, "Okay, then I think—" and I started to reason aloud: the 101, the commute, which three days, what it would do to a Tuesday. I went on for about five minutes. She said "Mm" twice, in the right places.
+
+"I should sleep," said Maya.
+
+"Good night."
+
+At 7:02 in the morning a text arrived. *Good morning.* It had a period on it. I looked at that for a long time, on the edge of the bed, in one sock, and then I did something that I'd have called, a year earlier, an unreasonable amount of work. I called her.
+
+"I can't read that one," I said.
+
+"Read what?"
+
+"*Do what's right for the company.* Did you mean it?"
+
+There was a silence. I heard a kettle, and her not moving.
+
+"I meant it as a sentence," said Maya.
+
+"Which kind?"
+
+"The kind where I wanted you to not want it."
+
+"I didn't know I was supposed to not want it."
+
+"You weren't supposed to know. You were supposed to ask me what I thought."
+
+"I told you everything and then I asked what you thought. You said what the company needs." I made myself keep my voice level. "Maya, that wasn't fair. I can't not-want a thing I haven't said I want. I can't read a test I didn't know was a test. If it's a test, say *this is a test.* I'll do my best. I'll probably fail."
+
+She laughed. It was a short, unwilling laugh, through her nose. "It wasn't a test."
+
+"It was a little bit of a test."
+
+"...A little."
+
+"Okay."
+
+"I don't want you in the Mission three days a week," said Maya.
+
+"Why not?"
+
+"Because it's where you say *ambient.*" She said it to the kettle, I think. "I heard you on the phone. You were doing the voice at me, from the other room. I don't want you in the room that makes the voice."
+
+"That's a reason."
+
+"It's a good one."
+
+"It's a business reason."
+
+"I'm in business," said Maya. "Healthcare infrastructure." And, a moment later, in a different voice: "I'm sorry. I should have said it the first time."
+
+"It's fine."
+
+"It isn't. But thank you for calling," she said, and hung up, and I sat on the edge of the bed for a minute with my phone in my hand, feeling something that I'd later learn to call being allowed to be right.
+
+---
+
 Sunday dinner at the Ramans' was at five, because Suresh eats at five, and because Lakshmi had said, on the phone, *you will come. We are hoping.*
 
-It was the house in Fremont, a low cream stucco on a street of identical houses, each with a lemon tree and a small, fierce lawn. I'd been once before, in January, where I'd been handed a plate and then a second plate and then a cousin. I parked across the street. I didn't get out. I'd told Maya only that there had been meetings, and she'd asked how they went, and I'd said *fine,* in the voice.
+It was the house in Fremont, a low cream stucco on a street of identical houses, each with a lemon tree and a small, fierce lawn. I'd been once before, in January, where I'd been handed a plate and then a second plate and then a cousin. I parked across the street. I didn't get out. I'd told Maya about both offers and about San Francisco, the night before, in a call that had gone strangely, and I'd said I would decide by Monday. I hadn't said which way I leaned, because I didn't know.
 
 I had about seven minutes. I used them.
 

@@ -129,6 +129,10 @@ She came across the marble to the foot of the stairs, where I stood on a small b
 
 "We know," said Maya.
 
+"I have the paperwork here," said Winston, to the dome. "Maya Raman, who has told me twice, by phone, that she's keeping it. And Nathan Calloway, who has not argued." He turned a page. "I want it noted that nobody has argued."
+
+"Noted," said Maya.
+
 ---
 
 There's a thing in a civil ceremony where the officiant asks if you have words. They don't need them. They're allowed. Winston said it in a low, kind voice, to the two of us, with the black book open on his palm: "Do you have anything you'd like to say?"
