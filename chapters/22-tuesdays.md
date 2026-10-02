@@ -3,7 +3,7 @@
 
 "It's Tuesday," said Dr. Okafor. "You said Tuesdays."
 
-I had said Tuesdays. I'd said it in a voicemail the Friday before, at length, and in a tone I'd have described as *warm.* It was ten o'clock on the fourth of April, and I was at the glass table with a legal pad and a mug and a list of nine questions I'd decided not to ask. I'd written them out and crossed them off. What was left on the page was one line, in Maya's handwriting, because I'd asked her what to write: *How was your week?*
+I had said Tuesdays. I'd said it in a voicemail the Friday before, at length, in a tone I'd have described as *warm.* It was ten o'clock on the fourth of April, and I was at the glass table with a legal pad and a list of nine questions I'd decided not to ask. What was left on the page was one line, in Maya's handwriting: *How was your week?*
 
 "How was your week?" I said.
 
@@ -27,7 +27,7 @@ It was a very good week, she said, and a bad Monday. She talked for eleven minut
 
 "My name," said Dr. Okafor. "Obviously."
 
-I told Priya, which is now what I do, and changed it at 11:50. It took a line of configuration and a second line to see whether I'd broken anything. From that Tuesday on, on every phone in her clinic's patient list, the gray box at the top said **DR. OKAFOR'S OFFICE.** (Priya's wall said no company's name at the bottom of a message. This was the top, and it was the clinic's own.) Theo, who was in on Tuesdays now, looked at my screen over my shoulder and said, "Don't deploy that at four," and I didn't; it was the first thing he'd said to me about the work without first checking my face. The nights column on the rota had one name in it, Ines's, and under it, a service. I called Dr. Okafor back at 4:40 to tell her. She said, "That was quick," in a tone I'd later learn meant she had expected it to be forgotten. Then she said, "Same time next week?"
+I told Priya, which is now what I do, and changed it at 11:50. From that Tuesday on, on every phone in her clinic's patient list, the gray box at the top said **DR. OKAFOR'S OFFICE.** Theo, who was in on Tuesdays now, looked at my screen over my shoulder and said, "Don't deploy that at four," and I didn't; it was the first thing he'd said to me about the work without first checking my face. I called Dr. Okafor back at 4:40 to tell her. She said, "That was quick," in a tone I'd later learn meant she had expected it to be forgotten. Then she said, "Same time next week?"
 
 I hadn't meant it as a standing thing. It stood anyway. It was the least important call of my week, and the one I kept.
 
@@ -37,13 +37,9 @@ There was a second call that day, which I hadn't scheduled, and I took it from t
 
 It was a nurse director at a hospital system in the East Bay, a woman named Ms. Adeyemi, who'd been given Loopback's name by a colleague at Doctors Hospital in Modesto. She was polite and direct. She ran postpartum, she said, the floor where women go after they've had a baby and are discharged, often after a day or two, with a bag of supplies and a form. "They go home," said Ms. Adeyemi. "They're alone, some of them. In the second week. We've lost two in three years. Not to the baby. To the quiet." She let that sit. "Could your thing be for them?"
 
-It was like being handed the biggest thing in the world, on a plate, and finding that it fit in my hand.
-
 "I think so," I said. I could hear myself starting to build it. "It'd be the same, but the check-in would be—"
 
 "Don't tell me yet," said Ms. Adeyemi. "I'm only asking whether I should ask again."
-
-I went back into the glass room, where the whiteboard still had its five circles on it. I'd been told, by Maya, and by Carla in a different tone, that a question was not a plan.
 
 "Ask me again in September," I said.
 
@@ -51,11 +47,7 @@ I went back into the glass room, where the whiteboard still had its five circles
 
 "Because I haven't finished the first one."
 
-She laughed, short, in surprise. "That's the first honest answer I've gotten from a vendor in years," she said, and gave me a date. I wrote it on my hand. It said *9/12.* Priya, who had heard none of it, looked up from her screen and said, "You've got a face."
-
-"Somebody asked me a very good question."
-
-"Did you say no?"
+She laughed, short, in surprise, and gave me a date. I wrote it on my hand. It said *9/12.* "You've got a face," said Priya, who had heard none of it. "Did you say no?"
 
 "I said *September.*"
 
@@ -87,7 +79,11 @@ Margo said nothing for a moment. She looked at Priya, and then at me, and then a
 
 "I wasn't going to," said Priya.
 
-She read it a third time, on the stairs. I heard her behind me, going down, turning a page.
+She read it a third time, standing, with the signature page on the desk. Margo waited with her hands folded. Priya looked at the clause, and at me.
+
+"Together," she said.
+
+"Together," I said. We signed one after the other, with the same pen, which was Margo's, and which she took back and put in the drawer. It was eleven million dollars, and it took about as long as signing for a package. Priya was reading the next page on the stairs going down. I heard her behind me, turning it.
 
 ---
 
@@ -105,9 +101,9 @@ By the end of the month, we'd started to eat at someone's table. It was Lakshmi'
 
 The next Tuesday was Ray's.
 
-He'd said, on the phone, that he had *a roast,* and then, a pause, that he'd never made one, and had bought a book. It was edible. I'd be unfair to say more. He'd also tried to make a pie, and it was in a pan, and we looked at it, and he said, "I'll bring it to you in pieces." We ate on the porch, with plates on our knees, with the pond audible in the dark, a sound like a very small applause. He asked Maya about the pharmacy. He asked her about Kevin. He asked, in his dry way, whether anyone had written down what happened on the day she'd made a mistake and caught it, and she said, "My father did," and Ray said, "Good," and I saw her face.
+He'd said, on the phone, that he had *a roast,* and then, a pause, that he'd never made one, and had bought a book. It was edible. We ate on the porch, with plates on our knees, with the pond audible in the dark, a sound like a very small applause. He asked Maya about Kevin. He asked, in his dry way, whether anyone had written down what happened on the day she'd made a mistake and caught it, and she said, "My father did," and Ray said, "Good," and I saw her face.
 
-We went back and forth, Fremont, the mountains, for six weeks. Nobody ever suggested another day. I don't think we knew it was the same thing as the call to Dr. Okafor, the one-thing-by-end-of-day, the Tuesday hour; I'd have denied it. But one night, in the car, going down the mountain with the heater on and the road black in front of the headlights, Maya said, "You know you do the same thing every Tuesday."
+We went back and forth, Fremont, the mountains, for six weeks. Nobody ever suggested another day. One night, in the car, going down the mountain with the heater on and the road black in front of the headlights, Maya said, "You know you do the same thing every Tuesday."
 
 "Which thing?"
 
@@ -135,7 +131,7 @@ It was the ninth of May, and I was in bed, with the lamp off, and Maya asleep wi
 
 "I'm fine." The word had no period. It was not a warm one. "Optionality's a very lonely word, Nate. I said that at your wedding. I thought I was being clever."
 
-I put my back to the wall. In the bedroom, Maya turned over. I understood, in the hallway, what I could do, and that I was standing in a home in which, a few months before, I'd learned to ask one question.
+In the bedroom, Maya turned over. I knew what I could do.
 
 "Do you want me to tell you something, or do you want me to be on the phone?" I said.
 
@@ -147,7 +143,7 @@ There was a long silence. A car door shut, far off, in the structure.
 
 He was quiet for so long I thought the call had dropped. Then, in a different voice: "Just stay. Don't say anything smart."
 
-I stayed. He told me, over about twenty-five minutes, a number of small, unremarkable things: the name of the building, the cold in the structure, a thing his father used to say about holding out for the better offer, which his father, it emerged, had done his whole life, and had died holding. I said, *Mm.* I said *Yeah.* I said nothing smart. When he had stopped, there was a silence that felt cleaner than the first, and he said, "I'm going to drive home."
+I stayed. He told me, over about twenty-five minutes, a number of small, unremarkable things: the cold in the structure, a thing his father used to say about holding out for the better offer, which his father, it emerged, had done his whole life, and had died holding. I said *Mm.* I said nothing smart. When he had stopped, he said, "I'm going to drive home."
 
 "Text me when you get there."
 
@@ -157,35 +153,26 @@ I stayed. He told me, over about twenty-five minutes, a number of small, unremar
 
 "All right," said Cole. And twenty minutes later, at 12:04, a message arrived, three words. *Got here. Thanks.* I read it standing in the hallway in the dark.
 
-On the Tuesday after that, I asked him to dinner. He said he'd think about it. On the third Tuesday, he came to Ray's, in the sand-colored jacket, with a bottle of something good, and sat at the porch table across from a man who'd never in his life been impressed by a jacket, and at some point in the evening, I saw Ray look at Cole, and say something short, and Cole put down his fork and answer it. I don't know what the question was. I've decided not to ask.
+On the third Tuesday after that, he came to Ray's, in the sand-colored jacket, with a bottle of something good, and sat across from a man who'd never in his life been impressed by a jacket, and at some point I saw Ray say something short, and Cole put down his fork and answer it. I don't know what the question was. I've decided not to ask.
 
 ---
 
-The pharmacy's new rooms opened on a Saturday, the third of June, with a ribbon.
+The pharmacy's new rooms opened on a Saturday, the third of June, with a red ribbon from the party store across the door of what had been, for a year and a half, an empty nail salon. Above it was a long white sign that my father had printed on a label machine the size of a suitcase and mailed in a tube. **CONSULTATION. VACCINATIONS. TUESDAYS 4–7 NO APPOINTMENT.** Beneath it, in Lakshmi's marker: **THIS MEANS MAYA.** Tuesday had been Maya's choice. It was the day, she said, that nobody calls anyone back.
 
-It was a real one, red, from the party store, and it was strung across a door that had been, for a year and a half, the entrance to an empty nail salon. A sign had been put up above it, a long white one, on a board, by my father, who had printed it on a label machine the size of a suitcase and mailed it in a tube. **CONSULTATION. VACCINATIONS. TUESDAYS 4–7 NO APPOINTMENT.** Beneath it, smaller, in Lakshmi's marker: **THIS MEANS MAYA.** Tuesday had been Maya's choice. It was the day, she said, that nobody calls anyone back.
+Sixty or so people stood on the sidewalk in the Fremont sun, which for a pharmacy is something like a mob. Mr. Alvarez wore a jacket and tie, with a lollipop from his daughter in the breast pocket where it stuck out like a pen. Kevin held the scissors like a surgical instrument. Suresh was meant to speak. He looked at the crowd, and at the index card in both hands.
 
-I'll tell you who came. Mr. Alvarez came, in a jacket and tie, with his daughter Gloria, who'd put a lollipop in his breast pocket, where it stuck out like a pen. Mrs. Chen came, in a good coat, with Kevin, who'd been given the task of holding the scissors and was holding them like a surgical instrument. Dr. Okafor came with her glasses on a cord and said she'd be looking at the room's ventilation. There were sixty or so people on the sidewalk, in the Fremont sun, on a Saturday, which for a pharmacy is something like a mob. Lakshmi stood at the edge in a cardigan, with her arms folded, being unmoved.
+"My daughter," said Suresh, "has made a room. It has a door. It closes." He looked down. "I am not good at this." He turned the card over, saw it was blank, and put it in his pocket. "Please. Have a sweet."
 
-Suresh was meant to speak. He'd been told. He'd written something on an index card, which he held in front of him with both hands, and he looked at the crowd, and the card, and the crowd.
-
-"My daughter," said Suresh, "has made a room." He stopped. "It has a door. It closes." He looked down. "I am not good at this. When someone comes here with a thing they cannot say at the counter, they will say it in the room. That is all I have." He turned the card over, saw it was blank, and put it in his pocket. "Please. Have a sweet."
-
-I'd been watching Maya. She stood at the ribbon in her white coat with the scissors, which Kevin had returned to her with enormous care. She didn't cut it. She looked at her father for a second. Then, instead, she held the scissors out to him, handles first, as one does with something sharp, and he looked at them, and at her.
-
-He cut the ribbon. It took him two tries.
+Maya stood at the ribbon in her white coat. She didn't cut it. She held the scissors out to her father, handles first, as one does with something sharp, and he looked at them, and at her. He cut the ribbon. It took him two tries.
 
 Lakshmi, at the edge, had her hand over her mouth. She was crying and was, as far as one could tell, entirely furious about it.
-
 ---
 
 My father texted on a Tuesday evening in June, the sixth, at 9:42.
 
 *Did you get there?*
 
-I was on the couch, with Maya's feet in my lap and a bowl of the green beans we'd brought home from Fremont. I looked at the phone. It was 12:42 in Dayton. He'd stayed up; my father has been asleep by ten every night of his life. It was the third one since the wedding. For thirty years it had been *text me when you get there,* said at airports, and I'd said *Okay, Dad* and never once texted. Since the wedding it had come as a question. I'd answered the first two with *Yes,* and then, after a pause, *Thanks.* It hadn't occurred to me that either of us was asking.
-
-I held the phone.
+I was on the couch, with Maya's feet in my lap. It was 12:42 in Dayton, and my father has been asleep by ten every night of his life. It was the third one since the wedding. For thirty years it had been *text me when you get there,* said at airports, and I'd said *Okay, Dad* and never once texted. Since the wedding it had come as a question. I'd answered the first two with *Yes.* It hadn't occurred to me that either of us was asking.
 
 "What is it?" said Maya.
 
@@ -199,11 +186,7 @@ She took her feet off my lap and sat up. She didn't say anything. She waited, wh
 
 I typed: *Long week. Cole's doing better. Theo's back. Maya's good. I'm tired, but okay.*
 
-I looked at it. It had too many facts. I took out *Cole's doing better.* I took out *Theo's back.* I left *I'm tired, but okay.*
-
-My thumb stayed over the screen.
-
-I put back, at the end: *How are you?*
+It had too many facts. I took out *Cole's doing better.* I took out *Theo's back.* I left *I'm tired, but okay.* Then I put back, at the end: *How are you?*
 
 It was the first time in my life that I'd ever put that on the end of a message to him. I sent it before I could look at it.
 
@@ -215,32 +198,11 @@ And then, a long time after, long enough that I'd put the phone on the arm of th
 
 And then, at 10:03, from a phone in Dayton, in a kitchen I could see in my mind, with a man at a table and a mug at one in the morning: *Good night.*
 
-I sat there with it. I didn't know what it meant. I know now that it was the longest conversation we'd ever had by text, and that it had two questions in it, and that one of them was mine.
+It was the longest conversation we'd ever had by text, and it had two questions in it, and one of them was mine.
 
 ---
 
-My sister Annie flew in from Dayton for Kyle's birthday, which she'd decided was a family event.
-
-It was on a Saturday in the middle of June, the seventeenth, in the yard of a restaurant that Kyle had chosen because it had a very large bowl of something on the menu. Annie had arrived at the San Jose airport the night before in a green jacket, with a bag of buckeye candies for the whole table and the expression of a woman who has been told she may speak to someone in authority. She'd taken Kyle's side in everything since the wedding. At one point she took his phone away and read his messages aloud, to the table, in a voice.
-
-"He's got a woman," said Annie, on the first night.
-
-"I do not," said Kyle.
-
-"He's got a *Divya.*"
-
-Divya was there, small and precise, with a laugh that appeared without warning, like a bird out of a bush. She sat next to Kyle with her chin on her hand. She was, I could see from the way she looked at the bowl, exceedingly patient. Jules sat on her other side, in black, with a glass of wine, observing the two of them with the interest of a public defender watching a plea go through.
-
-"She's very good for him," Jules said to me, at the bar, in a whisper. "He's stopped advising people."
-
-"That fast?"
-
-"He asked her one question," said Jules. "I counted. It was a real one. And then he waited, for the whole answer." She sipped. "I'd call it a miracle."
-
-I looked across the yard. Kyle had his hand flat on the table next to Divya's, not touching it, an inch apart. She'd told him something, and he was listening to it with his whole face. Annie, on his other side, had her head turned toward him as if hearing a ball game. And I thought of the armchair he'd given me, and how long he'd waited, in his way, for me to ask him anything. He was doing for her what he'd done for me. It was a good thing to watch a person do for someone else.
-
-He blew out the candles. There was one candle, in the shape of a cereal bowl. He made a wish, and I saw him look at Divya before he did, and I saw him decide not to tell.
-
+Annie flew in from Dayton for Kyle's birthday on a Saturday in the middle of June, with a bag of buckeye candies for the whole table and the expression of a woman who has been told she may speak to someone in authority. At the restaurant yard, she took Kyle's phone away and read his messages aloud. "He's got a *Divya,*" said Annie, and Divya, small and precise, with a laugh that appeared without warning like a bird out of a bush, said, "He's asked me one question tonight. I counted," and Jules, sipping her wine, said, "He's stopped advising people," in the tone of a public defender watching a plea go through. Kyle had his hand flat on the table next to Divya's, an inch apart, listening to her with his whole face. He blew out the single candle, which was in the shape of a cereal bowl. He looked at Divya before he made the wish, and I saw him decide not to tell.
 ---
 
 It was a Tuesday again, the twentieth, when I finally said it aloud, and I said it badly.
