@@ -203,7 +203,7 @@ It was half past seven when she went out to the counter and spoke to the pharmac
 
 I put my face in my hands. I sat there, in a stockroom, among cases of cough drops, and I didn't speak.
 
-"It was luck," said Carla. "That's what that was. It wasn't us, and it wasn't you."
+"It was luck," said Carla. "That's what that was. It wasn't us, and it wasn't you. And I'll tell you now, it won't be free."
 
 "I know."
 
@@ -234,6 +234,16 @@ I had known her seven years and had not known she had a cousin. I waited.
 "You said we had to."
 
 "I said it. You did it." She started the engine. "That's not a small difference."
+
+---
+
+The cost came on Monday, and it wasn't ours alone.
+
+Meridian's compliance people found the column at 8:40, as predicted, in a routine file check, and found in the same file an email from me with a Thursday timestamp. Carla said that email was the only reason she still had a seat. There was still a letter. It was three paragraphs, to each of the thirty-one patients, on Meridian letterhead, and Carla had to sign every one, in a conference room, with a pen. She did all thirty-one that afternoon. She didn't ask anyone to help. She said she'd rather.
+
+Her vice president, a man I'd met once in a hallway, asked her whether she'd bought a vendor or a problem. She told me this on the next Thursday call, in the level voice. He put us on a thirty-day review. That meant a written report every Friday, and a rule that no message left any store until a Meridian pharmacist had read the first week's batch. It would come off in October, in principle. Nobody believed in *in principle.*
+
+And Gerald, who'd written the note in March and done exactly what the form told him to, was written up for the stale file. Carla fought it and lost. I asked if I could call him. She said, "He won't want you to." I called anyway, and he picked up on the first ring. I said I was sorry. He said, "It was a free-text field," in the tone of a man who has said it to a mirror a few times. "I'm not mad at you. I just wish somebody had told me the box mattered." I said we'd put it in the training. "Put it on a sign," said Gerald, and hung up.
 
 ---
 

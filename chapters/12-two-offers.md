@@ -5,7 +5,7 @@ The partners at Sable Ventures had a slide that said **EIGHT BILLION SMOKE ALARM
 
 It was the fifth of May, a Tuesday, in a conference room on Sand Hill Road with a view of a parking lot full of German cars and a eucalyptus tree that somebody was paid to keep beautiful. Priya sat at my elbow with her laptop closed. Across the table sat three partners, who had the tan of people who exercise on boats, and on the wall behind them, at a scale meant for a stadium, was the slide. It had a globe on it. The globe had a pulse.
 
-I should say how we'd got there. In March we'd agreed that a two-hundred-dollar-a-month clinic and the last of my savings was a hobby with a login, and that we needed money. Priya had agreed to *meetings.* She had not seen the deck. I'd built it the night before, alone, which should have told me something. I'd called Cole in April, which I'm not proud of, and he'd made two introductions before I finished the sentence, because Cole will give you anything that costs him a text: one to Sable, and one to a woman above a hardware store.
+I should say how we'd got there. In March we'd agreed that a two-hundred-dollar-a-month clinic and the last of my savings was a hobby with a login, and that we needed money. I'd done the arithmetic in April on a napkin, which should have warned me. What we had, in the only unit that matters, was eleven weeks. Priya had agreed to *meetings.* She had not seen the deck. I'd built it the night before, alone, which should have told me something. I'd called Cole in April, which I'm not proud of, and he'd made two introductions before I finished the sentence, because Cole will give you anything that costs him a text: one to Sable, and one to a woman above a hardware store.
 
 "Every phone on earth is already a sensor," I said. I was in the voice. I can hear it now, like a recording of someone else's funeral: warm, smooth, slightly too fast, with a little rise at the end of each sentence as if the facts were being offered for approval. "How you type, how you walk, how your voice sounds in a room, how long since you opened an app. Every home has a smoke alarm. Every person has a phone. You don't need anyone to tell you they've gone quiet. The phone knows. Loopback is the ambient safety layer for every person alive."
 
@@ -56,6 +56,8 @@ I was quiet. I want to be fair to the man I was. I wasn't stupid; I was somewher
 "I'll think about it," I said.
 
 "That's the thing you say when you've decided and you're hoping I'll help you not have," said Priya. "I know you. Get in."
+
+I drafted the acceptance that night. It was four lines long and had the word *thrilled* in it. I saved it and didn't send it, and I read it every morning for a week, the way you press a tooth.
 
 ---
 
