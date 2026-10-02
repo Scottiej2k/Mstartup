@@ -191,7 +191,7 @@ It took her an hour. When she'd finished, there were three lines left on the las
 
 "It's the one without the period."
 
-"I know," said Maya. She put her head on my shoulder. "I heard it."
+"I know," said Maya. "I heard it."
 
 ---
 

@@ -201,7 +201,7 @@ I turned on the step so that I was facing her. I didn't hold her hand, or take a
 
 "I love you," I said. I hadn't planned to, and I realized as it left that it was the first time I'd said it to anyone since a girl in Columbus who hadn't wanted it. "I should have said that before I made a joke about a schedule. I'm saying it now."
 
-She looked at me for a long time. "Okay," said Maya. It had no period. She leaned, about an inch, and put her head against my shoulder, and the two of us sat on my parents' back step and looked at a sky that hadn't changed.
+She looked at me for a long time. "Okay," said Maya. It had no period. She leaned, about an inch, and the two of us sat on my parents' back step and looked at a sky that hadn't changed.
 
 ---
 

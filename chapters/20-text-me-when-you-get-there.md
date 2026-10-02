@@ -21,7 +21,11 @@ She took it. She held it up, on its lanyard, in the light from the hall, and it 
 
 "Then it breaks, and I answer." She said it without any weight. "That's the whole company. Go."
 
-I got as far as the door.
+I got as far as the door. Under the fish sign in the hall there was a sixth line, in a sixth marker, new, in a very small hand. **I DON'T EVEN LIKE FISH. — D.**
+
+I laughed, once, in the dark.
+
+"Since Tuesday," said Priya, behind me, not turning. "Third floor. Accounting software. He's been reading that sign for two years."
 
 "Nate."
 
@@ -345,7 +349,7 @@ I didn't say *I understand.* I'd been about to. I'd had the sentence in my mouth
 
 "I'd like to."
 
-"You will." She put her head on my shoulder. "It takes about a year."
+"You will." She looked at the pencil. "It takes about a year."
 
 She had something in her hand. She'd had it all day, in a loose fist, in a fold of her sari. She opened it, in the dark, between us, on her knee.
 

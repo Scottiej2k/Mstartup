@@ -245,6 +245,12 @@ She didn't turn around. "Okay," said Maya. And then, to the kettle: "Thank you."
 
 "It's just thank you," she said. "I'm not furious. I'll tell you if I am."
 
+She poured the tea. "And when Tessa starts," she said, to the kettle, "you are not to supervise. You may wave."
+
+"From where?"
+
+"The car."
+
 ---
 
 **FOUNDER'S NOTE**

@@ -109,7 +109,7 @@ She stopped. She put her hand over her mouth. She said it again, louder, to the 
 
 "*I need Friday to be small.*" Her voice shook, and then steadied. "*An hour. Twenty people. I want to sit.*" She took a breath. "*I want it to be for me, a little bit. I love you, Amma. I'm sorry. I've never told you what I need. I should have said it a long time ago.*"
 
-It came down out of the dome in pieces. *Sorry. Said it. Ago.* She stood in the gold light with her hand over her mouth, and I stood on a brass plate, and neither of us spoke. It was the quietest I've ever heard a room that large.
+It came down out of the dome in pieces. *Sorry. Said it. Ago.* She stood in the gold light, and I stood on a brass plate, and neither of us spoke. It was the quietest I've ever heard a room that large.
 
 I didn't say anything. I don't think there was anything to say. After a time, she came down the stairs, one at a time, slowly, holding the rail, and when she reached the bottom she put her face against my shirt, and I held on, and I understood, for the first time, what a dry run was for. It isn't to get it right. It's to find out, with no one watching, what it sounds like when you say it.
 
@@ -119,7 +119,7 @@ I didn't say anything. I don't think there was anything to say. After a time, sh
 
 "I know," she said. "That's why."
 
-She told her mother on Sunday, in the kitchen of the cream stucco house, with the door closed. She didn't tell me what was said. I was in the living room with a cup of tea and one of Suresh's magazines about pill counters, and I heard nothing but a clock. Afterward, she came out, and her eyes were red, and she sat down next to me on the couch, and put her head on my shoulder.
+She told her mother on Sunday, in the kitchen of the cream stucco house, with the door closed. She didn't tell me what was said. I was in the living room with a cup of tea and one of Suresh's magazines about pill counters, and I heard nothing but a clock. Afterward, she came out, and her eyes were red, and she sat down next to me on the couch, and took my hand.
 
 "She said she knew," said Maya. "She said she's known since the car."
 
