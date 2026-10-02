@@ -1,9 +1,9 @@
 # Chapter 20
 ## Text Me When You Get There
 
-I gave Priya the keys at ten o'clock on Friday night, in the glass room, with the lights off.
+I gave Priya the key at ten o'clock on Friday night, in the glass room, with the lights off.
 
-There was one key. It was small and black, on a green lanyard, and it opened nothing in the physical world. It opened a door in a computer, a door that most of the company had never seen: the pause switch for all forty stores. (Priya's table had filed the servers under P. This had gone under N, because it was customers.) On the wall of the glass room, on a screen, there were forty rows. Green meant somebody had picked up. Red meant nobody had. She stood on the other side of the table with her hands at her sides, in the dark, with the fish sign glowing faintly in the hall, and I held it out to her across the wood.
+There was one key. It was small and black, on a green lanyard, and it opened nothing in the physical world. It opened a door in a computer, a door that most of the company had never seen: the pause switch for all forty stores. (Priya's table had filed the servers under P. This had gone under N, because it was customers.) On the wall of the glass room, on a screen, there were forty rows. Green meant nobody had flagged anything. Red meant somebody had. She stood on the other side of the table with her hands at her sides, in the dark, with the fish sign glowing faintly in the hall, and I held it out to her across the wood.
 
 "It's yours," I said. "Tomorrow, at nine. I'll be at City Hall. I'll turn my phone off."
 
@@ -151,13 +151,13 @@ At 9:00, I was holding my father's hand in a room with a card on the door. I did
 
 It was Winston.
 
-I'd asked. I'd telephoned the office in August and said, *is it possible to request an officiant?* and he'd said, in his dry, courteous voice, *you'd like me,* and I'd said yes, and he'd said, *I've been marrying people for thirty-one years. I've never been requested.* And then, after a pause, *I'd be honored.*
+I'd asked. I'd telephoned the office in August, before the dinner, and said, *is it possible to request an officiant?* and he'd said, in his dry, courteous voice, *you'd like me,* and I'd said yes, and he'd said, *I've been marrying people for thirty-one years. I've never been requested.* And then, after a pause, *I'd be honored.*
 
 He stood at the top of the white stairs, under the dome, in a gray suit and a mustache and a lanyard, with a small black book in one hand, in the gold light, and the rotunda was full.
 
 There were twenty-three of us, which was Maya's forty with the cousins cut. The room was a little too big for it, so that we stood in a loose, warm half-circle on the marble, with the sound of our shoes going up into the dome and coming back. Maya's parents were in the front, on the left. Suresh was in a dark suit with the top button done, standing straight, looking at nothing, with the face of a man who's decided in advance not to be moved. My mother held my father's arm. Annie had her phone in her hand, with the screen off, like a vet tech with a thermometer. Ray stood a little apart, by a pillar, in the jacket from the dinner, with his hands folded, looking at the dome as though checking it for load. Arjun, tall and tired and clean-shaven, stood beside his mother. Kyle, in the back, in a tie, held up a speaker like a bomb.
 
-And there were people I hadn't expected. There was Dr. Okafor, in a lilac cardigan, with her glasses on a cord, looking at the ceiling with an expression of mild clinical interest. There was Mr. Alvarez, in a wheelchair, in a cardigan zipped to the chin, with his daughter Gloria standing behind him and one hand on his shoulder, and a lollipop, I'd later learn, in his pocket; he'd come against the advice of two doctors, because he'd said he'd been missed once and he'd be damned if he'd miss this. Mrs. Chen was beside him in a good wool coat. Her grandson, Kevin, who'd passed his driving test on the fourth try and would start at the pharmacy in October if Maya had her way, stood behind her in a tie, with the stricken look of a young man who'd been told to hold a purse.
+And there were people I hadn't expected. There was Dr. Okafor, in a lilac cardigan, with her glasses on a cord, looking at the ceiling with an expression of mild clinical interest. There was Mr. Alvarez, in a wheelchair, in a cardigan zipped to the chin, with his daughter Gloria standing behind him and one hand on his shoulder, and a lollipop, I'd later learn, in his pocket; he'd come against the advice of two doctors, because he'd said he'd been missed once and he'd be damned if he'd miss this. Mrs. Chen was beside him in a good wool coat. Her grandson, Kevin, who'd passed his driving test on the fourth try and would start at the pharmacy in October if Maya had her way, stood behind her in a tie, with the stricken look of a young man who'd been told to hold a purse. He had a handkerchief ready for his grandmother and used it twice, and afterward I saw him stay behind to fold the programs.
 
 Priya stood on my left, in a dark blue dress, with the lanyard still round her neck. I'd seen it. I hadn't said anything. Jules stood on Maya's right, in black, with the expression of someone who hasn't decided whether to cry.
 

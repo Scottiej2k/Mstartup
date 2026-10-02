@@ -55,7 +55,7 @@ It was a narrow iron one, over the street, with two chairs and a potted plant th
 
 I didn't answer. I stood next to her, at the rail, and put my hands on the cold iron. I felt the thing come up in me, the whole apparatus of the thing: *I'll talk to your mother. We'll make Friday shorter. I'll build a run of show.* It was extremely strong. It was warm, and large, and it had a spreadsheet in it.
 
-I'd told Carla at 6:31. I thought of that. I thought: *she's telling me early. This is the early.* It struck me, standing at a rail on Clement Street, that I'd spent three weeks being grateful to a woman in a green blazer for the quickness of a bad-news call, and that the woman beside me had just done the same for me, with no spreadsheet, at a worse time, and that I'd nearly met it with a plan.
+I'd told Carla at 6:31. I thought of that. I thought: *she's telling me early. This is the early.* It struck me, standing at a rail on Clement Street, that I'd spent three weeks quietly proud of the quickness of a bad-news call, and that the woman beside me had just done the same for me, with no spreadsheet, at a worse time, and that I'd nearly met it with a plan.
 
 "Thank you," I said, "for telling me now."
 
@@ -134,8 +134,8 @@ She told her mother on Sunday, in the kitchen of the cream stucco house, with th
 
 Note to self.
 
-At work, nobody ships to forty stores without a dress rehearsal, and the rehearsal's whole value is that it breaks where nobody is watching. Store 9 broke on a Thursday, in front of one pharmacist, and cost us a bad afternoon. The same bug in production would have cost us the contract.
+At work, nobody ships to forty stores without a dress rehearsal, and the rehearsal's whole value is that it breaks where nobody is watching. Store 9 was our dress rehearsal and it broke anyway: one store, one vice president, and it still cost us thirty-one letters and a thirty-day review. A rehearsal doesn't make the break free. It makes it one store instead of forty.
 
-At home, I almost skipped the equivalent. Maya had a sentence she couldn't say to her mother, and my instinct was to say it for her, with a run of show. What she needed was an empty room where she could say it badly first. City Hall at twenty to six, with the lights on and nobody listening, was the staging environment.
+At home, I almost skipped the equivalent. Maya had a sentence she couldn't say to her mother, and my instinct was to say it for her, with a run of show. What she needed was an empty room where she could say it badly first. City Hall at twenty to six, with the lights on and nobody listening, was the staging environment, which is what engineers call the room where nobody's watching.
 
 So: when Maya has to say something hard, I don't write the script. I find the empty room. Then I stand on the brass plate and keep my mouth shut.

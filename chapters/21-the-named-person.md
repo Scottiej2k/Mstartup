@@ -1,7 +1,7 @@
 # Chapter 21
 ## The Named Person
 
-At 3:07 on Tuesday morning, the third night after the launch, my phone lit up on the nightstand and showed me a row of text the color of a traffic cone.
+At 3:07 on Tuesday morning, the third night after the forty stores went live, my phone lit up on the nightstand and showed me a row of text the color of a traffic cone.
 
 *STORE 22 (GILROY): ENROLLMENT SYNC STALLED 14 MIN.*
 
@@ -41,11 +41,11 @@ The following Thursday I wrote it down again, under the first one, and underline
 
 Kevin Chen started at the pharmacy on the fourth of October. He was the boy from City Hall who'd stayed behind to fold the programs, twenty-two, with a pharmacy technician certificate and three chains' worth of rejections, one of them Meridian's, for lacking *customer-facing experience.* "You wanted a part-timer," said Suresh, over dinner. "You hired a person with a handkerchief." "I wanted a person who'd notice," said Maya, to her rice. "I'll teach the rest." It was the first decision she'd ever made about her father's pharmacy without anyone's permission, in front of her father, and he looked at her across the dal and nodded once. It was a nod I knew, from the other end of the same table, from the other father. It said *that'll hold.*
 
-That month, on a Sunday, I opened my calendar and made a recurring event for Fridays, which had been ours since spring and which we'd missed twice. *Date Night — Maya + Nate,* seven o'clock, with a reminder, a *Leave now?* and, because the calendar offered it, a video link. Maya read it aloud in the kitchen, in the voice she uses for a label with the wrong dose. "It's in my calendar. With a link." She wasn't angry. She was thinking carefully about how to be kind. "When you come, it's because you came. If it has a link, I'm going to be thinking about the link. I'm not saying don't make a calendar. I'm saying don't make it the reason." I deleted the series that night, while she was in the shower, and on Friday I came home at 6:10 with a bag from the Thai place and no particular plan. She said *Oh,* the way you say it when something you'd stopped expecting arrives. I'd gotten the lesson exactly right about the calendar. I got it wrong about the other thing on that tab.
+That month, on a Sunday, I opened my calendar and made a recurring event for Fridays, which had been ours since spring and which we'd missed twice. *Date Night — Maya + Nate,* seven o'clock, with a reminder, a *Leave now?* and, because the calendar offered it, a video link. Maya read it aloud in the kitchen, in the voice she uses for a label with the wrong dose. "It's in my calendar. With a link." She looked up. "It's the Sunday reminder again, in a better font." She wasn't angry. She was thinking carefully about how to be kind. "When you come, it's because you came. If it has a link, I'm going to be thinking about the link. I'm not saying don't make a calendar. I'm saying don't make it the reason." I deleted the series that night, while she was in the shower, and on Friday I came home at 6:10 with a bag from the Thai place and no particular plan. She said *Oh,* the way you say it when something you'd stopped expecting arrives.
 
 We hosted Thanksgiving, which is to say Ray did, because he'd said in a four-minute phone call, *I've got the room. And the pond.* Sixteen of us. Lakshmi had asked what to bring, and Ray had said *Nothing,* and then, after a pause, *Is there any chance of a soup?* My father carved the turkey with his own knife, which he'd sharpened in the car, and Suresh asked him how often. Ray said grace. It was six words: *Thank you. Denise would've liked this.* He sat down quickly, and Lakshmi, at the other end of the table, who had not realized it was grace, closed her mouth and set her hand flat on the cloth, toward him, not touching anything.
 
-At six, at the sink, with a stack of plates, Maya asked, "Who's drying?" She'd asked it at every sink since the summer before last, and I'd always thought it was a trick question.
+At six, at the sink, with a stack of plates, Maya asked, "Who's drying?" Ray's dish rule had come home with her, and she'd asked it at every sink since the summer before last; I'd always thought it was a trick question.
 
 "I have a question," I said. "Whether I'm allowed to like this without making it a metric."
 
@@ -73,7 +73,7 @@ I knew the name. I'd seen it on a report, on a Tuesday, in a row, and moved on.
 
 "His daughter was the person he named. Lena. She's a respiratory therapist at Doctors Hospital. She got the alert at five past seven in the morning, at work, at the start of a double shift. Her phone was in a locker, because that's where phones go." Carla's voice was quite level. "She saw it at 10:40 that night. A neighbor had found him at a quarter to seven, because his porch light was off. He'd fallen in the kitchen, early. He'd been on the floor close to twelve hours. A broken wrist. Dehydration. He's home now. He's fine."
 
-"It said two, in December," I said. "I didn't—"
+"It said two, in the first month," I said. "I didn't—"
 
 "Not your October two, who were asleep and in a car. That was him, and a woman in Salinas." She unfolded her hands. "The name we had for Store 17 was a technician called Mateo Ibarra. Mateo was in Guadalajara for the holidays. The report went to his queue, and it was read on the third of January." She said it in the voice of someone reading a form. "Lena came in to the store, afterward, and talked to whoever was at the counter. She said that when the text came in October, asking if she'd be her father's person, she'd replied *OK* and not read past the first line. She said that when the alert came she'd thought someone else would see it."
 
@@ -114,7 +114,7 @@ I told her all of it. She stood in front of the whiteboard, with her arms folded
 
 "She said OK."
 
-"To a text she didn't read. What do we not know?" She wrote under the circle, in a smaller hand: *when is she reachable? is she working? who covers? does she know it's on her?* "We know her number. That's all we ever asked." "A notification is not a person. Carla said that in the spring. Then we built a notification and called it a person. We never asked Lena."
+"To a text she didn't read. What do we not know?" She wrote under the circle, in a smaller hand: *when is she reachable? is she working? who covers? does she know it's on her?* "We know her number. That's all we ever asked." "A notification is not a person. Carla said that in November, in the margin of the contract. Then we built a notification and called it a person. We never asked Lena."
 
 "Okay."
 
@@ -198,7 +198,7 @@ It was the eighteenth, in the glass room. He wore the hoodie with the hood up, a
 
 "Okay."
 
-"I knew you'd say *okay.*" He almost laughed. "Nate, I haven't slept a whole night in nine weeks. Ines was in Lisbon for two of them. It's Ines and me. It's been Ines and me since October."
+"I knew you'd say *okay.*" He almost laughed. "Nate, I haven't slept a whole night in fifteen weeks. Ines was in Lisbon for two of them. It's Ines and me. It's been Ines and me since October."
 
 "The rota has four names on it."
 

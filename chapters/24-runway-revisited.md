@@ -21,13 +21,13 @@ I should say what I'd noticed.
 
 I'd noticed it in pieces. I do that now; I can't help it.
 
-The first was the coffee, at Ray's, on a Tuesday in the middle of August. Ray's coffee had been drinkable since the spring, which he considered a personal victory, and he poured her a cup, and she put her hand over it without looking and asked for water. She was a tea person, with a mug in her hand every morning of her adult life, the way another person has a face, but she'd always liked the *smell* of mine. Ray said nothing. He put the cup back on the tray. A few minutes later he set down in front of her, without a word, a mug of ginger tea, which he does not drink, and which I had never seen in his house, and which he must have bought for the nurses, or for something. She looked at it. She looked at him. He was reading the paper.
+The first was the coffee, at Ray's, on a Tuesday in the middle of August. Ray's coffee had been drinkable since the spring, which he considered a personal victory, and he poured her a cup, and she put her hand over it without looking and asked for water. She drank coffee when she was out and tea at home, with a mug in her hand every morning of her adult life, the way another person has a face, and she'd always liked the *smell* of the coffee I made. Ray said nothing. He put the cup back on the tray. A few minutes later he set down in front of her, without a word, a mug of ginger tea, which he does not drink, and which I had never seen in his house, and which he must have bought for the nurses, or for something. She looked at it. She looked at him. He was reading the paper.
 
 The second was a nap, on a Tuesday, at four, on the couch in the room behind the pharmacy, with her white coat folded under her head. The third was a second helping she turned down, at her mother's table. Nobody in the Raman family has ever turned down a second helping. Lakshmi noticed too. I saw her notice, across the table, and say nothing, and put a second portion in a container for Maya to take home.
 
-In the second week of September she began to leave the kitchen when I made coffee. She said it smelled *loud.* I asked her about it once, lightly, at the counter: *you okay?* She said the smell was loud, and she'd been sleeping badly, and she was fine. I counted three things. I did not add them.
+In the second week of September she began to leave the kitchen when I made coffee. She said it smelled *loud.* I asked her about it once, lightly, at the counter: *you okay?* She said the smell was loud, and she'd been sleeping badly, and she was fine. I counted four things. I did not add them.
 
-In February, at a kitchen table, with an envelope, I'd been told what to do with something like that. *Don't fix. Just be the one I tell.* It has a second part, which nobody mentions, which is that you have to leave room for it. I had built a company out of the idea that you notice, and tell a person, and I stood in my own kitchen with three pieces of evidence and let her keep them. On the eighteenth I caught myself in the bathroom mirror, rehearsing the face I'd make. It was a good face. It was *surprised.* I heard it over the faucet, and stopped, and washed my hands, and went back out.
+In February, at a kitchen table, with an envelope, I'd been told what to do with something like that. *Don't fix. Just be the one I tell.* It has a second part, which nobody mentions, which is that you have to leave room for it. I had built a company out of the idea that you notice, and tell a person, and I stood in my own kitchen with four pieces of evidence and let her keep them. On the eighteenth I caught myself in the bathroom mirror, rehearsing the face I'd make. It was a good face. It was *surprised.* I heard it over the faucet, and stopped, and washed my hands, and went back out.
 
 ---
 
@@ -67,7 +67,7 @@ I got on a call. I told her about a man on a floor, and a woman named Lena whose
 
 At 4:10, the transfer went through. Priya sat across the glass table with her laptop, and turned it toward me, and on the screen was a browser, and in the browser was the word. I'd typed it ten thousand times. I hit enter and it loaded a page with a gray box, a sentence, and a form. Priya had written the sentence. It said, *Is anyone there?*
 
-"It's a lot of money for a word," said Priya. (The round had closed in June. She says that's the only reason she let me.)
+"It's a lot of money for a word," said Priya. (The round had wired in June. She says that's the only reason she let me.)
 
 "It's the word we started with."
 
@@ -165,7 +165,7 @@ I couldn't say anything. I looked at the fish going in and out of the castle.
 
 She'd taken out of her bag something I knew: a pencil, about two inches long, sharpened with a kitchen knife, with a flat brown end where a thumb had been, and on the barrel, the remains of a name in worn gold. She held it as one would hold a small bird. "I used this. This morning. On the back." She picked up her napkin, and without turning it over, put it into the pocket of her coat, which she had, I saw, brought after all, and which hung on the hook by the door. "I'm not ready for you to read it yet. It's—" She stopped. "Can you wait?"
 
-I looked at her. I looked at the napkin, the small gray corner of it, in the pocket of the coat. I'd had three pieces of evidence for five weeks.
+I looked at her. I looked at the napkin, the small gray corner of it, in the pocket of the coat. I'd had four pieces of evidence for five weeks.
 
 "Yes," I said.
 
@@ -205,7 +205,7 @@ I crossed the kitchen. I took the napkin out of her hand, which was cold. I turn
 
 I read it. I read it again.
 
-April. I did the arithmetic, which I've never been able to stop doing. Seven months of runway, and for once in my life I wanted to be on it. And then I thought nothing. I stood in a kitchen with a paper in my hand that weighed less than a coin, and my mind did what it does when a large number goes through it, which is: it was quiet. Then it wasn't. Something came up through me from about the knees, and I understood that it was not surprise. I'd known. I'd had three things on a list, and I'd waited five weeks, and I'd practiced my face in a mirror, and none of it had been any use whatever.
+April. I did the arithmetic, which I've never been able to stop doing. Seven months. For once in my life I wanted a countdown. And then I thought nothing. I stood in a kitchen with a paper in my hand that weighed less than a coin, and my mind did what it does when a large number goes through it, which is: it was quiet. Then it wasn't. Something came up through me from about the knees, and I understood that it was not surprise. I'd known. I'd had four things on a list, and I'd waited five weeks, and I'd practiced my face in a mirror, and none of it had been any use whatever.
 
 "Maya," I said.
 
@@ -244,7 +244,7 @@ Note to self, and to you, whoever you turn out to be.
 
 At work, noticing is the whole product. Loopback notices when someone goes quiet and tells the person they chose. I've spent three years getting good at it: the second ring, the named person, the text that says someone has it. And the first rule of the product is the one I almost forgot at home: the person presses the button herself. We never told anyone anything she hadn't agreed to.
 
-At home I noticed three things in five weeks, and I did the one thing the product allows. I asked once, lightly. *You okay?* Maya gave me an answer that made sense: the coffee smelled loud, she'd been sleeping badly. It was plausible. It was probably even true, as far as it went. And I decided, on purpose, to take it. That was the hard part. Noticing is easy; I'm built for it. Choosing to believe a reasonable answer, when some part of me suspects a bigger one, is respect. She was allowed to have something that was hers before it was ours. I wasn't owed it on my schedule.
+At home I noticed four things in five weeks, and I did the one thing the product allows. I asked once, lightly. *You okay?* Maya gave me an answer that made sense: the coffee smelled loud, she'd been sleeping badly. It was plausible. It was probably even true, as far as it went. And I decided, on purpose, to take it. That was the hard part. Noticing is easy; I'm built for it. Choosing to believe a reasonable answer, when some part of me suspects a bigger one, is respect. She was allowed to have something that was hers before it was ours. I wasn't owed it on my schedule.
 
 Rule: notice, ask once, accept the answer, and leave a door open on my side. If it's something she wants me to know, she'll say it. If I go in and get it, I've taken the one thing she gets to give.
 

@@ -31,7 +31,7 @@ She picked up on the first ring. I could hear typing behind her, fast.
 
 "You have it," I said. "I'm going to the hospital. It's Maya's father."
 
-"Ines is on," said Priya. "Dolores called me a few minutes ago, from Meridian. I have it." There was a short pause, in which I could hear her decide not to say any of the things she could have said. "Is he all right?"
+"Ines is on," said Priya. "Dolores Reyes called me a few minutes ago, from Meridian. She's the night tech who watches our feed. I have it." There was a short pause, in which I could hear her decide not to say any of the things she could have said. "Is he all right?"
 
 "I don't know."
 
@@ -111,7 +111,7 @@ I went last. It was after three. The bay smelled of alcohol and clean sheets. Su
 
 "I do."
 
-"Good. That is what I told you." He lay there with the monitor going. "I have been a man for sixty-six years who told no one. Three days I had it. It is a pressure here." He moved a finger toward his sternum. "I took the long way to the stockroom. I said to myself, it is nothing, it is indigestion, it is the dal." There was a long pause. "I have a daughter who says *no hurry,* and a son who says *we do not ask.* I heard them. I thought, they are right. I thought, it is a good family."
+"Good." He lay there with the monitor going. "I have been a man for sixty-six years who told no one. Three days I had it. It is a pressure here." He moved a finger toward his sternum. "I took the long way to the stockroom. I said to myself, it is nothing, it is indigestion, it is the dal." There was a long pause. "I have a daughter who says *no hurry,* and a son who says *we do not ask.* I heard them. I thought, they are right. I thought, it is a good family."
 
 I stood still.
 
@@ -179,7 +179,7 @@ I'd gone home to sleep for three hours and to put on a different shirt. I came b
 
 "What did it feel like?"
 
-"Heavy," said Priya. "And like it was mine." She stood. She put the cup in the trash. She took off the lanyard and gave me, without ceremony, the small black key. "Every named person needs a second. I said that on the Thursday call in January, while you were muted. I'm going to sleep for eleven hours, and I'd like you to be the second."
+"Heavy," said Priya. "And like it was mine." She stood. She put the cup in the trash. She took off the lanyard and gave me, without ceremony, the small black key. "Every named person needs a second, and so does every on-call person. I said that on the Thursday call in January, while you were muted. I'm going to sleep for eleven hours, and I'd like you to be the second."
 
 "I'm in a hospital."
 
@@ -233,7 +233,7 @@ I let her. I put my hands on the table, flat, where she could see them, and didn
 
 She waited.
 
-"The first month, you told me you'd live within forty minutes of that counter. Always. You said it so it wouldn't be a surprise later, and I said okay, and in two and a half years I've never said anything else." I made myself go on. "I'm not asking you to change it. I'm asking you not to hand it to me as weather. If something comes (a job, a city, a hospital for your mother in another county) I want us to say it out loud while it's still forty minutes. Not after it's forty-one."
+"That Christmas, you told me you'd live within forty minutes of that counter. Always. You said it so it wouldn't be a surprise later, and I said okay, and in two and a half years I've never said anything else." I made myself go on. "I'm not asking you to change it. I'm asking you not to hand it to me as weather. If something comes (a job, a city, a hospital for your mother in another county) I want us to say it out loud while it's still forty minutes. Not after it's forty-one."
 
 It took her longer than I'd expected. "That's fair," said Maya. "I said it like weather."
 

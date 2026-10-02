@@ -181,7 +181,7 @@ She looked at the clock. It was 6:31.
 
 She closed her eyes for a moment. She opened them.
 
-"You've given me a weekend," said Carla. She said it carefully, as a woman reading a number off a gauge. "Compliance would have found it on Monday morning, in a routine file check. By then it would have been eighty hours. I'd have been in a room with the general counsel, trying to explain why my vendor hadn't *said.*" She breathed out. "I've worked with nine vendors, Nate. Nine, in twenty-two years. Not one of them has ever walked into a stockroom and said the second thing."
+"You've given me a weekend," said Carla. She said it carefully, as a woman reading a number off a gauge. "Compliance would have found it on Monday morning, in a routine file check. By then it would have been nearly ninety hours. I'd have been in a room with the general counsel, trying to explain why my vendor hadn't *said.*" She breathed out. "I've worked with nine vendors, Nate. Nine, in twenty-two years. Not one of them has ever walked into a stockroom and said the second thing."
 
 "I should have caught the first."
 
