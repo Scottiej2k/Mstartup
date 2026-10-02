@@ -17,7 +17,7 @@ Kyle was at the counter with a mixing bowl of cereal. It was dinner. He looked a
 
 "Some of the investors are nice."
 
-"They're all nice. That's how you know." He picked the spoon back up. "They'll tell you they want founders with *conviction.* That's what they say instead of *no.*"
+"They're all nice. That's how you know." He picked the spoon back up. "They'll tell you they'll give you a call. That's what they say instead of *no.*"
 
 I objected to the framing, and I spent the next forty minutes unable to unhear it.
 
