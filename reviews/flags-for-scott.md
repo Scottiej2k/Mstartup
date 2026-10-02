@@ -1,39 +1,36 @@
 # Flags for Scott: checks to do before the full read-through
 
-Draft is complete: 24 chapters, ~98,000 words. Every chapter went through the cold-reader checker; Ch 18–24 and a whole-manuscript pass were fixed afterward. The reader (Version 47) has Ch 1–24.
+Status as of 2 October: all 15 tasks from the action plan (`reviews/action-plan.md`) are done. 24 chapters, ~98,100 words, every chapter re-read cold by the reference-checker after the revisions and the flagged problems fixed. The reader is at Version 52 and its database is synced. A second simulated publisher review is saved at `reviews/publisher-review-2.md` once it finishes.
 
-## A. Decisions only you can make (do these first)
+## A. Decisions only you can make
 
-1. **Ch 24 Founder's Note is a placeholder.** Options in `reviews/ch24-note-options.md`. My pick: no Note at all, or Maya's napkin line as the closing artifact. Alternatively "Leave room for the telling."
-2. **The napkin contents (Ch 24).** Nate's: *1. Priya. 2. Don't be the reason anyone's waiting. 3. Maya. Before the company.* Maya's: *1. My mother's list. 2. My name on my door. 3. To say it myself.* Line 4, in Lakshmi's pencil: *ELEVEN WEEKS. APRIL.* This pays the Ch 8 promise ("I'll tell you when I've earned the right"). I invented both lists. Maya's item 2 (she kept the Raman name) has no earlier plant beyond the name jokes in Ch 1–7.
-3. **Maya's job.** Ch 1/5/15 make her a nonprofit patient-instruction writer; by Ch 20–24 she is at the pharmacy daily in a white coat, doing the second check. I patched it: she drops to three days (Ch 20) and leaves the nonprofit in April Y4 (Ch 23). Confirm, or give her a licence/role of your choosing (is she a pharmacist? a tech? the manager?).
-4. **Lakshmi's pencil** (your deferred decision). Used: her stub pencil, pressed into Maya's hand at City Hall (Ch 19), is what Maya writes line 4 with (Ch 24). Say if you want something else.
-5. **Ray/Walt.** Letter mailed Sept 26 Y3 (Ch 19); no answer a year later (Ch 24). Left open for the sequel; Ray's fellowship first meeting is Oct 9.
-6. **Founder's Note principle lines.** Your standing decision was that the *Principle:* title lines fade over the book, and the parallel is stated outright only about one chapter in four. Ch 20–23 all carry principle lines, and several state the parallel flatly. Do you want those thinned?
-7. **Chapter lengths.** Over the 4,500 cap: Ch 1 (~4,700), Ch 18 (~5,550), Ch 19 (~6,240), Ch 21 (~5,150). Ch 18 holds three plots (rehearsal, the bug, families' dinner). Ch 19 is the climax; Ch 20–23 then run as a long denouement. Short: Ch 8, 10, 20, 23, 24 (~3,400–3,700). Say whether to split Ch 18 or trim.
+1. **Chapter 1 trim (needs your yes).** I did not touch approved text. `reviews/ch01-opening-proposal.md` has the proposal: cut about 400 words (4,576 to 4,172), drop the "hot girls" metaphor (Kyle now says "only one side has a checkbook... that's what they say instead of *no*"). The full proposed chapter is `reviews/ch01-proposed.md` and the changes are in `reviews/ch01-proposed.diff`. The reference-checker also noted a small timing slip in Ch 1 (Maya says she is "forty-one minutes" into her hour at 8:03, but then waits for 8:45 and Nate says "It's 8:26"); the fix is to change "forty-one" to "twenty-three" and the train to 6:42. I'd fold that into the same yes/no.
+2. **Sensitivity reads.** The brief is `reviews/sensitivity-brief.md`. Still needed: a Tamil/South Asian reader (Amma/Appa, aayasam, *Aiyo*, the Tamil line Lakshmi says in Ch 20, register and food, the wedding rituals), a domestic-violence advocate (Priya's cousin Meera, the "do not contact" flag, the Ch 18 incident), and a pharmacist and cardiac nurse (the near-miss log, wrong-strength catch, unstable angina and stent in Ch 23). The cultural pass in Ch 7, 13, 15, 16, 19, 20, 22, 23 is a draft until those reads are back.
+3. **Maya's job.** Now a licensed pharmacist who left retail dispensing to write patient instructions for a nonprofit, gives notice in April Y4, and runs her father's floor. Confirm.
+4. **Founder's Notes.** Six now take different forms (Ch 10 two scripts, Ch 13 the reminder text, Ch 15 Priya's table, Ch 17 Lakshmi's list, Ch 18 the timestamp log, Ch 21 the post-mortem timeline). Say if you want more or fewer. I did not build the optional back-matter "Nate's Playbook" (all the rules on one page). Want it?
+5. **Ray/Walt.** Letter mailed Sept 26 Y3; no answer a year later. Left open for the sequel.
+6. **Length.** Now ~98,100 words against the ~90,000 target. The cuts made (Ch 9, 13, 17, 22, 21's merge) were offset by the additions. Say if you want another cut pass.
 
-## B. Things I invented that you haven't approved (skim for taste)
+## B. What changed (so you know what you'll read)
 
-Priya's cousin (Ch 18, never explained; keep only if the sequel pays it off). Bernadette (Ray's night nurse). Ines Duarte, Tessa, Esperanza Villanueva, Winston (clerk), Kevin Chen (+ grandmother Mrs. Chen), Lucho (Store 31), Divya (Maya's cousin; Kyle's new partner), Dolores Reyes, Mateo Ibarra, Harold Beck / Lena, Ms. Adeyemi (postpartum, "9/12"), Mrs. Halvorsen / Fjellvik Footwear (loopback.com for $38,000), Lakshmi's near-miss notebook (planted Ch 7), Suresh's heart event (stent), Series A closing in June Y4 (never shown), Arjun (33, Seattle ER doctor). The redesign in Ch 21: enrolled person names two people; store named person with protected time and cover who calls the enrolled person himself; "Lena has seen this. She's on her way." sent only if she taps it.
+- **Restructure.** Old Ch 18 is split into Ch 18 *Rehearsal* (Store 9, the bug, the cost) and a new Ch 19 *Friday Should Be Small*. The wedding is now Ch 20. Old Ch 20 *After the Confetti* is gone; its best beats (the "np" text, Kevin, the Saturday-lines plant, the calendar invite, Thanksgiving) are condensed into the front of Ch 21. Ch 22 is cut and now shows the Series A signed in the room.
+- **Added.** Cake scene opening Ch 7; the live catch opening Ch 8; Maya at work (Ch 8); first kiss (Ch 9); "I love you" (Ch 11, 16); wedding kiss; Maya wrong and Nate right (Ch 12, 17); Nate puts his foot down (Ch 9, 21, 23); stakes in Ch 18; Priya's cousin Meera (Ch 20); the security-review scene (Ch 17); the aunt asking if Nate is Tamil and Arjun's skepticism (Ch 20); Derek answers the fish sign (Ch 20).
+- **Line pass.** "very" 161 down to about 11; "like a man/woman" similes 85 down to about 30; "a thing" 83 down to about 35; flat-hand gestures 27 down to 11; quarter-turns 33 down to 6 (Ray's cluster in Ch 4 is the plant); the "I'd like to say" narrator tic mostly cut. Maya's fluent self-diagnosis thinned in Ch 14, 16, 19, 21.
+- **Ch 24.** Clues are now four (Ray's ginger tea, the nap, the skipped helping, the smell of coffee); the Note ends on "a twelfth time someday, to someone who can't talk yet."
 
-## C. Things to verify outside my competence
+## C. Things I invented that you haven't approved (skim for taste)
 
-1. **Tamil words**: Saapteengala, Amma/Appa, aayasam, nimmadhi, kozhukattai, mysore pak; "Nathan" as Suresh's name for Nate. Needs a native speaker.
-2. **Medical/pharmacy realism**: Ch 21 near-miss (wrong strength, second check, pharmacy near-miss log), Ch 23 (unstable angina, stent, "home by Sunday", a pharmacy-run stockroom).
-3. **Meridian**: forty stores; "the other regions" are unspecified.
+Priya's cousin Meera; Bernadette (Ray's night nurse); Ines Duarte, Tessa, Esperanza Villanueva, Winston (clerk), Kevin Chen and his grandmother Mrs. Chen, Divya (Maya's cousin; Kyle's partner), Dolores Reyes, Mateo Ibarra, Harold Beck and his daughter Lena, Ms. Adeyemi (postpartum, "9/12"), Mrs. Halvorsen of Fjellvik Footwear (loopback.com for $38,000), Gerald (the pharmacy tech written up in Ch 18), Mr. Teague (Ch 8), Suresh's heart event, the $11M Series A, Arjun (33, Seattle ER doctor), Derek's sixth sign ("I DON'T EVEN LIKE FISH. — D."), Lakshmi's pencil as the fourth napkin line.
 
-## D. Known soft spots (consistency)
+## D. Known soft spots
 
-1. **Product mechanics drift.** Morning text at 6:00; the enrolled person gets an hour, then the named person ninety minutes. The Ch 12 voice-sample / wall-device debate, the SOS button (Ch 8), and the Activity view never reappear; the final product is text-only. A line in Ch 18 or 21 ("We never built the microphone") would close the loop. "Named person" means two things (the patient's person; the store's person).
-2. **Ch 3–8 timing** (weekday/day-count slips, e.g. Ch 4 "six days away", Ch 5 "day six" on a Wednesday). Small.
-3. **Ages**: Priya known "five years" in Ch 2/6 (now seven in Ch 18 — add where they met); Theo 24 in May Y2; Suresh ~63 (Ch 7) vs 66 (Ch 23, fix pending a decision).
-4. **Honest hour (6 a.m. ritual)**: set up in Ch 21's last scene, used in Ch 24.
-5. **Founder's Note and chapter mismatches**: Ch 10 Note's title doesn't match its lesson (answering the phone); Ch 19's body argues "what happens when you're not there"; Ch 21's Note is ~330 words; Ch 20's P.S. about the Thai place is not paid off.
+1. **Deliberately left open.** Gerald's "put it on a sign" is not called back. Tessa's wave from the car (Ch 14) has no later payoff. Ray's "quarter turn" is planted in Ch 4 and echoed in 5, 14, 16, but not in Ch 9 as the beat sheet planned.
+2. **Product drift.** The SOS button (Ch 8) never reappears; the final product is text-only. "Named person" means both the patient's person and the store's person (Ch 21 separates them). In Ch 17 Priya answers "Location?" with "No," which ignores the SOS exception on the Ch 8 wall.
+3. **Weekdays in Ch 4-9.** Ch 4/5 imply Oct 1 is a Friday; Ch 8/9 give Monday dates (Dec 15, Jan 5) that imply a Wednesday. Only a calendar-checker would notice.
+4. **"Second" used three ways** in Ch 21-23 (the customer's second person, Kyle as "second person," Nate as Priya's second). Ch 23 now says "every named person needs a second, and so does every on-call person."
+5. **Suresh's age** is about 63 (Ch 7) and 66 (Ch 23). Pick one.
+6. **Reader comment anchors** for old Ch 19-24 paragraph IDs no longer point at the same text after the renumber. All 33 existing threads are resolved, so nothing is lost, but any new comment on the old text will anchor to the new paragraph numbers.
 
-## E. Style: tics to trim in your read
+## E. Style: what to watch for in your read
 
-Estimated counts across the manuscript: "the way you'd…" similes ~100 (mostly Ch 1–8); "I'd like to say/tell you/the record" ~35; "very" ~160 and "a thing" ~150 (rising in Ch 13–24); "hand flat" ~50; "quarter turn" 12; "Hm" said by eight different characters (keep for Ray and Lakshmi); coat motif heavy (Ch 7 alone ~12); Lakshmi "adding a number to a column" ~6; "That's a very Nate/Maya way to put it" 5 (3 in Ch 21). The reader's Comment button works for any of these: I'll treat comments as edit requests.
-
-## F. Reader bug fixed this session
-
-The reader had never shown the Founder's Note principle line (the italic line under the label). Now fixed and published for all 24 chapters.
+"Hm" is said by Ray, Lakshmi, Carla and Dr. Okafor (keep it to them). Lakshmi "adding a number to a column" still turns up about six times. "That's a very Nate/Maya way to put it" is down but not gone. The coat motif is heavy in Ch 7. Use the reader's Comment button for any of these and I'll treat it as an edit request.

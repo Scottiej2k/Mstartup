@@ -37,7 +37,7 @@ company and building a marriage.
 | `reader/` | Built reading page (published as an Artifact). Rebuild with `python3 tools/build_reader.py` after any chapter change, then republish |
 | `tools/` | `build_reader.py` and its template |
 | `process/` | Working procedures: `edit-queue.md` (how Claude processes reader edit requests), `publish-update.md` (how chapter changes reach the reader and its Update button) |
-| `chapters/` | Drafted chapters (Ch 1 approved; Ch 2-24 drafted; Ch 24 Founder's Note reserved; awaiting Scott's review) |
+| `chapters/` | Drafted chapters (Ch 1 approved; Ch 2-24 drafted and revised per the action plan; awaiting Scott's review) |
 
 ## Review agents
 
