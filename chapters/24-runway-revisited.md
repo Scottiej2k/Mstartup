@@ -23,7 +23,7 @@ I'd noticed it in pieces. I do that now; I can't help it.
 
 The first was the coffee, at Ray's, on a Tuesday in the middle of August. Ray's coffee had been drinkable since the spring, which he considered a personal victory, and he poured her a cup, and she put her hand over it without looking and asked for water. She drank coffee when she was out and tea at home, with a mug in her hand every morning of her adult life, the way another person has a face, and she'd always liked the *smell* of the coffee I made. Ray said nothing. He put the cup back on the tray. A few minutes later he set down in front of her, without a word, a mug of ginger tea, which he does not drink, and which I had never seen in his house, and which he must have bought for the nurses, or for something. She looked at it. She looked at him. He was reading the paper.
 
-The second was a nap, on a Tuesday, at four, on the couch in the room behind the pharmacy, with her white coat folded under her head. The third was a second helping she turned down, at her mother's table. Nobody in the Raman family has ever turned down a second helping. Lakshmi noticed too. I saw her notice, across the table, and say nothing, and put a second portion in a container for Maya to take home.
+The second was a nap, on a Wednesday, at four, on the couch in the room behind the pharmacy, with her white coat folded under her head. The third was a second helping she turned down, at her mother's table. Nobody in the Raman family has ever turned down a second helping. Lakshmi noticed too. I saw her notice, across the table, and say nothing, and put a second portion in a container for Maya to take home.
 
 In the second week of September she began to leave the kitchen when I made coffee. She said it smelled *loud.* I asked her about it once, lightly, at the counter: *you okay?* She said the smell was loud, and she'd been sleeping badly, and she was fine. I counted four things. I did not add them.
 
@@ -93,7 +93,7 @@ I stood in the doorway of the bedroom. Maya was asleep, again, in the middle of 
 
 "I know it," I said. "Thank you for telling me."
 
-"Mm," said Ray. "There's another thing. A nurse called me last night. A night nurse, from Daly City. She'd seen a notice about the fund. She asked if she could apply." He cleared his throat. "I said yes. I said she could come to the house. There's going to be a first one, on the ninth of October. A meeting." He stopped, again. "Denise would have put her in charge of the dishes."
+"Hm," said Ray. "There's another thing. A nurse called me last night. A night nurse, from Daly City. She'd seen a notice about the fund. She asked if she could apply." He cleared his throat. "I said yes. I said she could come to the house. There's going to be a first one, on the ninth of October. A meeting." He stopped, again. "Denise would have put her in charge of the dishes."
 
 "I'll come."
 
@@ -109,7 +109,7 @@ We went to the dumpling place with the fish tank.
 
 It hadn't changed. There was the tank, with the plastic castle, and a fish going in and out of the castle as if trying to remember something. There was the same waitress, with the same expression, who looked at Maya for a good three seconds, and at me for rather longer, and said, "Ah." She brought hot tea in two cups and a plate of dumplings we hadn't ordered, and she didn't write anything down.
 
-We ate. Maya had water, and not the tea, and she ate the dumplings with her usual patience, and left the ones with the vinegar. We talked about the pharmacy, and a second location in Union City, whose lease Maya was negotiating, her first, and whose deposit she meant to pay with the one check she had ever taken from Loopback. She had read the lease twice, once for sense and once for traps. We talked about the rota, and Theo's two days, and Priya, and whether Kyle had said anything to Divya's parents, which Kyle had not. We talked about nothing in particular. At about eight, in the lull that comes after the plates are taken, I put my hand in my back pocket and took out my wallet.
+We ate. Maya had water, and not the tea, and she ate the dumplings with her usual patience, and left the ones with the vinegar. We talked about the pharmacy, and a second location in Union City, whose lease Maya was negotiating, her first from scratch, and whose deposit she meant to pay with the first check she had ever taken from Loopback, a slice of her shares that Margo's round had let her sell. She had read the lease twice, once for sense and once for traps. We talked about the rota, and Theo's two days, and Priya, and whether Kyle had said anything to Divya's parents, which Kyle had not. We talked about nothing in particular. At about eight, in the lull that comes after the plates are taken, I put my hand in my back pocket and took out my wallet.
 
 "It's tonight, isn't it?" said Maya. She'd said it in the spring, over the dishes: *at the first anniversary, if we still want to.* "The napkins."
 

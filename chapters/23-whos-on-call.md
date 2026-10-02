@@ -195,7 +195,7 @@ On Sunday night, we sat at the kitchen table.
 
 Suresh was home. He'd been told: four days a week at the store, then three; no lifting for a week; a pill in the morning and one at night, in a plastic box with the days on it, which Lakshmi had taken from him on the first evening and now held. He'd said, in the car, to the windshield, "I am not retired." Lakshmi had said, "No," in the way that means *yes.* He'd said that he would be at the store on Monday at nine, and she'd said that was fine, and that she'd be there at eight.
 
-It was past ten. Maya had a mug in front of her, and her hands around it. She had not cried in three days. She'd left the clinic-forms job in April, one Monday, the way she does things, and now she ran the business side of her father's pharmacy, which is to say everything that wasn't the counter.
+It was past ten. Maya had a mug in front of her, and her hands around it. She had not cried in three days. She'd left the nonprofit in the spring, and now she ran the business side of her father's pharmacy, which is to say everything that wasn't the counter.
 
 I had a laptop in my bag. I could feel it there, against the leg of the chair. It had a spreadsheet in it, already, in a manner of speaking: I'd begun, on Friday, in the cardiac unit, to think about the store's staffing, and the schedule, and the days she'd now need to cover, and the cost of a second part-timer, in four columns. I'd got as far as the header row. I hadn't opened it. I'd noticed that I hadn't.
 

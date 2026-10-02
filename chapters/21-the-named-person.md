@@ -246,7 +246,7 @@ I was in a room with Margo's accountant. I read it on the phone under the table.
 
 She was in the kitchen. The light was on over the stove. She was not crying. She was standing upright, with her own coat still on, which I'd learned, by then, to read.
 
-Kevin had given a woman the wrong strength.
+Kevin had given a woman the wrong strength, on the afternoon Maya had taken off from the clinic-forms job.
 
 It was a blood-pressure pill, in a bag, at a quarter past three. Maya had caught it on the second check, as she does, and run out into the parking lot in her white coat and found the woman at her car, and swapped the bag. Nothing happened. She'd called the woman at home that evening, to be sure. She'd stayed until seven. She had not told her father.
 

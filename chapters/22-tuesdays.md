@@ -91,9 +91,9 @@ Priya had one more page.
 
 She put it on Margo's desk after we'd signed, under the pen, and she did not look at me. It was two paragraphs. *Advisory agreement. Maya Raman, Founding Advisor. One percent of the company, fully vested at signing.* "I'd like this added to the round," said Priya.
 
-I read it twice. *Fully vested* was the phrase that did it. I knew exactly who had written *no cliff.*
+I read it twice. *Fully vested* was the phrase that did it. Priya had been waiting two years to answer a joke I'd made at my parents' table.
 
-"I should have done it in March," said Priya, to Margo, not to me. "The message rewrite, four minutes. Teach-back. The Tuesday test. The card in the bag. A no is a complete answer. She's been our advisor for two years, unpaid, and I'm calling it that so your lawyers have a word. She'll call it something else."
+"I should have done it in March," said Priya, to Margo, not to me. "The message rewrite, four minutes. Teach-back. The Tuesday test. The card in the bag, which she drew. A no is a complete answer. She's been our advisor for two years, unpaid, and I'm calling it that so your lawyers have a word. She'll call it something else."
 
 "Does Maya know?" I said.
 
@@ -109,17 +109,19 @@ I told her that night at the kitchen table, with the page between us. She read i
 
 "Priya wants it called work."
 
-"Priya's right. She usually is." She turned the page over, and back. "I'll say yes. Not as a present. Because I did it." She took the pen from the cup. "And I want it in my name only. I'm not putting it in the pharmacy, and I'm not putting it in *us.* When it's worth something, it goes toward the second location. My deposit. My name on the lease."
-
-"That's reasonable."
-
-"It's not reasonable. It's mine." She signed. Then she tapped the words *fully vested* and looked up, and I saw her mouth begin to move. "No cliff?"
+"Priya's right. She usually is." She turned the page over, and back, and tapped the words *fully vested.* "No cliff?"
 
 "Priya did that."
 
 "Hm," said Maya, which is the sound she makes when she's pleased and trying not to be. "There's no schedule."
 
-"There's no schedule," I said, and she slid the page back across the table, the way you return something you've borrowed and kept in good condition.
+"There's no schedule," I said. "Yes. Whatever you want. Yes." It was the fastest yes of my career, and nobody had asked me for it.
+
+"I'll say yes too. Not as a present. Because I did it." She took the pen from the cup. "And I want it in my name only. I'm not putting it in the pharmacy, and I'm not putting it in *us.* When it's worth something, it goes toward a second store, someday. My deposit. My name on the lease."
+
+"That's reasonable."
+
+"It's not reasonable. It's mine." She signed, and slid the page back across the table, the way you return something you've borrowed and kept in good condition.
 
 ---
 
@@ -193,7 +195,7 @@ On the third Tuesday after that, he came to Ray's, in the sand-colored jacket, w
 
 ---
 
-The pharmacy's new rooms opened on a Saturday, the third of June, with a red ribbon from the party store across the door of what had been, for a year and a half, an empty nail salon. Above it was a long white sign that my father had printed on a label machine the size of a suitcase and mailed in a tube. **CONSULTATION. VACCINATIONS. TUESDAYS 4–7 NO APPOINTMENT.** Beneath it, in Lakshmi's marker: **THIS MEANS MAYA.** Tuesday had been Maya's choice; she'd given notice at the clinic-forms job that April, one Monday, the way she does things, to become the pharmacy's business manager, full time. The books, the lease and the hiring were hers now, and the new rooms were her first project. It was the day, she said, that nobody calls anyone back.
+The pharmacy's new rooms opened on a Saturday, the third of June, with a red ribbon from the party store across the door of what had been, for nearly two years, an empty nail salon. Above it was a long white sign that my father had printed on a label machine the size of a suitcase and mailed in a tube. **CONSULTATION. VACCINATIONS. TUESDAYS 4–7 NO APPOINTMENT.** Beneath it, in Lakshmi's marker: **THIS MEANS MAYA.** Tuesday had been Maya's choice; she'd given notice at the clinic-forms job, the nonprofit, that April, one Monday, the way she does things, to become the pharmacy's business manager, full time. The books, the lease and the hiring were hers now, and the new rooms were her first project. Suresh, told on a Sunday, said "Ah," and went to look for his glasses, which were on his head. It was the day, she said, that nobody calls anyone back.
 
 Sixty or so people stood on the sidewalk in the Fremont sun, which for a pharmacy is something like a mob. Mr. Alvarez wore a jacket and tie, with a lollipop from his daughter in the breast pocket where it stuck out like a pen. Kevin held the scissors like a surgical instrument. Suresh was meant to speak. He looked at the crowd, and at the index card in both hands.
 
@@ -202,6 +204,7 @@ Sixty or so people stood on the sidewalk in the Fremont sun, which for a pharmac
 Maya stood at the ribbon in her white coat. She didn't cut it. She held the scissors out to her father, handles first, as one does with something sharp, and he looked at them, and at her. He cut the ribbon. It took him two tries.
 
 Lakshmi, at the edge, had her hand over her mouth. She was crying and was, as far as one could tell, entirely furious about it.
+
 ---
 
 My father texted on a Tuesday evening in June, the sixth, at 9:42.
@@ -239,6 +242,7 @@ It was the longest conversation we'd ever had by text, and it had two questions 
 ---
 
 Annie flew in from Dayton for Kyle's birthday on a Saturday in the middle of June, with a bag of buckeye candies for the whole table and the expression of a woman who has been told she may speak to someone in authority. At the restaurant yard, she took Kyle's phone away and read his messages aloud. "He's got a *Divya,*" said Annie, and Divya, small and precise, with a laugh that appeared without warning like a bird out of a bush, said, "He's asked me one question tonight. I counted," and Jules, sipping her wine, said, "He's stopped advising people," in the tone of a public defender watching a plea go through. Kyle sat an inch from Divya, listening to her with his whole face. He blew out the single candle, which was in the shape of a cereal bowl. He looked at Divya before he made the wish, and I saw him decide not to tell.
+
 ---
 
 It was a Tuesday again, the twentieth, when I finally said it aloud, and I said it badly.

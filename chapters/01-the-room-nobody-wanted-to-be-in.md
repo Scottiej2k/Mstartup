@@ -1,7 +1,7 @@
 # Chapter 1
 ## The Room Nobody Wanted To Be In
 
-At 6:40 on a Thursday in late July I was standing in our hallway in my second-best shirt, holding my best shirt, and I knew the night was already going badly.
+At 6:10 on a Thursday in late July I was standing in our hallway in my second-best shirt, holding my best shirt, and I knew the night was already going badly.
 
 Kyle was at the counter with a mixing bowl of cereal. It was dinner. He looked at the two shirts the way a man looks at two menus in a restaurant he has already decided not to eat at.
 
@@ -81,11 +81,11 @@ The lanyards at the Founders & Funders Mixer came with color-coded stickers, a d
 
 I've told this story eleven times now. Maya tells it differently. In her version, I walked up to her at 8:26 with a plan. She's technically right that I had one; it was folded in my pocket, and it wasn't about her. In mine, she was standing by the exit like a person who had budgeted precisely one hour for this and was already forty-one minutes into it, and I did not have a plan for her. I had a cup.
 
-It was the last week of July, in the ballroom of a hotel in SoMa that had been designed by someone who had heard of ballrooms. There was a table of sliders that had been sliders since at least Thursday, and a bar serving a pinot noir in the sense that it was red and had once been introduced to a pinot noir at a party. On a little stage, under a banner that said **BUILD SOMETHING THAT MATTERS** in a font that did not, a technician was adjusting a microphone for a man who was about to tell us about conviction.
+It was the last week of July, in the ballroom of a hotel in SoMa that had been designed by someone who had heard of ballrooms. There was a table of sliders that had been sliders since at least Tuesday, and a bar serving a pinot noir in the sense that it was red and had once been introduced to a pinot noir at a party. On a little stage, under a banner that said **BUILD SOMETHING THAT MATTERS** in a font that did not, a technician was adjusting a microphone for a man who was about to tell us about conviction.
 
 Around me, two hundred people were asking each other the only question anyone in the Valley asks, which is *So what are you working on?* It isn't really a question. It's a handshake with a subtitle. You say the name of your company. They say the name of theirs. Both of you say "Oh, nice," in the tone of someone being handed a stranger's baby. (Kyle had been right about the speed dating. He'd only been wrong about the speed. Speed dating, at least, has a bell.)
 
-By eight o'clock I'd had three of these conversations. A man raising a seed round (the first real money a startup raises, so called because it's supposed to grow) for a compliance startup that helped other compliance startups. A woman who described herself as "pre-idea, post-pitch." And a guy who told me his company was "Stripe for pets" and then asked whether I knew anyone at Stripe.
+By ten past eight I'd had three of these conversations. A man raising a seed round (the first real money a startup raises, so called because it's supposed to grow) for a compliance startup that helped other compliance startups. A woman who described herself as "pre-idea, post-pitch." And a guy who told me his company was "Stripe for pets" and then asked whether I knew anyone at Stripe.
 
 "What are *you* working on?" he asked.
 
@@ -320,7 +320,7 @@ The room took a little breath, the way rooms do when the one quiet person leaves
 
 I didn't go find the woman from Bluebird Ventures. So much for item one; I'd finish the night zero for two on investors. I'd like to say it was principle. It was closer to the feeling of having eaten something real, and being unwilling, for a while, to ruin it with the sliders.
 
-I walked out through the same door. It was cold, in that thin, bright way San Francisco has when the fog hasn't quite arrived. I was at the crosswalk on Third Street, waiting for the light, when I noticed I was still holding the cup. It was full. I'd held it for the better part of two hours without taking a sip.
+I walked out through the same door. It was cold, in that thin, bright way San Francisco has when the fog hasn't quite arrived. I was at the crosswalk on Third Street, waiting for the light, when I noticed I was still holding the cup. It was full. I'd held it for the better part of an hour without taking a sip.
 
 I drank it. All of it, standing there, like a man who'd walked out of a desert. I was, I discovered, thirsty.
 

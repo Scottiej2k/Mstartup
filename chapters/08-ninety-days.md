@@ -65,7 +65,7 @@ Forty thousand dollars. It was most of a year of Priya's half salary. It was a r
 
 Renata waited. "May I ask why? It's a standard—"
 
-"If the message says *Corvane* at the bottom, then a person reading it at six a.m. is wondering who's asking. It has to be from somebody who only wants to know if she's okay." "I think that's all it has. If we put anything else on it, it stops having that."
+"If the message says *Corvane* at the bottom, then a person reading it at six a.m. is wondering who's asking. It has to be from somebody who only wants to know if she's okay. I think that's all it has. If we put anything else on it, it stops having that."
 
 There was a short silence on the line. "That's a real point," said Renata Whitlock, and meant it, which I hadn't expected. "Good luck. Call me if you change your mind."
 
@@ -161,7 +161,7 @@ At 10:40, the door opened, and a young woman pushed a wheelchair in backward, wi
 
 His daughter, Gloria, who'd driven down from Sacramento, had the look of someone who'd been apologizing all morning and hadn't reached the end of it. "We didn't know anyone was looking," she said. "Nobody told us anyone was looking. I'm so sorry."
 
-"It's a fax," said Suresh, from the glass, without turning around. It was the first time I'd heard him speak that morning. "Dr. Lin's office replied on December twelfth. *Patient in skilled nursing since nine twenty. No action needed.*" He filled in a label with his pen. "Four weeks after that Saturday. Eleven after the first one. The machine said OK."
+"It's a fax," said Suresh, from the glass, without turning around. It was the first time I'd heard him speak that morning. "Dr. Lin's office replied on December twelfth. *Patient in skilled nursing since nine twenty. No action needed.*" He filled in a label with his pen. "Four weeks after I watched him send it. Eleven after his first. The machine said OK."
 
 Mr. Alvarez looked at the laminated sheet taped to the counter, the big cloudy one with the little pencil arrow, and then at Maya, who had gone to the far end of the counter to straighten something that was straight.
 

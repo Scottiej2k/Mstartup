@@ -117,7 +117,7 @@ She slid a single sheet of copy paper across the desk, with the numbers written 
 
 "By the other one. You'd be stupid not to be."
 
-"One question first. What happens when somebody large puts this in a phone?"
+Margo held up a finger. "One question first. What happens when somebody large puts this in a phone?"
 
 "They will," I said. "They'll build the one Sable wanted. It'll watch you, and people will notice, and some of them will want the one that asks."
 

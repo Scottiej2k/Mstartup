@@ -81,7 +81,7 @@ He was sitting at the top of the steps in a rumpled blue shirt, with a plate on 
 
 "I'm the groom."
 
-"Same thing, in this family." He moved over. I sat. We looked at the lemon tree. "I should tell you I wasn't a fan. Not of you. Of the idea. She's had a store she was supposed to leave for four years and a store she was supposed to inherit, and then a man with a startup walks in with a spreadsheet and feelings about *systems.* I looked you up. Your company sounds like a pastry." He ate nothing off the plate. "She said you asked my father for his permission. He told me, in the car. He said it twice. I think it's the longest conversation he's had about a person in a decade."
+"Same thing, in this family." He moved over. I sat. We looked at the lemon tree. "I should tell you I wasn't a fan. Not of you. Of the idea. She's had a store she was supposed to leave for four years and a store she was supposed to inherit, and then a man with a startup walks in with a spreadsheet and feelings about *systems.* I looked you up. Loopback sounds like a pretzel." He ate nothing off the plate. "She said you asked my father for his permission. He told me, in the car. He said it twice. I think it's the longest conversation he's had about a person in a decade."
 
 I laughed, and he did, a short, exhausted bark.
 
@@ -125,9 +125,9 @@ I put the card in my breast pocket, against the phone. I held out my hand, and h
 
 ---
 
-It was Winston.
+The officiant was Winston.
 
-I'd asked. I'd telephoned the office in August, before the dinner, and said, *is it possible to request an officiant?* and he'd said, in his dry, courteous voice, *you'd like me,* and I'd said yes, and he'd said, *I've been marrying people for thirty-one years. I've never been requested.* And then, after a pause, *I'd be honored.*
+I'd asked. I'd telephoned the office the day after the rehearsal and said, *is it possible to request an officiant?* and he'd said, in his dry, courteous voice, *you'd like me,* and I'd said yes, and he'd said, *I've been marrying people for thirty-one years. I've never been requested.* And then, after a pause, *I'd be honored.*
 
 He stood at the top of the white stairs, under the dome, in a gray suit and a mustache and a lanyard, with a small black book in one hand, in the gold light, and the rotunda was full.
 
@@ -241,7 +241,7 @@ Ray was standing at the edge of it in his jacket with a mug of coffee when I wen
 
 "I had help," said Ray. He didn't turn his head. "Dan came up in October, last year. He didn't ask. I never learned who told him. He arrived with a shovel and a thermos and started in on the east side." He took a sip. "We didn't say anything for nine days."
 
-My mother, it later emerged, had kept it secret for eleven months.
+My mother, it later emerged, was the one who'd told him, and had kept that secret for eleven months.
 
 "It was the best nine days I've had since Denise," said Ray.
 
