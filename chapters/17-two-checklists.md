@@ -73,7 +73,7 @@ I looked at Priya. She was sitting straight, with a single sheet of paper in fro
 
 "Location?"
 
-"No."
+"Only if the person presses SOS herself," said Priya. "Otherwise, no."
 
 "Message content?"
 
