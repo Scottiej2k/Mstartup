@@ -9,6 +9,8 @@ The pharmacy had no weather. It was in a strip mall on Mission Boulevard in Frem
 
 Inside, there was a rack of greeting cards, a scale you could stand on for a quarter, and a long white counter with a glass partition behind it, where a man in a white coat was counting pills into a tray with the side of a spatula. There was a hook on the wall behind the counter, at about the height of a nine-year-old's shoulder. Maya hung her coat on it without looking, the way you'd hang it in your own hall.
 
+(She is a licensed pharmacist, which she'd mentioned the way you'd mention a library card. She'd worked this counter for three years after school, and then left to write the instructions instead of handing them over, for a nonprofit that sends her to clinics. The license sits in a drawer in Glen Park. It is, I'd gathered, a complicated drawer.)
+
 "Don't pitch," she said, very quietly, beside me.
 
 "I'm not going to pitch."
