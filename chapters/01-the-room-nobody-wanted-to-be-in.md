@@ -73,9 +73,9 @@ And there was the reason under the reasons. Priya was four months into half sala
 
 ---
 
-The first thing I noticed about Maya was that she was the only person in the ballroom who wasn't checking anyone else's lanyard.
+The first thing anyone did at the Founders & Funders Mixer was check everyone else's lanyard.
 
-The lanyards at the Founders & Funders Mixer came with color-coded stickers, a dating profile for your neck: green for *raising*, blue for *investing*, and orange for *seeking a co-founder*, which was the color of someone waiting at a bus stop for a bus that has been cancelled. I had a green sticker, which was a lie of ambition. I was an orange (my co-founder had not, strictly, committed) with a green sticker on. I also had a Notion page titled "Healthcare, something?", no customers, no product, and a cup of water I was holding the way a hostage holds a newspaper.
+They came with color-coded stickers, a dating profile for your neck: green for *raising*, blue for *investing*, and orange for *seeking a co-founder*, which was the color of someone waiting at a bus stop for a bus that has been cancelled. I had a green sticker, which was a lie of ambition. I was an orange (my co-founder had not, strictly, committed) with a green sticker on. I also had a Notion page titled "Healthcare, something?", no customers, no product, and a cup of water I was holding the way a hostage holds a newspaper.
 
 (I don't drink at these things. It isn't virtue. If I have a cup in one hand, nobody expects me to know what to do with the other.)
 
