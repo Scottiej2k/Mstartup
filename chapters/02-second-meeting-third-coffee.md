@@ -237,9 +237,9 @@ She left. I sat there with an empty cup and the feeling of having been graded by
 
 I wasn't there for what happened next. Maya's oldest friend, Jules, was, and Jules tells it with sound effects.
 
-According to Jules, Maya walked into the taqueria on Mission at 7:24, which is twenty-four minutes late, which Jules would like it known has happened twice in their friendship, and one of the times there was a fire. She ordered a carnitas burrito without looking at the menu, which, according to Jules, is her tell for a good mood. She sat down across from Jules, who had been waiting since seven and had opinions about it, and said, "So."
+According to Jules, Maya walked into the taqueria on Mission at 7:11, which is eleven minutes late, which Jules would like it known has happened twice in their friendship, and one of the times there was a fire. She ordered a carnitas burrito without looking at the menu, which, according to Jules, is her tell for a good mood. She sat down across from Jules, who had been waiting since seven and had opinions about it, and said, "So."
 
-"So," said Jules, a public defender with the demeanor of someone who has heard every version of *so* and been lied to by most of them. "Our date. You're twenty-four minutes late."
+"So," said Jules, a public defender with the demeanor of someone who has heard every version of *so* and been lied to by most of them. "Our date. You're eleven minutes late."
 
 "I walked."
 
