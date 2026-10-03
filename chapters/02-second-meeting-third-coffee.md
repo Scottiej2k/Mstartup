@@ -21,7 +21,7 @@ I want to be precise about the problem, which was not the wording. The problem w
 
 I wrote the first draft at 7:31.
 
-*Hi Maya!! It's Nate from the ballroom (water cup guy). Great meeting you!*
+*Hi Maya!! It's Nate from the ballroom (empty cup guy). Great meeting you!*
 
 I looked at the two exclamation points the way you look at a dent in a rental car, and deleted the message.
 
