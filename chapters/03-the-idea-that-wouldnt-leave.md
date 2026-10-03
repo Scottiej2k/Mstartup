@@ -33,9 +33,9 @@ I stopped typing.
 
 "I do the calling myself," she said. "Sunday nights, badly. My husband calls it my second shift." She took the glasses off. "If you build something, don't send me a deck. Send me something that works in a waiting room. Not a laptop. A waiting room."
 
-We walked back to the car in silence. "That's six people," said Priya, "and six different sentences."
+We walked back to the car in silence. "That's six people," said Priya, "and six different ways of saying the same thing."
 
-"The one with the notebook didn't use a sentence," I said.
+"The one with the notebook didn't say it at all," I said. "She just showed us the list."
 
 She looked at me. She had a small smile that I'd learned meant she'd decided not to say something and I should take it as praise.
 
