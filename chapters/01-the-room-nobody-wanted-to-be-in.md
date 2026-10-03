@@ -75,7 +75,7 @@ And there was the reason under the reasons. Priya was four months into half sala
 
 The first thing anyone did at the Founders & Funders Mixer was check everyone else's lanyard.
 
-They came with color-coded stickers, a dating profile for your neck: green for *raising*, blue for *investing*, and orange for *seeking a co-founder*, which was the color of someone waiting at a bus stop for a bus that has been cancelled. I had a green sticker, which was a lie of ambition. I was an orange (my co-founder had not, strictly, committed) with a green sticker on. I also had a Notion page titled "Healthcare, something?", no customers, no product, and a cup of water I was holding the way a hostage holds a newspaper.
+They came with color-coded stickers, a dating profile for your neck: green for *raising*, blue for *investing*, and orange for *seeking a co-founder*, which was the color of someone waiting at a bus stop for a bus that has been cancelled. I had a green sticker, which was a lie of ambition. I was an orange (my co-founder had not, strictly, committed) with a green sticker on. I also had a Notion page titled "Healthcare, something?", no customers, no product, and an empty cup I was holding the way a hostage holds a newspaper.
 
 (I don't drink at these things. It isn't virtue. If I have a cup in one hand, nobody expects me to know what to do with the other.)
 
@@ -95,7 +95,7 @@ By ten past eight I'd had three of these conversations. A man raising a seed rou
 
 Four months earlier I'd had a real answer to that question. I'd spent eight months and most of my savings on an inventory tool for small retailers, and it had died in March, quietly and in plain view, the way things die when you've built them without asking anyone if they wanted them. On slide three of the deck, under the word PROBLEM, was a statistic I'd found on the internet and never checked against an actual retailer. Priya, the only reason the code had ever worked, was still showing up, through "whatever this is," at half salary. I'd sent her a spreadsheet of options for what "this" might be. She'd replied with one word: *Sleep.*
 
-The man from Stripe for Pets was still in sight, scanning for someone better, when someone clapped me on the shoulder hard enough to spill a small amount of my water.
+The man from Stripe for Pets was still in sight, scanning for someone better, when someone clapped me on the shoulder hard enough to rattle my empty cup.
 
 "Nate Calloway," said Cole Whitaker. "Inventory guy!"
 
@@ -113,13 +113,13 @@ Cole had raised eighteen million dollars at twenty-six and wore it lightly, the 
 
 (It was, I noticed, Kyle's advice in a better jacket.)
 
-He did not catch me after. I stood there with my green sticker and my water and the distinct feeling of having been complimented in a language I didn't speak.
+He did not catch me after. I stood there with my green sticker and my empty cup and the distinct feeling of having been complimented in a language I didn't speak.
 
 My phone buzzed. Priya.
 
 **Status?**
 
-*Holding water. Surrounded by seed.*
+*Holding an empty cup. Surrounded by seed.*
 
 **Talk to one real person. Not a fund. A person with a problem.**
 
@@ -165,7 +165,7 @@ That got the corner of her mouth. Not the whole mouth. She looked at me for the 
 
 "I'm Nate," I said.
 
-"Maya." She glanced at my cup. "Your cup's full."
+"Maya." She glanced at my cup. "Your cup's empty."
 
 "I don't drink at these."
 
@@ -272,7 +272,7 @@ She looked at me as if checking whether I meant it. "There was a man who'd been 
 
 I laughed. She looked pleased, briefly, and then annoyed at being pleased, which was already an expression I was hoping to see again.
 
-"What about you?" she said. "Besides the water."
+"What about you?" she said. "Besides the cup."
 
 "I have a Notion page called 'Healthcare, something?'"
 
@@ -326,9 +326,7 @@ The room took a little breath, the way rooms do when the one quiet person leaves
 
 I didn't go find the woman from Bluebird Ventures. So much for item one; I'd finish the night zero for two on investors. I'd like to say it was principle. It was closer to the feeling of having eaten something real, and being unwilling, for a while, to ruin it with the sliders.
 
-I walked out through the same door. It was cold, in that thin, bright way San Francisco has when the fog hasn't quite arrived. I was at the crosswalk on Third Street, waiting for the light, when I noticed I was still holding the cup. It was full. I'd held it for the better part of an hour without taking a sip.
-
-I drank it. All of it, standing there, like a man who'd walked out of a desert. I was, I discovered, thirsty.
+I walked out through the same door. It was cold, in that thin, bright way San Francisco has when the fog hasn't quite arrived. I was at the crosswalk on Third Street, waiting for the light, when I noticed I was still holding the cup. I'd held it for the better part of an hour. I put it in the trash can on the corner, and my hand didn't know what to do, and I let it hang there.
 
 My phone buzzed.
 

@@ -162,3 +162,4 @@
 | 2026-10-03 | **Reader comment (thread f1197979), Ch 1:** "Sometimes we find out from an ambulance" (illogical) changed to "Sometimes we find out from the obituary." |
 | 2026-10-03 | **Reader comment (thread 342a1b34), Ch 1:** "She said it the way you'd say the name of a very small town" simplified to "She said it plainly." |
 | 2026-10-03 | **Reader comment (thread 3f4e705e), Ch 1:** "I don't remove a question mark without evidence" (evidence of what?) now "...until I have a customer"; the closing callback matches; Maya's "Get some evidence" and the Ch 16 echo stand (evidence = a customer). |
+| 2026-10-03 | **Cup made empty (Scott's answer):** Ch 1: Maya says "Your cup's empty"; every mention of water became "empty cup" (intro, the shoulder clap, "my empty cup", Priya's text, "Besides the cup"); the crosswalk drinking beat removed: Nate puts the cup in a trash can and his hand "didn't know what to do." |
