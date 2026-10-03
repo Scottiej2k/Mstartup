@@ -327,7 +327,7 @@ So I took out my phone. The first name on the list was a woman named Ruth who ra
 
 "That's how it goes," said Maya. "The little things you've been avoiding are always the heaviest."
 
-Before we left the bench, I mentioned my uncle. "He's a retired founder. He sold his company years ago. I go up to his place in the mountains and ask him questions."
+Before we left the bench, I mentioned my uncle. "He's a retired founder. He sold his company years ago. I go up to his place in the mountains, and he lets me ask him questions about how to succeed at business."
 
 "What kind of questions?"
 
