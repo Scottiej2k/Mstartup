@@ -179,6 +179,8 @@ She looked at me, expectantly. I obliged: I put the cup down on an empty table n
 
 "Better with the cup," I agreed, and took it back off the table.
 
+"It's strange to see awkwardness and confidence so close together like that," said Maya.
+
 ---
 
 I would like to tell you that I then said something charming. What I did was ask a question, which, it turns out, is the same thing.
