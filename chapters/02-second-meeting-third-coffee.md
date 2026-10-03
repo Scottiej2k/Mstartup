@@ -265,11 +265,11 @@ Jules looked at her for a moment. "Okay," she said. "Go on."
 
 According to Jules, there was then a long pause, filled by a large amount of chewing.
 
-"Are you being kind," said Jules, "or are you being useful?"
+"Is he asking you things," said Jules, "or are you just being a very good listener?"
 
-"To who?"
+"What's the difference?"
 
-"Him. You. Whichever." She stole a chip. "You did this with Adrian. You made yourself such a good listener he never had to be one. I just want you to make him do the reps."
+"One of you is doing the work." She stole a chip. "You did this with Adrian. You made yourself such a good listener he never had to be one. I just want you to make him do the reps."
 
 (Adrian, it turned out, was the ex. He used the word *promise* the way other people use punctuation.)
 
