@@ -19,7 +19,7 @@ She took it. "There's a runbook," I said. (The manual for the worst night.) "Ine
 
 "Then it breaks, and I answer." She said it without any weight. "That's the whole company. Go."
 
-I got as far as the door. Under the fish sign in the hall there was a sixth line, in a sixth marker, new, in a very small hand. **I DON'T EVEN LIKE FISH. — D.**
+I got as far as the door. Under the fish sign in the hall there was a fourth line, in a fourth marker, new, in a very small hand. **I DON'T EVEN LIKE FISH. — D.**
 
 I laughed, once, in the dark.
 

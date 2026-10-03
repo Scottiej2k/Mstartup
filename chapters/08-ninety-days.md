@@ -41,7 +41,7 @@ I didn't know what she meant. I'd learn. She made me write every time in that th
 
 The call from the drugmaker lasted nine minutes, and the part I think about lasted ten seconds.
 
-It was the fifteenth of December, a Monday, two in the afternoon, in the glass conference room at the coworking space, down the hall from the fish sign and its five markers. Priya sat across from me with her laptop closed, which she never did. The phone lay between us on the table in a puddle of speaker.
+It was the fifteenth of December, a Monday, two in the afternoon, in the glass conference room at the coworking space, down the hall from the fish sign and its three markers. Priya sat across from me with her laptop closed, which she never did. The phone lay between us on the table in a puddle of speaker.
 
 "I'll be direct," said Renata Whitlock. She was the director of patient engagement at Corvane, a company that made a pill for blood pressure and a second pill for what the first pill did to your ankles. She'd been sent our one-page description by a wholesaler who'd been sent it by Ruben Castellanos, the pharmacist in Milpitas, who had apparently been showing it to people like a photo of a grandchild. "I like what you're doing. I'd like to support it. Forty thousand dollars, twelve months, no control over the product. All we ask is a line at the bottom of each message. *Support provided by Corvane.* Small. Gray."
 
