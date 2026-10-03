@@ -278,7 +278,7 @@ I laughed. She looked pleased, briefly, and then annoyed at being pleased, which
 
 "With the question mark?"
 
-"I don't remove a question mark without evidence."
+"I don't remove a question mark until I have a customer."
 
 She laughed. It was a short laugh, and she seemed surprised by it, as if it were a thing she'd left in another coat. Then she told me she had never gone to a networking event in her life, and had formed the opinion that they were "extraction, with cheese."
 
@@ -368,7 +368,7 @@ I didn't mention that I'd also come home with a story. Kyle hadn't listed both.
 
 It was the single least useful sentence Kyle gave me that year, and he gave me a lot of them. I nodded like it was advice.
 
-I went to my room and opened the Notion page. I looked at the title for a while, and deleted the question mark. Then I put it back, because I'm not a person who removes a question mark without evidence.
+I went to my room and opened the Notion page. I looked at the title for a while, and deleted the question mark. Then I put it back, because I'm not a person who removes a question mark before he has a customer.
 
 Under it, I typed: *Nobody's job is to notice.*
 

@@ -161,3 +161,4 @@
 | 2026-10-03 | **Reader comment (thread fcc75846), Ch 1:** added Maya's line after the cup exchange: "It's strange to see awkwardness and confidence so close together like that," said Maya. |
 | 2026-10-03 | **Reader comment (thread f1197979), Ch 1:** "Sometimes we find out from an ambulance" (illogical) changed to "Sometimes we find out from the obituary." |
 | 2026-10-03 | **Reader comment (thread 342a1b34), Ch 1:** "She said it the way you'd say the name of a very small town" simplified to "She said it plainly." |
+| 2026-10-03 | **Reader comment (thread 3f4e705e), Ch 1:** "I don't remove a question mark without evidence" (evidence of what?) now "...until I have a customer"; the closing callback matches; Maya's "Get some evidence" and the Ch 16 echo stand (evidence = a customer). |
