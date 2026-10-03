@@ -224,7 +224,7 @@ There was a pause long enough that a man in a quarter-zip drifted over, saw her 
 
 "What happened to him?"
 
-"He moved to Fresno to be near his daughter. He's fine." She said it quickly, and then didn't move. "That's the good ending. It's not always the ending. Sometimes we find out from an ambulance."
+"He moved to Fresno to be near his daughter. He's fine." She said it quickly, and then didn't move. "That's the good ending. It's not always the ending. Sometimes we find out from the obituary."
 
 I didn't say anything. I'd like to be able to tell you it was skill. It was that my stomach had done something unfamiliar, and I was letting it.
 
