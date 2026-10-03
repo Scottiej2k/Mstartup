@@ -260,7 +260,7 @@ She didn't leave. She also didn't move away from the door. I noticed that. It wo
 
 "What do you do?" I said. "When you're not being sent to ballrooms."
 
-"I work at a nonprofit. We help community clinics write patient instructions people can actually follow." She said it the way you'd say the name of a very small town. "I interview people about what they didn't understand."
+"I work at a nonprofit. We help community clinics write patient instructions people can actually follow." She said it plainly. "I interview people about what they didn't understand."
 
 "Give me one."
 
