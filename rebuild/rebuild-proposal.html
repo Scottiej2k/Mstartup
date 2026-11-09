@@ -1,0 +1,575 @@
+<title>Marriage Startup Rebuild</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=JetBrains+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400..600&display=swap">
+<style>
+/* Layout: one reading column, three views switched from a sticky bar. Same tokens as the manuscript reader. */
+:root {
+  --bg: #edf0f1; --paper: #fafbfb; --ink: #161b20; --muted: #5a6670; --rule: #d3dadf;
+  --accent: #1b5b72; --accent-ink: #ffffff; --slide: #15222c; --slide-ink: #e8eef1; --slide-mute: #9db0bb;
+  --msg-in: #e2e8eb; --msg-out: #d6e7ec;
+  --f-display: 'Bricolage Grotesque', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --f-body: 'Newsreader', Georgia, 'Times New Roman', serif;
+  --f-mono: 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1316; --paper: #141b20; --ink: #e3e8eb; --muted: #93a0a9; --rule: #27323a;
+    --accent: #74b9d3; --accent-ink: #0b1216; --slide: #1c2b36; --slide-ink: #eaf0f3; --slide-mute: #9fb2bd;
+    --msg-in: #1e282f; --msg-out: #1b3440; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e1316; --paper: #141b20; --ink: #e3e8eb; --muted: #93a0a9; --rule: #27323a;
+  --accent: #74b9d3; --accent-ink: #0b1216; --slide: #1c2b36; --slide-ink: #eaf0f3; --slide-mute: #9fb2bd;
+  --msg-in: #1e282f; --msg-out: #1b3440; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 19px; line-height: 1.62; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 30; background: var(--bg); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+.top { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20; background: var(--bg); border-bottom: 1px solid var(--rule); }
+.top-in { max-width: 760px; margin-inline: auto; padding-block: 10px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; }
+.brand { font-family: var(--f-display); font-weight: 700; font-size: 1.02rem; margin-right: auto; }
+.tabs { display: flex; flex-wrap: wrap; gap: 6px; }
+.tabs a { font-family: var(--f-mono); font-size: 0.74rem; letter-spacing: 0.02em; text-decoration: none; color: var(--ink);
+  border: 1px solid var(--rule); border-radius: 6px; padding: 7px 10px; }
+.tabs a:hover { border-color: var(--accent); }
+.tabs a[aria-current="page"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+
+main { max-width: 760px; margin-inline: auto; padding-block: 28px 80px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.sheet { background: var(--paper); border: 1px solid var(--rule); border-radius: 4px; padding: clamp(20px, 5vw, 52px); min-width: 0; }
+.meta { font-family: var(--f-mono); font-size: 0.72rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); margin: 0 0 18px; }
+
+h2, h3, h4 { font-family: var(--f-display); line-height: 1.15; text-wrap: balance; letter-spacing: -0.01em; }
+h2 { font-size: clamp(1.7rem, 5vw, 2.3rem); font-weight: 750; margin: 0 0 0.6em; }
+h3 { font-size: 1.32rem; font-weight: 700; margin: 2em 0 0.5em; padding-top: 1.1em; border-top: 1px solid var(--rule); }
+h4 { font-size: 0.8rem; font-family: var(--f-mono); font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); margin: 2.2em 0 0.4em; }
+p { margin: 0 0 0.95em; overflow-wrap: break-word; }
+ul, ol { margin: 0 0 1em; padding-left: 1.3em; }
+li { margin-bottom: 0.35em; }
+code { font-family: var(--f-mono); font-size: 0.8em; background: var(--msg-in); padding: 1px 5px; border-radius: 3px; overflow-wrap: anywhere; }
+hr.scene { border: 0; height: 1px; background: var(--rule); margin: 2em auto; width: 40%; }
+
+/* manuscript views */
+.prose h2 { font-family: var(--f-mono); font-size: 0.8rem; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); margin: 0 0 6px; }
+.prose h3 { font-size: clamp(1.7rem, 5vw, 2.3rem); font-weight: 750; border: 0; padding: 0; margin: 0 0 0.7em; }
+.prose h4 { margin-top: 2.4em; }
+.dash { font-family: var(--f-mono); font-size: 0.72rem; line-height: 1.7; background: var(--slide); color: var(--slide-ink);
+  border-radius: 4px; padding: 10px 12px; margin: 0 0 1.6em; overflow-wrap: anywhere; }
+.msg { font-family: var(--f-display); font-size: 0.92rem; line-height: 1.4; max-width: 78%; width: fit-content; padding: 8px 13px; border-radius: 14px; margin: 0 0 6px; }
+.msg.in { background: var(--msg-in); border-bottom-left-radius: 4px; }
+.msg.out { background: var(--msg-out); margin-left: auto; border-bottom-right-radius: 4px; }
+.msg strong, .msg em { font-weight: 500; font-style: normal; }
+.msg + p:not(.msg) { margin-top: 1.1em; }
+.note { background: var(--slide); color: var(--slide-ink); border-radius: 4px; padding: 18px 20px; margin: 1.6em 0; font-family: var(--f-mono); font-size: 0.8rem; line-height: 1.65; }
+.note p { margin: 0 0 0.8em; }
+.note p:last-child { margin-bottom: 0; }
+.note code { background: transparent; padding: 0; color: var(--slide-mute); font-size: 1em; }
+.front p { font-size: 0.98rem; }
+</style>
+
+<div class="top"><div class="top-in">
+  <div class="brand">The Marriage Startup · rebuild</div>
+  <nav class="tabs" aria-label="Views">
+    <a href="#plan">Plan</a>
+    <a href="#new-chapter">New Chapter 1</a>
+    <a href="#current-chapter">Current Chapter 1</a>
+  </nav>
+</div></div>
+
+<main>
+  <section id="view-plan" class="sheet">
+    <p class="meta">Proposal · 2,920 words</p>
+    <h2>The Marriage Startup: rebuild plan</h2>
+<h3>Where this stands</h3>
+<p>I reread all 24 chapters. The material is good: the people, the product, the humor and a dozen scenes are worth keeping. The flatness you feel comes from how the story is built, so no amount of line editing will fix it. Below is the diagnosis, a new spine, the story changes it needs, and an outline. A rewritten Chapter 1 is in <code>rebuild/01-talk-to-users.md</code> so you can judge the difference on the page. Nothing in <code>chapters/</code> or the reader has been changed.</p>
+<h3>Why the current draft reads flat</h3>
+<p><strong>1. Every danger is cancelled on the page where it appears.</strong> Mr. Peralta stops coming in: "He moved to Fresno to be near his daughter. He's fine." A text goes to a woman flagged for domestic violence: "She's fine. She's fine." Harold Beck lies on his kitchen floor for twelve hours: "He's home now. He's fine." Suresh's chest pain is a stent, and he is asking for his newspaper by the afternoon. This is a novel about people who go quiet and are not noticed, and nobody in it is ever lost.</p>
+<p><strong>2. Every chapter closes its own loop.</strong> Priya says she may not be here on the first (Ch 14). The next Monday Nate sits beside her desk for forty seconds and she draws him a table (Ch 15). Kyle walks out and is back in thirteen days with a hand truck. "Am I a project?" is settled by forty minutes on a couch. The reader never carries a question across a chapter break, and then the Founder's Note explains what they just read.</p>
+<p><strong>3. The narrator has already recovered.</strong> "It took me three weeks to learn that <em>thoughtful</em> was a door." "I want you to notice what I didn't say. I'll come back to it." Nate labels each mistake as a mistake while he is making it. We never see one coming that he can't.</p>
+<p><strong>4. Nate never does anything wrong enough to matter, and nobody opposes him.</strong> His offences are a spreadsheet, a calendar reminder and a bad joke. Ten characters correct him in the same wise, quotable voice, and all ten are on his side. Cole, the only possible rival, turns out to be generous. In Ch 12 Nate predicts a competitor ("They'll build the one Sable wanted. It'll watch you") and that competitor never arrives.</p>
+<p><strong>5. The premise is reported, never tested.</strong> Your premise is stronger than the draft. Some startup lessons carry over to a relationship, some run the other way, and some starkly don't apply. The Notes announce a result at the end of each chapter, so the reader never wonders which way a chapter will go.</p>
+<p>The prose has the same problem at a smaller scale. It runs in one gear: gentle, a simile every few lines, each paragraph ending on a soft button. That is charming for twenty pages and numbing over three hundred.</p>
+<h3>The new spine</h3>
+<p><strong>The book is a post-mortem.</strong> Your readers write these at work: timeline, root cause, what we change. Nate is writing one. The first page says he started a company and a marriage, ran both from the same playbook, and that the document exists because of what happened to one of them. He will not say which. The title promises a marriage, so the reader spends the book afraid the answer is the marriage.</p>
+<p><strong>There is a clock on every chapter.</strong> Each chapter opens with a dashboard line: days to the incident, cash, burn, runway. <code>T–935 days · Cash $31,870 · Runway 4 months</code>. The reader does not know what happens at T–0. Runway falls toward zero underneath the love story. After T–0 the count runs upward. The final header is a third countdown, in weeks, and it is the first one Nate has ever wanted.</p>
+<p><strong>The Founder's Notes stay, and become evidence.</strong> Each Note is what Nate wrote that night, pasted in unedited, confident and often wrong. The narrator stamps a verdict on it from the present: <em>Holds</em>, <em>Reverses</em> (home taught work), or <em>Breaks</em>. That is your premise turned into a mechanism. The Notes are also the file Nate keeps on Maya, and she finds it. The device the reader has been enjoying as the book's wisdom becomes the thing he is guilty of.</p>
+<p><strong>Chapters are named for the playbook.</strong> Talk to Users. Do Things That Don't Scale. Fake It Till You Make It. Stay Liquid. Move Fast and Break Things. Your audience knows every one, and each chapter tests one of them on a person.</p>
+<p><strong>Scenes are in present tense.</strong> Present tense cannot say "I've since learned." The older Nate speaks only in the frame, rarely, and only to raise dread.</p>
+<p><strong>Other voices come in as documents.</strong> Priya's texts, the incident log, Lakshmi's receipt roll, the dashboard. One late chapter belongs to Maya, in her voice, correcting his account.</p>
+<p>These map onto the books you named. The countdown and the confessing narrator are <em>Survivor</em>. Rules that get amended and broken are <em>Fight Club</em>. Documents and other witnesses are <em>World War Z</em>. Present tense, real stakes and chapters that end open are <em>The Hunger Games</em>.</p>
+<h3>Six story changes that need your yes</h3>
+<p><strong>1. Cole is Maya's ex, and later the competitor.</strong> He replaces Adrian. At the mixer Maya is standing by the exit with her back to the stage because the keynote speaker is the man who once put her mother's list on a slide. Later Cole ships the product Sable wanted: a daughter can enroll her father without his knowing, with location tracking. It signs up everyone, because it asks no one. Loopback's honest question got nine yeses from thirty-four people at Store 9. The book's ethics now carry a price.</p>
+<p><strong>2. Nate lies in Chapter 1, and keeps a file.</strong> He tells Maya he has no slide for her mother. He builds it at midnight, and it is what keeps Priya from taking another job. He files Maya under <em>Customers › Leads</em> and keeps adding notes for fourteen months. Nine days after the mixer Cole tells him about Maya. Nate says nothing to her, including on the night she tells him herself.</p>
+<p><strong>3. Someone dies.</strong> Winnie Abernathy, 81, is the first person who ever pressed the button. (She merges Mr. Abernathy with the "Potent Potables" caller.) The wrong-clock night in the current Ch 10 stays as Nate's finest hour, with one change. He tells her son Glenn, "If you ever get that message again," and Glenn says, "I'll know it's probably nothing." Two years later the alert is real, Glenn reads it eight hours late, and he lets it go. Lakshmi would have called until someone picked up, but she stopped calling when the system took over her list. The fix (a second person, and a human with an hour) had been designed and left on the roadmap until after the raise.</p>
+<p><strong>4. Nate chooses wrong first.</strong> The alert was delivered at 7:01, so the system performed as designed. With the Meridian review and a term sheet in the same week, he says exactly that to Lakshmi, at her table, in the pitch voice. The current Nate tells Carla the truth in nineteen minutes at no visible cost. This one has to pay his way back to it.</p>
+<p><strong>5. Maya leaves, five months into the marriage.</strong> She finds the file a second time, restored and still growing. She is gone about four months. He is not allowed a grand gesture. The reunion happens before the pregnancy and does not depend on it.</p>
+<p><strong>6. The company survives small.</strong> Nate publishes the real post-mortem with his name on it. Meridian exits under Section Nine, the clause he wrote for them. The Series A dies and he turns down Cole's offer to buy the company. Loopback becomes a small business that pays people to make calls. The work verdict on "do things that don't scale" is that it's a phase. The home verdict is that it's the whole job.</p>
+<h3>What stays</h3>
+<p>Maya, Lakshmi and the receipt roll, Suresh and the fax ("It does not say <em>read</em>"), Priya and her capitals, Kyle and the mixing bowl, Ray and the unsent letters, Carla, Dr. Okafor, Jules, the Calloways. Rule One. The fish sign. "Okay" with and without a period. The coat and the chain on the door. "Text me when you get there." The wrong clock. The DNC column. "Am I a project?" and "You listen like you're taking minutes." Sitting in the car. The City Hall rehearsal. The napkins. "ELEVEN WEEKS. APRIL." "I've got it." The address to the child.</p>
+<h3>What this reverses from your earlier calls</h3>
+<ul><li>You said to leave competitors alone for now. This plan needs one.</li><li>The Notes stop being diary advice and become exhibits with verdicts.</li><li>"You" appears from the first page. The reader does not learn who "you" is until the last chapter.</li><li>The $11M Series A and Maya's advisor stake go, or move.</li><li>The tone gets darker in the last third. It stays funny for the first two hundred pages.</li></ul>
+<h3>Outline</h3>
+<p>Thirty-one chapters of about 2,800 words, roughly 88,000 in all. Beats will move as I write.</p>
+<h4>Part One: Discovery</h4>
+<p><strong>1. Talk to Users.</strong> The mixer. He says he has no slide, then builds it, and it buys him Priya. <em>Left open:</em> Cole's text spells "Raman" correctly. <em>Verdict:</em> Holds.</p>
+<p><strong>2. Do Things That Don't Scale.</strong> Nate works Lakshmi's receipt roll by hand for a week. His first call is Winnie, who is watching Jeopardy. Maya is eleven minutes late to the taqueria and doesn't say why. <em>Left open:</em> Cole, over drinks: "Her mother's list was slide one of my seed deck." <em>Verdict:</em> Holds.</p>
+<p><strong>3. Fake It Till You Make It.</strong> He tells Dr. Okafor the pilot is "monitored around the clock." It is him and a cracked phone. Priya lets her offer expire and gives him ninety days. Maya explains why she doesn't date founders. He says, "That's awful." <em>Left open:</em> he doesn't tell her. <em>Verdict:</em> Holds at work. At home, pending.</p>
+<p><strong>4. Launch Before You're Ready.</strong> Three cheap phones in a waiting room. Winnie presses the button first. To make a number for Priya, Nate enrolls Lakshmi's whole list from a photo. Maya finds out from a patient. Rule One goes on the wall, in Maya's words. <em>Left open:</em> Maya: "I don't name anything for ninety days." <em>Verdict:</em> Breaks at home. Reverses: the company's first principle came from her.</p>
+<p><strong>5. Find People Who've Done It.</strong> Ray, the pond, Denise, the letter to Walt he rewrites every year. Ray lives alone on a mountain and refuses to be enrolled. <em>Left open:</em> the reader will worry about Ray for three hundred pages. <em>Verdict:</em> Holds, half.</p>
+<p><strong>6. Know Your Customer.</strong> The Ramans. The cake, the coat, "Nate. Cup. Sat." Suresh at the fax: "TRANSMISSION OK. It does not say <em>read.</em>" That sentence is the root cause, eight hundred days early. <em>Left open:</em> cash is $1,900. <em>Verdict:</em> Holds.</p>
+<p><strong>7. Stay Liquid.</strong> Cole's dinner, with Maya and Cole at one table. Someone asks who she is and Nate says "a friend." <em>Left open:</em> both ninety-day clocks end on the same Friday. <em>Verdict:</em> Breaks.</p>
+<p><strong>8. Default Alive.</strong> Dr. Okafor signs: $200 a month. Priya signs with her veto clause. Maya names it. First kiss. <em>Left open:</em> "Fifty-eight people were enrolled by the end of that month. I can give you every name. You need one." <em>Verdict:</em> Holds.</p>
+<h4>Part Two: Traction</h4>
+<p><strong>9. Move Fast and Break Things.</strong> The wrong clock: fifty-eight false alarms, thirty-four calls, Maya on speaker for three hours and forty-one minutes. Glenn turns his car around on Highway 99. <em>Left open:</em> "I'll know it's probably nothing." <em>Verdict:</em> Holds. The narrator adds nothing.</p>
+<p><strong>10. One-Year Cliff.</strong> Dayton. The joke at dinner. "There's no schedule. You're in." <em>Left open:</em> "Text me when you get there," and he still hasn't. <em>Verdict:</em> Breaks.</p>
+<p><strong>11. Take the Money.</strong> Sable offers $3M for a product with no consent. Margo offers $1.2M with the rule intact. Priya uses her veto for the first time. <em>Left open:</em> Cole: "Then somebody else builds it." <em>Verdict:</em> Holds.</p>
+<p><strong>12. Measure What Matters.</strong> The lease, "Maya (50%)", the fight with Kyle, the staffing model. The Notes about Maya get more precise and more clinical. <em>Left open:</em> he leaves the laptop open. <em>Verdict:</em> Holds at work.</p>
+<p><strong>13. What Gets Measured Gets Managed.</strong> The midpoint. Maya finds the file, fourteen months of it, under <em>Leads</em>. "I'm not a thing you're good at." One arm in the coat. She stays, on terms: delete it, and no more notes. <em>Left open:</em> he restores it on day twenty-nine. The reader is holding it. <em>Verdict:</em> none allowed.</p>
+<p><strong>14. Hire People Smarter Than You.</strong> The repair. Priya's table, the car, Lakshmi's warning, "You have nothing to say?" "No, sir." <em>Left open:</em> Carla calls about forty stores and he says "We'll be ready." <em>Verdict:</em> Reverses.</p>
+<p><strong>15. Know What Makes Them Leave.</strong> Ray's four questions. Maya on the bench: "If I found out you'd decided something about me, and you'd been right, and you hadn't asked." The file is open on his laptop at home. He proposes. She says yes. <em>Verdict:</em> Holds.</p>
+<h4>Part Three: Scale</h4>
+<p><strong>16. Blitzscale.</strong> Eighty-three items. Forty stores go live at 9:00 on the wedding morning. The 306-task wedding plan against Lakshmi's strip of paper. <em>Verdict:</em> Breaks.</p>
+<p><strong>17. Growth Solves All Problems.</strong> Cole launches. Store 9: nine yeses of thirty-four against his hundred percent. Then the welcome text goes to 1,412 people and Theo finds the DNC column. <em>Left open:</em> "Is the number hers?" "I don't know."</p>
+<p><strong>18. Bad News Fast.</strong> He tells Carla in nineteen minutes. The answer about the number takes nine days. <em>Left open:</em> Carla: "You always listen. I keep waiting for you to change something." <em>Verdict:</em> Holds.</p>
+<p><strong>19. Rehearse the Demo.</strong> "I need Friday to be small." City Hall, empty. Kept nearly as written. <em>Verdict:</em> Reverses.</p>
+<p><strong>20. Ship It.</strong> Launch at 9:00, ceremony at 11:00. Derek answers the fish sign. Nate's gift to Lakshmi is the first receipt roll, framed, with a plaque: RETIRED. She puts the pencil down. <em>Left open:</em> T–142 days.</p>
+<p><strong>21. It's on the Roadmap.</strong> Suresh's heart. Harold Beck on a floor; Lena's phone in a locker. Priya designs the fix. It is scheduled for after the raise. <em>Verdict:</em> Holds, and he doesn't ship it.</p>
+<p><strong>22. Transmission OK.</strong> T–0, told as a log with timestamps and almost nothing else. The weekend's dashboard reads: Not answered, 1. Persons notified, 1. Status, green.</p>
+<h4>Part Four: Post-Mortem</h4>
+<p><strong>23. Blameless.</strong> The lawyer, the term sheet, Cole on a panel saying his product would have sent someone in four minutes. He is not wrong. Nate at the Ramans' table, in the voice. <em>Left open:</em> Maya: "You said it like a slide."</p>
+<p><strong>24. Churn.</strong> She finds the file again, with an entry for last night's dinner. Both arms in the coat. The chain goes back on a door. There is a blank where the Note would be.</p>
+<p><strong>25. Know Your Exit.</strong> Six weeks of cash. Cole offers to buy Loopback: everyone keeps a job, and the rule goes away. Priya won't use her veto. "This one's yours." <em>Left open:</em> he drives to Modesto.</p>
+<p><strong>26. Talk to Users, again.</strong> Glenn's kitchen. No laptop, no voice. Glenn does not forgive him. He hands Nate his mother's phone: four hundred mornings of "A." <em>Verdict:</em> Holds, and this time it costs everything.</p>
+<p><strong>27. Fail Fast.</strong> The signed post-mortem goes to Carla before the lawyers see it. He says no to Cole. Meridian exits. Layoffs. Runway is zero. Priya stays: "That's the first thing you've changed."</p>
+<p><strong>28. Do Things That Don't Scale, again.</strong> Evenings at the pharmacy making calls from the rehung roll. Wednesdays on the stool. He drafts a plan to win Maya back, deletes it, and this time it stays deleted. <em>Verdict:</em> at work, a phase. At home, the whole job.</p>
+<p><strong>29. Review, by M. Raman.</strong> He printed the entire file and left it with Jules, with no note. This chapter is hers: what the eleven minutes were, what Cole did, where Nate flatters himself and where he's unfair to himself. "I'm not coming back because of this. I'm telling you so you don't write it down as a tactic."</p>
+<p><strong>30. One-Year Cliff, again.</strong> The anniversary. He doesn't say the word. The napkins. "4. ELEVEN WEEKS. APRIL." "I've got it."</p>
+<p><strong>31. Distribution: You.</strong> The header fills in. Reviewers: M. Raman. Suresh keeps a notebook by the register for near misses, and the rule is that nobody signs it. This document was that notebook all along. Nate signs. The last header reads T–29 weeks.</p>
+<h3>How I'd write it</h3>
+<p>Part by part, into <code>rebuild/</code>, with you reading each part before I start the next. The current manuscript and the reader stay as they are until you say to switch.</p>
+<p>Three chapters will decide whether this works: 22 (the log), 26 (Glenn) and 29 (Maya's). I would draft those early, straight after Part One, so you can see the hardest pages before committing to the rest.</p>
+<p>The sensitivity reads you deferred matter more now. A death, a separation and a chapter in Maya's voice raise the cost of getting the Raman family wrong.</p>
+<h3>What I need from you</h3>
+<ol><li>Read the new Chapter 1 beside the current one. Tell me whether the voice and form are right.</li><li>Answer yes or no on each of the six story changes.</li><li>Tell me to go, or tell me what to change first.</li></ol>
+  </section>
+  <section id="view-new-chapter" class="sheet prose" hidden>
+    <p class="meta">Rewritten sample · 3,306 words including the opening page</p>
+    <h2>POST-MORTEM</h2>
+<p><strong>Status:</strong> Draft<br><strong>Author:</strong> N. Calloway<br><strong>Reviewers:</strong> none yet<br><strong>Distribution:</strong> you</p>
+<p><strong>Summary.</strong> In thirty-eight months I started two things, a company and a marriage, and I ran them both from the same playbook. You are getting this document because of what happened to one of them. I'm not going to say which until the timeline gets there. If I told you now, you'd read everything before it as a warning, and none of it felt like a warning. It felt like things going well.</p>
+<p><strong>Method.</strong> Timeline first, root cause last. Wherever I still have what I wrote on the day, I've pasted it in and left it alone. Those are marked NOTE. I believed every one of them when I wrote it. A few I still do.</p>
+<p><strong>Blame.</strong> In my industry a post-mortem is supposed to be blameless. You write down what happened and what made it hard. You never write who. This one says who.</p>
+<p><strong>Start of timeline.</strong> The rule is to begin at the first signal anybody could have caught. That's a Thursday in late July, in a hotel ballroom in San Francisco, at 8:26 p.m.</p>
+<hr class="scene">
+<h2>1</h2>
+<h3>Talk to Users</h3>
+<p class="dash">T–935 days · Cash $31,870 · Burn $7,900/mo · Runway 4 months · Customers 0 · Co-founder: unsigned</p>
+<p>At 6:10 I'm in the hallway with a shirt in each hand, and Kyle is at the counter eating cereal out of a mixing bowl. It's his dinner.</p>
+<p>"Where are you going?"</p>
+<p>"The Founders &amp; Funders Mixer."</p>
+<p>"Oh no." He puts the spoon down. "Nate. Do you know what that is? It's speed dating. It's speed dating where only one side has a checkbook. The other side is two hundred guys in quarter-zips trying to be worth five minutes. You say <em>so what are you working on,</em> they say <em>oh, nice,</em> and it's the same <em>oh, nice</em> you get on a first date when you say you're in consulting."</p>
+<p>"Some of the investors are nice."</p>
+<p>"They're all nice. That's how you know." He picks the spoon back up. "They'll tell you they'll give you a call. That's what they say instead of <em>no.</em>"</p>
+<p>I hold up the shirts. He points the spoon at the blue one. The blue one is what I pitch in. Kyle says it speaks for itself, and what it says is <em>I have read about this.</em></p>
+<p>"What do you actually need out of tonight?"</p>
+<p>I think about lying. It never works with Kyle. He can't hide anything himself, so he assumes I can't either, and he's usually right.</p>
+<p>"Something real to show Priya. By the fifteenth."</p>
+<p>Here is the math behind that sentence. My last company was an inventory tool for small retailers. I spent eight months and most of my savings building it without asking one retailer whether they wanted it, and it died in March, in plain view, the way things die when nobody ordered them. Priya wrote every line of it that worked. She stayed anyway, on half salary, which I pay out of the $31,870, in a region where half a salary is a hobby for the rich. Two weeks ago I saw a subject line over her shoulder. <em>Your offer from,</em> and then the name of a payments company with a cafeteria. Offers like that expire. Hers expires on August 15. She hasn't mentioned it. I've been not mentioning it back.</p>
+<p>Twenty-two days.</p>
+<p>"Has she signed anything?" says Kyle.</p>
+<p>"No."</p>
+<p>"Has she said <em>co-founder</em> out loud?"</p>
+<p>"She said she'd decide once she saw whether this was a thing."</p>
+<p>"That's not a co-founder. That's a roommate. I'm a roommate. I know the signs." He goes back to the bowl. "My advice. Play it cool. Don't look like you need it. The first guy who looks desperate loses the room. Keep your options open."</p>
+<p>"Does that work?"</p>
+<p>"For other people," says Kyle.</p>
+<p>I put on the blue shirt. In the pocket of my jeans is a folded sheet of paper that says <em>1. Two investors. 2. One follow-up meeting. 3. Don't explain.</em></p>
+<p>I own a plan. I always own a plan. Keep an eye on that. It turns out to be most of the root cause.</p>
+<p>"Two outcomes," says Kyle, as I get to the door. "You come home with a card or you come home with a story."</p>
+<p>"Which is better?"</p>
+<p>"The story. The card is a number that never calls back."</p>
+<hr class="scene">
+<p>The mixer is in a SoMa hotel ballroom designed by someone who has heard of ballrooms. The first thing anyone does is read everyone else's lanyard. They're color-coded: green for <em>raising,</em> blue for <em>investing,</em> orange for <em>seeking a co-founder.</em> Orange is the color of a man at a bus stop for a bus that's been cancelled. I am an orange wearing a green.</p>
+<p>I'm also carrying an empty cup. I don't drink at these things. It isn't virtue. If there's a cup in one hand, nobody expects me to know what to do with the other.</p>
+<p>By ten past eight I've had the same conversation three times. <em>So what are you working on?</em> isn't a question here. It's a handshake with a subtitle. I get a man raising a seed round for a compliance startup that helps other compliance startups. A woman who is "pre-idea, post-pitch." A guy doing Stripe for pets, who asks whether I know anyone at Stripe.</p>
+<p>"What are <em>you</em> working on?" he says.</p>
+<p>"Healthcare. Something."</p>
+<p>"Love it," he says, and leaves to find a person with an answer.</p>
+<p>That is the entire company. A Notion page titled <em>Healthcare, something?</em> and twenty-two days.</p>
+<p>Somebody claps me on the shoulder hard enough to rattle the cup.</p>
+<p>"Nate Calloway. Inventory guy!"</p>
+<p>Cole Whitaker raised eighteen million dollars at twenty-six. He's thirty-one now, and tall, and so warm that you check your wallet afterward, find it's still there, and feel guilty for checking. We were in the same accelerator batch the way two fish are in the same lake. His company, Northbeam, sends refill reminders by text message. Pharmacy chains buy them by the million.</p>
+<p>"I heard about the shutdown," he says. "Respect. Most people never ship anything. What's next?"</p>
+<p>"Healthcare. Something."</p>
+<p>"Love that. Keep it loose. Optionality, man." He says it the way other people say <em>God bless.</em> "Don't lock into anything till you have to. I've had three acquisition offers since March and I haven't signed one. On purpose. Stay liquid."</p>
+<p>"How's that going?"</p>
+<p>"Amazing." He checks over my shoulder for someone better, and finds them. "I'm on at quarter past. Catch you after."</p>
+<p>It's Kyle's advice in a better jacket.</p>
+<p>My phone buzzes. Priya.</p>
+<p class="msg in"><strong>Status?</strong></p>
+<p class="msg out"><em>Holding an empty cup. Surrounded by seed.</em></p>
+<p class="msg in"><strong>Talk to one real person. Not a fund. A person with a problem.</strong></p>
+<p class="msg out"><em>That's not what a mixer is for.</em></p>
+<p class="msg in"><strong>I know. That's why I said it.</strong></p>
+<p>On the stage, under a banner that says <strong>BUILD SOMETHING THAT MATTERS</strong> in a font that doesn't, Cole takes the microphone. His talk is called "Conviction Is a Muscle." Two hundred people turn to face him. I catch myself nodding at the first slide.</p>
+<p>One person in the room has not turned.</p>
+<hr class="scene">
+<p>She has her coat on. The ballroom is heated to about the temperature of a small argument, and she is in a long navy coat, buttoned, with her hair in a low knot and a lanyard with no sticker on it at all. She is standing eighteen inches from the exit. The stage is behind her left shoulder. She's watching the crowd watch it, like someone watching weather from the correct side of the glass.</p>
+<p>I walk toward the sliders, which are near her. I tell myself it's the sliders. I pick one up. It has been a slider since at least Tuesday. I put it back.</p>
+<p>"You look like you're waiting for a bus."</p>
+<p>She doesn't turn her head. "I'm waiting for eight forty-five."</p>
+<p>"What happens at eight forty-five?"</p>
+<p>"I'm allowed to leave. My mother said one hour."</p>
+<p>"It's 8:26."</p>
+<p>"It's been an <em>effective</em> hour."</p>
+<p>Her lanyard has a name printed on it in the ballroom's default font. <strong>MAYA RAMEN.</strong></p>
+<p>"Ramen?"</p>
+<p>"Raman." She says it evenly. She has said it before. "My mother bought the ticket. She filled in the form on her phone, in the store, while a customer asked her about his prescription. Nobody has ever spelled it right on a form."</p>
+<p>"You didn't pick a sticker."</p>
+<p>"There was no color for <em>here under protest.</em>"</p>
+<p>"That's the orange one. They just think it means something else."</p>
+<p>That gets the corner of her mouth. Not the whole mouth. She looks at me for the first time, and I have the sense of being run through a small, accurate filter.</p>
+<p>"I'm Nate."</p>
+<p>"Maya." She glances down. "Your cup's empty."</p>
+<p>"I don't drink at these."</p>
+<p>"You just carry the cup."</p>
+<p>"That's right."</p>
+<p>She waits. I put the cup down on the nearest table. She keeps looking at me.</p>
+<p>"Better with the cup," she says.</p>
+<p>"Better with the cup," I agree, and pick it up again.</p>
+<p>"It's strange to see awkwardness and confidence so close together like that," says Maya.</p>
+<p>Behind her, Cole says <em>conviction,</em> and people write it down.</p>
+<p>"Wait," she says. She still hasn't looked at the stage. "He's about to say <em>discomfort.</em> He stops right before it. Three seconds."</p>
+<p>On the stage Cole says, "And that means leaning into the—" and stops. He looks out over the room. One. Two. Three. "—discomfort of certainty."</p>
+<p>Applause.</p>
+<p>"You've seen this talk," I say.</p>
+<p>"A version of it."</p>
+<p>I file that under <em>goes to a lot of conferences.</em> It stays filed there for nine days.</p>
+<hr class="scene">
+<p>"So why are you here? You're not raising anything."</p>
+<p>"My mother thinks there's technology that could help the store. She told me I work too much and should get out more, and then in the same breath she told me to go and look at technology." She holds up an index card covered in blue ballpoint, in round careful handwriting. I read it upside down, which I do too often.</p>
+<p><em>1. Ask if they know what a refill is.</em><br><em>2. Ask what happens when it breaks.</em></p>
+<p>"Those are good questions."</p>
+<p>"They're hers. I've been holding this for an hour. Nobody's given me the chance. They tell me what they do and then they tell me why I'm lucky."</p>
+<p>"What's the store?"</p>
+<p>"A pharmacy. My family's. In Fremont."</p>
+<p>A family pharmacy. I've done zero customer interviews for <em>Healthcare, something?</em> and here is one standing by the sliders. Something in my chest that has been lying down since March gets up. I know exactly what it is. It's the thing that built the inventory tool.</p>
+<p>"What's the worst problem at the pharmacy?"</p>
+<p>She takes half a second to decide. Nobody else in this room would have spent it.</p>
+<p>"Inventory."</p>
+<p>"That's the answer you give vendors."</p>
+<p>Now she turns to face me. "Excuse me?"</p>
+<p>"I built an inventory tool for eight months. It died, because I never asked anyone, and when I finally did ask, they all said <em>inventory</em> too. I think it's what people say when they want you to stop asking." There goes item three. "Sorry. You don't have to tell me."</p>
+<p>A man in a quarter-zip drifts toward her, sees her face, and drifts off again.</p>
+<p>"The worst problem," Maya says, "is the ones we don't hear from."</p>
+<p>"Meaning what?"</p>
+<p>"There's a man named Mr. Peralta. He picked up his blood pressure pills on the fourth of every month for nine years. One month he didn't come in. Nobody called. Nobody knew why. Maybe he'd moved. Maybe the side effects scared him and he quit. Maybe he was in the ER." She takes a cocktail napkin off the tray beside her and squares it to the tray's edge. Then she squares it again. "We found out three months later, from his cousin, in the checkout line."</p>
+<p>"What happened to him?"</p>
+<p>"He fell. On the second. He was on his kitchen floor for two days before the landlord came about the rent." Her voice doesn't change. "He's alive. He's in a home in Hayward and he doesn't know the cousin's name. That's one of the good endings. Sometimes we find out from the obituary."</p>
+<p>My stomach does something unfamiliar, and I let it.</p>
+<p>"So the problem is follow-up."</p>
+<p>"The problem is that nobody's job is to notice." She's looking at the napkin, not at me. "It's my mother. She keeps a list on the back of a receipt roll. Every night after we close, she calls the ones who didn't come in. Her own phone, her own time. Sixty people in a bad week. She stops when it gets too late to call a stranger. There isn't a system for this. There's just my mother."</p>
+<p>And I see it. All of it at once, the way you see a word in a jumble: the problem, the user, the buyer, twenty thousand independent pharmacies, an old woman with a pencil doing by hand what software should do. It is the best thing anyone has said to me in four months. My pulse is going. I'm aware that the woman who said it is not having the same evening I am.</p>
+<p>"That's a slide," I say.</p>
+<p>It's out before I hear it.</p>
+<p>"I mean, that's the kind of problem that would make a good—"</p>
+<p>"That's not a slide, is it?"</p>
+<p>There's a question mark on it, but she isn't asking. She says it the way you'd go back and check a stove you already know you turned off.</p>
+<p>I look at the card in her hand. <em>What happens when it breaks.</em></p>
+<p>"No," I say. "I don't have a slide for that."</p>
+<p>That's a lie. Log it: 8:39 p.m. I have the slide. I have the headline, the font size and the gray of the attribution line. What I mean is that I'm not going to show it to her, and at 8:39 that feels close enough to the truth to say out loud.</p>
+<p>"Good," says Maya. For the first time she smiles properly, briefly, and puts the smile away like a receipt.</p>
+<hr class="scene">
+<p>"Eight forty-one," she says.</p>
+<p>"You could stay four more minutes."</p>
+<p>"I could."</p>
+<p>She doesn't leave. She doesn't move away from the door either.</p>
+<p>"What do you do, when you're not being sent to ballrooms?"</p>
+<p>"I'm a pharmacist. I don't dispense anymore. I work for a nonprofit that rewrites patient instructions so people can follow them. I interview people about what they didn't understand."</p>
+<p>"Give me one."</p>
+<p>She checks whether I mean it. "A man was sent home with a form that said <em>take with food.</em> He'd been taking it instead of food. Three days."</p>
+<p>"That's—"</p>
+<p>"It's a perfectly grammatical sentence. That's the problem. Nobody who wrote it ever had to follow it."</p>
+<p>I laugh. She looks pleased, and then annoyed at being pleased, and I already want to see that again.</p>
+<p>"And you?" she says. "Besides the cup."</p>
+<p>"I have a Notion page called <em>Healthcare, something?</em>"</p>
+<p>"With the question mark?"</p>
+<p>"I don't remove a question mark until I have a customer."</p>
+<p>She laughs, once, and seems surprised by it. Then she tells me this is the first networking event of her life and she has formed the view that they are "extraction, with cheese."</p>
+<p>At 8:44 a man with a blue sticker appears at my elbow. He has learned my name from my lanyard in the last four seconds.</p>
+<p>"Nate! There's someone from Bluebird Ventures you should really meet."</p>
+<p>Bluebird writes first checks. Two hundred and fifty thousand dollars is thirty-one months of runway. It is Priya turning down a cafeteria.</p>
+<p>"In a minute," I say.</p>
+<p>"She's leaving at nine."</p>
+<p>"In a minute."</p>
+<p>He goes. I am as surprised as he is. Maya is watching me with her head a little to one side.</p>
+<p>"Your sticker's green," she says. "You should go."</p>
+<p>"I know what my sticker is."</p>
+<p>On the stage Cole says thank you, and the room comes apart into applause. Maya looks at her phone. 8:45. She tears a strip from the bottom of the index card, along a fold, the way you tear paper when you were raised not to waste it. She writes on it and hands it to me.</p>
+<p>"I have to come home with a name. Yours, now. My mother will ask whether anyone followed up, and it isn't going to be me. She keeps a list."</p>
+<p>"Does everyone in your family keep a list?"</p>
+<p>"Only the ones who are right." She looks at me a second longer. "I'm guessing you keep lists."</p>
+<p>"Extremely well-organized ones."</p>
+<p>"I'm sure," says Maya. Her hand is already on the door. "It was nice meeting you, Nate. Good luck with the question mark."</p>
+<p>She's gone before the applause is. Cole is coming down the steps at the side of the stage, shaking hands without looking at them. He's looking over everyone's heads at the exit. I assume he's looking for someone better.</p>
+<hr class="scene">
+<p>I don't go and find the woman from Bluebird. That's zero for two on investors and zero for one on not explaining. I walk out through the same door instead, into the thin cold of Third Street, and at the crosswalk I notice I'm still holding the cup. I put it in the trash can on the corner. My hand doesn't know what to do afterward. I let it hang there.</p>
+<p class="msg in"><strong>Status?</strong></p>
+<p class="msg out"><em>I talked to a person.</em></p>
+<p class="msg in"><strong>Was she buying?</strong></p>
+<p class="msg out"><em>Definitely not.</em></p>
+<p class="msg in"><strong>Great. Follow up.</strong></p>
+<p>On the train I take the strip of card out of my pocket. <strong>Maya R.</strong> and a phone number, in small exact handwriting, the way you'd fill in a form you intended to be held to.</p>
+<p>Kyle is still at the counter at twenty to midnight. Different cereal, same bowl.</p>
+<p>"Card or story?"</p>
+<p>"A number."</p>
+<p>"<em>Wow.</em>" He chews. "Investor?"</p>
+<p>"Pharmacist."</p>
+<p>"So a customer."</p>
+<p>"I'm not sure yet."</p>
+<p>The spoon stops. "You're not sure. About a lead." He studies me, then shrugs. "Okay. Don't overthink it."</p>
+<p>I go to my room and overthink it for an hour and ten minutes, in Keynote.</p>
+<p>The slide is white. In the middle, in forty-point type:</p>
+<p class="msg in"><strong>"There isn't a system for this. There's just my mother."</strong></p>
+<p>Under it, in gray: <em>pharmacist's daughter, Fremont.</em></p>
+<p>It's the best slide I have ever made. I know that the way I know my own phone number. At 12:50 I send it to Priya with no message.</p>
+<p>She's awake. She's always awake.</p>
+<p class="msg in"><strong>Whose mother?</strong></p>
+<p>I don't answer that.</p>
+<p class="msg in"><strong>Nate. This is the first real thing you've sent me since March.</strong></p>
+<p>Then: <strong>Sleep.</strong></p>
+<p>I read those three texts and feel the twenty-two days loosen a notch, and for one clear second I understand what I've just bought and what I paid with. Then I do what I do with every lead. I open Notion, make a new page in the customer pipeline and type up my notes while they're fresh.</p>
+<p>At 1:12 the phone lights again. It isn't Priya.</p>
+<p><strong>Cole Whitaker:</strong> Good seeing you tonight man. Saw you talking to Maya Raman. Small world!! Drinks Saturday?</p>
+<p>I read it twice.</p>
+<p>Her lanyard said RAMEN. He spelled it right.</p>
+<hr class="scene">
+<aside class="note"><p><strong>NOTE</strong> · written that night, 1:30 a.m.<br><code>Customers › Pipeline › Leads › Raman Pharmacy (Fremont) › Maya R.</code><br><br><strong>Talk to users.</strong><br>The first answer is the vendor answer. She said "inventory." Everyone says inventory. Ask one more question, then shut up. Count to ten if I have to.<br>She stayed four minutes past her own deadline. It works.<br>Next: follow up inside 48 hrs. Do not pitch. Get to the mother.</p></aside>
+<p><strong>Verdict, thirty-eight months later:</strong> Holds. It's the best single piece of advice I have, at work or at home.</p>
+<p>Now read the second line of that note again. Look at where I filed her.</p>
+  </section>
+  <section id="view-current-chapter" class="sheet prose" hidden>
+    <p class="meta">Current manuscript · 4,185 words</p>
+    <h2>Chapter 1</h2>
+<h3>The Room Nobody Wanted To Be In</h3>
+<p>At 6:10 on a Thursday in late July I was standing in our hallway in my second-best shirt, holding my best shirt, and I knew the night was already going badly.</p>
+<p>Kyle was at the counter with a mixing bowl of cereal. It was dinner. He looked at the two shirts the way a man looks at two menus in a restaurant he has already decided not to eat at.</p>
+<p>"Where are you going?"</p>
+<p>"The Founders &amp; Funders Mixer."</p>
+<p>"Oh no." He put the spoon down with real feeling. "Nate. Do you know what that is?"</p>
+<p>"A networking event."</p>
+<p>"It's speed dating." He said it gently, the way a doctor says a diagnosis. "It's business speed dating, except only one side has a checkbook. The other side is two hundred guys in quarter-zips, trying to convince the checkbooks they're worth five minutes of attention. You stand there with a cup. You say <em>so what are you working on</em> and they say <em>oh, nice,</em> which is the same <em>oh, nice</em> you get on a first date when you say you're in consulting."</p>
+<p>"Some of the investors are nice."</p>
+<p>"They're all nice. That's how you know." He picked the spoon back up. "They'll tell you they'll give you a call. That's what they say instead of <em>no.</em>"</p>
+<p>I objected to the framing, and I spent the next forty minutes unable to unhear it.</p>
+<p>"What are you hoping to get out of it?" said Kyle.</p>
+<p>I thought about lying. It never works with Kyle. He can't hide anything himself, so he assumes I can't either, and he's usually right. "A co-founder who's actually a co-founder," I said.</p>
+<p>"You have Priya."</p>
+<p>"Priya's staying through whatever this is."</p>
+<p>"Has she signed anything?"</p>
+<p>"No."</p>
+<p>"Has she said <em>co-founder</em> out loud?"</p>
+<p>"She said she'd decide once she saw whether this was a thing."</p>
+<p>"Nate." Kyle looked truly troubled, which took a moment, as if he'd been handed something heavy and asked to guess the weight. "That's not a co-founder. That's a roommate. I'm a roommate. I know the signs."</p>
+<p>I took a folded paper from my pocket, which I'm only mentioning so you know I'm a man who owns a plan. "I have a plan," I said. It said: <em>1. Two investors. 2. One follow-up meeting. 3. Don't explain.</em></p>
+<p>Kyle read it over my shoulder. "Number three is going to go badly."</p>
+<p>"It's a goal."</p>
+<p>"It's a wish with a number." He went back to the cereal. "My advice: play it cool. Don't commit to anyone. Don't look like you need it. The first person who looks desperate loses the room. Keep your options open. That's what works."</p>
+<p>"Does it work?"</p>
+<p>"For other people," said Kyle, without irony, and I think he'd have said the same about the weather.</p>
+<p>I put on the blue shirt, the one I wear to pitch, which Kyle says speaks for itself, and what it says is <em>I have read about this.</em></p>
+<p>"There are two outcomes," said Kyle, as I reached the door. "You come home with a business card, or you come home with a story."</p>
+<p>"Which is better?"</p>
+<p>"The story," said Kyle. "The card is just a number that never calls back."</p>
+<hr class="scene">
+<p>The 6:42 Caltrain was crowded in the way where you learn who is carrying what. I got a seat by the window, and a view of myself in it.</p>
+<p>"Hi, I'm Nate," I said to the glass, without sound. "I'm building something in healthcare."</p>
+<p>The man beside me looked up from his laptop, and then, very slowly, back down.</p>
+<p>The pep talk went through drafts, like everything I do. The first was Kyle's: <em>play it cool, don't look like you need it.</em> In the window the face looked like a man waiting for a ride he hadn't ordered. The second came from the podcasts: <em>conviction.</em> I narrowed my eyes and said, "I'm building the future of care," and the reflection looked like someone who'd lost a bet. The third, which I'm embarrassed to say was the best, was only this: <em>Ask good questions. Listen to the answers. Be somebody you'd want to sit next to.</em></p>
+<p>And there was the reason under the reasons. Priya was four months into half salary, in a region where that is a hobby for the very rich. It was a night for the woman who'd answered my spreadsheet with <em>Sleep</em> and kept showing up anyway, and who was owed one evening in which I behaved like someone worth showing up for. By the hotel doors the pep talk had narrowed to a single line, which I repeated under my breath as I went in: <em>Don't explain. Don't explain. Don't explain.</em></p>
+<hr class="scene">
+<p>The first thing anyone did at the Founders &amp; Funders Mixer was check everyone else's lanyard.</p>
+<p>They came with color-coded stickers, a dating profile for your neck: green for <em>raising</em>, blue for <em>investing</em>, and orange for <em>seeking a co-founder</em>, which was the color of someone waiting at a bus stop for a bus that has been cancelled. I had a green sticker, which was a lie of ambition. I was an orange (my co-founder had not, strictly, committed) with a green sticker on. I also had a Notion page titled "Healthcare, something?", no customers, no product, and an empty cup I was holding the way a hostage holds a newspaper.</p>
+<p>(I don't drink at these things. It isn't virtue. If I have a cup in one hand, nobody expects me to know what to do with the other.)</p>
+<p>I've told this story eleven times now. Maya tells it differently. In her version, I walked up to her at 8:26 with a plan. She's technically right that I had one; it was folded in my pocket, and it wasn't about her. In mine, she was standing by the exit like a person who had budgeted precisely one hour for this and was already forty-one minutes into it, and I did not have a plan for her. I had a cup.</p>
+<p>It was the last week of July, in the ballroom of a hotel in SoMa that had been designed by someone who had heard of ballrooms. There was a table of sliders that had been sliders since at least Tuesday, and a bar serving a pinot noir in the sense that it was red and had once been introduced to a pinot noir at a party. On a little stage, under a banner that said <strong>BUILD SOMETHING THAT MATTERS</strong> in a font that did not, a technician was adjusting a microphone for a man who was about to tell us about conviction.</p>
+<p>Around me, two hundred people were asking each other the only question anyone in the Valley asks, which is <em>So what are you working on?</em> It isn't really a question. It's a handshake with a subtitle. You say the name of your company. They say the name of theirs. Both of you say "Oh, nice," in the tone of someone being handed a stranger's baby. (Kyle had been right about the speed dating. He'd only been wrong about the speed. Speed dating, at least, has a bell.)</p>
+<p>By ten past eight I'd had three of these conversations. A man raising a seed round (the first real money a startup raises, so called because it's supposed to grow) for a compliance startup that helped other compliance startups. A woman who described herself as "pre-idea, post-pitch." And a guy who told me his company was "Stripe for pets" and then asked whether I knew anyone at Stripe.</p>
+<p>"What are <em>you</em> working on?" he asked.</p>
+<p>"Healthcare," I said. "Something."</p>
+<p>"Love it," he said, and left to find someone with an actual answer.</p>
+<p>Four months earlier I'd had a real answer to that question. I'd spent eight months and most of my savings on an inventory tool for small retailers, and it had died in March, quietly and in plain view, the way things die when you've built them without asking anyone if they wanted them. On slide three of the deck, under the word PROBLEM, was a statistic I'd found on the internet and never checked against an actual retailer. Priya, the only reason the code had ever worked, was still showing up, through "whatever this is," at half salary. I'd sent her a spreadsheet of options for what "this" might be. She'd replied with one word: <em>Sleep.</em></p>
+<p>The man from Stripe for Pets was still in sight, scanning for someone better, when someone clapped me on the shoulder hard enough to rattle my empty cup.</p>
+<p>"Nate Calloway," said Cole Whitaker. "Inventory guy!"</p>
+<p>Cole had raised eighteen million dollars at twenty-six and wore it lightly, the way some people wear a scarf indoors. He was thirty-one now, and tall, which Kyle would want noted. We'd been in the same accelerator batch (a startup boot camp; the batch is the class), in the way two fish are in the same lake.</p>
+<p>"I heard about the shutdown," he said, with sincere warmth. "Respect. Most people never ship anything. You <em>tried.</em> What's next?"</p>
+<p>"Healthcare. Something."</p>
+<p>"Love that. Keep it loose. Optionality, man." He said it the way other people say <em>God bless.</em> "Don't lock into anything until you have to. I've had three offers since March and I haven't signed one, on purpose. Stay liquid."</p>
+<p>"How's that going?"</p>
+<p>"Amazing," said Cole, and checked over my shoulder for someone better, and found them. "I'm on at quarter past. Catch you after!"</p>
+<p>(It was, I noticed, Kyle's advice in a better jacket.)</p>
+<p>He did not catch me after. I stood there with my green sticker and my empty cup and the distinct feeling of having been complimented in a language I didn't speak.</p>
+<p>My phone buzzed. Priya.</p>
+<p class="msg in"><strong>Status?</strong></p>
+<p class="msg out"><em>Holding an empty cup. Surrounded by seed.</em></p>
+<p class="msg in"><strong>Talk to one real person. Not a fund. A person with a problem.</strong></p>
+<p class="msg out"><em>That's not what a mixer is for.</em></p>
+<p class="msg in"><strong>I know. That's why I said it.</strong></p>
+<p>I put the phone back in my pocket. On the stage, Cole had started to speak. His talk was called "Conviction Is a Muscle." I found myself nodding at the slide, and then I caught myself, and then I did it again.</p>
+<p>That was when I noticed the woman by the door.</p>
+<hr class="scene">
+<p>She had her coat on. I want to note that, because in that ballroom, which was heated to roughly the temperature of a small argument, a coat was a statement. It was navy, and long, and buttoned. She had dark hair in a low knot and a lanyard with no sticker on it at all. She wasn't looking at her phone. She wasn't looking at Cole. She was looking at the room the way you'd watch weather from a window: with interest, and from the correct side of the glass. She was standing about eighteen inches from the exit.</p>
+<p>I did not walk up to her with a plan for her; Maya will check. I walked toward the sliders, which were near her, and I told myself it was the sliders. I picked one up. I put it down. It was, on inspection, load-bearing.</p>
+<p>"You look like you're waiting for a bus," I said.</p>
+<p>She didn't turn her head. "I'm waiting for eight forty-five."</p>
+<p>"What happens at eight forty-five?"</p>
+<p>"I'm allowed to leave." She checked her phone, then put it away. "My mother said one hour. It's been an hour."</p>
+<p>"It's 8:26."</p>
+<p>"It's been an <em>effective</em> hour."</p>
+<p>I looked at her lanyard. It had a name printed on it, in the ballroom's default font, and no color at all. It said <strong>MAYA RAMEN.</strong></p>
+<p>"Ramen?" I said.</p>
+<p>"It's Raman." She said it evenly, like a woman who had explained it to the same person on multiple occasions. "My mother bought the ticket. She filled out the form. In her defense, she was doing it on her phone, in the store, while a customer asked about his prescription. It's been that kind of night."</p>
+<p>"You didn't pick a sticker."</p>
+<p>"There was no color for 'here under protest.'"</p>
+<p>"I think that's the orange one," I said. "Except they think it means something else."</p>
+<p>That got the corner of her mouth. Not the whole mouth. She looked at me for the first time, briefly, and I had the strange sense of being run through a very small, very accurate filter.</p>
+<p>"I'm Nate," I said.</p>
+<p>"Maya." She glanced at my cup. "Your cup's empty."</p>
+<p>"I don't drink at these."</p>
+<p>"You just carry the cup." She said it to bait me into explaining myself.</p>
+<p>"That's right."</p>
+<p>She looked at me, expectantly. I obliged: I put the cup down on an empty table nearby, and she let her stare continue.</p>
+<p>"Better with the cup," she said.</p>
+<p>"Better with the cup," I agreed, and took it back off the table.</p>
+<p>"It's strange to see awkwardness and confidence so close together like that," said Maya.</p>
+<hr class="scene">
+<p>I would like to tell you that I then said something charming. What I did was ask a question, which, it turns out, is the same thing.</p>
+<p>"Why are you here?" I said. "Honestly. You don't look like you're here to raise anything."</p>
+<p>"My mother thinks there's technology that could help the store." She said it flatly, the way you'd read out a grocery list you disagreed with. "She told me I work too much and I should get out. And then, in the same breath, she told me to look at the technology. So. Here I am. Looking at technology."</p>
+<p>She held up a small white index card, which I hadn't noticed until then. It was covered on one side in blue ballpoint, in the round, careful handwriting of someone who takes forms seriously. I read it upside down, which I do too often, and which I should apologize for.</p>
+<p><em>1. Ask if they know what a refill is.</em><br><em>2. Ask what happens when it breaks.</em></p>
+<p>"Those are good questions," I said.</p>
+<p>"They're my mother's." Maya turned the card over. The back was blank. "I've been holding it for an hour. Nobody's given me the chance. They tell me what they do and then they tell me why I'm lucky."</p>
+<p>"What's the store?"</p>
+<p>"A pharmacy. Family. Fremont. It's on the sign, incidentally: <em>Raman.</em> Nobody's ever spelled it right on a form."</p>
+<p>"And what's the worst problem at the pharmacy?"</p>
+<p>I watched her decide. I didn't know it then. I only knew that she took half a second, and that no one else at the event would have.</p>
+<p>"Inventory," she said.</p>
+<p>"That's the answer you give vendors."</p>
+<p>She looked at me properly. "Excuse me?"</p>
+<p>"I built an inventory tool for eight months," I said. It was out before I could stop it. This is a thing that happens when I'm nervous: I explain. (So much for item three.) "It died. It died because I built it without asking anyone, and when I finally did, everyone said 'inventory,' too. I think it's what people say when they want you to stop asking." I lifted the cup an inch, as if that helped. "Sorry. It's an occupational hazard. You don't have to tell me."</p>
+<p>There was a pause long enough that a man in a quarter-zip drifted over, saw her face, and drifted away again like a leaf that had thought better of it.</p>
+<p>"The worst problem," Maya said, "is the ones we don't hear from."</p>
+<p>"Meaning?"</p>
+<p>"There's a man named Mr. Peralta. He's picked up his blood pressure medication on the fourth of every month for nine years." She reached for a cocktail napkin on the tray beside her and straightened it. Then she straightened it again. "One month, he didn't come in. Nobody called. Nobody knew why. Maybe he moved. Maybe he got scared of the side effects and stopped. Maybe he was in the ER. We found out three months later, from his cousin, in the checkout line."</p>
+<p>"What happened to him?"</p>
+<p>"He moved to Fresno to be near his daughter. He's fine." She said it quickly, and then didn't move. "That's the good ending. It's not always the ending. Sometimes we find out from the obituary."</p>
+<p>I didn't say anything. I'd like to be able to tell you it was skill. It was that my stomach had done something unfamiliar, and I was letting it.</p>
+<p>"So the problem is the follow-up," I said finally.</p>
+<p>"The problem is that nobody's job is to notice." She looked at the napkin, not at me. "It's my mother. She keeps a list on the back of a receipt roll. Every evening after we close, she calls the people who didn't come in. Her own phone. Her own time. Sixty on a bad week. She stops when it gets late." She squared the napkin to the edge of the tray. "There isn't a system for this. There's just my mother."</p>
+<p>"That's a slide," I said, and heard how it sounded.</p>
+<p>(In the Valley, a slide is the one screen of a pitch deck where you tell investors what's broken. It is also, it turns out, a way of looking at people.)</p>
+<p>"I mean, that's a problem that'd make a good—"</p>
+<p>"That's not a slide, is it?"</p>
+<p>I looked at the card in her hand. <em>What happens when it breaks.</em></p>
+<p>"No," I said. "I don't have a slide for that."</p>
+<p>"Good," said Maya. And for the first time she smiled properly, briefly, and put the smile away like a receipt.</p>
+<hr class="scene">
+<p>On the stage, Cole had reached the part of his talk about "leaning into the discomfort of certainty." People were applauding. A camera was going off. I felt approximately nothing, which was the strangest sensation I'd had all evening.</p>
+<p>"Eight forty-one," Maya said.</p>
+<p>"You could stay four more minutes."</p>
+<p>"I could."</p>
+<p>She didn't leave. She also didn't move away from the door. I noticed that. It would take me a long time to understand it.</p>
+<p>"What do you do?" I said. "When you're not being sent to ballrooms."</p>
+<p>"I work at a nonprofit. We help community clinics write patient instructions people can actually follow." She said it plainly. "I interview people about what they didn't understand."</p>
+<p>"Give me one."</p>
+<p>She looked at me as if checking whether I meant it. "There was a man who'd been given a discharge form that said <em>take with food.</em> He'd been taking it <em>instead of</em> food. For three days."</p>
+<p>"That's—"</p>
+<p>"It's a perfectly grammatical sentence," said Maya. "That's the problem. Nobody who wrote it ever had to follow it."</p>
+<p>I laughed. She looked pleased, briefly, and then annoyed at being pleased, which was already an expression I was hoping to see again.</p>
+<p>"What about you?" she said. "Besides the cup."</p>
+<p>"I have a Notion page called 'Healthcare, something?'"</p>
+<p>"With the question mark?"</p>
+<p>"I don't remove a question mark until I have a customer."</p>
+<p>She laughed. It was a short laugh, and she seemed surprised by it, as if it were a thing she'd left in another coat. Then she told me she had never gone to a networking event in her life, and had formed the opinion that they were "extraction, with cheese."</p>
+<p>At 8:44, a man with a blue sticker appeared at my elbow.</p>
+<p>"Nate!" he said, in the voice of a person who had learned my name from my lanyard about four seconds earlier. "There's someone from Bluebird Ventures I really think you should meet."</p>
+<p>"In a minute," I said.</p>
+<p>"She's leaving at nine."</p>
+<p>"In a minute," I said again, and I heard myself say it, and I was as surprised as he was.</p>
+<p>He drifted off. Maya was watching me with her head slightly to one side.</p>
+<p>"Your color's green," she said. "You should go."</p>
+<p>"I know what my color is."</p>
+<p>"I know you know." She looked at her phone. "It's 8:45."</p>
+<p>"So it is."</p>
+<p>She took the index card and tore a strip from the bottom edge, neatly, along a fold, the way someone tears things who's been taught not to waste paper. She took a pen from her coat pocket and wrote something. Then she handed me the strip.</p>
+<p>"I have to come home with a name," Maya said. "Yours, now. My mother will ask whether anyone followed up, and it isn't going to be me. She keeps a list."</p>
+<p>"Everyone in your family keeps a list?"</p>
+<p>"Only the ones who are right." She looked at me for a second longer, and I think she noticed my face doing something it hadn't planned. "I'm guessing you keep lists."</p>
+<p>"I keep lists," I admitted. "In my defense, they're extremely well organized."</p>
+<p>"I'm sure," said Maya, with an expression I couldn't read yet: not sarcasm, exactly, but its kinder cousin, the look of someone who's decided to see what happens. She turned. She put her hand on the door.</p>
+<p>"It was nice meeting you, Nate," she said. "Good luck with the question mark. Get some evidence."</p>
+<p>She was gone. The door swung behind her.</p>
+<p>"Crap," I said, quietly, to the door, which had not asked.</p>
+<p>The room took a little breath, the way rooms do when the one quiet person leaves, and Cole told everyone that <em>comfort is the enemy of growth</em>, and they clapped.</p>
+<hr class="scene">
+<p>I didn't go find the woman from Bluebird Ventures. So much for item one; I'd finish the night zero for two on investors. I'd like to say it was principle. It was closer to the feeling of having eaten something real, and being unwilling, for a while, to ruin it with the sliders.</p>
+<p>I walked out through the same door. It was cold, in that thin, bright way San Francisco has when the fog hasn't quite arrived. I was at the crosswalk on Third Street, waiting for the light, when I noticed I was still holding the cup. I'd held it for the better part of an hour. I put it in the trash can on the corner, and my hand didn't know what to do, and I let it hang there.</p>
+<p>My phone buzzed.</p>
+<p class="msg in"><strong>Status?</strong></p>
+<p class="msg out"><em>I talked to a person.</em></p>
+<p class="msg in"><strong>Was she buying?</strong></p>
+<p class="msg out"><em>Definitely not.</em></p>
+<p><strong>Great</strong>, Priya wrote. <strong>Follow up.</strong></p>
+<p>I walked most of SoMa before the train, the long way, and missed one on purpose. On the Caltrain home, somewhere around Millbrae, I took the strip of index card out of my pocket. It said <strong>Maya R.</strong> and a phone number, in small, exact handwriting, the way you'd fill in a form you intended to be held to. It was the closest I'd come to item two.</p>
+<p>Our apartment was dark except for the light over the stove. Kyle was at the counter at twenty to midnight, eating cereal out of a mixing bowl.</p>
+<p>"How was the speed dating?" he said.</p>
+<p>"I talked to a person."</p>
+<p>"Investor?"</p>
+<p>"Pharmacist. Sort of. Her family's is."</p>
+<p>Kyle put down his spoon with the gravity of a man about to be helpful. "So she's a customer."</p>
+<p>"I'm not sure yet."</p>
+<p>The spoon stopped halfway to his mouth. "You're not sure. About a lead." He looked at me the way he would if I'd said I was thinking of switching to decaf. Then he shrugged and kept eating. "Okay. Did you get the number, or did you get a 'let's circle back'?"</p>
+<p>"The number."</p>
+<p>I didn't mention that I'd also come home with a story. Kyle hadn't listed both.</p>
+<p>"Wow." He took a bite. "Don't overthink it."</p>
+<p>It was the single least useful sentence Kyle gave me that year, and he gave me a lot of them. I nodded like it was advice.</p>
+<p>I went to my room and opened the Notion page. I looked at the title for a while, and deleted the question mark. Then I put it back, because I'm not a person who removes a question mark before he has a customer.</p>
+<p>Under it, I typed: <em>Nobody's job is to notice.</em></p>
+<p>I wasn't going to sleep, and for the first time in four months I didn't want to. I told myself it was the company.</p>
+<hr class="scene">
+<h4>Founder's Note</h4>
+<p class="msg out"><em>Ask what's actually wrong.</em></p>
+<p>Note to self.</p>
+<p>At work, the first answer is never the real one. It's the answer people give every vendor. Eight months of pharmacists told me <em>inventory,</em> and I built them an inventory tool, and nobody used it. Maya said <em>inventory</em> too, at the mixer, and I said, "That's the answer you give vendors," and she stayed four more minutes. That's the entire skill. Notice the answer you'd get from anyone. Ask a second question. Then shut up.</p>
+<p>Do the same thing at home. When Maya says <em>fine,</em> or <em>busy,</em> or <em>nothing urgent,</em> that's her vendor answer. She isn't lying. She was raised not to be a bother. So don't ask <em>how was your day.</em> Ask what the part was that she'd skip. Then count to ten, out loud if I have to, in my head if I'm in company.</p>
+<p>Don't use it as a technique. I did that with customers and they could tell. If I'm asking so I can fix it, or so I can get a yes, I'm back to selling.</p>
+  </section>
+</main>
+
+<script>
+(function () {
+  var names = ['plan', 'new-chapter', 'current-chapter'];
+  function show() {
+    var h = (location.hash || '').slice(1);
+    if (names.indexOf(h) < 0) h = 'plan';
+    names.forEach(function (n) {
+      document.getElementById('view-' + n).hidden = n !== h;
+    });
+    document.querySelectorAll('.tabs a').forEach(function (a) {
+      if (a.getAttribute('href') === '#' + h) a.setAttribute('aria-current', 'page');
+      else a.removeAttribute('aria-current');
+    });
+    window.scrollTo(0, 0);
+  }
+  window.addEventListener('hashchange', show);
+  show();
+})();
+</script>
